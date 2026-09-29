@@ -26,8 +26,10 @@ This project supports my application for an Analytics Manager role in internatio
 Propose changes in plan mode if these don't hold up against the real data.
 
 - Aggregate daily pageviews to Netflix's weekly periods.
+- **Missing weeks:** a title-market-week counts as missing if it ends before the pair's first recorded pageview, or if that first view falls inside the week (partial week). First recorded view is used instead of the Wikipedia creation date, because redirects make creation dates misleading. Missing weeks are dropped before ranking.
+- **Coverage:** days from the Monday of a title's first chart week to the first recorded pageview of its article, by market and category.
 - **Ranks:** computed within each market-week-category (Films and TV separately), among charting titles that have an article. Both Netflix rank and pageview rank are re-ranked 1..n within that set, with average ranks for ties.
-- **Agreement (headline):** pooled within-market Spearman per market-category. Within-week ranks are pooled across all 12 weeks. Report n (title-weeks) and the number of weeks.
+- **Agreement (headline):** pooled within-market Spearman per market-category. Within-week ranks are pooled across all 12 weeks. Report n (title-weeks) and the number of weeks, with a bootstrap 95% confidence interval. Mark any market-category with fewer than 30 title-weeks as low confidence.
 - **Agreement (weekly):** Spearman per market-week-category where n is 4 or more, reported as a distribution (median and spread) per market-category, not as the headline.
 - **Discrepancy flag:** a title-market-week where |Netflix rank − pageview rank| / (n − 1) ≥ 0.5, using the within-set ranks. Only for market-week-categories with n of 4 or more.
 - **Timing:** days between a title's pageview peak and its first Netflix chart week, by market.

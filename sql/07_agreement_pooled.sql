@@ -1,7 +1,8 @@
--- 05_agreement_pooled  (headline agreement metric)
+-- 07_agreement_pooled  (headline agreement metric)
 -- Pooled within-market Spearman per variant, market, and category.
+-- Bootstrap confidence intervals are added in Phase 3 (scripts/09_analysis.py).
 --
--- Titles are ranked within each week (03_ranked), then all title-weeks for
+-- Titles are ranked within each week (05_ranked), then all title-weeks for
 -- the market-category are pooled and correlated. The ranks are first
 -- rescaled to 0..1 within each week ((rank - 1) / (n - 1)). Without that
 -- step, pooling raw ranks inflates the correlation: a week with n = 8

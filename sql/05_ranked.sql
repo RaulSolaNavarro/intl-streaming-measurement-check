@@ -1,6 +1,10 @@
--- 03_ranked
+-- 05_ranked
 -- The comparison set: every charting title-market-week that has a Wikipedia
--- article in the market's language, with both sources ranked inside it.
+-- article in the market's language and usable pageviews that week (status
+-- `kept` in 04_title_week_status), with both sources ranked inside it.
+-- Weeks before an article's first recorded view, and the partial week in
+-- which that first view falls, are treated as missing and left out before
+-- ranking, so n counts only titles with a full week of attention data.
 --
 -- Ranks are computed within each variant, market, week, and category (Films
 -- and TV separately, as Netflix publishes them). Both ranks run 1..n inside
@@ -31,6 +35,9 @@ WITH base AS (
     USING (title_id, market)
   JOIN `intl-streaming-measurement.streaming_measurement.pageviews_weekly` AS p
     USING (title_id, market, week_end)
+  JOIN `intl-streaming-measurement.streaming_measurement.title_week_status` AS s
+    USING (title_id, market, week_end)
+  WHERE s.status = 'kept'
 ),
 variants AS (
   SELECT 'all' AS variant, * FROM base

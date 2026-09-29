@@ -9,9 +9,10 @@ Output:  data/logs/phase2_summary.md (also printed)
 Checks
 1. Every loaded BigQuery table has the same row count as its local CSV.
 2. Every week in pageviews_weekly has 7 days.
-3. The weekly and pooled Spearman values are recomputed in pandas straight
-   from the Phase 1 CSVs, with no SQL involved, and must match BigQuery to
-   within 1e-9.
+3. The missing-week statuses (weeks before a pair's first recorded view,
+   and partial weeks) and the weekly and pooled Spearman values are
+   recomputed in pandas straight from the Phase 1 CSVs, with no SQL
+   involved, and must match BigQuery (Spearman to within 1e-9).
 4. One title's weekly pageviews equal the sum of its daily rows.
 The script exits with an error if any check fails.
 """
@@ -52,13 +53,25 @@ def pandas_ranked() -> pd.DataFrame:
 
     df = tmw.merge(amap[["title_id", "market"]], on=["title_id", "market"]) \
             .merge(weekly, on=["title_id", "market", "week_end"])
+
+    # Same missing-week rule as 04_title_week_status: keep a week only if
+    # the pair's first recorded view is on or before the week's Monday.
+    first_view = pv[pv["views"] > 0].groupby(["title_id", "market"])["date"].min().rename("first_view")
+    df = df.merge(first_view.reset_index(), on=["title_id", "market"], how="left")
+    week_start = df["week_end"] - pd.Timedelta(days=6)
+    df["status"] = np.select(
+        [df["first_view"].isna(), df["week_end"] < df["first_view"], week_start < df["first_view"]],
+        ["no_views", "before_first_view", "partial_week"], default="kept")
+    status_counts = df["status"].value_counts()
+    df = df[df["status"] == "kept"].copy()
+
     g = df.groupby(["market", "week_end", "category"])
     df["n"] = g["title_id"].transform("size")
     df["nr"] = g["weekly_rank"].rank(method="average")
     df["pr"] = g["views"].rank(method="average", ascending=False)
     df["nr_norm"] = (df["nr"] - 1) / (df["n"] - 1)
     df["pr_norm"] = (df["pr"] - 1) / (df["n"] - 1)
-    return df
+    return df, status_counts
 
 
 def main() -> None:
@@ -78,8 +91,12 @@ def main() -> None:
     pw = pd.read_csv(BQ / "pageviews_weekly.csv")
     checks["Every pageview week has 7 days"] = bool((pw["days"] == 7).all())
 
-    # 3. Independent Spearman recompute.
-    local = pandas_ranked()
+    # 3. Independent recompute: missing-week statuses, then Spearman.
+    local, local_status = pandas_ranked()
+    tws = pd.read_csv(BQ / "title_week_status.csv")
+    bq_status = tws["status"].value_counts()
+    checks["Missing-week status counts match pandas"] = \
+        bq_status.sort_index().equals(local_status.sort_index())
     wk_local = (local[local["n"] >= 4].groupby(["market", "category", "week_end"])
                 .apply(lambda d: d["nr"].corr(d["pr"]), include_groups=False).rename("rho_pd").reset_index())
     wk_bq = pd.read_csv(BQ / "agreement_weekly.csv", parse_dates=["week_end"])
@@ -122,8 +139,16 @@ def main() -> None:
     disc_examples = (disc_all[disc_all["is_discrepancy"]].sort_values("norm_gap", ascending=False)
                      [["market", "category", "week_end", "show_title", "n", "netflix_rank_in_set",
                        "pageview_rank_in_set", "views", "direction"]].head(8))
+    status_table = (tws.groupby(["market", "status"]).size().unstack(fill_value=0)
+                       .reindex(config.MARKETS))
+    status_table.loc["total"] = status_table.sum()
+    coverage = pd.read_csv(BQ / "coverage_by_market.csv")
+    coverage["_m"] = coverage["market"].map(order)
+    coverage = coverage.sort_values(["category", "_m"]).drop(columns="_m")
+
     timing = pd.read_csv(BQ / "timing.csv")
-    usable = timing[~timing["left_censored"] & ~timing["no_views"] & ~timing["peak_at_range_edge"]]
+    usable = timing[~timing["left_censored"] & ~timing["no_views"]
+                    & ~timing["peak_at_range_edge"] & ~timing["article_after_chart"]]
     timing_summary = (usable.groupby(["market", "category"])["days_peak_vs_chart"]
                       .agg(pairs="size", median="median", q1=lambda s: s.quantile(.25),
                            q3=lambda s: s.quantile(.75))
@@ -131,7 +156,9 @@ def main() -> None:
     timing_flags = pd.Series({
         "pairs": len(timing), "left_censored": int(timing["left_censored"].sum()),
         "peak_at_range_edge": int(timing["peak_at_range_edge"].sum()),
-        "no_views": int(timing["no_views"].sum()), "usable": len(usable)}).rename("count").to_frame()
+        "no_views": int(timing["no_views"].sum()),
+        "article_after_chart": int(timing["article_after_chart"].sum()),
+        "usable (none of the above)": len(usable)}).rename("count").to_frame()
 
     lines = ["# Phase 2 summary", "", "## Checks", ""]
     lines += [f"- [{'x' if v else ' '}] {k}" for k, v in checks.items()] + [""]
@@ -139,6 +166,14 @@ def main() -> None:
               pd.DataFrame(counts, columns=["table", "bigquery_rows", "local_rows"]).to_markdown(index=False), ""]
     lines += ["## Result tables", "",
               pd.DataFrame(result_counts, columns=["table", "rows"]).to_markdown(index=False), ""]
+    lines += ["## Missing weeks (charting title-weeks with an article)", "",
+              "Only `kept` weeks are ranked. `before_first_view`: week ends before the pair's first "
+              "recorded pageview. `partial_week`: the first view falls inside the week.", "",
+              status_table.to_markdown(), ""]
+    lines += ["## Coverage: days from first chart week (Monday) to first pageview", "",
+              "Quartiles exclude articles already read before the range began "
+              "(covered_before_range).", "",
+              coverage.to_markdown(index=False), ""]
     lines += ["## Sample: agreement per market-category (headline = pooled_rho)", "",
               "Weekly quartiles cover weeks with n >= 4 only.", "",
               headline.to_markdown(index=False), ""]
