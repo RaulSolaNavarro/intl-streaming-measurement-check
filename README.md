@@ -4,7 +4,7 @@ I compared Netflix's weekly Top 10 in six markets (Germany, France, Japan, Brazi
 
 **Report:** [https://raulsolanavarro.github.io/intl-streaming-measurement-check/](https://raulsolanavarro.github.io/intl-streaming-measurement-check/)
 
-**Dashboard:** [Netflix vs. Wikipedia on Tableau Public](https://public.tableau.com/views/Netflixvs_WikipediaInternationalMeasurementCheck/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). The workbook is in `data/processed/tableau/` and reads the three CSVs there.
+**Dashboard:** [Netflix vs. Wikipedia on Tableau Public](https://public.tableau.com/views/Netflixvs_WikipediaInternationalMeasurementCheck/Dashboard). The workbook is in `data/processed/tableau/` and reads the three CSVs there.
 
 I built this with AI assistance (Claude and Claude Code); the report's [How I built this](https://raulsolanavarro.github.io/intl-streaming-measurement-check/#how-i-built-this) section explains how.
 
