@@ -1,0 +1,729 @@
+{
+ "items": [
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1240
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1612
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1074
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 960
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 897
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 803
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 645
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1014
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 896
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 654
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 536
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 385
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 445
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 439
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 454
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 420
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 384
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 291
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 288
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 289
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 294
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 353
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 441
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 295
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 227
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 189
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 189
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 185
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 258
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 296
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 235
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 192
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 185
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 148
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 177
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 188
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 186
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 135
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 123
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 94
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 115
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 132
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 148
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 153
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 122
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 137
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 159
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 144
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 136
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 150
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 121
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 121
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 136
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 106
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 80
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 95
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 121
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 112
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Enola_Holmes_3",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 100
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

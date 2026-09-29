@@ -1,0 +1,333 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 872
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1623
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1368
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1181
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1245
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1120
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1246
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 918
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1170
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 921
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 874
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 911
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 814
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1033
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 875
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 799
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 703
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 668
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 704
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 686
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 669
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 583
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 527
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 526
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 472
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 436
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 405
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 541
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 423
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 421
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 401
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 374
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 336
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 341
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Ich_und_die_Walter_Boys",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 432
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

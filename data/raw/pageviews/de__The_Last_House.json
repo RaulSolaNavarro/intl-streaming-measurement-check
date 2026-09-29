@@ -1,0 +1,756 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 64
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 52
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 64
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 142
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 359
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1408
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 405
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 314
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 246
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 272
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 263
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 313
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 345
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 398
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 265
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 288
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 253
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 328
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 323
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 418
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 322
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 250
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 222
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 226
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 274
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 336
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 295
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 290
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 262
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 341
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 549
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9097
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11622
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13116
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9312
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8179
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5512
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5252
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5408
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5924
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5936
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3972
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3185
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2631
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2260
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2689
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2810
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2876
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1591
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1602
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1349
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1119
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1487
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1614
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1570
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1038
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 839
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 603
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 607
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 699
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 924
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 901
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 585
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 619
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 504
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 546
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 742
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 778
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 835
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 464
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 347
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 344
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 320
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 464
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 525
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "The_Last_House",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 641
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

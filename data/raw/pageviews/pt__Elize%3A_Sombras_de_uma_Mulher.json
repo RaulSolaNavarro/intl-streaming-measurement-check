@@ -1,0 +1,684 @@
+{
+ "items": [
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 130
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 85
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 49
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 55
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 38
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 36
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1359
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2034
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1808
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2305
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3256
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2374
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1919
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1575
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1422
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1941
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2294
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1071
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1599
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1346
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 714
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 246
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 174
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 178
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 172
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 136
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 468
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 509
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 487
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 455
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 611
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 705
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 384
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 339
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 199
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 186
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 202
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 202
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 261
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 150
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 116
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 100
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 106
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 119
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 142
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 133
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 126
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 76
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 110
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 181
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 194
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 99
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 55
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 60
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 56
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 46
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "Elize:_Sombras_de_uma_Mulher",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 116
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

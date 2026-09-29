@@ -1,0 +1,153 @@
+{
+ "items": [
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 56
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1652
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1423
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 950
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 790
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 763
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 585
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 686
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 749
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 527
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 448
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 532
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 518
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 479
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 513
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "La_Femme_secrète_(film,_2026)",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 630
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

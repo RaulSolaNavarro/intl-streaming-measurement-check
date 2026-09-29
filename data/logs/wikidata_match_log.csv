@@ -1,0 +1,21 @@
+title_id,show_title,category,label_matches,type_ok,qid,result
+T01,Agent Kim Reactivated,TV,1,1,Q139553270,unique match
+T02,The Last House,Films,1,1,Q129165193,unique match
+T03,The Whisper Man,Films,2,1,Q133852597,unique match
+T04,Elize: Shadows of a Woman,Films,1,1,Q140524489,unique match
+T05,Enola Holmes 3,Films,1,1,Q133876041,unique match
+T06,Facing El Chapo,Films,0,0,,no Wikidata item with this exact English label
+T07,Grand Theft Auto VI: An Extended Look,Films,1,1,Q141163179,unique match
+T08,Anacondas: Trail of Blood,Films,1,1,Q716759,unique match
+T09,I Will Find You,TV,2,1,Q134412018,unique match
+T10,72 HOURS,Films,10,3,Q136339220,"date tie-break among 3 candidates (Q136339220, Q123421847, Q133852731)"
+T11,The Secret Woman,Films,3,2,Q140419850,"date tie-break among 2 candidates (Q27590455, Q140419850)"
+T12,Elite Force,TV,3,1,Q133868511,unique match
+T13,Desire,Films,44,7,,"7 candidates; closest (Q60873103) is 9 years from the window, likely an older namesake"
+T14,Our Sticky Love,TV,1,1,Q137835829,unique match
+T15,The Debt Collector,Films,4,3,,"3 candidates; undated item(s) Q140724430 could be the right one, tie not safely breakable"
+T16,Death on the Nile,Films,10,3,,"3 candidates; closest (Q56816969) is 4 years from the window, likely an older namesake"
+T17,My Life With the Walter Boys,TV,3,1,Q113570499,unique match
+T18,Salish & Jordan Matter,TV,0,0,,no Wikidata item with this exact English label
+T19,Blood Sacrifice,TV,5,1,Q136404689,unique match
+T20,Outer Banks,TV,3,1,Q89414035,unique match

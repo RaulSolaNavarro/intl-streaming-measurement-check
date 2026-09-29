@@ -1,0 +1,216 @@
+{
+ "items": [
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1028
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 972
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 790
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 735
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 831
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 979
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4816
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6705
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6418
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2572
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1468
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1313
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1159
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2122
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3319
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 893
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 261
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 183
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 227
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 197
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 300
+  },
+  {
+   "project": "pt.wikipedia",
+   "article": "The_Whisper_Man",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 484
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

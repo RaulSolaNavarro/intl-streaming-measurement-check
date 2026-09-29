@@ -1,0 +1,63 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Nur_für_dein_Leben",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nur_für_dein_Leben",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 366
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nur_für_dein_Leben",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 656
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nur_für_dein_Leben",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 736
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nur_für_dein_Leben",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 923
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nur_für_dein_Leben",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1276
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

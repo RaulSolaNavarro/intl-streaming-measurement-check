@@ -1,0 +1,495 @@
+{
+ "items": [
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 702
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 902
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1413
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 892
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 669
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 481
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2692
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 987
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 824
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 945
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 705
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 872
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 402
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 286
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 225
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 227
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 191
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 222
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 217
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 931
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1478
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 449
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 508
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 590
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 502
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 532
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 442
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 416
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 398
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 383
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 405
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 214
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 236
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 135
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 146
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 128
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 104
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 112
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 124
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 147
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 97
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 92
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 91
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 66
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 42
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 52
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Elize_:_Surgie_de_l'ombre",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

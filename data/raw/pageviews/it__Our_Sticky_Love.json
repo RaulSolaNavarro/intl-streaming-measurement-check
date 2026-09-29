@@ -1,0 +1,54 @@
+{
+ "items": [
+  {
+   "project": "it.wikipedia",
+   "article": "Our_Sticky_Love",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Our_Sticky_Love",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 64
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Our_Sticky_Love",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Our_Sticky_Love",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Our_Sticky_Love",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 82
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}
