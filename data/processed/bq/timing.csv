@@ -1,0 +1,274 @@
+title_id,show_title,category,market,lang,article,match_status,first_week_start,first_week_end,cumulative_weeks_at_first,peak_date,peak_views,total_views,days_peak_vs_chart,left_censored,peak_at_range_edge,no_views
+T009,I Will Find You,TV,DE,de,Nur für dein Leben,ok,2026-06-29,2026-07-05,3,2026-09-20,1276,3972,83,True,True,False
+T021,Voicemails for Isabelle,Films,DE,de,Voicemails for Isabelle,ok,2026-06-29,2026-07-05,3,2026-06-21,8292,96258,-8,True,False,False
+T024,Avatar: The Last Airbender,TV,DE,de,Avatar – Der Herr der Elemente (2024),contested_kept,2026-06-29,2026-07-05,8,2026-06-28,5954,100994,-1,True,False,False
+T269,Bride Hard,Films,DE,de,Bride Hard,ok,2026-06-29,2026-07-05,1,2026-07-05,599,10710,6,False,False,False
+T339,Dog 51,Films,DE,de,Zone 3,ok,2026-06-29,2026-07-05,2,2026-06-28,1194,10501,-1,True,False,False
+T172,Infinite,Films,DE,de,Infinite – Lebe unendlich,ok,2026-06-29,2026-07-05,1,2026-06-30,1775,27341,1,False,False,False
+T218,TESTO,TV,DE,de,Testo (Fernsehserie),ok,2026-06-29,2026-07-05,1,2026-07-05,1321,19918,6,False,False,False
+T065,Sonic the Hedgehog 3,Films,DE,de,Sonic the Hedgehog 3 (Film),ok,2026-06-29,2026-07-05,1,2026-09-05,3185,16454,68,False,False,False
+T001,Agent Kim Reactivated,TV,DE,de,Agent Kim Reactivated,ok,2026-06-29,2026-07-05,2,2026-06-28,1756,48189,-1,True,False,False
+T208,Manitou's Canoe,Films,DE,de,Das Kanu des Manitu,ok,2026-06-29,2026-07-05,3,2026-06-15,5578,114404,-14,True,False,False
+T215,Ghost Ship,Films,DE,de,Ghost Ship,contested_kept,2026-06-29,2026-07-05,1,2026-07-05,3260,51430,6,False,False,False
+T281,F9: The Fast Saga,Films,DE,de,Fast & Furious 9,ok,2026-07-06,2026-07-12,1,2026-08-06,5868,29692,31,False,False,False
+T136,The Rookie,TV,DE,de,The Rookie (Fernsehserie),ok,2026-07-06,2026-07-12,1,2026-07-26,5455,306803,20,False,False,False
+T248,22 Bahnen,Films,DE,de,22 Bahnen,ok,2026-07-06,2026-07-12,1,2026-07-12,3006,87001,6,False,False,False
+T081,Sniper: No Nation,Films,DE,de,Sniper: No Nation,ok,2026-07-13,2026-07-19,1,2026-07-18,1586,16768,5,False,False,False
+T034,The Truthers,Films,DE,de,Eine verworrene Wahrheit,ok,2026-07-20,2026-07-26,1,2026-07-26,2477,22829,6,False,False,False
+T126,Kaulitz & Kaulitz,TV,DE,de,Kaulitz & Kaulitz,ok,2026-07-20,2026-07-26,1,2026-07-23,673,13378,3,False,False,False
+T327,The Hawk,TV,DE,de,The Hawk (Fernsehserie),ok,2026-07-20,2026-07-26,1,2026-08-16,228,3753,27,False,False,False
+T099,War Machine,Films,DE,de,War Machine (2026),ok,2026-07-27,2026-08-02,7,2026-06-07,1186,68244,-50,False,False,False
+T002,The Last House,Films,DE,de,The Last House,ok,2026-08-03,2026-08-09,1,2026-08-09,13116,133693,6,False,False,False
+T257,Juror #2,Films,DE,de,Juror No. 2,ok,2026-08-03,2026-08-09,1,2026-08-09,3768,50961,6,False,False,False
+T245,Momo,Films,DE,de,Momo (1986),ok,2026-08-03,2026-08-09,1,2026-06-28,5097,25961,-36,False,False,False
+T017,My Life With the Walter Boys,TV,DE,de,Ich und die Walter Boys,ok,2026-08-03,2026-08-09,1,2026-08-18,1623,26618,15,False,False,False
+T312,Evil Dead Rise,Films,DE,de,Evil Dead Rise,ok,2026-08-03,2026-08-09,1,2026-08-09,1560,52179,6,False,False,False
+T162,Murder in a Small Town,TV,DE,de,Murder in a Small Town (Fernsehserie),ok,2026-08-03,2026-08-09,1,2026-08-02,7769,113835,-1,False,False,False
+T046,Don't Say Good Luck,Films,DE,de,Don’t Say Good Luck,ok,2026-08-10,2026-08-16,1,2026-08-16,3052,35882,6,False,False,False
+T095,Breaking In,Films,DE,de,Die Traumtänzer,contested_kept,2026-08-10,2026-08-16,1,2026-08-30,6,169,20,False,False,False
+T185,Black Adam,Films,DE,de,Black Adam (Film),ok,2026-08-10,2026-08-16,1,2026-08-16,1977,41500,6,False,False,False
+T083,"My Best Friend, His Girlfriend and Me",Films,DE,de,"Mein bester Freund, seine Freundin & ich",ok,2026-08-10,2026-08-16,1,2026-08-16,3084,28284,6,False,False,False
+T045,Seal Team,TV,DE,de,SEAL Team,ok,2026-08-17,2026-08-23,1,2026-08-23,2071,64843,6,False,False,False
+T006,Facing El Chapo,Films,DE,de,Die Festnahme (2026),ok,2026-08-17,2026-08-23,1,2026-08-30,2532,23092,13,False,False,False
+T020,Outer Banks,TV,DE,de,Outer Banks (Fernsehserie),ok,2026-08-17,2026-08-23,1,2026-08-23,4360,83076,6,False,False,False
+T003,The Whisper Man,Films,DE,de,Der Kinderflüsterer,ok,2026-08-24,2026-08-30,1,2026-08-30,21704,174211,6,False,False,False
+T100,Companion,Films,DE,de,Companion – Die perfekte Begleitung,ok,2026-08-24,2026-08-30,1,2026-08-30,2342,38701,6,False,False,False
+T135,Regretting You,Films,DE,de,All das Ungesagte zwischen uns – Regretting You,ok,2026-08-24,2026-08-30,1,2026-08-25,7028,75118,1,False,False,False
+T026,The Gentlemen,TV,DE,de,"The Gentlemen (Fernsehserie, 2024)",ok,2026-08-31,2026-09-06,10,2026-09-06,10059,147796,6,False,False,False
+T008,Anacondas: Trail of Blood,Films,DE,de,Anacondas – Trail of Blood,ok,2026-08-31,2026-09-06,1,2026-09-01,585,4338,1,False,False,False
+T369,Resident Alien,TV,DE,de,Resident Alien,ok,2026-08-31,2026-09-06,1,2026-07-05,1577,61644,-57,False,False,False
+T158,Dune: Part Two,Films,DE,de,Dune: Part Two,ok,2026-08-31,2026-09-06,1,2026-08-15,3567,83780,-16,False,False,False
+T066,The Hard Corps,Films,DE,de,Hard Corps,ok,2026-08-31,2026-09-06,1,2026-09-04,374,3178,4,False,False,False
+T177,Rheingold,Films,DE,de,Rheingold (2022),ok,2026-09-07,2026-09-13,1,2026-09-13,3031,31672,6,False,False,False
+T340,Dune,Films,DE,de,Der Wüstenplanet (Film),contested_kept,2026-09-07,2026-09-13,7,2026-09-06,459,23733,-1,False,False,False
+T063,Fauda,TV,DE,de,Fauda (Fernsehserie),ok,2026-09-07,2026-09-13,1,2026-09-13,4853,48731,6,False,False,False
+T037,Crew Girl,TV,DE,de,Crew Girl,ok,2026-09-07,2026-09-13,1,2026-09-18,5411,30468,11,False,False,False
+T232,Nocturnal Animals,Films,DE,de,Nocturnal Animals,ok,2026-09-14,2026-09-20,1,2026-09-19,11204,72551,5,False,False,False
+T243,Wunderschöner,Films,DE,de,Wunderschöner,ok,2026-09-14,2026-09-20,1,2026-09-13,4485,40056,-1,False,False,False
+T001,Agent Kim Reactivated,TV,FR,fr,Agent Kim Reactivated,ok,2026-06-29,2026-07-05,2,2026-07-26,2473,46697,27,True,False,False
+T025,Teach You a Lesson,TV,FR,fr,Que ça vous serve de leçon !,ok,2026-06-29,2026-07-05,4,2026-06-22,1754,60145,-7,True,False,False
+T087,The Polygamist,TV,FR,fr,The Polygamist,ok,2026-06-29,2026-07-05,3,2026-06-22,4637,57966,-7,True,False,False
+T228,Seven,Films,FR,fr,Seven (film),ok,2026-06-29,2026-07-05,1,2026-09-09,13320,86584,72,False,False,False
+T104,Angel Eyes,Films,FR,fr,"Angel Eyes (film, 2001)",contested_kept,2026-06-29,2026-07-05,1,2026-07-01,906,10165,2,False,False,False
+T009,I Will Find You,TV,FR,fr,Sur tes traces,ok,2026-06-29,2026-07-05,3,2026-06-21,15711,302834,-8,True,False,False
+T109,Night at the Museum,Films,FR,fr,La Nuit au musée,ok,2026-06-29,2026-07-05,1,2026-06-27,540,17258,-2,False,False,False
+T365,KPop Demon Hunters,Films,FR,fr,KPop Demon Hunters,ok,2026-06-29,2026-07-05,43,2026-06-06,438,31185,-23,True,False,False
+T005,Enola Holmes 3,Films,FR,fr,Enola Holmes 3,ok,2026-06-29,2026-07-05,1,2026-07-01,3602,42903,2,False,False,False
+T024,Avatar: The Last Airbender,TV,FR,fr,"Avatar, le dernier maître de l'air (série télévisée)",contested_kept,2026-06-29,2026-07-05,5,2026-06-28,3664,70630,-1,True,False,False
+T021,Voicemails for Isabelle,Films,FR,fr,Si tu m'écoutes,ok,2026-06-29,2026-07-05,3,2026-08-19,1131,15205,51,True,False,False
+T103,The Contractor,Films,FR,fr,The Contractor,contested_kept,2026-06-29,2026-07-05,1,2026-07-01,383,4655,2,False,False,False
+T023,Little House on the Prairie,TV,FR,fr,"La Petite Maison dans la prairie (série télévisée, 2026)",ok,2026-07-06,2026-07-12,1,2026-07-14,5375,82744,8,False,False,False
+T293,The Woman in the Yard,Films,FR,fr,The Woman in the Yard,ok,2026-07-06,2026-07-12,1,2026-07-11,1977,14902,5,False,False,False
+T351,Presidents,Films,FR,fr,Présidents,ok,2026-07-06,2026-07-12,1,2026-07-08,1330,15131,2,False,False,False
+T111,The Town,Films,FR,fr,The Town,contested_kept,2026-07-13,2026-07-19,1,2026-07-17,380,10821,4,False,False,False
+T295,What’s With This Granny!?,Films,FR,fr,C'est quoi cette mamie ?!,ok,2026-07-13,2026-07-19,1,2026-09-17,1107,11791,66,False,False,False
+T181,The Retirement Plan,Films,FR,fr,Une retraite d'enfer,ok,2026-07-13,2026-07-19,1,2026-07-16,570,6656,3,False,False,False
+T012,Elite Force,TV,FR,fr,GIGN (mini-série),ok,2026-07-20,2026-07-26,1,2026-07-23,16683,234621,3,False,False,False
+T030,Ransom Canyon,TV,FR,fr,Nouvelle vie à Ransom Canyon,ok,2026-07-20,2026-07-26,1,2026-07-26,2935,44836,6,False,False,False
+T039,The East Palace,TV,FR,fr,Le Palais de l'Est,ok,2026-07-20,2026-07-26,1,2026-09-20,75,544,62,False,True,False
+T034,The Truthers,Films,FR,fr,Leur vérité,ok,2026-07-20,2026-07-26,1,2026-07-30,673,8643,10,False,False,False
+T010,72 HOURS,Films,FR,fr,72 Heures (film),ok,2026-07-20,2026-07-26,1,2026-07-26,1041,15616,6,False,False,False
+T004,Elize: Shadows of a Woman,Films,FR,fr,Elize : Surgie de l'ombre,ok,2026-07-20,2026-07-26,1,2026-08-04,2692,23206,15,False,False,False
+T267,Barbie,Films,FR,fr,Barbie (film),ok,2026-07-20,2026-07-26,1,2026-07-19,1280,32616,-1,False,False,False
+T270,Drop,Films,FR,fr,Drop Game,resolved_by_date,2026-07-27,2026-08-02,1,2026-06-11,312,10036,-46,False,False,False
+T176,Paulette,Films,FR,fr,Paulette (film),ok,2026-07-27,2026-08-02,1,2026-07-31,1139,13274,4,False,False,False
+T099,War Machine,Films,FR,fr,"War Machine (film, 2026)",ok,2026-07-27,2026-08-02,5,2026-06-07,389,24386,-50,False,False,False
+T028,The Bombing of Pan Am 103,TV,FR,fr,L'Attentat du vol Pan Am 103,ok,2026-07-27,2026-08-02,1,2026-08-09,4115,56556,13,False,False,False
+T017,My Life With the Walter Boys,TV,FR,fr,Ma vie avec les Walter Boys,ok,2026-08-03,2026-08-09,1,2026-08-09,3317,60360,6,False,False,False
+T056,Spider-Man: Homecoming,Films,FR,fr,Spider-Man: Homecoming,ok,2026-08-03,2026-08-09,4,2026-08-23,18449,127372,20,False,False,False
+T204,Say Cheese,Films,FR,fr,On sourit pour la photo,ok,2026-08-03,2026-08-09,1,2026-08-09,420,5465,6,False,False,False
+T002,The Last House,Films,FR,fr,"Le Dernier Refuge (film, 2026)",ok,2026-08-03,2026-08-09,1,2026-08-08,6992,68120,5,False,False,False
+T090,Meg 2: The Trench,Films,FR,fr,En eaux très troubles,ok,2026-08-03,2026-08-09,1,2026-08-02,1021,12162,-1,False,False,False
+T036,Spider-Man: Far from Home,Films,FR,fr,Spider-Man: Far From Home,ok,2026-08-03,2026-08-09,4,2026-08-30,13141,107170,27,False,False,False
+T247,Turbulence,Films,FR,fr,Turbulences à 30 000 pieds,contested_kept,2026-08-03,2026-08-09,1,2026-08-02,28,1046,-1,False,False,False
+T254,Gran Turismo: Based on a True Story,Films,FR,fr,Gran Turismo (film),ok,2026-08-10,2026-08-16,1,2026-08-09,739,14254,-1,False,False,False
+T033,My Brilliant Career,TV,FR,fr,Ma brillante carrière (série télévisée),ok,2026-08-10,2026-08-16,1,2026-08-16,2599,42131,6,False,False,False
+T071,What a Girl Wants,Films,FR,fr,Ce dont rêvent les filles,ok,2026-08-10,2026-08-16,1,2026-08-16,506,5871,6,False,False,False
+T014,Our Sticky Love,TV,FR,fr,Our Sticky Love,ok,2026-08-10,2026-08-16,1,2026-08-09,1336,18071,-1,False,False,False
+T308,The Wolf and the Lion,Films,FR,fr,Le Loup et le Lion (film),ok,2026-08-10,2026-08-16,1,2026-07-03,2146,10065,-38,False,False,False
+T179,Serial Driver,Films,FR,fr,Bonne Conduite,ok,2026-08-17,2026-08-23,1,2026-08-19,2020,31279,2,False,False,False
+T251,Blue Beetle,Films,FR,fr,Blue Beetle (film),ok,2026-08-17,2026-08-23,1,2026-08-16,15082,38553,-1,False,False,False
+T206,The Morning After,Films,FR,fr,Le Lendemain du crime,contested_kept,2026-08-17,2026-08-23,1,2026-06-27,14,502,-51,False,False,False
+T020,Outer Banks,TV,FR,fr,Outer Banks (série télévisée),ok,2026-08-17,2026-08-23,1,2026-08-20,3498,67089,3,False,False,False
+T045,Seal Team,TV,FR,fr,SEAL Team,ok,2026-08-17,2026-08-23,1,2026-08-23,2054,52921,6,False,False,False
+T283,Love Hurts,Films,FR,fr,Back to Business,resolved_by_date,2026-08-17,2026-08-23,1,2026-08-16,208,3598,-1,False,False,False
+T011,The Secret Woman,Films,FR,fr,"La Femme secrète (film, 2026)",ok,2026-08-24,2026-08-30,1,2026-09-06,1652,11301,13,False,False,False
+T003,The Whisper Man,Films,FR,fr,The Whisper Man,ok,2026-08-24,2026-08-30,1,2026-08-30,10804,90925,6,False,False,False
+T298,Colombiana,Films,FR,fr,Colombiana,ok,2026-08-24,2026-08-30,3,2026-08-30,310,7108,6,False,False,False
+T286,My Summer in Provence,Films,FR,fr,Avis de mistral,ok,2026-08-24,2026-08-30,1,2026-08-23,958,11516,-1,False,False,False
+T145,Rhythm + Flow France,TV,FR,fr,Nouvelle École (émission de téléréalité),ok,2026-08-24,2026-08-30,1,2026-09-09,2615,48127,16,False,False,False
+T026,The Gentlemen,TV,FR,fr,The Gentlemen (série télévisée),ok,2026-08-31,2026-09-06,10,2026-09-06,10134,119662,6,False,False,False
+T008,Anacondas: Trail of Blood,Films,FR,fr,Anacondas 4 : La Piste du sang,ok,2026-08-31,2026-09-06,1,2026-09-01,248,3041,1,False,False,False
+T191,The Equalizer 3,Films,FR,fr,Equalizer 3,ok,2026-08-31,2026-09-06,1,2026-09-20,20025,39670,20,False,True,False
+T188,How to Train Your Dragon,Films,FR,fr,"Dragons (film, 2025)",resolved_by_date,2026-09-07,2026-09-13,1,2026-09-12,1003,18870,5,False,False,False
+T037,Crew Girl,TV,FR,fr,Mal barrée,ok,2026-09-07,2026-09-13,1,2026-09-16,2673,24054,9,False,False,False
+T166,Call My Agent! The Movie,Films,FR,fr,"Dix pour cent, le film",ok,2026-09-07,2026-09-13,1,2026-09-10,12877,92239,3,False,False,False
+T317,Lovesick,TV,FR,fr,Lovesick (série télévisée),contested_kept,2026-09-07,2026-09-13,1,2026-08-04,175,7877,-34,False,False,False
+T063,Fauda,TV,FR,fr,Fauda,ok,2026-09-07,2026-09-13,1,2026-09-13,4237,56617,6,False,False,False
+T059,The Little Things,Films,FR,fr,Une affaire de détails,ok,2026-09-07,2026-09-13,4,2026-09-13,2114,19033,6,False,False,False
+T102,Monster-in-Law,Films,FR,fr,Sa mère ou moi !,ok,2026-09-07,2026-09-13,1,2026-09-13,324,4288,6,False,False,False
+T113,Best of the Best,Films,FR,fr,"Best of the Best (film, 2026)",ok,2026-09-14,2026-09-20,1,2026-06-01,0,0,-105,False,True,True
+T334,Aline,Films,FR,fr,"Aline (film, 2020)",ok,2026-09-14,2026-09-20,1,2026-09-18,1550,14375,4,False,False,False
+T277,The Nun II,Films,FR,fr,La Nonne : La Malédiction de Sainte-Lucie,ok,2026-09-14,2026-09-20,1,2026-09-13,941,9677,-1,False,False,False
+T053,Gabby's Dollhouse,TV,FR,fr,Gabby et la Maison magique,ok,2026-09-14,2026-09-20,1,2026-09-19,153,7241,5,False,False,False
+T091,Anora,Films,FR,fr,Anora (film),contested_kept,2026-09-14,2026-09-20,1,2026-09-12,2594,33735,-2,False,False,False
+T050,Monster: The Lizzie Borden Story,TV,FR,fr,Monstre : L'Histoire de Lizzie Borden,ok,2026-09-14,2026-09-20,1,2026-09-20,37532,149102,6,False,True,False
+T348,My Family,TV,IT,it,Storia della mia famiglia,ok,2026-06-29,2026-07-05,4,2026-06-14,3719,90245,-15,True,False,False
+T005,Enola Holmes 3,Films,IT,it,Enola Holmes 3,ok,2026-06-29,2026-07-05,1,2026-07-05,1612,22198,6,False,False,False
+T001,Agent Kim Reactivated,TV,IT,it,Agent Kim Reactivated,ok,2026-06-29,2026-07-05,2,2026-08-21,127,3219,53,True,False,False
+T103,The Contractor,Films,IT,it,The Contractor - Rischio supremo,contested_kept,2026-06-29,2026-07-05,1,2026-07-02,202,2675,3,False,False,False
+T082,Sullivan's Crossing,TV,IT,it,Sullivan's Crossing,ok,2026-06-29,2026-07-05,1,2026-07-01,1046,31767,2,False,False,False
+T104,Angel Eyes,Films,IT,it,Angel Eyes - Occhi d'angelo,contested_kept,2026-06-29,2026-07-05,1,2026-07-01,832,10896,2,False,False,False
+T316,Lavoreremo da Grandi,Films,IT,it,Lavoreremo da grandi,ok,2026-06-29,2026-07-05,2,2026-06-27,3345,53978,-2,True,False,False
+T021,Voicemails for Isabelle,Films,IT,it,Messaggi per Isabelle,ok,2026-06-29,2026-07-05,3,2026-06-21,4110,57417,-8,True,False,False
+T024,Avatar: The Last Airbender,TV,IT,it,Avatar - La leggenda di Aang (serie televisiva),contested_kept,2026-06-29,2026-07-05,2,2026-06-26,2096,43356,-3,True,False,False
+T065,Sonic the Hedgehog 3,Films,IT,it,Sonic 3 - Il film,ok,2026-06-29,2026-07-05,1,2026-07-01,321,9295,2,False,False,False
+T109,Night at the Museum,Films,IT,it,Una notte al museo,ok,2026-06-29,2026-07-05,1,2026-06-28,1048,26421,-1,False,False,False
+T268,Blood and Bone,Films,IT,it,Blood and Bone,ok,2026-07-06,2026-07-12,3,2026-07-11,250,4425,5,False,False,False
+T023,Little House on the Prairie,TV,IT,it,La casa nella prateria (serie televisiva 2026),ok,2026-07-06,2026-07-12,1,2026-07-12,3518,42107,6,False,False,False
+T091,Anora,Films,IT,it,Anora,contested_kept,2026-07-06,2026-07-12,1,2026-07-11,4151,82737,5,False,False,False
+T195,Il Bene Comune,Films,IT,it,Il bene comune,ok,2026-07-06,2026-07-12,1,2026-07-12,3448,61225,6,False,False,False
+T255,Journey 2: The Mysterious Island,Films,IT,it,Viaggio nell'isola misteriosa,ok,2026-07-13,2026-07-19,1,2026-09-12,4078,14519,61,False,False,False
+T111,The Town,Films,IT,it,The Town (film 2010),contested_kept,2026-07-13,2026-07-19,1,2026-06-18,5570,24746,-25,False,False,False
+T223,Venom: The Last Dance,Films,IT,it,Venom: The Last Dance,ok,2026-07-13,2026-07-19,1,2026-07-18,526,22553,5,False,False,False
+T034,The Truthers,Films,IT,it,Los Creyentes - Oltre la verità,ok,2026-07-20,2026-07-26,1,2026-07-26,1471,12882,6,False,False,False
+T015,The Debt Collector,Films,IT,it,The Debt Collector (film 2018),contested_kept,2026-07-20,2026-07-26,1,2026-08-30,12,107,41,False,False,False
+T030,Ransom Canyon,TV,IT,it,Ransom Canyon (serie televisiva),ok,2026-07-20,2026-07-26,1,2026-07-26,2410,35747,6,False,False,False
+T039,The East Palace,TV,IT,it,The East Palace,ok,2026-07-20,2026-07-26,1,2026-09-20,76,569,62,False,True,False
+T010,72 HOURS,Films,IT,it,72 Hours (film 2026),ok,2026-07-20,2026-07-26,1,2026-07-26,1493,15656,6,False,False,False
+T128,Buen Camino,Films,IT,it,Buen camino,ok,2026-07-27,2026-08-02,10,2026-06-02,873,51699,-55,False,False,False
+T036,Spider-Man: Far from Home,Films,IT,it,Spider-Man: Far from Home,ok,2026-07-27,2026-08-02,1,2026-08-02,3684,71951,6,False,False,False
+T274,Someone Like You,Films,IT,it,Qualcuno come te,contested_kept,2026-07-27,2026-08-02,1,2026-07-26,103,1674,-1,False,False,False
+T370,Something's Gotta Give,Films,IT,it,Tutto può succedere - Something's Gotta Give,ok,2026-08-03,2026-08-09,1,2026-08-09,921,13207,6,False,False,False
+T353,She's Out of My League,Films,IT,it,Lei è troppo per me,ok,2026-08-03,2026-08-09,3,2026-08-06,258,4759,3,False,False,False
+T002,The Last House,Films,IT,it,The Last House,ok,2026-08-03,2026-08-09,1,2026-08-08,6842,85909,5,False,False,False
+T264,Ricomincio da TAAAC,Films,IT,it,Ricomincio da taaac,ok,2026-08-03,2026-08-09,1,2026-08-02,732,8311,-1,False,False,False
+T017,My Life With the Walter Boys,TV,IT,it,Uno splendido errore,ok,2026-08-03,2026-08-09,1,2026-08-07,3527,58657,4,False,False,False
+T105,Edge of Tomorrow,Films,IT,it,Edge of Tomorrow - Senza domani,ok,2026-08-10,2026-08-16,1,2026-09-14,4897,21986,35,False,False,False
+T071,What a Girl Wants,Films,IT,it,Una ragazza e il suo sogno,ok,2026-08-10,2026-08-16,1,2026-09-10,2474,9016,31,False,False,False
+T014,Our Sticky Love,TV,IT,it,Our Sticky Love,ok,2026-08-10,2026-08-16,1,2026-09-20,82,257,41,False,True,False
+T020,Outer Banks,TV,IT,it,Outer Banks (serie televisiva),ok,2026-08-17,2026-08-23,1,2026-08-20,4550,71074,3,False,False,False
+T006,Facing El Chapo,Films,IT,it,La Captura,ok,2026-08-17,2026-08-23,1,2026-08-23,3517,26103,6,False,False,False
+T045,Seal Team,TV,IT,it,SEAL Team (serie televisiva),ok,2026-08-17,2026-08-23,1,2026-08-18,1215,45432,1,False,False,False
+T003,The Whisper Man,Films,IT,it,L'uomo dei sussurri,ok,2026-08-24,2026-08-30,1,2026-08-30,21635,152448,6,False,False,False
+T196,L'Amore sta bene su tutto,Films,IT,it,L'amore sta bene su tutto,ok,2026-08-24,2026-08-30,1,2026-08-27,3829,32206,3,False,False,False
+T306,The Heat,Films,IT,it,Corpi da reato,ok,2026-08-24,2026-08-30,1,2026-06-02,1584,7197,-83,False,False,False
+T211,The Cleaning Lady,TV,IT,it,The Cleaning Lady,ok,2026-08-31,2026-09-06,1,2026-09-08,879,34776,8,False,False,False
+T008,Anacondas: Trail of Blood,Films,IT,it,Anaconda - Sentiero di sangue,ok,2026-08-31,2026-09-06,1,2026-09-01,284,2423,1,False,False,False
+T026,The Gentlemen,TV,IT,it,The Gentlemen (serie televisiva),ok,2026-08-31,2026-09-06,12,2026-09-06,14391,185404,6,False,False,False
+T088,The Sixth Sense,Films,IT,it,The Sixth Sense - Il sesto senso,ok,2026-08-31,2026-09-06,1,2026-09-06,3507,49071,6,False,False,False
+T063,Fauda,TV,IT,it,Fauda,ok,2026-09-07,2026-09-13,1,2026-09-09,2674,30508,2,False,False,False
+T037,Crew Girl,TV,IT,it,Crew Girl,ok,2026-09-07,2026-09-13,1,2026-09-11,1857,15210,4,False,False,False
+T102,Monster-in-Law,Films,IT,it,Quel mostro di suocera,ok,2026-09-07,2026-09-13,1,2026-09-03,402,5269,-4,False,False,False
+T089,Kraven the Hunter,Films,IT,it,Kraven - Il cacciatore,ok,2026-09-07,2026-09-13,1,2026-06-15,2286,31070,-84,False,False,False
+T084,Physical 100: Italy,TV,IT,it,Physical Italia: da 100 a 1,ok,2026-09-07,2026-09-13,1,2026-09-14,5582,38684,7,False,False,False
+T059,The Little Things,Films,IT,it,Fino all'ultimo indizio,ok,2026-09-07,2026-09-13,4,2026-08-11,3687,16387,-27,False,False,False
+T197,Practical Magic,Films,IT,it,Amori & incantesimi,ok,2026-09-07,2026-09-13,1,2026-09-12,5286,65615,5,False,False,False
+T053,Gabby's Dollhouse,TV,IT,it,La casa delle bambole di Gabby,ok,2026-09-14,2026-09-20,1,2026-09-14,133,4912,0,False,False,False
+T287,Race for Glory: Audi vs. Lancia,Films,IT,it,Race for Glory: Audi vs. Lancia,ok,2026-09-14,2026-09-20,1,2026-09-20,705,6832,6,False,True,False
+T005,Enola Holmes 3,Films,JP,ja,エノーラ・ホームズの事件簿3,ok,2026-06-29,2026-07-05,1,2026-08-09,65,1772,41,False,False,False
+T076,Human Vapor,TV,JP,ja,ガス人間,ok,2026-06-29,2026-07-05,1,2026-09-11,6270,119065,74,False,False,False
+T356,The Haunted Palace,TV,JP,ja,鬼宮,ok,2026-06-29,2026-07-05,1,2026-07-11,165,5875,12,False,False,False
+T025,Teach You a Lesson,TV,JP,ja,鉄槌教師,ok,2026-06-29,2026-07-05,5,2026-09-16,2824,100097,79,True,False,False
+T220,That Time I Got Reincarnated as a Slime,TV,JP,ja,転生したらスライムだった件 (アニメ),ok,2026-06-29,2026-07-05,13,2026-07-04,3667,176872,5,True,False,False
+T110,Into the Blue,Films,JP,ja,イントゥ・ザ・ブルー,contested_kept,2026-06-29,2026-07-05,1,2026-07-05,380,6218,6,False,False,False
+T115,Vivant,TV,JP,ja,VIVANT,ok,2026-06-29,2026-07-05,6,2026-07-26,170966,2735961,27,True,False,False
+T114,Until the T-shirt Dries,TV,JP,ja,Tシャツが乾くまで,ok,2026-07-06,2026-07-12,1,2026-07-10,37229,787199,4,False,False,False
+T202,Kingdom 3: The Flame of Destiny,Films,JP,ja,キングダム 運命の炎,ok,2026-07-13,2026-07-19,6,2026-07-17,13150,106853,4,False,False,False
+T141,25 Years of You,TV,JP,ja,告白-25年目の秘密-,ok,2026-07-13,2026-07-19,1,2026-07-11,15361,331993,-2,False,False,False
+T366,Kingdom,Films,JP,ja,キングダム/見えざる敵,ok,2026-07-13,2026-07-19,9,2026-07-17,60,2170,4,False,False,False
+T059,The Little Things,Films,JP,ja,リトル・シングス,ok,2026-07-13,2026-07-19,3,2026-07-19,570,8468,6,False,False,False
+T089,Kraven the Hunter,Films,JP,ja,クレイヴン・ザ・ハンター (映画),ok,2026-07-20,2026-07-26,1,2026-07-20,657,21267,0,False,False,False
+T118,GATE24:The Border,TV,JP,ja,大空港〜GATE24〜,ok,2026-07-20,2026-07-26,1,2026-07-23,10601,245890,3,False,False,False
+T054,Spooky in Love,TV,JP,ja,恋は命がけ,ok,2026-07-27,2026-08-02,1,2026-08-23,902,20184,27,False,False,False
+T056,Spider-Man: Homecoming,Films,JP,ja,スパイダーマン:ホームカミング,ok,2026-07-27,2026-08-02,1,2026-08-01,4533,128486,5,False,False,False
+T079,Despicable Me 4,Films,JP,ja,怪盗グルーのミニオン超変身,ok,2026-07-27,2026-08-02,5,2026-08-10,16070,45971,14,False,False,False
+T324,Silent Night,Films,JP,ja,サイレント・ナイト (2021年の映画),contested_kept,2026-08-03,2026-08-09,1,2026-07-18,43,1176,-16,False,False,False
+T074,Badly in Love,TV,JP,ja,ラヴ上等,ok,2026-08-03,2026-08-09,1,2026-08-21,9854,231446,18,False,False,False
+T240,Petals and Memories,Films,JP,ja,花まんま,ok,2026-08-17,2026-08-23,1,2026-08-16,807,15149,-1,False,False,False
+T065,Sonic the Hedgehog 3,Films,JP,ja,ソニック×シャドウ TOKYO MISSION,ok,2026-08-24,2026-08-30,1,2026-06-06,236,11430,-79,False,False,False
+T144,Last Mile,Films,JP,ja,ラストマイル,ok,2026-08-24,2026-08-30,1,2026-08-29,1922,60060,5,False,False,False
+T088,The Sixth Sense,Films,JP,ja,シックス・センス,ok,2026-08-31,2026-09-06,1,2026-09-06,1673,37820,6,False,False,False
+T360,2012,Films,JP,ja,2012 (映画),ok,2026-08-31,2026-09-06,1,2026-08-30,459,16093,-1,False,False,False
+T008,Anacondas: Trail of Blood,Films,JP,ja,アナコンダ4,ok,2026-08-31,2026-09-06,1,2026-09-02,257,3674,2,False,False,False
+T273,"One Second Ahead, One Second Behind",Films,JP,ja,1秒先の彼,ok,2026-09-07,2026-09-13,1,2026-06-05,7,152,-94,False,False,False
+T108,Anaconda 3: Offspring,Films,JP,ja,アナコンダ3,ok,2026-09-07,2026-09-13,1,2026-09-09,243,3639,2,False,False,False
+T093,The Wild Robot,Films,JP,ja,野生の島のロズ,ok,2026-09-14,2026-09-20,1,2026-09-20,382,10524,6,False,True,False
+T233,Plastic Beauty,TV,JP,ja,ダウンタイム,ok,2026-09-14,2026-09-20,1,2026-09-20,144,774,6,False,True,False
+T085,Notes from the Last Row,TV,KR,ko,맨 끝줄 소년 (드라마),ok,2026-06-29,2026-07-05,2,2026-06-28,2337,25764,-1,True,False,False
+T110,Into the Blue,Films,KR,ko,블루 스톰,contested_kept,2026-06-29,2026-07-05,1,2026-07-01,43,192,2,False,False,False
+T001,Agent Kim Reactivated,TV,KR,ko,김부장,ok,2026-06-29,2026-07-05,2,2026-07-17,7479,99168,18,True,False,False
+T025,Teach You a Lesson,TV,KR,ko,참교육,ok,2026-06-29,2026-07-05,5,2026-06-06,3890,42698,-23,True,False,False
+T217,Mercy For None,TV,KR,ko,광장 (2025년 드라마),ok,2026-06-29,2026-07-05,7,2026-08-16,311,4566,48,True,False,False
+T303,My Royal Nemesis,TV,KR,ko,멋진 신세계 (드라마),ok,2026-06-29,2026-07-05,9,2026-06-13,1483,23026,-16,True,False,False
+T076,Human Vapor,TV,KR,ko,가스인간,ok,2026-06-29,2026-07-05,1,2026-07-17,357,6903,18,False,False,False
+T077,Husbands in Action,Films,KR,ko,남편들 (2026년 영화),ok,2026-06-29,2026-07-05,3,2026-06-21,152,1846,-8,True,False,False
+T005,Enola Holmes 3,Films,KR,ko,에놀라 홈즈 3,ok,2026-06-29,2026-07-05,1,2026-08-16,11,39,48,False,False,False
+T161,People and Meat,Films,KR,ko,사람과 고기,ok,2026-07-06,2026-07-12,1,2026-08-02,22,483,27,False,False,False
+T221,The Noisy Mansion,Films,KR,ko,백수아파트,ok,2026-07-06,2026-07-12,1,2026-07-07,15,333,1,False,False,False
+T152,Lobby,Films,KR,ko,로비 (영화),ok,2026-07-06,2026-07-12,1,2026-07-11,55,895,5,False,False,False
+T361,A Company Man,Films,KR,ko,회사원 (영화),ok,2026-07-06,2026-07-12,4,2026-07-09,35,686,3,False,False,False
+T123,The Apartment Job,TV,KR,ko,아파트 (2026년 드라마),ok,2026-07-06,2026-07-12,1,2026-07-12,2494,41370,6,False,False,False
+T039,The East Palace,TV,KR,ko,동궁 (드라마),ok,2026-07-13,2026-07-19,1,2026-07-18,1557,16413,5,False,False,False
+T054,Spooky in Love,TV,KR,ko,오싹한 연애 (드라마),ok,2026-07-13,2026-07-19,1,2026-07-19,1314,21777,6,False,False,False
+T290,The Accountant,Films,KR,ko,어카운턴트,ok,2026-07-13,2026-07-19,1,2026-07-17,43,356,4,False,False,False
+T368,Mystic River,Films,KR,ko,미스틱 리버,ok,2026-07-20,2026-07-26,2,2026-07-21,54,939,1,False,False,False
+T260,Quarantine 2: Terminal,Films,KR,ko,쿼런틴 2: 터미널,ok,2026-07-20,2026-07-26,1,2026-07-18,34,476,-2,False,False,False
+T056,Spider-Man: Homecoming,Films,KR,ko,스파이더맨: 홈커밍,ok,2026-07-27,2026-08-02,4,2026-08-02,320,5465,6,False,False,False
+T227,Roofman,Films,KR,ko,루프맨,ok,2026-07-27,2026-08-02,1,2026-07-26,63,1045,-1,False,False,False
+T127,Wild Sing,Films,KR,ko,와일드 씽 (2026년 영화),ok,2026-07-27,2026-08-02,1,2026-08-01,242,3573,5,False,False,False
+T036,Spider-Man: Far from Home,Films,KR,ko,스파이더맨: 파 프롬 홈,ok,2026-07-27,2026-08-02,5,2026-08-08,473,6605,12,False,False,False
+T014,Our Sticky Love,TV,KR,ko,이런 엿 같은 사랑,ok,2026-08-03,2026-08-09,1,2026-08-09,3164,29268,6,False,False,False
+T121,I am Solo,TV,KR,ko,나는 SOLO,ok,2026-08-03,2026-08-09,1,2026-08-05,140,6586,2,False,False,False
+T105,Edge of Tomorrow,Films,KR,ko,엣지 오브 투모로우,ok,2026-08-10,2026-08-16,1,2026-07-10,36,810,-31,False,False,False
+T309,Whenever Possible,TV,KR,ko,"틈만나면,",ok,2026-08-10,2026-08-16,1,2026-08-04,234,4406,-6,False,False,False
+T225,The Auditors,TV,KR,ko,감사합니다 (드라마),ok,2026-08-10,2026-08-16,1,2026-08-17,207,3232,7,False,False,False
+T371,Suicide Squad,Films,KR,ko,수어사이드 스쿼드 (영화),ok,2026-08-17,2026-08-23,3,2026-08-17,72,1181,0,False,False,False
+T338,Cradle 2 the Grave,Films,KR,ko,크레이들 투 그레이브,ok,2026-08-17,2026-08-23,1,2026-08-22,27,279,5,False,False,False
+T080,Mousetrap,TV,KR,ko,들쥐 (드라마),ok,2026-08-24,2026-08-30,1,2026-08-29,959,9218,5,False,False,False
+T003,The Whisper Man,Films,KR,ko,위스퍼맨,ok,2026-08-24,2026-08-30,1,2026-08-29,584,4593,5,False,False,False
+T132,"Four Hands, Two Sonatas",TV,KR,ko,포핸즈,ok,2026-08-24,2026-08-30,1,2026-06-01,0,0,-84,False,True,True
+T358,Wolf Man,Films,KR,ko,울프맨 (2025년 영화),resolved_by_date,2026-08-31,2026-09-06,1,2026-09-04,28,226,4,False,False,False
+T066,The Hard Corps,Films,KR,ko,하드코: 라스트 미션,ok,2026-08-31,2026-09-06,1,2026-09-04,57,303,4,False,False,False
+T355,The Blind Side,Films,KR,ko,블라인드 사이드,ok,2026-09-07,2026-09-13,1,2026-09-06,111,1905,-1,False,False,False
+T183,Vanishing Point,Films,KR,ko,소실점 (영화),ok,2026-09-07,2026-09-13,1,2026-09-17,32,91,10,False,False,False
+T192,Troy,Films,KR,ko,트로이 (영화),ok,2026-09-07,2026-09-13,1,2026-08-16,834,13992,-22,False,False,False
+T235,The Scandal,TV,KR,ko,스캔들 (2026년 드라마),ok,2026-09-14,2026-09-20,1,2026-09-19,573,2337,5,False,False,False
+T236,The Warriors,Films,KR,ko,무사 (2001년 대한민국 영화),ok,2026-09-14,2026-09-20,1,2026-09-18,34,321,4,False,False,False
+T321,One Way Trip,Films,KR,ko,글로리데이,ok,2026-09-14,2026-09-20,1,2026-09-16,15,126,2,False,False,False
+T237,Black Bag,Films,KR,ko,블랙 백,ok,2026-09-14,2026-09-20,1,2026-09-20,14,116,6,False,True,False
+T129,Swapped,Films,BR,pt,Swapped,ok,2026-06-29,2026-07-05,10,2026-06-06,113,3581,-23,True,False,False
+T024,Avatar: The Last Airbender,TV,BR,pt,Avatar: The Last Airbender (série de televisão),contested_kept,2026-06-29,2026-07-05,7,2026-06-01,0,0,-28,True,True,True
+T241,Rust Creek,Films,BR,pt,Rust Creek,ok,2026-07-06,2026-07-12,1,2026-07-05,71,532,-1,False,False,False
+T093,The Wild Robot,Films,BR,pt,The Wild Robot,ok,2026-07-06,2026-07-12,1,2026-07-12,111,4483,6,False,False,False
+T090,Meg 2: The Trench,Films,BR,pt,Meg 2: The Trench,ok,2026-07-06,2026-07-12,1,2026-09-01,236,1415,57,False,False,False
+T216,Killer Elite,Films,BR,pt,Killer Elite,ok,2026-07-06,2026-07-12,1,2026-07-12,34,854,6,False,False,False
+T116,The Mentalist,TV,BR,pt,O Mentalista,contested_kept,2026-07-13,2026-07-19,3,2026-09-07,1422,84757,56,False,False,False
+T079,Despicable Me 4,Films,BR,pt,Despicable Me 4,ok,2026-07-13,2026-07-19,7,2026-09-02,53,2886,51,False,False,False
+T302,Monsters vs. Aliens,Films,BR,pt,Monsters vs. Aliens,ok,2026-07-20,2026-07-26,1,2026-07-26,65,3517,6,False,False,False
+T004,Elize: Shadows of a Woman,Films,BR,pt,Elize: Sombras de uma Mulher,ok,2026-07-20,2026-07-26,1,2026-07-26,3256,36508,6,False,False,False
+T100,Companion,Films,BR,pt,Companion,ok,2026-07-20,2026-07-26,1,2026-07-20,172,4195,0,False,False,False
+T190,Take Shelter,Films,BR,pt,Take Shelter,ok,2026-07-27,2026-08-02,1,2026-08-02,143,1986,6,False,False,False
+T207,Elize Matsunaga: Once Upon a Crime,TV,BR,pt,Elize Matsunaga: Era Uma Vez um Crime,ok,2026-07-27,2026-08-02,6,2026-07-26,865,13231,-1,False,False,False
+T017,My Life With the Walter Boys,TV,BR,pt,My Life with the Walter Boys,ok,2026-08-03,2026-08-09,1,2026-08-08,217,3898,5,False,False,False
+T036,Spider-Man: Far from Home,Films,BR,pt,Homem-Aranha: Longe de Casa,ok,2026-08-03,2026-08-09,3,2026-08-02,2772,29030,-1,False,False,False
+T002,The Last House,Films,BR,pt,A Última Casa (2026),ok,2026-08-03,2026-08-09,1,2026-08-30,275,3974,27,False,False,False
+T071,What a Girl Wants,Films,BR,pt,What a Girl Wants (filme),ok,2026-08-10,2026-08-16,1,2026-08-16,255,2470,6,False,False,False
+T020,Outer Banks,TV,BR,pt,Outer Banks (série de televisão),ok,2026-08-17,2026-08-23,1,2026-08-23,399,8446,6,False,False,False
+T045,Seal Team,TV,BR,pt,SEAL Team,ok,2026-08-17,2026-08-23,1,2026-08-20,124,3466,3,False,False,False
+T337,Collateral Damage,Films,BR,pt,Collateral Damage,contested_kept,2026-08-17,2026-08-23,1,2026-08-23,67,1277,6,False,False,False
+T296,A Cinderella Story,Films,BR,pt,A Cinderella Story,ok,2026-08-17,2026-08-23,1,2026-08-23,91,2520,6,False,False,False
+T313,Here the Whole Time,Films,BR,pt,Quinze Dias,ok,2026-08-17,2026-08-23,1,2026-08-20,1437,15340,3,False,False,False
+T153,13 Minutes,Films,BR,pt,Elser – Er hätte die Welt verändert,contested_kept,2026-08-24,2026-08-30,1,2026-07-17,3,40,-38,False,False,False
+T139,Shrek,Films,BR,pt,Shrek,ok,2026-08-24,2026-08-30,5,2026-06-04,388,13945,-81,False,False,False
+T003,The Whisper Man,Films,BR,pt,The Whisper Man,ok,2026-08-24,2026-08-30,1,2026-09-06,6705,37788,13,False,False,False
+T284,Mickey 17,Films,BR,pt,Mickey 17,ok,2026-08-24,2026-08-30,1,2026-07-26,65,2511,-29,False,False,False
+T210,Shrek 2,Films,BR,pt,Shrek 2,ok,2026-08-31,2026-09-06,3,2026-06-04,361,5223,-88,False,False,False
+T354,Shrek Forever After,Films,BR,pt,Shrek para Sempre,ok,2026-08-31,2026-09-06,3,2026-06-17,132,4065,-75,False,False,False
+T008,Anacondas: Trail of Blood,Films,BR,pt,Anacondas: Trail of Blood,ok,2026-08-31,2026-09-06,1,2026-09-06,13,316,6,False,False,False
+T066,The Hard Corps,Films,BR,pt,The Hard Corps,ok,2026-08-31,2026-09-06,1,2026-09-06,21,246,6,False,False,False
+T214,Bee Movie,Films,BR,pt,Bee Movie,ok,2026-09-07,2026-09-13,3,2026-09-13,50,1842,6,False,False,False
+T050,Monster: The Lizzie Borden Story,TV,BR,pt,Monster: The Lizzie Borden Story,ok,2026-09-14,2026-09-20,1,2026-09-20,2350,10504,6,False,True,False
+T053,Gabby's Dollhouse,TV,BR,pt,A Casa Mágica da Gabby,ok,2026-09-14,2026-09-20,1,2026-09-14,36,1326,0,False,False,False
+T250,A Minecraft Movie,Films,BR,pt,Um Filme Minecraft,ok,2026-09-14,2026-09-20,1,2026-09-20,132,3627,6,False,True,False
+T362,Barbie in The Nutcracker,Films,BR,pt,Barbie and the Nutcracker,ok,2026-09-14,2026-09-20,1,2026-09-15,23,624,1,False,False,False

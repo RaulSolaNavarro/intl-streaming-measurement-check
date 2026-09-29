@@ -94,7 +94,23 @@ DROPPED_PAIRS_CSV = LOGS / "dropped_pairs.csv"
 CONTESTED_PAIRS_CSV = LOGS / "contested_pairs.csv"
 PHASE1_SUMMARY_MD = LOGS / "phase1_summary.md"
 
-for _d in (RAW, PROCESSED, LOGS, PAGEVIEWS_RAW_DIR):
+PHASE2_SUMMARY_MD = LOGS / "phase2_summary.md"
+
+# ---------------------------------------------------------------------------
+# BigQuery. Authentication uses Application Default Credentials (gcloud),
+# never a key file. The SQL files in /sql reference the dataset by its fully
+# qualified name so they can be pasted straight into the BigQuery console.
+# ---------------------------------------------------------------------------
+
+BQ_PROJECT = "intl-streaming-measurement"
+BQ_DATASET = "streaming_measurement"
+BQ_LOCATION = "US"
+SQL_DIR = ROOT / "sql"
+# Result tables are also exported here, because the BigQuery tables may not
+# persist long term and the report must render from files.
+BQ_EXPORT_DIR = PROCESSED / "bq"
+
+for _d in (RAW, PROCESSED, LOGS, PAGEVIEWS_RAW_DIR, BQ_EXPORT_DIR):
     _d.mkdir(parents=True, exist_ok=True)
 
 # ---------------------------------------------------------------------------

@@ -1,0 +1,1260 @@
+variant,title_id,show_title,category,market,week_start,week_end,netflix_rank,cumulative_weeks,lang,article,qid,match_method,match_status,views,n,netflix_rank_in_set,pageview_rank_in_set,netflix_rank_norm,pageview_rank_norm
+excl_contested_kept,T001,Agent Kim Reactivated,TV,DE,2026-06-29,2026-07-05,8,2,de,Agent Kim Reactivated,Q139553270,netflix_id,ok,6028,3,3,1.0,1.0,0.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,IT,2026-06-29,2026-07-05,8,2,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,3,2,3.0,0.5,1.0
+all,T001,Agent Kim Reactivated,TV,FR,2026-06-29,2026-07-05,6,2,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,5,3,5.0,0.5,1.0
+all,T001,Agent Kim Reactivated,TV,DE,2026-06-29,2026-07-05,8,2,de,Agent Kim Reactivated,Q139553270,netflix_id,ok,6028,4,4,2.0,1.0,0.3333333333333333
+excl_contested_kept,T001,Agent Kim Reactivated,TV,FR,2026-06-29,2026-07-05,6,2,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,4,2,4.0,0.3333333333333333,1.0
+all,T001,Agent Kim Reactivated,TV,IT,2026-06-29,2026-07-05,8,2,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,4,3,4.0,0.6666666666666666,1.0
+all,T104,Angel Eyes,Films,FR,2026-06-29,2026-07-05,5,1,fr,"Angel Eyes (film, 2001)",Q531675,netflix_id,contested_kept,3612,7,4,3.0,0.5,0.3333333333333333
+all,T104,Angel Eyes,Films,IT,2026-06-29,2026-07-05,7,1,it,Angel Eyes - Occhi d'angelo,Q531675,netflix_id,contested_kept,3496,7,5,3.0,0.6666666666666666,0.3333333333333333
+all,T024,Avatar: The Last Airbender,TV,IT,2026-06-29,2026-07-05,4,2,it,Avatar - La leggenda di Aang (serie televisiva),Q109608844,netflix_id_tiebreak,contested_kept,8560,4,1,2.0,0.0,0.3333333333333333
+all,T024,Avatar: The Last Airbender,TV,DE,2026-06-29,2026-07-05,2,8,de,Avatar – Der Herr der Elemente (2024),Q109608844,netflix_id_tiebreak,contested_kept,19688,4,2,1.0,0.3333333333333333,0.0
+all,T024,Avatar: The Last Airbender,TV,FR,2026-06-29,2026-07-05,2,5,fr,"Avatar, le dernier maître de l'air (série télévisée)",Q109608844,netflix_id_tiebreak,contested_kept,13405,5,2,2.0,0.25,0.25
+all,T024,Avatar: The Last Airbender,TV,BR,2026-06-29,2026-07-05,2,7,pt,Avatar: The Last Airbender (série de televisão),Q109608844,netflix_id_tiebreak,contested_kept,0,1,1,1.0,,
+all,T269,Bride Hard,Films,DE,2026-06-29,2026-07-05,5,1,de,Bride Hard,Q124289803,label_unique,ok,2773,7,3,6.0,0.3333333333333333,0.8333333333333334
+excl_contested_kept,T269,Bride Hard,Films,DE,2026-06-29,2026-07-05,5,1,de,Bride Hard,Q124289803,label_unique,ok,2773,6,3,5.0,0.4,0.8
+excl_contested_kept,T208,Manitou's Canoe,Films,DE,2026-06-29,2026-07-05,6,3,de,Das Kanu des Manitu,Q128708059,label_unique,ok,9309,6,4,2.0,0.6,0.2
+all,T208,Manitou's Canoe,Films,DE,2026-06-29,2026-07-05,6,3,de,Das Kanu des Manitu,Q128708059,label_unique,ok,9309,7,4,3.0,0.5,0.3333333333333333
+all,T005,Enola Holmes 3,Films,IT,2026-06-29,2026-07-05,1,1,it,Enola Holmes 3,Q133876041,label_unique,ok,2862,7,1,5.0,0.0,0.6666666666666666
+excl_contested_kept,T005,Enola Holmes 3,Films,FR,2026-06-29,2026-07-05,1,1,fr,Enola Holmes 3,Q133876041,label_unique,ok,14936,5,1,1.0,0.0,0.0
+all,T005,Enola Holmes 3,Films,FR,2026-06-29,2026-07-05,1,1,fr,Enola Holmes 3,Q133876041,label_unique,ok,14936,7,1,1.0,0.0,0.0
+excl_contested_kept,T005,Enola Holmes 3,Films,IT,2026-06-29,2026-07-05,1,1,it,Enola Holmes 3,Q133876041,label_unique,ok,2862,5,1,4.0,0.0,0.75
+all,T215,Ghost Ship,Films,DE,2026-06-29,2026-07-05,7,1,de,Ghost Ship,Q1356265,netflix_id,contested_kept,12395,7,5,2.0,0.6666666666666666,0.16666666666666666
+all,T172,Infinite,Films,DE,2026-06-29,2026-07-05,2,1,de,Infinite – Lebe unendlich,Q64067920,netflix_id,ok,8893,7,1,4.0,0.0,0.5
+excl_contested_kept,T172,Infinite,Films,DE,2026-06-29,2026-07-05,2,1,de,Infinite – Lebe unendlich,Q64067920,netflix_id,ok,8893,6,1,3.0,0.0,0.4
+all,T365,KPop Demon Hunters,Films,FR,2026-06-29,2026-07-05,10,43,fr,KPop Demon Hunters,Q130268157,netflix_id,ok,2089,7,7,4.0,1.0,0.5
+excl_contested_kept,T365,KPop Demon Hunters,Films,FR,2026-06-29,2026-07-05,10,43,fr,KPop Demon Hunters,Q130268157,netflix_id,ok,2089,5,5,3.0,1.0,0.5
+all,T109,Night at the Museum,Films,FR,2026-06-29,2026-07-05,7,1,fr,La Nuit au musée,Q387601,netflix_id,ok,2064,7,5,5.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T109,Night at the Museum,Films,FR,2026-06-29,2026-07-05,7,1,fr,La Nuit au musée,Q387601,netflix_id,ok,2064,5,3,4.0,0.5,0.75
+excl_contested_kept,T316,Lavoreremo da Grandi,Films,IT,2026-06-29,2026-07-05,8,2,it,Lavoreremo da grandi,Q138012622,label_unique,ok,8478,5,4,2.0,0.75,0.25
+all,T316,Lavoreremo da Grandi,Films,IT,2026-06-29,2026-07-05,8,2,it,Lavoreremo da grandi,Q138012622,label_unique,ok,8478,7,6,2.0,0.8333333333333334,0.16666666666666666
+excl_contested_kept,T021,Voicemails for Isabelle,Films,IT,2026-06-29,2026-07-05,2,3,it,Messaggi per Isabelle,Q139665886,netflix_id,ok,10514,5,2,1.0,0.25,0.0
+all,T021,Voicemails for Isabelle,Films,IT,2026-06-29,2026-07-05,2,3,it,Messaggi per Isabelle,Q139665886,netflix_id,ok,10514,7,2,1.0,0.16666666666666666,0.0
+all,T009,I Will Find You,TV,DE,2026-06-29,2026-07-05,1,3,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,1,4.0,0.0,1.0
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-06-29,2026-07-05,1,3,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,3,1,3.0,0.0,1.0
+all,T025,Teach You a Lesson,TV,FR,2026-06-29,2026-07-05,8,4,fr,Que ça vous serve de leçon !,Q137844128,netflix_id,ok,8241,5,4,3.0,0.75,0.5
+excl_contested_kept,T025,Teach You a Lesson,TV,FR,2026-06-29,2026-07-05,8,4,fr,Que ça vous serve de leçon !,Q137844128,netflix_id,ok,8241,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T228,Seven,Films,FR,2026-06-29,2026-07-05,9,1,fr,Seven (film),Q190908,netflix_id,ok,7337,5,4,2.0,0.75,0.25
+all,T228,Seven,Films,FR,2026-06-29,2026-07-05,9,1,fr,Seven (film),Q190908,netflix_id,ok,7337,7,6,2.0,0.8333333333333334,0.16666666666666666
+all,T021,Voicemails for Isabelle,Films,FR,2026-06-29,2026-07-05,3,3,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,0,7,2,7.0,0.16666666666666666,1.0
+excl_contested_kept,T021,Voicemails for Isabelle,Films,FR,2026-06-29,2026-07-05,3,3,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,0,5,2,5.0,0.25,1.0
+all,T065,Sonic the Hedgehog 3,Films,IT,2026-06-29,2026-07-05,4,1,it,Sonic 3 - Il film,Q115859490,label_unique,ok,1526,7,3,6.0,0.3333333333333333,0.8333333333333334
+excl_contested_kept,T065,Sonic the Hedgehog 3,Films,IT,2026-06-29,2026-07-05,4,1,it,Sonic 3 - Il film,Q115859490,label_unique,ok,1526,5,3,5.0,0.5,1.0
+all,T065,Sonic the Hedgehog 3,Films,DE,2026-06-29,2026-07-05,8,1,de,Sonic the Hedgehog 3 (Film),Q115859490,label_unique,ok,1800,7,6,7.0,0.8333333333333334,1.0
+excl_contested_kept,T065,Sonic the Hedgehog 3,Films,DE,2026-06-29,2026-07-05,8,1,de,Sonic the Hedgehog 3 (Film),Q115859490,label_unique,ok,1800,6,5,6.0,0.8,1.0
+all,T348,My Family,TV,IT,2026-06-29,2026-07-05,9,4,it,Storia della mia famiglia,Q132157115,netflix_id,ok,8970,4,4,1.0,1.0,0.0
+excl_contested_kept,T348,My Family,TV,IT,2026-06-29,2026-07-05,9,4,it,Storia della mia famiglia,Q132157115,netflix_id,ok,8970,3,3,1.0,1.0,0.0
+excl_contested_kept,T082,Sullivan's Crossing,TV,IT,2026-06-29,2026-07-05,5,1,it,Sullivan's Crossing,Q117471709,netflix_id,ok,5874,3,1,2.0,0.0,0.5
+all,T082,Sullivan's Crossing,TV,IT,2026-06-29,2026-07-05,5,1,it,Sullivan's Crossing,Q117471709,netflix_id,ok,5874,4,2,3.0,0.3333333333333333,0.6666666666666666
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-06-29,2026-07-05,1,3,fr,Sur tes traces,Q134412018,netflix_id,ok,33161,4,1,1.0,0.0,0.0
+all,T009,I Will Find You,TV,FR,2026-06-29,2026-07-05,1,3,fr,Sur tes traces,Q134412018,netflix_id,ok,33161,5,1,1.0,0.0,0.0
+excl_contested_kept,T129,Swapped,Films,BR,2026-06-29,2026-07-05,9,10,pt,Swapped,Q126709560,netflix_id,ok,205,1,1,1.0,,
+all,T129,Swapped,Films,BR,2026-06-29,2026-07-05,9,10,pt,Swapped,Q126709560,netflix_id,ok,205,1,1,1.0,,
+all,T218,TESTO,TV,DE,2026-06-29,2026-07-05,7,1,de,Testo (Fernsehserie),Q124426018,label_unique,ok,4693,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T218,TESTO,TV,DE,2026-06-29,2026-07-05,7,1,de,Testo (Fernsehserie),Q124426018,label_unique,ok,4693,3,2,2.0,0.5,0.5
+all,T103,The Contractor,Films,FR,2026-06-29,2026-07-05,4,1,fr,The Contractor,Q2300207,netflix_id,contested_kept,1464,7,3,6.0,0.3333333333333333,0.8333333333333334
+all,T103,The Contractor,Films,IT,2026-06-29,2026-07-05,6,1,it,The Contractor - Rischio supremo,Q2300207,netflix_id,contested_kept,840,7,4,7.0,0.5,1.0
+excl_contested_kept,T087,The Polygamist,TV,FR,2026-06-29,2026-07-05,10,3,fr,The Polygamist,Q139817566,netflix_id,ok,5993,4,4,3.0,1.0,0.6666666666666666
+all,T087,The Polygamist,TV,FR,2026-06-29,2026-07-05,10,3,fr,The Polygamist,Q139817566,netflix_id,ok,5993,5,5,4.0,1.0,0.75
+excl_contested_kept,T109,Night at the Museum,Films,IT,2026-06-29,2026-07-05,10,1,it,Una notte al museo,Q387601,netflix_id,ok,3284,5,5,3.0,1.0,0.5
+all,T109,Night at the Museum,Films,IT,2026-06-29,2026-07-05,10,1,it,Una notte al museo,Q387601,netflix_id,ok,3284,7,7,4.0,1.0,0.5
+excl_contested_kept,T115,Vivant,TV,JP,2026-06-29,2026-07-05,4,6,ja,VIVANT,Q116919744,netflix_id,ok,104988,5,3,1.0,0.5,0.0
+all,T115,Vivant,TV,JP,2026-06-29,2026-07-05,4,6,ja,VIVANT,Q116919744,netflix_id,ok,104988,5,3,1.0,0.5,0.0
+excl_contested_kept,T021,Voicemails for Isabelle,Films,DE,2026-06-29,2026-07-05,3,3,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,13085,6,2,1.0,0.2,0.0
+all,T021,Voicemails for Isabelle,Films,DE,2026-06-29,2026-07-05,3,3,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,13085,7,2,1.0,0.16666666666666666,0.0
+excl_contested_kept,T339,Dog 51,Films,DE,2026-06-29,2026-07-05,9,2,de,Zone 3,Q127602909,label_unique,ok,2774,6,6,4.0,1.0,0.6
+all,T339,Dog 51,Films,DE,2026-06-29,2026-07-05,9,2,de,Zone 3,Q127602909,label_unique,ok,2774,7,7,5.0,1.0,0.6666666666666666
+all,T110,Into the Blue,Films,JP,2026-06-29,2026-07-05,8,1,ja,イントゥ・ザ・ブルー,Q1130297,netflix_id,contested_kept,1276,2,2,1.0,1.0,0.0
+excl_contested_kept,T005,Enola Holmes 3,Films,JP,2026-06-29,2026-07-05,2,1,ja,エノーラ・ホームズの事件簿3,Q133876041,label_unique,ok,0,1,1,1.0,,
+all,T005,Enola Holmes 3,Films,JP,2026-06-29,2026-07-05,2,1,ja,エノーラ・ホームズの事件簿3,Q133876041,label_unique,ok,0,2,1,2.0,0.0,1.0
+excl_contested_kept,T076,Human Vapor,TV,JP,2026-06-29,2026-07-05,1,1,ja,ガス人間,Q136735821,netflix_id,ok,3717,5,1,3.0,0.0,0.5
+all,T076,Human Vapor,TV,JP,2026-06-29,2026-07-05,1,1,ja,ガス人間,Q136735821,netflix_id,ok,3717,5,1,3.0,0.0,0.5
+excl_contested_kept,T220,That Time I Got Reincarnated as a Slime,TV,JP,2026-06-29,2026-07-05,7,13,ja,転生したらスライムだった件 (アニメ),Q61779950,netflix_id,ok,16855,5,4,2.0,0.75,0.25
+all,T220,That Time I Got Reincarnated as a Slime,TV,JP,2026-06-29,2026-07-05,7,13,ja,転生したらスライムだった件 (アニメ),Q61779950,netflix_id,ok,16855,5,4,2.0,0.75,0.25
+all,T025,Teach You a Lesson,TV,JP,2026-06-29,2026-07-05,3,5,ja,鉄槌教師,Q137844128,netflix_id,ok,68,5,2,5.0,0.25,1.0
+excl_contested_kept,T025,Teach You a Lesson,TV,JP,2026-06-29,2026-07-05,3,5,ja,鉄槌教師,Q137844128,netflix_id,ok,68,5,2,5.0,0.25,1.0
+excl_contested_kept,T356,The Haunted Palace,TV,JP,2026-06-29,2026-07-05,9,1,ja,鬼宮,Q126679425,netflix_id,ok,712,5,5,4.0,1.0,0.75
+all,T356,The Haunted Palace,TV,JP,2026-06-29,2026-07-05,9,1,ja,鬼宮,Q126679425,netflix_id,ok,712,5,5,4.0,1.0,0.75
+excl_contested_kept,T076,Human Vapor,TV,KR,2026-06-29,2026-07-05,5,1,ko,가스인간,Q136735821,netflix_id,ok,841,6,4,5.0,0.6,0.8
+all,T076,Human Vapor,TV,KR,2026-06-29,2026-07-05,5,1,ko,가스인간,Q136735821,netflix_id,ok,841,6,4,5.0,0.6,0.8
+excl_contested_kept,T217,Mercy For None,TV,KR,2026-06-29,2026-07-05,9,7,ko,광장 (2025년 드라마),Q123305848,netflix_id,ok,439,6,6,6.0,1.0,1.0
+all,T217,Mercy For None,TV,KR,2026-06-29,2026-07-05,9,7,ko,광장 (2025년 드라마),Q123305848,netflix_id,ok,439,6,6,6.0,1.0,1.0
+all,T001,Agent Kim Reactivated,TV,KR,2026-06-29,2026-07-05,1,2,ko,김부장,Q139553270,netflix_id,ok,20634,6,1,1.0,0.0,0.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,KR,2026-06-29,2026-07-05,1,2,ko,김부장,Q139553270,netflix_id,ok,20634,6,1,1.0,0.0,0.0
+excl_contested_kept,T077,Husbands in Action,Films,KR,2026-06-29,2026-07-05,1,3,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,140,2,1,1.0,0.0,0.0
+all,T077,Husbands in Action,Films,KR,2026-06-29,2026-07-05,1,3,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,140,3,1,1.0,0.0,0.0
+excl_contested_kept,T085,Notes from the Last Row,TV,KR,2026-06-29,2026-07-05,2,2,ko,맨 끝줄 소년 (드라마),Q137836165,netflix_id,ok,7953,6,2,2.0,0.2,0.2
+all,T085,Notes from the Last Row,TV,KR,2026-06-29,2026-07-05,2,2,ko,맨 끝줄 소년 (드라마),Q137836165,netflix_id,ok,7953,6,2,2.0,0.2,0.2
+excl_contested_kept,T303,My Royal Nemesis,TV,KR,2026-06-29,2026-07-05,7,9,ko,멋진 신세계 (드라마),Q136763742,netflix_id,ok,1228,6,5,4.0,0.8,0.6
+all,T303,My Royal Nemesis,TV,KR,2026-06-29,2026-07-05,7,9,ko,멋진 신세계 (드라마),Q136763742,netflix_id,ok,1228,6,5,4.0,0.8,0.6
+all,T110,Into the Blue,Films,KR,2026-06-29,2026-07-05,10,1,ko,블루 스톰,Q1130297,netflix_id,contested_kept,85,3,3,2.0,1.0,0.5
+all,T005,Enola Holmes 3,Films,KR,2026-06-29,2026-07-05,3,1,ko,에놀라 홈즈 3,Q133876041,label_unique,ok,0,3,2,3.0,0.5,1.0
+excl_contested_kept,T005,Enola Holmes 3,Films,KR,2026-06-29,2026-07-05,3,1,ko,에놀라 홈즈 3,Q133876041,label_unique,ok,0,2,2,2.0,1.0,1.0
+excl_contested_kept,T025,Teach You a Lesson,TV,KR,2026-06-29,2026-07-05,3,5,ko,참교육,Q137844128,netflix_id,ok,2635,6,3,3.0,0.4,0.4
+all,T025,Teach You a Lesson,TV,KR,2026-06-29,2026-07-05,3,5,ko,참교육,Q137844128,netflix_id,ok,2635,6,3,3.0,0.4,0.4
+excl_contested_kept,T248,22 Bahnen,Films,DE,2026-07-06,2026-07-12,4,1,de,22 Bahnen,Q134695973,label_unique,ok,17714,5,2,1.0,0.25,0.0
+all,T248,22 Bahnen,Films,DE,2026-07-06,2026-07-12,4,1,de,22 Bahnen,Q134695973,label_unique,ok,17714,6,2,1.0,0.2,0.0
+all,T001,Agent Kim Reactivated,TV,IT,2026-07-06,2026-07-12,9,3,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,4,4,4.0,1.0,1.0
+all,T001,Agent Kim Reactivated,TV,DE,2026-07-06,2026-07-12,9,3,de,Agent Kim Reactivated,Q139553270,netflix_id,ok,6216,5,5,3.0,1.0,0.5
+excl_contested_kept,T001,Agent Kim Reactivated,TV,FR,2026-07-06,2026-07-12,5,3,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,166,4,3,4.0,0.6666666666666666,1.0
+all,T001,Agent Kim Reactivated,TV,FR,2026-07-06,2026-07-12,5,3,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,166,5,3,5.0,0.5,1.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,IT,2026-07-06,2026-07-12,9,3,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,3,3,3.0,1.0,1.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,DE,2026-07-06,2026-07-12,9,3,de,Agent Kim Reactivated,Q139553270,netflix_id,ok,6216,4,4,2.0,1.0,0.3333333333333333
+all,T091,Anora,Films,IT,2026-07-06,2026-07-12,3,1,it,Anora,Q123185887,netflix_id,contested_kept,18372,6,2,1.0,0.2,0.0
+all,T024,Avatar: The Last Airbender,TV,IT,2026-07-06,2026-07-12,8,3,it,Avatar - La leggenda di Aang (serie televisiva),Q109608844,netflix_id_tiebreak,contested_kept,5227,4,3,1.0,0.6666666666666666,0.0
+all,T024,Avatar: The Last Airbender,TV,DE,2026-07-06,2026-07-12,2,3,de,Avatar – Der Herr der Elemente (2024),Q109608844,netflix_id_tiebreak,contested_kept,12275,5,2,2.0,0.25,0.25
+all,T024,Avatar: The Last Airbender,TV,FR,2026-07-06,2026-07-12,6,3,fr,"Avatar, le dernier maître de l'air (série télévisée)",Q109608844,netflix_id_tiebreak,contested_kept,8890,5,4,3.0,0.75,0.5
+all,T024,Avatar: The Last Airbender,TV,BR,2026-07-06,2026-07-12,3,8,pt,Avatar: The Last Airbender (série de televisão),Q109608844,netflix_id_tiebreak,contested_kept,0,1,1,1.0,,
+excl_contested_kept,T268,Blood and Bone,Films,IT,2026-07-06,2026-07-12,5,3,it,Blood and Bone,Q885161,netflix_id,ok,1138,5,3,4.0,0.5,0.75
+all,T268,Blood and Bone,Films,IT,2026-07-06,2026-07-12,5,3,it,Blood and Bone,Q885161,netflix_id,ok,1138,6,4,5.0,0.6,0.8
+all,T208,Manitou's Canoe,Films,DE,2026-07-06,2026-07-12,8,4,de,Das Kanu des Manitu,Q128708059,label_unique,ok,7370,6,5,4.0,0.8,0.6
+excl_contested_kept,T208,Manitou's Canoe,Films,DE,2026-07-06,2026-07-12,8,4,de,Das Kanu des Manitu,Q128708059,label_unique,ok,7370,5,5,3.0,1.0,0.5
+all,T005,Enola Holmes 3,Films,FR,2026-07-06,2026-07-12,2,2,fr,Enola Holmes 3,Q133876041,label_unique,ok,8372,5,1,1.0,0.0,0.0
+excl_contested_kept,T005,Enola Holmes 3,Films,FR,2026-07-06,2026-07-12,2,2,fr,Enola Holmes 3,Q133876041,label_unique,ok,8372,5,1,1.0,0.0,0.0
+excl_contested_kept,T005,Enola Holmes 3,Films,IT,2026-07-06,2026-07-12,1,2,it,Enola Holmes 3,Q133876041,label_unique,ok,6289,5,1,2.0,0.0,0.25
+all,T005,Enola Holmes 3,Films,IT,2026-07-06,2026-07-12,1,2,it,Enola Holmes 3,Q133876041,label_unique,ok,6289,6,1,3.0,0.0,0.4
+all,T281,F9: The Fast Saga,Films,DE,2026-07-06,2026-07-12,6,1,de,Fast & Furious 9,Q29466808,netflix_id,ok,2311,6,4,6.0,0.6,1.0
+excl_contested_kept,T281,F9: The Fast Saga,Films,DE,2026-07-06,2026-07-12,6,1,de,Fast & Furious 9,Q29466808,netflix_id,ok,2311,5,4,5.0,0.75,1.0
+all,T215,Ghost Ship,Films,DE,2026-07-06,2026-07-12,9,2,de,Ghost Ship,Q1356265,netflix_id,contested_kept,11695,6,6,2.0,1.0,0.2
+all,T195,Il Bene Comune,Films,IT,2026-07-06,2026-07-12,4,1,it,Il bene comune,Q138659874,label_unique,ok,13186,6,3,2.0,0.4,0.2
+excl_contested_kept,T195,Il Bene Comune,Films,IT,2026-07-06,2026-07-12,4,1,it,Il bene comune,Q138659874,label_unique,ok,13186,5,2,1.0,0.25,0.0
+excl_contested_kept,T172,Infinite,Films,DE,2026-07-06,2026-07-12,5,2,de,Infinite – Lebe unendlich,Q64067920,netflix_id,ok,4503,5,3,4.0,0.5,0.75
+all,T172,Infinite,Films,DE,2026-07-06,2026-07-12,5,2,de,Infinite – Lebe unendlich,Q64067920,netflix_id,ok,4503,6,3,5.0,0.4,0.8
+excl_contested_kept,T216,Killer Elite,Films,BR,2026-07-06,2026-07-12,9,1,pt,Killer Elite,Q1320416,netflix_id,ok,91,4,4,4.0,1.0,1.0
+all,T216,Killer Elite,Films,BR,2026-07-06,2026-07-12,9,1,pt,Killer Elite,Q1320416,netflix_id,ok,91,4,4,4.0,1.0,1.0
+all,T023,Little House on the Prairie,TV,FR,2026-07-06,2026-07-12,2,1,fr,"La Petite Maison dans la prairie (série télévisée, 2026)",Q132521516,netflix_id,ok,11205,5,2,2.0,0.25,0.25
+excl_contested_kept,T023,Little House on the Prairie,TV,FR,2026-07-06,2026-07-12,2,1,fr,"La Petite Maison dans la prairie (série télévisée, 2026)",Q132521516,netflix_id,ok,11205,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T023,Little House on the Prairie,TV,IT,2026-07-06,2026-07-12,4,1,it,La casa nella prateria (serie televisiva 2026),Q132521516,netflix_id,ok,4229,4,1,3.0,0.0,0.6666666666666666
+excl_contested_kept,T023,Little House on the Prairie,TV,IT,2026-07-06,2026-07-12,4,1,it,La casa nella prateria (serie televisiva 2026),Q132521516,netflix_id,ok,4229,3,1,2.0,0.0,0.5
+excl_contested_kept,T090,Meg 2: The Trench,Films,BR,2026-07-06,2026-07-12,5,1,pt,Meg 2: The Trench,Q110842446,label_unique,ok,118,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T090,Meg 2: The Trench,Films,BR,2026-07-06,2026-07-12,5,1,pt,Meg 2: The Trench,Q110842446,label_unique,ok,118,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T021,Voicemails for Isabelle,Films,IT,2026-07-06,2026-07-12,7,4,it,Messaggi per Isabelle,Q139665886,netflix_id,ok,4911,5,4,3.0,0.75,0.5
+all,T021,Voicemails for Isabelle,Films,IT,2026-07-06,2026-07-12,7,4,it,Messaggi per Isabelle,Q139665886,netflix_id,ok,4911,6,5,4.0,0.8,0.6
+all,T009,I Will Find You,TV,DE,2026-07-06,2026-07-12,1,4,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,5,1,5.0,0.0,1.0
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-07-06,2026-07-12,1,4,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,1,4.0,0.0,1.0
+all,T351,Presidents,Films,FR,2026-07-06,2026-07-12,9,1,fr,Présidents,Q102178337,label_unique,ok,5856,5,4,3.0,0.75,0.5
+excl_contested_kept,T351,Presidents,Films,FR,2026-07-06,2026-07-12,9,1,fr,Présidents,Q102178337,label_unique,ok,5856,5,4,3.0,0.75,0.5
+all,T025,Teach You a Lesson,TV,FR,2026-07-06,2026-07-12,8,5,fr,Que ça vous serve de leçon !,Q137844128,netflix_id,ok,6855,5,5,4.0,1.0,0.75
+excl_contested_kept,T025,Teach You a Lesson,TV,FR,2026-07-06,2026-07-12,8,5,fr,Que ça vous serve de leçon !,Q137844128,netflix_id,ok,6855,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T241,Rust Creek,Films,BR,2026-07-06,2026-07-12,2,1,pt,Rust Creek,Q59351164,netflix_id,ok,205,4,1,2.0,0.0,0.3333333333333333
+all,T241,Rust Creek,Films,BR,2026-07-06,2026-07-12,2,1,pt,Rust Creek,Q59351164,netflix_id,ok,205,4,1,2.0,0.0,0.3333333333333333
+all,T228,Seven,Films,FR,2026-07-06,2026-07-12,10,2,fr,Seven (film),Q190908,netflix_id,ok,7511,5,5,2.0,1.0,0.25
+excl_contested_kept,T228,Seven,Films,FR,2026-07-06,2026-07-12,10,2,fr,Seven (film),Q190908,netflix_id,ok,7511,5,5,2.0,1.0,0.25
+excl_contested_kept,T021,Voicemails for Isabelle,Films,FR,2026-07-06,2026-07-12,4,4,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,0,5,2,5.0,0.25,1.0
+all,T021,Voicemails for Isabelle,Films,FR,2026-07-06,2026-07-12,4,4,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,0,5,2,5.0,0.25,1.0
+excl_contested_kept,T065,Sonic the Hedgehog 3,Films,IT,2026-07-06,2026-07-12,9,2,it,Sonic 3 - Il film,Q115859490,label_unique,ok,1135,5,5,5.0,1.0,1.0
+all,T065,Sonic the Hedgehog 3,Films,IT,2026-07-06,2026-07-12,9,2,it,Sonic 3 - Il film,Q115859490,label_unique,ok,1135,6,6,6.0,1.0,1.0
+all,T082,Sullivan's Crossing,TV,IT,2026-07-06,2026-07-12,5,2,it,Sullivan's Crossing,Q117471709,netflix_id,ok,5149,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T082,Sullivan's Crossing,TV,IT,2026-07-06,2026-07-12,5,2,it,Sullivan's Crossing,Q117471709,netflix_id,ok,5149,3,2,1.0,0.5,0.0
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-07-06,2026-07-12,1,4,fr,Sur tes traces,Q134412018,netflix_id,ok,22658,4,1,1.0,0.0,0.0
+all,T009,I Will Find You,TV,FR,2026-07-06,2026-07-12,1,4,fr,Sur tes traces,Q134412018,netflix_id,ok,22658,5,1,1.0,0.0,0.0
+excl_contested_kept,T218,TESTO,TV,DE,2026-07-06,2026-07-12,7,2,de,Testo (Fernsehserie),Q124426018,label_unique,ok,5144,4,2,3.0,0.3333333333333333,0.6666666666666666
+all,T218,TESTO,TV,DE,2026-07-06,2026-07-12,7,2,de,Testo (Fernsehserie),Q124426018,label_unique,ok,5144,5,3,4.0,0.5,0.75
+all,T136,The Rookie,TV,DE,2026-07-06,2026-07-12,8,1,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,18519,5,4,1.0,0.75,0.0
+excl_contested_kept,T136,The Rookie,TV,DE,2026-07-06,2026-07-12,8,1,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,18519,4,3,1.0,0.6666666666666666,0.0
+excl_contested_kept,T093,The Wild Robot,Films,BR,2026-07-06,2026-07-12,3,1,pt,The Wild Robot,Q124378349,label_unique,ok,529,4,2,1.0,0.3333333333333333,0.0
+all,T093,The Wild Robot,Films,BR,2026-07-06,2026-07-12,3,1,pt,The Wild Robot,Q124378349,label_unique,ok,529,4,2,1.0,0.3333333333333333,0.0
+all,T293,The Woman in the Yard,Films,FR,2026-07-06,2026-07-12,6,1,fr,The Woman in the Yard,Q125678238,label_unique,ok,5355,5,3,4.0,0.5,0.75
+excl_contested_kept,T293,The Woman in the Yard,Films,FR,2026-07-06,2026-07-12,6,1,fr,The Woman in the Yard,Q125678238,label_unique,ok,5355,5,3,4.0,0.5,0.75
+all,T114,Until the T-shirt Dries,TV,JP,2026-07-06,2026-07-12,5,1,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,87717,5,2,2.0,0.25,0.25
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-07-06,2026-07-12,5,1,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,87717,5,2,2.0,0.25,0.25
+all,T115,Vivant,TV,JP,2026-07-06,2026-07-12,7,7,ja,VIVANT,Q116919744,netflix_id,ok,108085,5,4,1.0,0.75,0.0
+excl_contested_kept,T115,Vivant,TV,JP,2026-07-06,2026-07-12,7,7,ja,VIVANT,Q116919744,netflix_id,ok,108085,5,4,1.0,0.75,0.0
+excl_contested_kept,T021,Voicemails for Isabelle,Films,DE,2026-07-06,2026-07-12,2,4,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,8426,5,1,2.0,0.0,0.25
+all,T021,Voicemails for Isabelle,Films,DE,2026-07-06,2026-07-12,2,4,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,8426,6,1,3.0,0.0,0.4
+all,T005,Enola Holmes 3,Films,JP,2026-07-06,2026-07-12,7,2,ja,エノーラ・ホームズの事件簿3,Q133876041,label_unique,ok,0,1,1,1.0,,
+excl_contested_kept,T005,Enola Holmes 3,Films,JP,2026-07-06,2026-07-12,7,2,ja,エノーラ・ホームズの事件簿3,Q133876041,label_unique,ok,0,1,1,1.0,,
+all,T076,Human Vapor,TV,JP,2026-07-06,2026-07-12,1,2,ja,ガス人間,Q136735821,netflix_id,ok,6472,5,1,5.0,0.0,1.0
+excl_contested_kept,T076,Human Vapor,TV,JP,2026-07-06,2026-07-12,1,2,ja,ガス人間,Q136735821,netflix_id,ok,6472,5,1,5.0,0.0,1.0
+excl_contested_kept,T220,That Time I Got Reincarnated as a Slime,TV,JP,2026-07-06,2026-07-12,10,14,ja,転生したらスライムだった件 (アニメ),Q61779950,netflix_id,ok,14112,5,5,3.0,1.0,0.5
+all,T220,That Time I Got Reincarnated as a Slime,TV,JP,2026-07-06,2026-07-12,10,14,ja,転生したらスライムだった件 (アニメ),Q61779950,netflix_id,ok,14112,5,5,3.0,1.0,0.5
+excl_contested_kept,T025,Teach You a Lesson,TV,JP,2026-07-06,2026-07-12,6,6,ja,鉄槌教師,Q137844128,netflix_id,ok,11655,5,3,4.0,0.5,0.75
+all,T025,Teach You a Lesson,TV,JP,2026-07-06,2026-07-12,6,6,ja,鉄槌教師,Q137844128,netflix_id,ok,11655,5,3,4.0,0.5,0.75
+excl_contested_kept,T076,Human Vapor,TV,KR,2026-07-06,2026-07-12,6,2,ko,가스인간,Q136735821,netflix_id,ok,681,6,5,5.0,0.8,0.8
+all,T076,Human Vapor,TV,KR,2026-07-06,2026-07-12,6,2,ko,가스인간,Q136735821,netflix_id,ok,681,6,5,5.0,0.8,0.8
+excl_contested_kept,T217,Mercy For None,TV,KR,2026-07-06,2026-07-12,7,8,ko,광장 (2025년 드라마),Q123305848,netflix_id,ok,612,6,6,6.0,1.0,1.0
+all,T217,Mercy For None,TV,KR,2026-07-06,2026-07-12,7,8,ko,광장 (2025년 드라마),Q123305848,netflix_id,ok,612,6,6,6.0,1.0,1.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,KR,2026-07-06,2026-07-12,1,3,ko,김부장,Q139553270,netflix_id,ok,17749,6,1,1.0,0.0,0.0
+all,T001,Agent Kim Reactivated,TV,KR,2026-07-06,2026-07-12,1,3,ko,김부장,Q139553270,netflix_id,ok,17749,6,1,1.0,0.0,0.0
+excl_contested_kept,T077,Husbands in Action,Films,KR,2026-07-06,2026-07-12,8,4,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,90,6,4,3.0,0.6,0.4
+all,T077,Husbands in Action,Films,KR,2026-07-06,2026-07-12,8,4,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,90,6,4,3.0,0.6,0.4
+all,T152,Lobby,Films,KR,2026-07-06,2026-07-12,6,1,ko,로비 (영화),Q133819698,label_unique,ok,230,6,2,1.0,0.2,0.0
+excl_contested_kept,T152,Lobby,Films,KR,2026-07-06,2026-07-12,6,1,ko,로비 (영화),Q133819698,label_unique,ok,230,6,2,1.0,0.2,0.0
+all,T085,Notes from the Last Row,TV,KR,2026-07-06,2026-07-12,5,3,ko,맨 끝줄 소년 (드라마),Q137836165,netflix_id,ok,5348,6,4,2.0,0.6,0.2
+excl_contested_kept,T085,Notes from the Last Row,TV,KR,2026-07-06,2026-07-12,5,3,ko,맨 끝줄 소년 (드라마),Q137836165,netflix_id,ok,5348,6,4,2.0,0.6,0.2
+excl_contested_kept,T221,The Noisy Mansion,Films,KR,2026-07-06,2026-07-12,7,1,ko,백수아파트,Q132153221,label_unique,ok,64,6,3,5.0,0.4,0.8
+all,T221,The Noisy Mansion,Films,KR,2026-07-06,2026-07-12,7,1,ko,백수아파트,Q132153221,label_unique,ok,64,6,3,5.0,0.4,0.8
+all,T161,People and Meat,Films,KR,2026-07-06,2026-07-12,4,1,ko,사람과 고기,Q136325017,label_unique,ok,85,6,1,4.0,0.0,0.6
+excl_contested_kept,T161,People and Meat,Films,KR,2026-07-06,2026-07-12,4,1,ko,사람과 고기,Q136325017,label_unique,ok,85,6,1,4.0,0.0,0.6
+excl_contested_kept,T123,The Apartment Job,TV,KR,2026-07-06,2026-07-12,3,1,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,4869,6,2,3.0,0.2,0.4
+all,T123,The Apartment Job,TV,KR,2026-07-06,2026-07-12,3,1,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,4869,6,2,3.0,0.2,0.4
+excl_contested_kept,T005,Enola Holmes 3,Films,KR,2026-07-06,2026-07-12,9,2,ko,에놀라 홈즈 3,Q133876041,label_unique,ok,0,6,5,6.0,0.8,1.0
+all,T005,Enola Holmes 3,Films,KR,2026-07-06,2026-07-12,9,2,ko,에놀라 홈즈 3,Q133876041,label_unique,ok,0,6,5,6.0,0.8,1.0
+all,T025,Teach You a Lesson,TV,KR,2026-07-06,2026-07-12,4,6,ko,참교육,Q137844128,netflix_id,ok,2925,6,3,4.0,0.4,0.6
+excl_contested_kept,T025,Teach You a Lesson,TV,KR,2026-07-06,2026-07-12,4,6,ko,참교육,Q137844128,netflix_id,ok,2925,6,3,4.0,0.4,0.6
+all,T361,A Company Man,Films,KR,2026-07-06,2026-07-12,10,4,ko,회사원 (영화),Q4656045,netflix_id,ok,116,6,6,2.0,1.0,0.2
+excl_contested_kept,T361,A Company Man,Films,KR,2026-07-06,2026-07-12,10,4,ko,회사원 (영화),Q4656045,netflix_id,ok,116,6,6,2.0,1.0,0.2
+all,T001,Agent Kim Reactivated,TV,FR,2026-07-13,2026-07-19,5,4,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,4263,5,3,5.0,0.5,1.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,IT,2026-07-13,2026-07-19,5,4,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,2,2,2.0,1.0,1.0
+all,T001,Agent Kim Reactivated,TV,DE,2026-07-13,2026-07-19,5,4,de,Agent Kim Reactivated,Q139553270,netflix_id,ok,7178,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T001,Agent Kim Reactivated,TV,DE,2026-07-13,2026-07-19,5,4,de,Agent Kim Reactivated,Q139553270,netflix_id,ok,7178,3,3,2.0,1.0,0.5
+all,T001,Agent Kim Reactivated,TV,IT,2026-07-13,2026-07-19,5,4,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,3,2,3.0,0.5,1.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,FR,2026-07-13,2026-07-19,5,4,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,4263,4,3,4.0,0.6666666666666666,1.0
+all,T091,Anora,Films,IT,2026-07-13,2026-07-19,6,2,it,Anora,Q123185887,netflix_id,contested_kept,13285,6,3,1.0,0.4,0.0
+all,T024,Avatar: The Last Airbender,TV,IT,2026-07-13,2026-07-19,9,4,it,Avatar - La leggenda di Aang (serie televisiva),Q109608844,netflix_id_tiebreak,contested_kept,4014,3,3,2.0,1.0,0.5
+all,T024,Avatar: The Last Airbender,TV,DE,2026-07-13,2026-07-19,4,4,de,Avatar – Der Herr der Elemente (2024),Q109608844,netflix_id_tiebreak,contested_kept,9370,4,3,2.0,0.6666666666666666,0.3333333333333333
+all,T024,Avatar: The Last Airbender,TV,FR,2026-07-13,2026-07-19,6,4,fr,"Avatar, le dernier maître de l'air (série télévisée)",Q109608844,netflix_id_tiebreak,contested_kept,7500,5,4,3.0,0.75,0.5
+all,T024,Avatar: The Last Airbender,TV,BR,2026-07-13,2026-07-19,5,4,pt,Avatar: The Last Airbender (série de televisão),Q109608844,netflix_id_tiebreak,contested_kept,0,2,1,2.0,0.0,1.0
+excl_contested_kept,T295,What’s With This Granny!?,Films,FR,2026-07-13,2026-07-19,6,1,fr,C'est quoi cette mamie ?!,Q64769240,label_unique,ok,2643,4,3,2.0,0.6666666666666666,0.3333333333333333
+all,T295,What’s With This Granny!?,Films,FR,2026-07-13,2026-07-19,6,1,fr,C'est quoi cette mamie ?!,Q64769240,label_unique,ok,2643,5,3,2.0,0.5,0.25
+excl_contested_kept,T079,Despicable Me 4,Films,BR,2026-07-13,2026-07-19,10,7,pt,Despicable Me 4,Q113373276,netflix_id,ok,201,5,5,2.0,1.0,0.25
+all,T079,Despicable Me 4,Films,BR,2026-07-13,2026-07-19,10,7,pt,Despicable Me 4,Q113373276,netflix_id,ok,201,5,5,2.0,1.0,0.25
+excl_contested_kept,T005,Enola Holmes 3,Films,FR,2026-07-13,2026-07-19,7,3,fr,Enola Holmes 3,Q133876041,label_unique,ok,4114,4,4,1.0,1.0,0.0
+all,T005,Enola Holmes 3,Films,IT,2026-07-13,2026-07-19,5,3,it,Enola Holmes 3,Q133876041,label_unique,ok,3333,6,2,3.0,0.2,0.4
+all,T005,Enola Holmes 3,Films,FR,2026-07-13,2026-07-19,7,3,fr,Enola Holmes 3,Q133876041,label_unique,ok,4114,5,4,1.0,0.75,0.0
+excl_contested_kept,T005,Enola Holmes 3,Films,IT,2026-07-13,2026-07-19,5,3,it,Enola Holmes 3,Q133876041,label_unique,ok,3333,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T195,Il Bene Comune,Films,IT,2026-07-13,2026-07-19,8,2,it,Il bene comune,Q138659874,label_unique,ok,10498,6,5,2.0,0.8,0.2
+excl_contested_kept,T195,Il Bene Comune,Films,IT,2026-07-13,2026-07-19,8,2,it,Il bene comune,Q138659874,label_unique,ok,10498,4,4,1.0,1.0,0.0
+excl_contested_kept,T216,Killer Elite,Films,BR,2026-07-13,2026-07-19,7,2,pt,Killer Elite,Q1320416,netflix_id,ok,113,5,3,5.0,0.5,1.0
+all,T216,Killer Elite,Films,BR,2026-07-13,2026-07-19,7,2,pt,Killer Elite,Q1320416,netflix_id,ok,113,5,3,5.0,0.5,1.0
+all,T023,Little House on the Prairie,TV,FR,2026-07-13,2026-07-19,1,2,fr,"La Petite Maison dans la prairie (série télévisée, 2026)",Q132521516,netflix_id,ok,28664,5,1,1.0,0.0,0.0
+excl_contested_kept,T023,Little House on the Prairie,TV,FR,2026-07-13,2026-07-19,1,2,fr,"La Petite Maison dans la prairie (série télévisée, 2026)",Q132521516,netflix_id,ok,28664,4,1,1.0,0.0,0.0
+all,T023,Little House on the Prairie,TV,IT,2026-07-13,2026-07-19,2,2,it,La casa nella prateria (serie televisiva 2026),Q132521516,netflix_id,ok,14266,3,1,1.0,0.0,0.0
+excl_contested_kept,T023,Little House on the Prairie,TV,IT,2026-07-13,2026-07-19,2,2,it,La casa nella prateria (serie televisiva 2026),Q132521516,netflix_id,ok,14266,2,1,1.0,0.0,0.0
+all,T090,Meg 2: The Trench,Films,BR,2026-07-13,2026-07-19,2,2,pt,Meg 2: The Trench,Q110842446,label_unique,ok,145,5,1,4.0,0.0,0.75
+excl_contested_kept,T090,Meg 2: The Trench,Films,BR,2026-07-13,2026-07-19,2,2,pt,Meg 2: The Trench,Q110842446,label_unique,ok,145,5,1,4.0,0.0,0.75
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-07-13,2026-07-19,2,5,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,3,1,3.0,0.0,1.0
+all,T009,I Will Find You,TV,DE,2026-07-13,2026-07-19,2,5,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,1,4.0,0.0,1.0
+all,T116,The Mentalist,TV,BR,2026-07-13,2026-07-19,7,3,pt,O Mentalista,Q204228,netflix_id,contested_kept,5384,2,2,1.0,1.0,0.0
+excl_contested_kept,T025,Teach You a Lesson,TV,FR,2026-07-13,2026-07-19,9,6,fr,Que ça vous serve de leçon !,Q137844128,netflix_id,ok,6562,4,4,3.0,1.0,0.6666666666666666
+all,T025,Teach You a Lesson,TV,FR,2026-07-13,2026-07-19,9,6,fr,Que ça vous serve de leçon !,Q137844128,netflix_id,ok,6562,5,5,4.0,1.0,0.75
+all,T021,Voicemails for Isabelle,Films,FR,2026-07-13,2026-07-19,4,5,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,0,5,2,5.0,0.25,1.0
+excl_contested_kept,T021,Voicemails for Isabelle,Films,FR,2026-07-13,2026-07-19,4,5,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,0,4,2,4.0,0.3333333333333333,1.0
+all,T081,Sniper: No Nation,Films,DE,2026-07-13,2026-07-19,2,1,de,Sniper: No Nation,Q139250667,label_unique,ok,5769,2,1,1.0,0.0,0.0
+excl_contested_kept,T081,Sniper: No Nation,Films,DE,2026-07-13,2026-07-19,2,1,de,Sniper: No Nation,Q139250667,label_unique,ok,5769,2,1,1.0,0.0,0.0
+all,T009,I Will Find You,TV,FR,2026-07-13,2026-07-19,2,5,fr,Sur tes traces,Q134412018,netflix_id,ok,22680,5,2,2.0,0.25,0.25
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-07-13,2026-07-19,2,5,fr,Sur tes traces,Q134412018,netflix_id,ok,22680,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T129,Swapped,Films,BR,2026-07-13,2026-07-19,8,11,pt,Swapped,Q126709560,netflix_id,ok,167,5,4,3.0,0.75,0.5
+all,T129,Swapped,Films,BR,2026-07-13,2026-07-19,8,11,pt,Swapped,Q126709560,netflix_id,ok,167,5,4,3.0,0.75,0.5
+excl_contested_kept,T136,The Rookie,TV,DE,2026-07-13,2026-07-19,3,2,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,19846,3,2,1.0,0.5,0.0
+all,T136,The Rookie,TV,DE,2026-07-13,2026-07-19,3,2,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,19846,4,2,1.0,0.3333333333333333,0.0
+all,T111,The Town,Films,FR,2026-07-13,2026-07-19,8,1,fr,The Town,Q725539,netflix_id,contested_kept,2384,5,5,4.0,1.0,0.75
+all,T111,The Town,Films,IT,2026-07-13,2026-07-19,10,1,it,The Town (film 2010),Q725539,netflix_id,contested_kept,2606,6,6,4.0,1.0,0.6
+excl_contested_kept,T093,The Wild Robot,Films,BR,2026-07-13,2026-07-19,5,2,pt,The Wild Robot,Q124378349,label_unique,ok,419,5,2,1.0,0.25,0.0
+all,T093,The Wild Robot,Films,BR,2026-07-13,2026-07-19,5,2,pt,The Wild Robot,Q124378349,label_unique,ok,419,5,2,1.0,0.25,0.0
+all,T114,Until the T-shirt Dries,TV,JP,2026-07-13,2026-07-19,1,2,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,87073,3,1,1.0,0.0,0.0
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-07-13,2026-07-19,1,2,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,87073,3,1,1.0,0.0,0.0
+excl_contested_kept,T181,The Retirement Plan,Films,FR,2026-07-13,2026-07-19,2,1,fr,Une retraite d'enfer,Q117842570,label_unique,ok,2427,4,1,3.0,0.0,0.6666666666666666
+all,T181,The Retirement Plan,Films,FR,2026-07-13,2026-07-19,2,1,fr,Une retraite d'enfer,Q117842570,label_unique,ok,2427,5,1,3.0,0.0,0.5
+excl_contested_kept,T223,Venom: The Last Dance,Films,IT,2026-07-13,2026-07-19,7,1,it,Venom: The Last Dance,Q113371337,label_unique,ok,2186,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T223,Venom: The Last Dance,Films,IT,2026-07-13,2026-07-19,7,1,it,Venom: The Last Dance,Q113371337,label_unique,ok,2186,6,4,5.0,0.6,0.8
+all,T255,Journey 2: The Mysterious Island,Films,IT,2026-07-13,2026-07-19,4,1,it,Viaggio nell'isola misteriosa,Q211545,netflix_id,ok,1733,6,1,6.0,0.0,1.0
+excl_contested_kept,T255,Journey 2: The Mysterious Island,Films,IT,2026-07-13,2026-07-19,4,1,it,Viaggio nell'isola misteriosa,Q211545,netflix_id,ok,1733,4,1,4.0,0.0,1.0
+all,T021,Voicemails for Isabelle,Films,DE,2026-07-13,2026-07-19,6,5,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,5568,2,2,2.0,1.0,1.0
+excl_contested_kept,T021,Voicemails for Isabelle,Films,DE,2026-07-13,2026-07-19,6,5,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,5568,2,2,2.0,1.0,1.0
+all,T076,Human Vapor,TV,JP,2026-07-13,2026-07-19,2,3,ja,ガス人間,Q136735821,netflix_id,ok,3265,3,2,3.0,0.5,1.0
+excl_contested_kept,T076,Human Vapor,TV,JP,2026-07-13,2026-07-19,2,3,ja,ガス人間,Q136735821,netflix_id,ok,3265,3,2,3.0,0.5,1.0
+excl_contested_kept,T202,Kingdom 3: The Flame of Destiny,Films,JP,2026-07-13,2026-07-19,5,6,ja,キングダム 運命の炎,Q120333108,label_unique,ok,28802,3,1,1.0,0.0,0.0
+all,T202,Kingdom 3: The Flame of Destiny,Films,JP,2026-07-13,2026-07-19,5,6,ja,キングダム 運命の炎,Q120333108,label_unique,ok,28802,3,1,1.0,0.0,0.0
+excl_contested_kept,T366,Kingdom,Films,JP,2026-07-13,2026-07-19,10,9,ja,キングダム/見えざる敵,Q467582,netflix_id,ok,209,3,3,3.0,1.0,1.0
+all,T366,Kingdom,Films,JP,2026-07-13,2026-07-19,10,9,ja,キングダム/見えざる敵,Q467582,netflix_id,ok,209,3,3,3.0,1.0,1.0
+all,T059,The Little Things,Films,JP,2026-07-13,2026-07-19,6,3,ja,リトル・シングス,Q70373108,netflix_id,ok,1620,3,2,2.0,0.5,0.5
+excl_contested_kept,T059,The Little Things,Films,JP,2026-07-13,2026-07-19,6,3,ja,リトル・シングス,Q70373108,netflix_id,ok,1620,3,2,2.0,0.5,0.5
+excl_contested_kept,T141,25 Years of You,TV,JP,2026-07-13,2026-07-19,7,1,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,38767,3,3,2.0,1.0,0.5
+all,T141,25 Years of You,TV,JP,2026-07-13,2026-07-19,7,1,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,38767,3,3,2.0,1.0,0.5
+excl_contested_kept,T076,Human Vapor,TV,KR,2026-07-13,2026-07-19,10,3,ko,가스인간,Q136735821,netflix_id,ok,1220,7,7,7.0,1.0,1.0
+all,T076,Human Vapor,TV,KR,2026-07-13,2026-07-19,10,3,ko,가스인간,Q136735821,netflix_id,ok,1220,7,7,7.0,1.0,1.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,KR,2026-07-13,2026-07-19,2,4,ko,김부장,Q139553270,netflix_id,ok,21366,7,2,1.0,0.16666666666666666,0.0
+all,T001,Agent Kim Reactivated,TV,KR,2026-07-13,2026-07-19,2,4,ko,김부장,Q139553270,netflix_id,ok,21366,7,2,1.0,0.16666666666666666,0.0
+excl_contested_kept,T077,Husbands in Action,Films,KR,2026-07-13,2026-07-19,7,5,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,72,5,4,3.0,0.75,0.5
+all,T077,Husbands in Action,Films,KR,2026-07-13,2026-07-19,7,5,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,72,5,4,3.0,0.75,0.5
+excl_contested_kept,T039,The East Palace,TV,KR,2026-07-13,2026-07-19,1,1,ko,동궁 (드라마),Q137723110,netflix_id,ok,4717,7,1,3.0,0.0,0.3333333333333333
+all,T039,The East Palace,TV,KR,2026-07-13,2026-07-19,1,1,ko,동궁 (드라마),Q137723110,netflix_id,ok,4717,7,1,3.0,0.0,0.3333333333333333
+excl_contested_kept,T152,Lobby,Films,KR,2026-07-13,2026-07-19,2,2,ko,로비 (영화),Q133819698,label_unique,ok,195,5,1,1.0,0.0,0.0
+all,T152,Lobby,Films,KR,2026-07-13,2026-07-19,2,2,ko,로비 (영화),Q133819698,label_unique,ok,195,5,1,1.0,0.0,0.0
+excl_contested_kept,T085,Notes from the Last Row,TV,KR,2026-07-13,2026-07-19,8,4,ko,맨 끝줄 소년 (드라마),Q137836165,netflix_id,ok,2825,7,6,4.0,0.8333333333333334,0.5
+all,T085,Notes from the Last Row,TV,KR,2026-07-13,2026-07-19,8,4,ko,맨 끝줄 소년 (드라마),Q137836165,netflix_id,ok,2825,7,6,4.0,0.8333333333333334,0.5
+all,T221,The Noisy Mansion,Films,KR,2026-07-13,2026-07-19,8,2,ko,백수아파트,Q132153221,label_unique,ok,53,5,5,5.0,1.0,1.0
+excl_contested_kept,T221,The Noisy Mansion,Films,KR,2026-07-13,2026-07-19,8,2,ko,백수아파트,Q132153221,label_unique,ok,53,5,5,5.0,1.0,1.0
+excl_contested_kept,T161,People and Meat,Films,KR,2026-07-13,2026-07-19,4,2,ko,사람과 고기,Q136325017,label_unique,ok,71,5,2,4.0,0.25,0.75
+all,T161,People and Meat,Films,KR,2026-07-13,2026-07-19,4,2,ko,사람과 고기,Q136325017,label_unique,ok,71,5,2,4.0,0.25,0.75
+excl_contested_kept,T123,The Apartment Job,TV,KR,2026-07-13,2026-07-19,3,2,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,9483,7,3,2.0,0.3333333333333333,0.16666666666666666
+all,T123,The Apartment Job,TV,KR,2026-07-13,2026-07-19,3,2,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,9483,7,3,2.0,0.3333333333333333,0.16666666666666666
+all,T290,The Accountant,Films,KR,2026-07-13,2026-07-19,6,1,ko,어카운턴트,Q18883455,netflix_id,ok,138,5,3,2.0,0.5,0.25
+excl_contested_kept,T290,The Accountant,Films,KR,2026-07-13,2026-07-19,6,1,ko,어카운턴트,Q18883455,netflix_id,ok,138,5,3,2.0,0.5,0.25
+all,T054,Spooky in Love,TV,KR,2026-07-13,2026-07-19,7,1,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2695,7,5,5.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T054,Spooky in Love,TV,KR,2026-07-13,2026-07-19,7,1,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2695,7,5,5.0,0.6666666666666666,0.6666666666666666
+all,T025,Teach You a Lesson,TV,KR,2026-07-13,2026-07-19,6,7,ko,참교육,Q137844128,netflix_id,ok,2073,7,4,6.0,0.5,0.8333333333333334
+excl_contested_kept,T025,Teach You a Lesson,TV,KR,2026-07-13,2026-07-19,6,7,ko,참교육,Q137844128,netflix_id,ok,2073,7,4,6.0,0.5,0.8333333333333334
+all,T010,72 HOURS,Films,FR,2026-07-20,2026-07-26,3,1,fr,72 Heures (film),Q136339220,label_tiebreak,ok,1622,6,2,2.0,0.2,0.2
+excl_contested_kept,T010,72 HOURS,Films,FR,2026-07-20,2026-07-26,3,1,fr,72 Heures (film),Q136339220,label_tiebreak,ok,1622,6,2,2.0,0.2,0.2
+all,T010,72 HOURS,Films,IT,2026-07-20,2026-07-26,3,1,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,2887,4,1,2.0,0.0,0.3333333333333333
+excl_contested_kept,T010,72 HOURS,Films,IT,2026-07-20,2026-07-26,3,1,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,2887,3,1,2.0,0.0,0.5
+excl_contested_kept,T001,Agent Kim Reactivated,TV,IT,2026-07-20,2026-07-26,8,5,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,4,2,3.5,0.3333333333333333,0.8333333333333334
+excl_contested_kept,T001,Agent Kim Reactivated,TV,FR,2026-07-20,2026-07-26,5,5,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,11229,6,3,4.0,0.4,0.6
+all,T001,Agent Kim Reactivated,TV,IT,2026-07-20,2026-07-26,8,5,it,Agent Kim Reactivated,Q139553270,netflix_id,ok,0,4,2,3.5,0.3333333333333333,0.8333333333333334
+all,T001,Agent Kim Reactivated,TV,FR,2026-07-20,2026-07-26,5,5,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,11229,6,3,4.0,0.4,0.6
+all,T024,Avatar: The Last Airbender,TV,DE,2026-07-20,2026-07-26,9,5,de,Avatar – Der Herr der Elemente (2024),Q109608844,netflix_id_tiebreak,contested_kept,7781,5,5,2.0,1.0,0.25
+excl_contested_kept,T267,Barbie,Films,FR,2026-07-20,2026-07-26,5,1,fr,Barbie (film),Q55436290,netflix_id,ok,5391,6,3,1.0,0.4,0.0
+all,T267,Barbie,Films,FR,2026-07-20,2026-07-26,5,1,fr,Barbie (film),Q55436290,netflix_id,ok,5391,6,3,1.0,0.4,0.0
+excl_contested_kept,T100,Companion,Films,BR,2026-07-20,2026-07-26,6,1,pt,Companion,Q125933907,netflix_id,ok,842,5,2,2.0,0.25,0.25
+all,T100,Companion,Films,BR,2026-07-20,2026-07-26,6,1,pt,Companion,Q125933907,netflix_id,ok,842,5,2,2.0,0.25,0.25
+excl_contested_kept,T079,Despicable Me 4,Films,BR,2026-07-20,2026-07-26,8,8,pt,Despicable Me 4,Q113373276,netflix_id,ok,213,5,4,5.0,0.75,1.0
+all,T079,Despicable Me 4,Films,BR,2026-07-20,2026-07-26,8,8,pt,Despicable Me 4,Q113373276,netflix_id,ok,213,5,4,5.0,0.75,1.0
+all,T034,The Truthers,Films,DE,2026-07-20,2026-07-26,8,1,de,Eine verworrene Wahrheit,Q140248600,label_unique,ok,5790,3,3,1.0,1.0,0.0
+excl_contested_kept,T034,The Truthers,Films,DE,2026-07-20,2026-07-26,8,1,de,Eine verworrene Wahrheit,Q140248600,label_unique,ok,5790,3,3,1.0,1.0,0.0
+all,T004,Elize: Shadows of a Woman,Films,FR,2026-07-20,2026-07-26,1,1,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,0,6,1,5.5,0.0,0.9
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,FR,2026-07-20,2026-07-26,1,1,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,0,6,1,5.5,0.0,0.9
+all,T004,Elize: Shadows of a Woman,Films,BR,2026-07-20,2026-07-26,1,1,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,10848,5,1,1.0,0.0,0.0
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,BR,2026-07-20,2026-07-26,1,1,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,10848,5,1,1.0,0.0,0.0
+all,T012,Elite Force,TV,FR,2026-07-20,2026-07-26,1,1,fr,GIGN (mini-série),Q133868511,netflix_id,ok,73032,6,1,1.0,0.0,0.0
+excl_contested_kept,T012,Elite Force,TV,FR,2026-07-20,2026-07-26,1,1,fr,GIGN (mini-série),Q133868511,netflix_id,ok,73032,6,1,1.0,0.0,0.0
+all,T126,Kaulitz & Kaulitz,TV,DE,2026-07-20,2026-07-26,1,1,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,2624,5,1,3.0,0.0,0.5
+excl_contested_kept,T126,Kaulitz & Kaulitz,TV,DE,2026-07-20,2026-07-26,1,1,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,2624,4,1,2.0,0.0,0.3333333333333333
+all,T023,Little House on the Prairie,TV,FR,2026-07-20,2026-07-26,7,3,fr,"La Petite Maison dans la prairie (série télévisée, 2026)",Q132521516,netflix_id,ok,12169,6,4,3.0,0.6,0.4
+excl_contested_kept,T023,Little House on the Prairie,TV,FR,2026-07-20,2026-07-26,7,3,fr,"La Petite Maison dans la prairie (série télévisée, 2026)",Q132521516,netflix_id,ok,12169,6,4,3.0,0.6,0.4
+all,T023,Little House on the Prairie,TV,IT,2026-07-20,2026-07-26,9,3,it,La casa nella prateria (serie televisiva 2026),Q132521516,netflix_id,ok,6924,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T023,Little House on the Prairie,TV,IT,2026-07-20,2026-07-26,9,3,it,La casa nella prateria (serie televisiva 2026),Q132521516,netflix_id,ok,6924,4,3,2.0,0.6666666666666666,0.3333333333333333
+all,T039,The East Palace,TV,FR,2026-07-20,2026-07-26,9,1,fr,Le Palais de l'Est,Q137723110,netflix_id,ok,0,6,6,6.0,1.0,1.0
+excl_contested_kept,T039,The East Palace,TV,FR,2026-07-20,2026-07-26,9,1,fr,Le Palais de l'Est,Q137723110,netflix_id,ok,0,6,6,6.0,1.0,1.0
+excl_contested_kept,T034,The Truthers,Films,FR,2026-07-20,2026-07-26,6,1,fr,Leur vérité,Q140248600,label_unique,ok,0,6,4,5.5,0.6,0.9
+all,T034,The Truthers,Films,FR,2026-07-20,2026-07-26,6,1,fr,Leur vérité,Q140248600,label_unique,ok,0,6,4,5.5,0.6,0.9
+all,T034,The Truthers,Films,IT,2026-07-20,2026-07-26,5,1,it,Los Creyentes - Oltre la verità,Q140248600,label_unique,ok,2898,4,2,1.0,0.3333333333333333,0.0
+excl_contested_kept,T034,The Truthers,Films,IT,2026-07-20,2026-07-26,5,1,it,Los Creyentes - Oltre la verità,Q140248600,label_unique,ok,2898,3,2,1.0,0.5,0.0
+excl_contested_kept,T302,Monsters vs. Aliens,Films,BR,2026-07-20,2026-07-26,7,1,pt,Monsters vs. Aliens,Q681918,netflix_id,ok,343,5,3,3.0,0.5,0.5
+all,T302,Monsters vs. Aliens,Films,BR,2026-07-20,2026-07-26,7,1,pt,Monsters vs. Aliens,Q681918,netflix_id,ok,343,5,3,3.0,0.5,0.5
+excl_contested_kept,T030,Ransom Canyon,TV,FR,2026-07-20,2026-07-26,8,1,fr,Nouvelle vie à Ransom Canyon,Q132296748,netflix_id,ok,9582,6,5,5.0,0.8,0.8
+all,T030,Ransom Canyon,TV,FR,2026-07-20,2026-07-26,8,1,fr,Nouvelle vie à Ransom Canyon,Q132296748,netflix_id,ok,9582,6,5,5.0,0.8,0.8
+all,T009,I Will Find You,TV,DE,2026-07-20,2026-07-26,3,6,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,5,2,4.5,0.25,0.875
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-07-20,2026-07-26,3,6,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,2,3.5,0.3333333333333333,0.8333333333333334
+all,T116,The Mentalist,TV,BR,2026-07-20,2026-07-26,7,4,pt,O Mentalista,Q204228,netflix_id,contested_kept,6314,1,1,1.0,,
+excl_contested_kept,T030,Ransom Canyon,TV,IT,2026-07-20,2026-07-26,6,1,it,Ransom Canyon (serie televisiva),Q132296748,netflix_id,ok,8539,4,1,1.0,0.0,0.0
+all,T030,Ransom Canyon,TV,IT,2026-07-20,2026-07-26,6,1,it,Ransom Canyon (serie televisiva),Q132296748,netflix_id,ok,8539,4,1,1.0,0.0,0.0
+all,T021,Voicemails for Isabelle,Films,FR,2026-07-20,2026-07-26,8,6,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,466,6,5,4.0,0.8,0.6
+excl_contested_kept,T021,Voicemails for Isabelle,Films,FR,2026-07-20,2026-07-26,8,6,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,466,6,5,4.0,0.8,0.6
+all,T081,Sniper: No Nation,Films,DE,2026-07-20,2026-07-26,5,2,de,Sniper: No Nation,Q139250667,label_unique,ok,4446,3,1,3.0,0.0,1.0
+excl_contested_kept,T081,Sniper: No Nation,Films,DE,2026-07-20,2026-07-26,5,2,de,Sniper: No Nation,Q139250667,label_unique,ok,4446,3,1,3.0,0.0,1.0
+all,T009,I Will Find You,TV,FR,2026-07-20,2026-07-26,2,6,fr,Sur tes traces,Q134412018,netflix_id,ok,22982,6,2,2.0,0.2,0.2
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-07-20,2026-07-26,2,6,fr,Sur tes traces,Q134412018,netflix_id,ok,22982,6,2,2.0,0.2,0.2
+excl_contested_kept,T129,Swapped,Films,BR,2026-07-20,2026-07-26,10,12,pt,Swapped,Q126709560,netflix_id,ok,238,5,5,4.0,1.0,0.75
+all,T129,Swapped,Films,BR,2026-07-20,2026-07-26,10,12,pt,Swapped,Q126709560,netflix_id,ok,238,5,5,4.0,1.0,0.75
+all,T015,The Debt Collector,Films,IT,2026-07-20,2026-07-26,9,1,it,The Debt Collector (film 2018),Q56365946,netflix_id,contested_kept,0,4,4,4.0,1.0,1.0
+excl_contested_kept,T039,The East Palace,TV,IT,2026-07-20,2026-07-26,10,1,it,The East Palace,Q137723110,netflix_id,ok,0,4,4,3.5,1.0,0.8333333333333334
+all,T039,The East Palace,TV,IT,2026-07-20,2026-07-26,10,1,it,The East Palace,Q137723110,netflix_id,ok,0,4,4,3.5,1.0,0.8333333333333334
+all,T327,The Hawk,TV,DE,2026-07-20,2026-07-26,8,1,de,The Hawk (Fernsehserie),Q125965346,netflix_id,ok,0,5,4,4.5,0.75,0.875
+excl_contested_kept,T327,The Hawk,TV,DE,2026-07-20,2026-07-26,8,1,de,The Hawk (Fernsehserie),Q125965346,netflix_id,ok,0,4,4,3.5,1.0,0.8333333333333334
+all,T136,The Rookie,TV,DE,2026-07-20,2026-07-26,7,3,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,25509,5,3,1.0,0.5,0.0
+excl_contested_kept,T136,The Rookie,TV,DE,2026-07-20,2026-07-26,7,3,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,25509,4,3,1.0,0.6666666666666666,0.0
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-07-20,2026-07-26,1,3,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,55957,4,1,2.0,0.0,0.3333333333333333
+all,T114,Until the T-shirt Dries,TV,JP,2026-07-20,2026-07-26,1,3,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,55957,4,1,2.0,0.0,0.3333333333333333
+excl_contested_kept,T181,The Retirement Plan,Films,FR,2026-07-20,2026-07-26,9,2,fr,Une retraite d'enfer,Q117842570,label_unique,ok,1329,6,6,3.0,1.0,0.4
+all,T181,The Retirement Plan,Films,FR,2026-07-20,2026-07-26,9,2,fr,Une retraite d'enfer,Q117842570,label_unique,ok,1329,6,6,3.0,1.0,0.4
+excl_contested_kept,T115,Vivant,TV,JP,2026-07-20,2026-07-26,7,8,ja,VIVANT,Q116919744,netflix_id,ok,336146,4,4,1.0,1.0,0.0
+all,T115,Vivant,TV,JP,2026-07-20,2026-07-26,7,8,ja,VIVANT,Q116919744,netflix_id,ok,336146,4,4,1.0,1.0,0.0
+all,T223,Venom: The Last Dance,Films,IT,2026-07-20,2026-07-26,7,2,it,Venom: The Last Dance,Q113371337,label_unique,ok,2369,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T223,Venom: The Last Dance,Films,IT,2026-07-20,2026-07-26,7,2,it,Venom: The Last Dance,Q113371337,label_unique,ok,2369,3,3,3.0,1.0,1.0
+all,T021,Voicemails for Isabelle,Films,DE,2026-07-20,2026-07-26,7,6,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,4791,3,2,2.0,0.5,0.5
+excl_contested_kept,T021,Voicemails for Isabelle,Films,DE,2026-07-20,2026-07-26,7,6,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,4791,3,2,2.0,0.5,0.5
+all,T076,Human Vapor,TV,JP,2026-07-20,2026-07-26,3,4,ja,ガス人間,Q136735821,netflix_id,ok,1641,4,2,4.0,0.3333333333333333,1.0
+excl_contested_kept,T076,Human Vapor,TV,JP,2026-07-20,2026-07-26,3,4,ja,ガス人間,Q136735821,netflix_id,ok,1641,4,2,4.0,0.3333333333333333,1.0
+all,T202,Kingdom 3: The Flame of Destiny,Films,JP,2026-07-20,2026-07-26,7,7,ja,キングダム 運命の炎,Q120333108,label_unique,ok,16238,3,3,1.0,1.0,0.0
+excl_contested_kept,T202,Kingdom 3: The Flame of Destiny,Films,JP,2026-07-20,2026-07-26,7,7,ja,キングダム 運命の炎,Q120333108,label_unique,ok,16238,3,3,1.0,1.0,0.0
+excl_contested_kept,T089,Kraven the Hunter,Films,JP,2026-07-20,2026-07-26,3,1,ja,クレイヴン・ザ・ハンター (映画),Q107390449,label_unique,ok,3707,3,1,2.0,0.0,0.5
+all,T089,Kraven the Hunter,Films,JP,2026-07-20,2026-07-26,3,1,ja,クレイヴン・ザ・ハンター (映画),Q107390449,label_unique,ok,3707,3,1,2.0,0.0,0.5
+excl_contested_kept,T059,The Little Things,Films,JP,2026-07-20,2026-07-26,5,4,ja,リトル・シングス,Q70373108,netflix_id,ok,2580,3,2,3.0,0.5,1.0
+all,T059,The Little Things,Films,JP,2026-07-20,2026-07-26,5,4,ja,リトル・シングス,Q70373108,netflix_id,ok,2580,3,2,3.0,0.5,1.0
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-07-20,2026-07-26,4,1,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,30960,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T118,GATE24:The Border,TV,JP,2026-07-20,2026-07-26,4,1,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,30960,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T001,Agent Kim Reactivated,TV,KR,2026-07-20,2026-07-26,2,5,ko,김부장,Q139553270,netflix_id,ok,12799,5,2,1.0,0.25,0.0
+all,T001,Agent Kim Reactivated,TV,KR,2026-07-20,2026-07-26,2,5,ko,김부장,Q139553270,netflix_id,ok,12799,5,2,1.0,0.25,0.0
+excl_contested_kept,T077,Husbands in Action,Films,KR,2026-07-20,2026-07-26,7,6,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,64,5,2,4.0,0.25,0.75
+all,T077,Husbands in Action,Films,KR,2026-07-20,2026-07-26,7,6,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,64,5,2,4.0,0.25,0.75
+excl_contested_kept,T039,The East Palace,TV,KR,2026-07-20,2026-07-26,1,2,ko,동궁 (드라마),Q137723110,netflix_id,ok,4187,5,1,3.0,0.0,0.5
+all,T039,The East Palace,TV,KR,2026-07-20,2026-07-26,1,2,ko,동궁 (드라마),Q137723110,netflix_id,ok,4187,5,1,3.0,0.0,0.5
+all,T152,Lobby,Films,KR,2026-07-20,2026-07-26,8,3,ko,로비 (영화),Q133819698,label_unique,ok,95,5,3,3.0,0.5,0.5
+excl_contested_kept,T152,Lobby,Films,KR,2026-07-20,2026-07-26,8,3,ko,로비 (영화),Q133819698,label_unique,ok,95,5,3,3.0,0.5,0.5
+excl_contested_kept,T368,Mystic River,Films,KR,2026-07-20,2026-07-26,10,2,ko,미스틱 리버,Q221586,netflix_id,ok,266,5,5,1.0,1.0,0.0
+all,T368,Mystic River,Films,KR,2026-07-20,2026-07-26,10,2,ko,미스틱 리버,Q221586,netflix_id,ok,266,5,5,1.0,1.0,0.0
+excl_contested_kept,T161,People and Meat,Films,KR,2026-07-20,2026-07-26,9,3,ko,사람과 고기,Q136325017,label_unique,ok,18,5,4,5.0,0.75,1.0
+all,T161,People and Meat,Films,KR,2026-07-20,2026-07-26,9,3,ko,사람과 고기,Q136325017,label_unique,ok,18,5,4,5.0,0.75,1.0
+all,T123,The Apartment Job,TV,KR,2026-07-20,2026-07-26,3,3,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,5100,5,3,2.0,0.5,0.25
+excl_contested_kept,T123,The Apartment Job,TV,KR,2026-07-20,2026-07-26,3,3,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,5100,5,3,2.0,0.5,0.25
+all,T054,Spooky in Love,TV,KR,2026-07-20,2026-07-26,4,2,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,3613,5,4,4.0,0.75,0.75
+excl_contested_kept,T054,Spooky in Love,TV,KR,2026-07-20,2026-07-26,4,2,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,3613,5,4,4.0,0.75,0.75
+excl_contested_kept,T025,Teach You a Lesson,TV,KR,2026-07-20,2026-07-26,6,8,ko,참교육,Q137844128,netflix_id,ok,1238,5,5,5.0,1.0,1.0
+all,T025,Teach You a Lesson,TV,KR,2026-07-20,2026-07-26,6,8,ko,참교육,Q137844128,netflix_id,ok,1238,5,5,5.0,1.0,1.0
+all,T260,Quarantine 2: Terminal,Films,KR,2026-07-20,2026-07-26,4,1,ko,쿼런틴 2: 터미널,Q1189180,netflix_id,ok,139,5,1,2.0,0.0,0.25
+excl_contested_kept,T260,Quarantine 2: Terminal,Films,KR,2026-07-20,2026-07-26,4,1,ko,쿼런틴 2: 터미널,Q1189180,netflix_id,ok,139,5,1,2.0,0.0,0.25
+excl_contested_kept,T010,72 HOURS,Films,FR,2026-07-27,2026-08-02,2,2,fr,72 Heures (film),Q136339220,label_tiebreak,ok,5662,7,2,1.0,0.16666666666666666,0.0
+all,T010,72 HOURS,Films,FR,2026-07-27,2026-08-02,2,2,fr,72 Heures (film),Q136339220,label_tiebreak,ok,5662,7,2,1.0,0.16666666666666666,0.0
+all,T010,72 HOURS,Films,IT,2026-07-27,2026-08-02,1,2,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,4535,7,1,3.0,0.0,0.3333333333333333
+excl_contested_kept,T010,72 HOURS,Films,IT,2026-07-27,2026-08-02,1,2,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,4535,5,1,3.0,0.0,0.5
+all,T001,Agent Kim Reactivated,TV,FR,2026-07-27,2026-08-02,8,6,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,10096,5,5,4.0,1.0,0.75
+excl_contested_kept,T001,Agent Kim Reactivated,TV,FR,2026-07-27,2026-08-02,8,6,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,10096,5,5,4.0,1.0,0.75
+all,T128,Buen Camino,Films,IT,2026-07-27,2026-08-02,8,10,it,Buen camino,Q137211198,label_unique,ok,3692,7,6,4.0,0.8333333333333334,0.5
+excl_contested_kept,T128,Buen Camino,Films,IT,2026-07-27,2026-08-02,8,10,it,Buen camino,Q137211198,label_unique,ok,3692,5,4,4.0,0.75,0.75
+all,T079,Despicable Me 4,Films,BR,2026-07-27,2026-08-02,9,9,pt,Despicable Me 4,Q113373276,netflix_id,ok,203,4,3,4.0,0.6666666666666666,1.0
+excl_contested_kept,T079,Despicable Me 4,Films,BR,2026-07-27,2026-08-02,9,9,pt,Despicable Me 4,Q113373276,netflix_id,ok,203,4,3,4.0,0.6666666666666666,1.0
+all,T270,Drop,Films,FR,2026-07-27,2026-08-02,5,1,fr,Drop Game,Q125983478,netflix_id,resolved_by_date,1741,7,5,7.0,0.6666666666666666,1.0
+excl_contested_kept,T270,Drop,Films,FR,2026-07-27,2026-08-02,5,1,fr,Drop Game,Q125983478,netflix_id,resolved_by_date,1741,7,5,7.0,0.6666666666666666,1.0
+excl_contested_kept,T034,The Truthers,Films,DE,2026-07-27,2026-08-02,3,2,de,Eine verworrene Wahrheit,Q140248600,label_unique,ok,7785,4,1,1.0,0.0,0.0
+all,T034,The Truthers,Films,DE,2026-07-27,2026-08-02,3,2,de,Eine verworrene Wahrheit,Q140248600,label_unique,ok,7785,4,1,1.0,0.0,0.0
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,FR,2026-07-27,2026-08-02,1,2,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,4578,7,1,2.0,0.0,0.16666666666666666
+all,T004,Elize: Shadows of a Woman,Films,FR,2026-07-27,2026-08-02,1,2,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,4578,7,1,2.0,0.0,0.16666666666666666
+excl_contested_kept,T207,Elize Matsunaga: Once Upon a Crime,TV,BR,2026-07-27,2026-08-02,6,6,pt,Elize Matsunaga: Era Uma Vez um Crime,Q107378706,netflix_id,ok,3605,1,1,1.0,,
+all,T207,Elize Matsunaga: Once Upon a Crime,TV,BR,2026-07-27,2026-08-02,6,6,pt,Elize Matsunaga: Era Uma Vez um Crime,Q107378706,netflix_id,ok,3605,2,1,2.0,0.0,1.0
+all,T004,Elize: Shadows of a Woman,Films,BR,2026-07-27,2026-08-02,1,2,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,12596,4,1,1.0,0.0,0.0
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,BR,2026-07-27,2026-08-02,1,2,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,12596,4,1,1.0,0.0,0.0
+excl_contested_kept,T012,Elite Force,TV,FR,2026-07-27,2026-08-02,1,2,fr,GIGN (mini-série),Q133868511,netflix_id,ok,61987,5,1,1.0,0.0,0.0
+all,T012,Elite Force,TV,FR,2026-07-27,2026-08-02,1,2,fr,GIGN (mini-série),Q133868511,netflix_id,ok,61987,5,1,1.0,0.0,0.0
+all,T126,Kaulitz & Kaulitz,TV,DE,2026-07-27,2026-08-02,1,2,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,2556,3,1,2.0,0.0,0.5
+excl_contested_kept,T126,Kaulitz & Kaulitz,TV,DE,2026-07-27,2026-08-02,1,2,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,2556,3,1,2.0,0.0,0.5
+all,T028,The Bombing of Pan Am 103,TV,FR,2026-07-27,2026-08-02,6,1,fr,L'Attentat du vol Pan Am 103,Q124799074,netflix_id,ok,0,5,4,5.0,0.75,1.0
+excl_contested_kept,T028,The Bombing of Pan Am 103,TV,FR,2026-07-27,2026-08-02,6,1,fr,L'Attentat du vol Pan Am 103,Q124799074,netflix_id,ok,0,5,4,5.0,0.75,1.0
+all,T034,The Truthers,Films,FR,2026-07-27,2026-08-02,4,2,fr,Leur vérité,Q140248600,label_unique,ok,3054,7,4,4.0,0.5,0.5
+excl_contested_kept,T034,The Truthers,Films,FR,2026-07-27,2026-08-02,4,2,fr,Leur vérité,Q140248600,label_unique,ok,3054,7,4,4.0,0.5,0.5
+all,T034,The Truthers,Films,IT,2026-07-27,2026-08-02,3,2,it,Los Creyentes - Oltre la verità,Q140248600,label_unique,ok,4782,7,2,2.0,0.16666666666666666,0.16666666666666666
+excl_contested_kept,T034,The Truthers,Films,IT,2026-07-27,2026-08-02,3,2,it,Los Creyentes - Oltre la verità,Q140248600,label_unique,ok,4782,5,2,2.0,0.25,0.25
+all,T021,Voicemails for Isabelle,Films,IT,2026-07-27,2026-08-02,10,5,it,Messaggi per Isabelle,Q139665886,netflix_id,ok,1950,7,7,5.0,1.0,0.6666666666666666
+excl_contested_kept,T021,Voicemails for Isabelle,Films,IT,2026-07-27,2026-08-02,10,5,it,Messaggi per Isabelle,Q139665886,netflix_id,ok,1950,5,5,5.0,1.0,1.0
+all,T030,Ransom Canyon,TV,FR,2026-07-27,2026-08-02,5,2,fr,Nouvelle vie à Ransom Canyon,Q132296748,netflix_id,ok,12859,5,3,3.0,0.5,0.5
+excl_contested_kept,T030,Ransom Canyon,TV,FR,2026-07-27,2026-08-02,5,2,fr,Nouvelle vie à Ransom Canyon,Q132296748,netflix_id,ok,12859,5,3,3.0,0.5,0.5
+all,T009,I Will Find You,TV,DE,2026-07-27,2026-08-02,6,7,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,3,2,3.0,0.5,1.0
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-07-27,2026-08-02,6,7,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,3,2,3.0,0.5,1.0
+all,T116,The Mentalist,TV,BR,2026-07-27,2026-08-02,9,5,pt,O Mentalista,Q204228,netflix_id,contested_kept,7140,2,2,1.0,1.0,0.0
+all,T176,Paulette,Films,FR,2026-07-27,2026-08-02,3,1,fr,Paulette (film),Q3372619,label_unique,ok,3547,7,3,3.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T176,Paulette,Films,FR,2026-07-27,2026-08-02,3,1,fr,Paulette (film),Q3372619,label_unique,ok,3547,7,3,3.0,0.3333333333333333,0.3333333333333333
+all,T274,Someone Like You,Films,IT,2026-07-27,2026-08-02,5,1,it,Qualcuno come te,Q1346535,netflix_id,contested_kept,212,7,4,6.0,0.5,0.8333333333333334
+excl_contested_kept,T030,Ransom Canyon,TV,IT,2026-07-27,2026-08-02,6,5,it,Ransom Canyon (serie televisiva),Q132296748,netflix_id,ok,9303,1,1,1.0,,
+all,T030,Ransom Canyon,TV,IT,2026-07-27,2026-08-02,6,5,it,Ransom Canyon (serie televisiva),Q132296748,netflix_id,ok,9303,1,1,1.0,,
+all,T021,Voicemails for Isabelle,Films,FR,2026-07-27,2026-08-02,7,7,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,2729,7,6,5.0,0.8333333333333334,0.6666666666666666
+excl_contested_kept,T021,Voicemails for Isabelle,Films,FR,2026-07-27,2026-08-02,7,7,fr,Si tu m'écoutes,Q139665886,netflix_id,ok,2729,7,6,5.0,0.8333333333333334,0.6666666666666666
+excl_contested_kept,T081,Sniper: No Nation,Films,DE,2026-07-27,2026-08-02,10,3,de,Sniper: No Nation,Q139250667,label_unique,ok,1653,4,4,4.0,1.0,1.0
+all,T081,Sniper: No Nation,Films,DE,2026-07-27,2026-08-02,10,3,de,Sniper: No Nation,Q139250667,label_unique,ok,1653,4,4,4.0,1.0,1.0
+all,T036,Spider-Man: Far from Home,Films,IT,2026-07-27,2026-08-02,7,1,it,Spider-Man: Far from Home,Q27985819,netflix_id,ok,15838,7,5,1.0,0.6666666666666666,0.0
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,IT,2026-07-27,2026-08-02,7,1,it,Spider-Man: Far from Home,Q27985819,netflix_id,ok,15838,5,3,1.0,0.5,0.0
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-07-27,2026-08-02,4,7,fr,Sur tes traces,Q134412018,netflix_id,ok,18160,5,2,2.0,0.25,0.25
+all,T009,I Will Find You,TV,FR,2026-07-27,2026-08-02,4,7,fr,Sur tes traces,Q134412018,netflix_id,ok,18160,5,2,2.0,0.25,0.25
+all,T129,Swapped,Films,BR,2026-07-27,2026-08-02,10,13,pt,Swapped,Q126709560,netflix_id,ok,235,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T129,Swapped,Films,BR,2026-07-27,2026-08-02,10,13,pt,Swapped,Q126709560,netflix_id,ok,235,4,4,3.0,1.0,0.6666666666666666
+all,T190,Take Shelter,Films,BR,2026-07-27,2026-08-02,3,1,pt,Take Shelter,Q762877,label_unique,ok,696,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T190,Take Shelter,Films,BR,2026-07-27,2026-08-02,3,1,pt,Take Shelter,Q762877,label_unique,ok,696,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T015,The Debt Collector,Films,IT,2026-07-27,2026-08-02,4,2,it,The Debt Collector (film 2018),Q56365946,netflix_id,contested_kept,0,7,3,7.0,0.3333333333333333,1.0
+all,T136,The Rookie,TV,DE,2026-07-27,2026-08-02,8,4,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,29753,3,3,1.0,1.0,0.0
+excl_contested_kept,T136,The Rookie,TV,DE,2026-07-27,2026-08-02,8,4,de,The Rookie (Fernsehserie),Q48744320,netflix_id,ok,29753,3,3,1.0,1.0,0.0
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-07-27,2026-08-02,1,4,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,53260,5,1,2.0,0.0,0.25
+all,T114,Until the T-shirt Dries,TV,JP,2026-07-27,2026-08-02,1,4,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,53260,5,1,2.0,0.0,0.25
+excl_contested_kept,T115,Vivant,TV,JP,2026-07-27,2026-08-02,2,9,ja,VIVANT,Q116919744,netflix_id,ok,383172,5,2,1.0,0.25,0.0
+all,T115,Vivant,TV,JP,2026-07-27,2026-08-02,2,9,ja,VIVANT,Q116919744,netflix_id,ok,383172,5,2,1.0,0.25,0.0
+all,T021,Voicemails for Isabelle,Films,DE,2026-07-27,2026-08-02,7,7,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,3709,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T021,Voicemails for Isabelle,Films,DE,2026-07-27,2026-08-02,7,7,de,Voicemails for Isabelle,Q139665886,netflix_id,ok,3709,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T099,War Machine,Films,DE,2026-07-27,2026-08-02,5,7,de,War Machine (2026),Q130375767,netflix_id_tiebreak,ok,5682,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T099,War Machine,Films,DE,2026-07-27,2026-08-02,5,7,de,War Machine (2026),Q130375767,netflix_id_tiebreak,ok,5682,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T099,War Machine,Films,FR,2026-07-27,2026-08-02,10,5,fr,"War Machine (film, 2026)",Q130375767,netflix_id_tiebreak,ok,2432,7,7,6.0,1.0,0.8333333333333334
+excl_contested_kept,T099,War Machine,Films,FR,2026-07-27,2026-08-02,10,5,fr,"War Machine (film, 2026)",Q130375767,netflix_id_tiebreak,ok,2432,7,7,6.0,1.0,0.8333333333333334
+all,T076,Human Vapor,TV,JP,2026-07-27,2026-08-02,6,5,ja,ガス人間,Q136735821,netflix_id,ok,922,5,4,4.0,0.75,0.75
+excl_contested_kept,T076,Human Vapor,TV,JP,2026-07-27,2026-08-02,6,5,ja,ガス人間,Q136735821,netflix_id,ok,922,5,4,4.0,0.75,0.75
+all,T056,Spider-Man: Homecoming,Films,JP,2026-07-27,2026-08-02,9,1,ja,スパイダーマン:ホームカミング,Q23010088,netflix_id,ok,16996,2,1,1.0,0.0,0.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,JP,2026-07-27,2026-08-02,9,1,ja,スパイダーマン:ホームカミング,Q23010088,netflix_id,ok,16996,2,1,1.0,0.0,0.0
+all,T118,GATE24:The Border,TV,JP,2026-07-27,2026-08-02,3,2,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26595,5,3,3.0,0.5,0.5
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-07-27,2026-08-02,3,2,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26595,5,3,3.0,0.5,0.5
+all,T079,Despicable Me 4,Films,JP,2026-07-27,2026-08-02,10,5,ja,怪盗グルーのミニオン超変身,Q113373276,netflix_id,ok,1277,2,2,2.0,1.0,1.0
+excl_contested_kept,T079,Despicable Me 4,Films,JP,2026-07-27,2026-08-02,10,5,ja,怪盗グルーのミニオン超変身,Q113373276,netflix_id,ok,1277,2,2,2.0,1.0,1.0
+all,T054,Spooky in Love,TV,JP,2026-07-27,2026-08-02,10,1,ja,恋は命がけ,Q138266416,netflix_id,ok,0,5,5,5.0,1.0,1.0
+excl_contested_kept,T054,Spooky in Love,TV,JP,2026-07-27,2026-08-02,10,1,ja,恋は命がけ,Q138266416,netflix_id,ok,0,5,5,5.0,1.0,1.0
+all,T001,Agent Kim Reactivated,TV,KR,2026-07-27,2026-08-02,2,6,ko,김부장,Q139553270,netflix_id,ok,5866,5,2,1.0,0.25,0.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,KR,2026-07-27,2026-08-02,2,6,ko,김부장,Q139553270,netflix_id,ok,5866,5,2,1.0,0.25,0.0
+excl_contested_kept,T077,Husbands in Action,Films,KR,2026-07-27,2026-08-02,10,7,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,58,5,5,5.0,1.0,1.0
+all,T077,Husbands in Action,Films,KR,2026-07-27,2026-08-02,10,7,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,58,5,5,5.0,1.0,1.0
+excl_contested_kept,T039,The East Palace,TV,KR,2026-07-27,2026-08-02,1,3,ko,동궁 (드라마),Q137723110,netflix_id,ok,3565,5,1,3.0,0.0,0.5
+all,T039,The East Palace,TV,KR,2026-07-27,2026-08-02,1,3,ko,동궁 (드라마),Q137723110,netflix_id,ok,3565,5,1,3.0,0.0,0.5
+all,T227,Roofman,Films,KR,2026-07-27,2026-08-02,9,1,ko,루프맨,Q130742503,netflix_id,ok,330,5,4,4.0,0.75,0.75
+excl_contested_kept,T227,Roofman,Films,KR,2026-07-27,2026-08-02,9,1,ko,루프맨,Q130742503,netflix_id,ok,330,5,4,4.0,0.75,0.75
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,KR,2026-07-27,2026-08-02,7,5,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1351,5,3,1.0,0.5,0.0
+all,T036,Spider-Man: Far from Home,Films,KR,2026-07-27,2026-08-02,7,5,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1351,5,3,1.0,0.5,0.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,KR,2026-07-27,2026-08-02,4,4,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,1068,5,2,2.0,0.25,0.25
+all,T056,Spider-Man: Homecoming,Films,KR,2026-07-27,2026-08-02,4,4,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,1068,5,2,2.0,0.25,0.25
+all,T123,The Apartment Job,TV,KR,2026-07-27,2026-08-02,4,4,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,4147,5,4,2.0,0.75,0.25
+excl_contested_kept,T123,The Apartment Job,TV,KR,2026-07-27,2026-08-02,4,4,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,4147,5,4,2.0,0.75,0.25
+all,T054,Spooky in Love,TV,KR,2026-07-27,2026-08-02,3,3,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2963,5,3,4.0,0.5,0.75
+excl_contested_kept,T054,Spooky in Love,TV,KR,2026-07-27,2026-08-02,3,3,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2963,5,3,4.0,0.5,0.75
+all,T127,Wild Sing,Films,KR,2026-07-27,2026-08-02,2,1,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,693,5,1,3.0,0.0,0.5
+excl_contested_kept,T127,Wild Sing,Films,KR,2026-07-27,2026-08-02,2,1,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,693,5,1,3.0,0.0,0.5
+excl_contested_kept,T025,Teach You a Lesson,TV,KR,2026-07-27,2026-08-02,8,9,ko,참교육,Q137844128,netflix_id,ok,780,5,5,5.0,1.0,1.0
+all,T025,Teach You a Lesson,TV,KR,2026-07-27,2026-08-02,8,9,ko,참교육,Q137844128,netflix_id,ok,780,5,5,5.0,1.0,1.0
+all,T010,72 HOURS,Films,FR,2026-08-03,2026-08-09,6,3,fr,72 Heures (film),Q136339220,label_tiebreak,ok,2758,9,6,7.0,0.625,0.75
+excl_contested_kept,T010,72 HOURS,Films,FR,2026-08-03,2026-08-09,6,3,fr,72 Heures (film),Q136339220,label_tiebreak,ok,2758,8,5,7.0,0.5714285714285714,0.8571428571428571
+excl_contested_kept,T010,72 HOURS,Films,IT,2026-08-03,2026-08-09,2,3,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,2252,8,2,6.0,0.14285714285714285,0.7142857142857143
+all,T010,72 HOURS,Films,IT,2026-08-03,2026-08-09,2,3,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,2252,8,2,6.0,0.14285714285714285,0.7142857142857143
+all,T002,The Last House,Films,BR,2026-08-03,2026-08-09,1,1,pt,A Última Casa (2026),Q129165193,netflix_id,ok,0,6,1,6.0,0.0,1.0
+excl_contested_kept,T002,The Last House,Films,BR,2026-08-03,2026-08-09,1,1,pt,A Última Casa (2026),Q129165193,netflix_id,ok,0,6,1,6.0,0.0,1.0
+excl_contested_kept,T001,Agent Kim Reactivated,TV,FR,2026-08-03,2026-08-09,10,7,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,6066,6,6,6.0,1.0,1.0
+all,T001,Agent Kim Reactivated,TV,FR,2026-08-03,2026-08-09,10,7,fr,Agent Kim Reactivated,Q139553270,netflix_id,ok,6066,6,6,6.0,1.0,1.0
+excl_contested_kept,T128,Buen Camino,Films,IT,2026-08-03,2026-08-09,7,11,it,Buen camino,Q137211198,label_unique,ok,3575,8,6,3.0,0.7142857142857143,0.2857142857142857
+all,T128,Buen Camino,Films,IT,2026-08-03,2026-08-09,7,11,it,Buen camino,Q137211198,label_unique,ok,3575,8,6,3.0,0.7142857142857143,0.2857142857142857
+all,T079,Despicable Me 4,Films,BR,2026-08-03,2026-08-09,9,10,pt,Despicable Me 4,Q113373276,netflix_id,ok,202,6,5,4.0,0.8,0.6
+excl_contested_kept,T079,Despicable Me 4,Films,BR,2026-08-03,2026-08-09,9,10,pt,Despicable Me 4,Q113373276,netflix_id,ok,202,6,5,4.0,0.8,0.6
+all,T034,The Truthers,Films,DE,2026-08-03,2026-08-09,10,3,de,Eine verworrene Wahrheit,Q140248600,label_unique,ok,3219,6,6,6.0,1.0,1.0
+excl_contested_kept,T034,The Truthers,Films,DE,2026-08-03,2026-08-09,10,3,de,Eine verworrene Wahrheit,Q140248600,label_unique,ok,3219,6,6,6.0,1.0,1.0
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,FR,2026-08-03,2026-08-09,5,3,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,7506,8,4,4.0,0.42857142857142855,0.42857142857142855
+all,T004,Elize: Shadows of a Woman,Films,FR,2026-08-03,2026-08-09,5,3,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,7506,9,5,4.0,0.5,0.375
+all,T207,Elize Matsunaga: Once Upon a Crime,TV,BR,2026-08-03,2026-08-09,10,7,pt,Elize Matsunaga: Era Uma Vez um Crime,Q107378706,netflix_id,ok,3175,3,3,2.0,1.0,0.5
+excl_contested_kept,T207,Elize Matsunaga: Once Upon a Crime,TV,BR,2026-08-03,2026-08-09,10,7,pt,Elize Matsunaga: Era Uma Vez um Crime,Q107378706,netflix_id,ok,3175,2,2,1.0,1.0,0.0
+all,T004,Elize: Shadows of a Woman,Films,BR,2026-08-03,2026-08-09,2,3,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,4429,6,2,2.0,0.2,0.2
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,BR,2026-08-03,2026-08-09,2,3,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,4429,6,2,2.0,0.2,0.2
+excl_contested_kept,T090,Meg 2: The Trench,Films,FR,2026-08-03,2026-08-09,4,1,fr,En eaux très troubles,Q110842446,label_unique,ok,3147,8,3,6.0,0.2857142857142857,0.7142857142857143
+all,T090,Meg 2: The Trench,Films,FR,2026-08-03,2026-08-09,4,1,fr,En eaux très troubles,Q110842446,label_unique,ok,3147,9,4,6.0,0.375,0.625
+excl_contested_kept,T312,Evil Dead Rise,Films,DE,2026-08-03,2026-08-09,8,1,de,Evil Dead Rise,Q107203508,label_unique,ok,7111,6,4,3.0,0.6,0.4
+all,T312,Evil Dead Rise,Films,DE,2026-08-03,2026-08-09,8,1,de,Evil Dead Rise,Q107203508,label_unique,ok,7111,6,4,3.0,0.6,0.4
+excl_contested_kept,T012,Elite Force,TV,FR,2026-08-03,2026-08-09,2,3,fr,GIGN (mini-série),Q133868511,netflix_id,ok,35142,6,2,1.0,0.2,0.0
+all,T012,Elite Force,TV,FR,2026-08-03,2026-08-09,2,3,fr,GIGN (mini-série),Q133868511,netflix_id,ok,35142,6,2,1.0,0.2,0.0
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,BR,2026-08-03,2026-08-09,5,3,pt,Homem-Aranha: Longe de Casa,Q27985819,netflix_id,ok,6795,6,3,1.0,0.4,0.0
+all,T036,Spider-Man: Far from Home,Films,BR,2026-08-03,2026-08-09,5,3,pt,Homem-Aranha: Longe de Casa,Q27985819,netflix_id,ok,6795,6,3,1.0,0.4,0.0
+all,T017,My Life With the Walter Boys,TV,DE,2026-08-03,2026-08-09,1,1,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,0,4,1,3.5,0.0,0.8333333333333334
+excl_contested_kept,T017,My Life With the Walter Boys,TV,DE,2026-08-03,2026-08-09,1,1,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,0,4,1,3.5,0.0,0.8333333333333334
+all,T257,Juror #2,Films,DE,2026-08-03,2026-08-09,4,1,de,Juror No. 2,Q119549900,label_unique,ok,19779,6,3,2.0,0.4,0.2
+excl_contested_kept,T257,Juror #2,Films,DE,2026-08-03,2026-08-09,4,1,de,Juror No. 2,Q119549900,label_unique,ok,19779,6,3,2.0,0.4,0.2
+all,T126,Kaulitz & Kaulitz,TV,DE,2026-08-03,2026-08-09,3,3,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,1657,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T126,Kaulitz & Kaulitz,TV,DE,2026-08-03,2026-08-09,3,3,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,1657,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T028,The Bombing of Pan Am 103,TV,FR,2026-08-03,2026-08-09,3,2,fr,L'Attentat du vol Pan Am 103,Q124799074,netflix_id,ok,19183,6,3,2.0,0.4,0.2
+excl_contested_kept,T028,The Bombing of Pan Am 103,TV,FR,2026-08-03,2026-08-09,3,2,fr,L'Attentat du vol Pan Am 103,Q124799074,netflix_id,ok,19183,6,3,2.0,0.4,0.2
+all,T002,The Last House,Films,FR,2026-08-03,2026-08-09,1,1,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,20690,9,1,1.0,0.0,0.0
+excl_contested_kept,T002,The Last House,Films,FR,2026-08-03,2026-08-09,1,1,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,20690,8,1,1.0,0.0,0.0
+all,T353,She's Out of My League,Films,IT,2026-08-03,2026-08-09,9,3,it,Lei è troppo per me,Q140009,netflix_id,ok,1361,8,7,8.0,0.8571428571428571,1.0
+excl_contested_kept,T353,She's Out of My League,Films,IT,2026-08-03,2026-08-09,9,3,it,Lei è troppo per me,Q140009,netflix_id,ok,1361,8,7,8.0,0.8571428571428571,1.0
+all,T034,The Truthers,Films,IT,2026-08-03,2026-08-09,6,3,it,Los Creyentes - Oltre la verità,Q140248600,label_unique,ok,2128,8,5,7.0,0.5714285714285714,0.8571428571428571
+excl_contested_kept,T034,The Truthers,Films,IT,2026-08-03,2026-08-09,6,3,it,Los Creyentes - Oltre la verità,Q140248600,label_unique,ok,2128,8,5,7.0,0.5714285714285714,0.8571428571428571
+all,T017,My Life With the Walter Boys,TV,FR,2026-08-03,2026-08-09,1,1,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,13757,6,1,4.0,0.0,0.6
+excl_contested_kept,T017,My Life With the Walter Boys,TV,FR,2026-08-03,2026-08-09,1,1,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,13757,6,1,4.0,0.0,0.6
+excl_contested_kept,T245,Momo,Films,DE,2026-08-03,2026-08-09,3,1,de,Momo (1986),Q570967,label_unique,ok,3426,6,2,5.0,0.2,0.8
+all,T245,Momo,Films,DE,2026-08-03,2026-08-09,3,1,de,Momo (1986),Q570967,label_unique,ok,3426,6,2,5.0,0.2,0.8
+excl_contested_kept,T162,Murder in a Small Town,TV,DE,2026-08-03,2026-08-09,5,1,de,Murder in a Small Town (Fernsehserie),Q127220558,label_tiebreak,ok,31770,4,3,1.0,0.6666666666666666,0.0
+all,T162,Murder in a Small Town,TV,DE,2026-08-03,2026-08-09,5,1,de,Murder in a Small Town (Fernsehserie),Q127220558,label_tiebreak,ok,31770,4,3,1.0,0.6666666666666666,0.0
+excl_contested_kept,T017,My Life With the Walter Boys,TV,BR,2026-08-03,2026-08-09,3,1,pt,My Life with the Walter Boys,Q113570499,netflix_id,ok,860,2,1,2.0,0.0,1.0
+all,T017,My Life With the Walter Boys,TV,BR,2026-08-03,2026-08-09,3,1,pt,My Life with the Walter Boys,Q113570499,netflix_id,ok,860,3,1,3.0,0.0,1.0
+excl_contested_kept,T030,Ransom Canyon,TV,FR,2026-08-03,2026-08-09,8,3,fr,Nouvelle vie à Ransom Canyon,Q132296748,netflix_id,ok,6531,6,5,5.0,0.8,0.8
+all,T030,Ransom Canyon,TV,FR,2026-08-03,2026-08-09,8,3,fr,Nouvelle vie à Ransom Canyon,Q132296748,netflix_id,ok,6531,6,5,5.0,0.8,0.8
+all,T009,I Will Find You,TV,DE,2026-08-03,2026-08-09,7,8,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,4,3.5,1.0,0.8333333333333334
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-08-03,2026-08-09,7,8,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,4,3.5,1.0,0.8333333333333334
+all,T116,The Mentalist,TV,BR,2026-08-03,2026-08-09,8,6,pt,O Mentalista,Q204228,netflix_id,contested_kept,6782,3,2,1.0,0.5,0.0
+excl_contested_kept,T204,Say Cheese,Films,FR,2026-08-03,2026-08-09,7,1,fr,On sourit pour la photo,Q111796247,label_unique,ok,1690,8,6,8.0,0.7142857142857143,1.0
+all,T204,Say Cheese,Films,FR,2026-08-03,2026-08-09,7,1,fr,On sourit pour la photo,Q111796247,label_unique,ok,1690,9,7,8.0,0.75,0.875
+all,T176,Paulette,Films,FR,2026-08-03,2026-08-09,2,2,fr,Paulette (film),Q3372619,label_unique,ok,3848,9,2,5.0,0.125,0.5
+excl_contested_kept,T176,Paulette,Films,FR,2026-08-03,2026-08-09,2,2,fr,Paulette (film),Q3372619,label_unique,ok,3848,8,2,5.0,0.14285714285714285,0.5714285714285714
+all,T030,Ransom Canyon,TV,IT,2026-08-03,2026-08-09,9,3,it,Ransom Canyon (serie televisiva),Q132296748,netflix_id,ok,4760,2,2,2.0,1.0,1.0
+excl_contested_kept,T030,Ransom Canyon,TV,IT,2026-08-03,2026-08-09,9,3,it,Ransom Canyon (serie televisiva),Q132296748,netflix_id,ok,4760,2,2,2.0,1.0,1.0
+excl_contested_kept,T264,Ricomincio da TAAAC,Films,IT,2026-08-03,2026-08-09,4,1,it,Ricomincio da taaac,Q130371344,label_unique,ok,2722,8,3,4.0,0.2857142857142857,0.42857142857142855
+all,T264,Ricomincio da TAAAC,Films,IT,2026-08-03,2026-08-09,4,1,it,Ricomincio da taaac,Q130371344,label_unique,ok,2722,8,3,4.0,0.2857142857142857,0.42857142857142855
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,FR,2026-08-03,2026-08-09,10,4,fr,Spider-Man: Far From Home,Q27985819,netflix_id,ok,16069,8,8,3.0,1.0,0.2857142857142857
+all,T036,Spider-Man: Far from Home,Films,FR,2026-08-03,2026-08-09,10,4,fr,Spider-Man: Far From Home,Q27985819,netflix_id,ok,16069,9,9,3.0,1.0,0.25
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,IT,2026-08-03,2026-08-09,5,2,it,Spider-Man: Far from Home,Q27985819,netflix_id,ok,16842,8,4,2.0,0.42857142857142855,0.14285714285714285
+all,T036,Spider-Man: Far from Home,Films,IT,2026-08-03,2026-08-09,5,2,it,Spider-Man: Far from Home,Q27985819,netflix_id,ok,16842,8,4,2.0,0.42857142857142855,0.14285714285714285
+all,T056,Spider-Man: Homecoming,Films,FR,2026-08-03,2026-08-09,9,4,fr,Spider-Man: Homecoming,Q23010088,netflix_id,ok,19724,9,8,2.0,0.875,0.125
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,FR,2026-08-03,2026-08-09,9,4,fr,Spider-Man: Homecoming,Q23010088,netflix_id,ok,19724,8,7,2.0,0.8571428571428571,0.14285714285714285
+all,T009,I Will Find You,TV,FR,2026-08-03,2026-08-09,6,8,fr,Sur tes traces,Q134412018,netflix_id,ok,15085,6,4,3.0,0.6,0.4
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-08-03,2026-08-09,6,8,fr,Sur tes traces,Q134412018,netflix_id,ok,15085,6,4,3.0,0.6,0.4
+excl_contested_kept,T129,Swapped,Films,BR,2026-08-03,2026-08-09,10,14,pt,Swapped,Q126709560,netflix_id,ok,150,6,6,5.0,1.0,0.8
+all,T129,Swapped,Films,BR,2026-08-03,2026-08-09,10,14,pt,Swapped,Q126709560,netflix_id,ok,150,6,6,5.0,1.0,0.8
+all,T190,Take Shelter,Films,BR,2026-08-03,2026-08-09,6,2,pt,Take Shelter,Q762877,label_unique,ok,426,6,4,3.0,0.6,0.4
+excl_contested_kept,T190,Take Shelter,Films,BR,2026-08-03,2026-08-09,6,2,pt,Take Shelter,Q762877,label_unique,ok,426,6,4,3.0,0.6,0.4
+all,T002,The Last House,Films,DE,2026-08-03,2026-08-09,1,1,de,The Last House,Q129165193,netflix_id,ok,35277,6,1,1.0,0.0,0.0
+excl_contested_kept,T002,The Last House,Films,DE,2026-08-03,2026-08-09,1,1,de,The Last House,Q129165193,netflix_id,ok,35277,6,1,1.0,0.0,0.0
+excl_contested_kept,T002,The Last House,Films,IT,2026-08-03,2026-08-09,1,1,it,The Last House,Q129165193,netflix_id,ok,18008,8,1,1.0,0.0,0.0
+all,T002,The Last House,Films,IT,2026-08-03,2026-08-09,1,1,it,The Last House,Q129165193,netflix_id,ok,18008,8,1,1.0,0.0,0.0
+all,T247,Turbulence,Films,FR,2026-08-03,2026-08-09,3,1,fr,Turbulences à 30 000 pieds,Q727775,netflix_id,contested_kept,112,9,3,9.0,0.25,1.0
+excl_contested_kept,T370,Something's Gotta Give,Films,IT,2026-08-03,2026-08-09,10,1,it,Tutto può succedere - Something's Gotta Give,Q584766,netflix_id,ok,2467,8,8,5.0,1.0,0.5714285714285714
+all,T370,Something's Gotta Give,Films,IT,2026-08-03,2026-08-09,10,1,it,Tutto può succedere - Something's Gotta Give,Q584766,netflix_id,ok,2467,8,8,5.0,1.0,0.5714285714285714
+all,T114,Until the T-shirt Dries,TV,JP,2026-08-03,2026-08-09,2,5,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,54421,7,2,2.0,0.16666666666666666,0.16666666666666666
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-08-03,2026-08-09,2,5,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,54421,7,2,2.0,0.16666666666666666,0.16666666666666666
+excl_contested_kept,T017,My Life With the Walter Boys,TV,IT,2026-08-03,2026-08-09,1,1,it,Uno splendido errore,Q113570499,netflix_id,ok,13403,2,1,1.0,0.0,0.0
+all,T017,My Life With the Walter Boys,TV,IT,2026-08-03,2026-08-09,1,1,it,Uno splendido errore,Q113570499,netflix_id,ok,13403,2,1,1.0,0.0,0.0
+all,T115,Vivant,TV,JP,2026-08-03,2026-08-09,3,10,ja,VIVANT,Q116919744,netflix_id,ok,288791,7,3,1.0,0.3333333333333333,0.0
+excl_contested_kept,T115,Vivant,TV,JP,2026-08-03,2026-08-09,3,10,ja,VIVANT,Q116919744,netflix_id,ok,288791,7,3,1.0,0.3333333333333333,0.0
+all,T099,War Machine,Films,DE,2026-08-03,2026-08-09,9,8,de,War Machine (2026),Q130375767,netflix_id_tiebreak,ok,4162,6,5,4.0,0.8,0.6
+excl_contested_kept,T099,War Machine,Films,DE,2026-08-03,2026-08-09,9,8,de,War Machine (2026),Q130375767,netflix_id_tiebreak,ok,4162,6,5,4.0,0.8,0.6
+excl_contested_kept,T076,Human Vapor,TV,JP,2026-08-03,2026-08-09,7,6,ja,ガス人間,Q136735821,netflix_id,ok,727,7,5,7.0,0.6666666666666666,1.0
+all,T076,Human Vapor,TV,JP,2026-08-03,2026-08-09,7,6,ja,ガス人間,Q136735821,netflix_id,ok,727,7,5,7.0,0.6666666666666666,1.0
+all,T324,Silent Night,Films,JP,2026-08-03,2026-08-09,8,1,ja,サイレント・ナイト (2021年の映画),Q85801170,netflix_id,contested_kept,77,2,2,2.0,1.0,1.0
+all,T056,Spider-Man: Homecoming,Films,JP,2026-08-03,2026-08-09,6,2,ja,スパイダーマン:ホームカミング,Q23010088,netflix_id,ok,20673,2,1,1.0,0.0,0.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,JP,2026-08-03,2026-08-09,6,2,ja,スパイダーマン:ホームカミング,Q23010088,netflix_id,ok,20673,1,1,1.0,,
+all,T074,Badly in Love,TV,JP,2026-08-03,2026-08-09,1,1,ja,ラヴ上等,Q140219404,netflix_id,ok,12799,7,1,5.0,0.0,0.6666666666666666
+excl_contested_kept,T074,Badly in Love,TV,JP,2026-08-03,2026-08-09,1,1,ja,ラヴ上等,Q140219404,netflix_id,ok,12799,7,1,5.0,0.0,0.6666666666666666
+all,T141,25 Years of You,TV,JP,2026-08-03,2026-08-09,10,2,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,22845,7,7,4.0,1.0,0.5
+excl_contested_kept,T141,25 Years of You,TV,JP,2026-08-03,2026-08-09,10,2,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,22845,7,7,4.0,1.0,0.5
+all,T118,GATE24:The Border,TV,JP,2026-08-03,2026-08-09,4,3,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,23363,7,4,3.0,0.5,0.3333333333333333
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-08-03,2026-08-09,4,3,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,23363,7,4,3.0,0.5,0.3333333333333333
+all,T054,Spooky in Love,TV,JP,2026-08-03,2026-08-09,9,2,ja,恋は命がけ,Q138266416,netflix_id,ok,1348,7,6,6.0,0.8333333333333334,0.8333333333333334
+excl_contested_kept,T054,Spooky in Love,TV,JP,2026-08-03,2026-08-09,9,2,ja,恋は命がけ,Q138266416,netflix_id,ok,1348,7,6,6.0,0.8333333333333334,0.8333333333333334
+excl_contested_kept,T001,Agent Kim Reactivated,TV,KR,2026-08-03,2026-08-09,7,7,ko,김부장,Q139553270,netflix_id,ok,2326,6,6,4.0,1.0,0.6
+all,T001,Agent Kim Reactivated,TV,KR,2026-08-03,2026-08-09,7,7,ko,김부장,Q139553270,netflix_id,ok,2326,6,6,4.0,1.0,0.6
+excl_contested_kept,T121,I am Solo,TV,KR,2026-08-03,2026-08-09,1,1,ko,나는 SOLO,Q113548365,label_unique,ok,532,6,1,6.0,0.0,1.0
+all,T121,I am Solo,TV,KR,2026-08-03,2026-08-09,1,1,ko,나는 SOLO,Q113548365,label_unique,ok,532,6,1,6.0,0.0,1.0
+excl_contested_kept,T077,Husbands in Action,Films,KR,2026-08-03,2026-08-09,7,8,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,67,5,4,5.0,0.75,1.0
+all,T077,Husbands in Action,Films,KR,2026-08-03,2026-08-09,7,8,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,67,5,4,5.0,0.75,1.0
+excl_contested_kept,T039,The East Palace,TV,KR,2026-08-03,2026-08-09,6,4,ko,동궁 (드라마),Q137723110,netflix_id,ok,1114,6,5,5.0,0.8,0.8
+all,T039,The East Palace,TV,KR,2026-08-03,2026-08-09,6,4,ko,동궁 (드라마),Q137723110,netflix_id,ok,1114,6,5,5.0,0.8,0.8
+all,T227,Roofman,Films,KR,2026-08-03,2026-08-09,9,2,ko,루프맨,Q130742503,netflix_id,ok,209,5,5,4.0,1.0,0.75
+excl_contested_kept,T227,Roofman,Films,KR,2026-08-03,2026-08-09,9,2,ko,루프맨,Q130742503,netflix_id,ok,209,5,5,4.0,1.0,0.75
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,KR,2026-08-03,2026-08-09,5,6,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1828,5,3,1.0,0.5,0.0
+all,T036,Spider-Man: Far from Home,Films,KR,2026-08-03,2026-08-09,5,6,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1828,5,3,1.0,0.5,0.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,KR,2026-08-03,2026-08-09,3,5,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,1371,5,2,2.0,0.25,0.25
+all,T056,Spider-Man: Homecoming,Films,KR,2026-08-03,2026-08-09,3,5,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,1371,5,2,2.0,0.25,0.25
+excl_contested_kept,T123,The Apartment Job,TV,KR,2026-08-03,2026-08-09,5,5,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,5048,6,4,2.0,0.6,0.2
+all,T123,The Apartment Job,TV,KR,2026-08-03,2026-08-09,5,5,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,5048,6,4,2.0,0.6,0.2
+all,T054,Spooky in Love,TV,KR,2026-08-03,2026-08-09,3,4,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2460,6,3,3.0,0.4,0.4
+excl_contested_kept,T054,Spooky in Love,TV,KR,2026-08-03,2026-08-09,3,4,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2460,6,3,3.0,0.4,0.4
+all,T127,Wild Sing,Films,KR,2026-08-03,2026-08-09,1,2,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,631,5,1,3.0,0.0,0.5
+excl_contested_kept,T127,Wild Sing,Films,KR,2026-08-03,2026-08-09,1,2,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,631,5,1,3.0,0.0,0.5
+excl_contested_kept,T014,Our Sticky Love,TV,KR,2026-08-03,2026-08-09,2,1,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,7037,6,2,1.0,0.2,0.0
+all,T014,Our Sticky Love,TV,KR,2026-08-03,2026-08-09,2,1,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,7037,6,2,1.0,0.2,0.0
+excl_contested_kept,T010,72 HOURS,Films,FR,2026-08-10,2026-08-16,9,4,fr,72 Heures (film),Q136339220,label_tiebreak,ok,1618,8,7,7.0,0.8571428571428571,0.8571428571428571
+all,T010,72 HOURS,Films,FR,2026-08-10,2026-08-16,9,4,fr,72 Heures (film),Q136339220,label_tiebreak,ok,1618,8,7,7.0,0.8571428571428571,0.8571428571428571
+excl_contested_kept,T010,72 HOURS,Films,IT,2026-08-10,2026-08-16,7,4,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,1513,5,4,5.0,0.75,1.0
+all,T010,72 HOURS,Films,IT,2026-08-10,2026-08-16,7,4,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,1513,5,4,5.0,0.75,1.0
+all,T002,The Last House,Films,BR,2026-08-10,2026-08-16,2,2,pt,A Última Casa (2026),Q129165193,netflix_id,ok,373,4,1,4.0,0.0,1.0
+excl_contested_kept,T002,The Last House,Films,BR,2026-08-10,2026-08-16,2,2,pt,A Última Casa (2026),Q129165193,netflix_id,ok,373,4,1,4.0,0.0,1.0
+excl_contested_kept,T185,Black Adam,Films,DE,2026-08-10,2026-08-16,3,1,de,Black Adam (Film),Q28657013,netflix_id,ok,6535,4,3,4.0,0.6666666666666666,1.0
+all,T185,Black Adam,Films,DE,2026-08-10,2026-08-16,3,1,de,Black Adam (Film),Q28657013,netflix_id,ok,6535,5,3,4.0,0.5,0.75
+all,T128,Buen Camino,Films,IT,2026-08-10,2026-08-16,9,12,it,Buen camino,Q137211198,label_unique,ok,4603,5,5,2.0,1.0,0.25
+excl_contested_kept,T128,Buen Camino,Films,IT,2026-08-10,2026-08-16,9,12,it,Buen camino,Q137211198,label_unique,ok,4603,5,5,2.0,1.0,0.25
+excl_contested_kept,T071,What a Girl Wants,Films,FR,2026-08-10,2026-08-16,6,1,fr,Ce dont rêvent les filles,Q1123621,netflix_id,ok,1861,8,4,4.0,0.42857142857142855,0.42857142857142855
+all,T071,What a Girl Wants,Films,FR,2026-08-10,2026-08-16,6,1,fr,Ce dont rêvent les filles,Q1123621,netflix_id,ok,1861,8,4,4.0,0.42857142857142855,0.42857142857142855
+all,T095,Breaking In,Films,DE,2026-08-10,2026-08-16,6,1,de,Die Traumtänzer,Q4287509,netflix_id,contested_kept,17,5,4,5.0,0.75,1.0
+all,T046,Don't Say Good Luck,Films,DE,2026-08-10,2026-08-16,8,1,de,Don’t Say Good Luck,Q135220006,netflix_id,ok,7586,5,5,2.0,1.0,0.25
+excl_contested_kept,T046,Don't Say Good Luck,Films,DE,2026-08-10,2026-08-16,8,1,de,Don’t Say Good Luck,Q135220006,netflix_id,ok,7586,4,4,2.0,1.0,0.3333333333333333
+all,T105,Edge of Tomorrow,Films,IT,2026-08-10,2026-08-16,5,1,it,Edge of Tomorrow - Senza domani,Q1187607,netflix_id,ok,3031,5,2,3.0,0.25,0.5
+excl_contested_kept,T105,Edge of Tomorrow,Films,IT,2026-08-10,2026-08-16,5,1,it,Edge of Tomorrow - Senza domani,Q1187607,netflix_id,ok,3031,5,2,3.0,0.25,0.5
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,FR,2026-08-10,2026-08-16,8,4,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,1770,8,6,5.0,0.7142857142857143,0.5714285714285714
+all,T004,Elize: Shadows of a Woman,Films,FR,2026-08-10,2026-08-16,8,4,fr,Elize : Surgie de l'ombre,Q140524489,netflix_id,ok,1770,8,6,5.0,0.7142857142857143,0.5714285714285714
+excl_contested_kept,T004,Elize: Shadows of a Woman,Films,BR,2026-08-10,2026-08-16,5,4,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,3371,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T004,Elize: Shadows of a Woman,Films,BR,2026-08-10,2026-08-16,5,4,pt,Elize: Sombras de uma Mulher,Q140524489,netflix_id,ok,3371,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T012,Elite Force,TV,FR,2026-08-10,2026-08-16,2,4,fr,GIGN (mini-série),Q133868511,netflix_id,ok,19022,6,2,1.0,0.2,0.0
+excl_contested_kept,T012,Elite Force,TV,FR,2026-08-10,2026-08-16,2,4,fr,GIGN (mini-série),Q133868511,netflix_id,ok,19022,6,2,1.0,0.2,0.0
+all,T254,Gran Turismo: Based on a True Story,Films,FR,2026-08-10,2026-08-16,4,1,fr,Gran Turismo (film),Q112909147,netflix_id,ok,3371,8,2,3.0,0.14285714285714285,0.2857142857142857
+excl_contested_kept,T254,Gran Turismo: Based on a True Story,Films,FR,2026-08-10,2026-08-16,4,1,fr,Gran Turismo (film),Q112909147,netflix_id,ok,3371,8,2,3.0,0.14285714285714285,0.2857142857142857
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,BR,2026-08-10,2026-08-16,7,4,pt,Homem-Aranha: Longe de Casa,Q27985819,netflix_id,ok,4323,4,4,1.0,1.0,0.0
+all,T036,Spider-Man: Far from Home,Films,BR,2026-08-10,2026-08-16,7,4,pt,Homem-Aranha: Longe de Casa,Q27985819,netflix_id,ok,4323,4,4,1.0,1.0,0.0
+excl_contested_kept,T017,My Life With the Walter Boys,TV,DE,2026-08-10,2026-08-16,1,2,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,0,4,1,3.5,0.0,0.8333333333333334
+all,T017,My Life With the Walter Boys,TV,DE,2026-08-10,2026-08-16,1,2,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,0,4,1,3.5,0.0,0.8333333333333334
+all,T126,Kaulitz & Kaulitz,TV,DE,2026-08-10,2026-08-16,3,4,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,1168,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T126,Kaulitz & Kaulitz,TV,DE,2026-08-10,2026-08-16,3,4,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,1168,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T028,The Bombing of Pan Am 103,TV,FR,2026-08-10,2026-08-16,6,3,fr,L'Attentat du vol Pan Am 103,Q124799074,netflix_id,ok,16320,6,5,2.0,0.8,0.2
+all,T028,The Bombing of Pan Am 103,TV,FR,2026-08-10,2026-08-16,6,3,fr,L'Attentat du vol Pan Am 103,Q124799074,netflix_id,ok,16320,6,5,2.0,0.8,0.2
+all,T002,The Last House,Films,FR,2026-08-10,2026-08-16,1,2,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,21654,8,1,1.0,0.0,0.0
+excl_contested_kept,T002,The Last House,Films,FR,2026-08-10,2026-08-16,1,2,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,21654,8,1,1.0,0.0,0.0
+excl_contested_kept,T308,The Wolf and the Lion,Films,FR,2026-08-10,2026-08-16,7,1,fr,Le Loup et le Lion (film),Q108701958,label_unique,ok,1750,8,5,6.0,0.5714285714285714,0.7142857142857143
+all,T308,The Wolf and the Lion,Films,FR,2026-08-10,2026-08-16,7,1,fr,Le Loup et le Lion (film),Q108701958,label_unique,ok,1750,8,5,6.0,0.5714285714285714,0.7142857142857143
+excl_contested_kept,T033,My Brilliant Career,TV,FR,2026-08-10,2026-08-16,4,1,fr,Ma brillante carrière (série télévisée),Q135011543,netflix_id,ok,7740,6,3,5.0,0.4,0.8
+all,T033,My Brilliant Career,TV,FR,2026-08-10,2026-08-16,4,1,fr,Ma brillante carrière (série télévisée),Q135011543,netflix_id,ok,7740,6,3,5.0,0.4,0.8
+excl_contested_kept,T017,My Life With the Walter Boys,TV,FR,2026-08-10,2026-08-16,1,2,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,14677,6,1,3.0,0.0,0.4
+all,T017,My Life With the Walter Boys,TV,FR,2026-08-10,2026-08-16,1,2,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,14677,6,1,3.0,0.0,0.4
+all,T083,"My Best Friend, His Girlfriend and Me",Films,DE,2026-08-10,2026-08-16,2,1,de,"Mein bester Freund, seine Freundin & ich",Q140467227,netflix_id,ok,7243,5,2,3.0,0.25,0.5
+excl_contested_kept,T083,"My Best Friend, His Girlfriend and Me",Films,DE,2026-08-10,2026-08-16,2,1,de,"Mein bester Freund, seine Freundin & ich",Q140467227,netflix_id,ok,7243,4,2,3.0,0.3333333333333333,0.6666666666666666
+excl_contested_kept,T162,Murder in a Small Town,TV,DE,2026-08-10,2026-08-16,6,2,de,Murder in a Small Town (Fernsehserie),Q127220558,label_tiebreak,ok,20651,4,3,1.0,0.6666666666666666,0.0
+all,T162,Murder in a Small Town,TV,DE,2026-08-10,2026-08-16,6,2,de,Murder in a Small Town (Fernsehserie),Q127220558,label_tiebreak,ok,20651,4,3,1.0,0.6666666666666666,0.0
+excl_contested_kept,T017,My Life With the Walter Boys,TV,BR,2026-08-10,2026-08-16,2,2,pt,My Life with the Walter Boys,Q113570499,netflix_id,ok,949,1,1,1.0,,
+all,T017,My Life With the Walter Boys,TV,BR,2026-08-10,2026-08-16,2,2,pt,My Life with the Walter Boys,Q113570499,netflix_id,ok,949,2,1,2.0,0.0,1.0
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-08-10,2026-08-16,8,9,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,4,3.5,1.0,0.8333333333333334
+all,T009,I Will Find You,TV,DE,2026-08-10,2026-08-16,8,9,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,4,3.5,1.0,0.8333333333333334
+all,T116,The Mentalist,TV,BR,2026-08-10,2026-08-16,5,7,pt,O Mentalista,Q204228,netflix_id,contested_kept,6416,2,2,1.0,1.0,0.0
+excl_contested_kept,T204,Say Cheese,Films,FR,2026-08-10,2026-08-16,5,2,fr,On sourit pour la photo,Q111796247,label_unique,ok,1386,8,3,8.0,0.2857142857142857,1.0
+all,T204,Say Cheese,Films,FR,2026-08-10,2026-08-16,5,2,fr,On sourit pour la photo,Q111796247,label_unique,ok,1386,8,3,8.0,0.2857142857142857,1.0
+excl_contested_kept,T014,Our Sticky Love,TV,FR,2026-08-10,2026-08-16,7,1,fr,Our Sticky Love,Q137835829,netflix_id,ok,6177,6,6,6.0,1.0,1.0
+all,T014,Our Sticky Love,TV,IT,2026-08-10,2026-08-16,6,1,it,Our Sticky Love,Q137835829,netflix_id,ok,0,2,2,2.0,1.0,1.0
+excl_contested_kept,T014,Our Sticky Love,TV,IT,2026-08-10,2026-08-16,6,1,it,Our Sticky Love,Q137835829,netflix_id,ok,0,2,2,2.0,1.0,1.0
+all,T014,Our Sticky Love,TV,FR,2026-08-10,2026-08-16,7,1,fr,Our Sticky Love,Q137835829,netflix_id,ok,6177,6,6,6.0,1.0,1.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,FR,2026-08-10,2026-08-16,10,5,fr,Spider-Man: Homecoming,Q23010088,netflix_id,ok,14315,8,8,2.0,1.0,0.14285714285714285
+all,T056,Spider-Man: Homecoming,Films,FR,2026-08-10,2026-08-16,10,5,fr,Spider-Man: Homecoming,Q23010088,netflix_id,ok,14315,8,8,2.0,1.0,0.14285714285714285
+all,T009,I Will Find You,TV,FR,2026-08-10,2026-08-16,5,9,fr,Sur tes traces,Q134412018,netflix_id,ok,11315,6,4,4.0,0.6,0.6
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-08-10,2026-08-16,5,9,fr,Sur tes traces,Q134412018,netflix_id,ok,11315,6,4,4.0,0.6,0.6
+excl_contested_kept,T002,The Last House,Films,IT,2026-08-10,2026-08-16,2,2,it,The Last House,Q129165193,netflix_id,ok,24616,5,1,1.0,0.0,0.0
+all,T002,The Last House,Films,DE,2026-08-10,2026-08-16,1,2,de,The Last House,Q129165193,netflix_id,ok,45523,5,1,1.0,0.0,0.0
+excl_contested_kept,T002,The Last House,Films,DE,2026-08-10,2026-08-16,1,2,de,The Last House,Q129165193,netflix_id,ok,45523,4,1,1.0,0.0,0.0
+all,T002,The Last House,Films,IT,2026-08-10,2026-08-16,2,2,it,The Last House,Q129165193,netflix_id,ok,24616,5,1,1.0,0.0,0.0
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-08-10,2026-08-16,2,6,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,59321,5,2,2.0,0.25,0.25
+all,T114,Until the T-shirt Dries,TV,JP,2026-08-10,2026-08-16,2,6,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,59321,5,2,2.0,0.25,0.25
+all,T071,What a Girl Wants,Films,IT,2026-08-10,2026-08-16,6,1,it,Una ragazza e il suo sogno,Q1123621,netflix_id,ok,1611,5,3,4.0,0.5,0.75
+excl_contested_kept,T071,What a Girl Wants,Films,IT,2026-08-10,2026-08-16,6,1,it,Una ragazza e il suo sogno,Q1123621,netflix_id,ok,1611,5,3,4.0,0.5,0.75
+excl_contested_kept,T017,My Life With the Walter Boys,TV,IT,2026-08-10,2026-08-16,1,11,it,Uno splendido errore,Q113570499,netflix_id,ok,11707,2,1,1.0,0.0,0.0
+all,T017,My Life With the Walter Boys,TV,IT,2026-08-10,2026-08-16,1,11,it,Uno splendido errore,Q113570499,netflix_id,ok,11707,2,1,1.0,0.0,0.0
+excl_contested_kept,T115,Vivant,TV,JP,2026-08-10,2026-08-16,4,11,ja,VIVANT,Q116919744,netflix_id,ok,273916,5,3,1.0,0.5,0.0
+all,T115,Vivant,TV,JP,2026-08-10,2026-08-16,4,11,ja,VIVANT,Q116919744,netflix_id,ok,273916,5,3,1.0,0.5,0.0
+excl_contested_kept,T071,What a Girl Wants,Films,BR,2026-08-10,2026-08-16,6,1,pt,What a Girl Wants (filme),Q1123621,netflix_id,ok,848,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T071,What a Girl Wants,Films,BR,2026-08-10,2026-08-16,6,1,pt,What a Girl Wants (filme),Q1123621,netflix_id,ok,848,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T076,Human Vapor,TV,JP,2026-08-10,2026-08-16,7,7,ja,ガス人間,Q136735821,netflix_id,ok,826,5,5,5.0,1.0,1.0
+all,T076,Human Vapor,TV,JP,2026-08-10,2026-08-16,7,7,ja,ガス人間,Q136735821,netflix_id,ok,826,5,5,5.0,1.0,1.0
+all,T056,Spider-Man: Homecoming,Films,JP,2026-08-10,2026-08-16,7,3,ja,スパイダーマン:ホームカミング,Q23010088,netflix_id,ok,18048,2,2,2.0,1.0,1.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,JP,2026-08-10,2026-08-16,7,3,ja,スパイダーマン:ホームカミング,Q23010088,netflix_id,ok,18048,2,2,2.0,1.0,1.0
+all,T074,Badly in Love,TV,JP,2026-08-10,2026-08-16,1,2,ja,ラヴ上等,Q140219404,netflix_id,ok,39077,5,1,3.0,0.0,0.5
+excl_contested_kept,T074,Badly in Love,TV,JP,2026-08-10,2026-08-16,1,2,ja,ラヴ上等,Q140219404,netflix_id,ok,39077,5,1,3.0,0.0,0.5
+all,T118,GATE24:The Border,TV,JP,2026-08-10,2026-08-16,5,4,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26397,5,4,4.0,0.75,0.75
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-08-10,2026-08-16,5,4,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26397,5,4,4.0,0.75,0.75
+excl_contested_kept,T079,Despicable Me 4,Films,JP,2026-08-10,2026-08-16,5,6,ja,怪盗グルーのミニオン超変身,Q113373276,netflix_id,ok,25930,2,1,1.0,0.0,0.0
+all,T079,Despicable Me 4,Films,JP,2026-08-10,2026-08-16,5,6,ja,怪盗グルーのミニオン超変身,Q113373276,netflix_id,ok,25930,2,1,1.0,0.0,0.0
+excl_contested_kept,T225,The Auditors,TV,KR,2026-08-10,2026-08-16,10,1,ko,감사합니다 (드라마),Q125968286,netflix_id,ok,761,8,8,5.0,1.0,0.5714285714285714
+all,T225,The Auditors,TV,KR,2026-08-10,2026-08-16,10,1,ko,감사합니다 (드라마),Q125968286,netflix_id,ok,761,8,8,5.0,1.0,0.5714285714285714
+excl_contested_kept,T001,Agent Kim Reactivated,TV,KR,2026-08-10,2026-08-16,9,8,ko,김부장,Q139553270,netflix_id,ok,1023,8,7,4.0,0.8571428571428571,0.42857142857142855
+all,T001,Agent Kim Reactivated,TV,KR,2026-08-10,2026-08-16,9,8,ko,김부장,Q139553270,netflix_id,ok,1023,8,7,4.0,0.8571428571428571,0.42857142857142855
+excl_contested_kept,T121,I am Solo,TV,KR,2026-08-10,2026-08-16,2,2,ko,나는 SOLO,Q113548365,label_unique,ok,431,8,2,7.0,0.14285714285714285,0.8571428571428571
+all,T121,I am Solo,TV,KR,2026-08-10,2026-08-16,2,2,ko,나는 SOLO,Q113548365,label_unique,ok,431,8,2,7.0,0.14285714285714285,0.8571428571428571
+all,T077,Husbands in Action,Films,KR,2026-08-10,2026-08-16,10,9,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,46,5,5,5.0,1.0,1.0
+excl_contested_kept,T077,Husbands in Action,Films,KR,2026-08-10,2026-08-16,10,9,ko,남편들 (2026년 영화),Q137843012,netflix_id,ok,46,5,5,5.0,1.0,1.0
+all,T039,The East Palace,TV,KR,2026-08-10,2026-08-16,8,5,ko,동궁 (드라마),Q137723110,netflix_id,ok,610,8,6,6.0,0.7142857142857143,0.7142857142857143
+excl_contested_kept,T039,The East Palace,TV,KR,2026-08-10,2026-08-16,8,5,ko,동궁 (드라마),Q137723110,netflix_id,ok,610,8,6,6.0,0.7142857142857143,0.7142857142857143
+all,T036,Spider-Man: Far from Home,Films,KR,2026-08-10,2026-08-16,6,7,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1153,5,3,1.0,0.5,0.0
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,KR,2026-08-10,2026-08-16,6,7,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1153,5,3,1.0,0.5,0.0
+all,T056,Spider-Man: Homecoming,Films,KR,2026-08-10,2026-08-16,5,6,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,1053,5,2,2.0,0.25,0.25
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,KR,2026-08-10,2026-08-16,5,6,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,1053,5,2,2.0,0.25,0.25
+excl_contested_kept,T123,The Apartment Job,TV,KR,2026-08-10,2026-08-16,3,6,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,4572,8,3,2.0,0.2857142857142857,0.14285714285714285
+all,T123,The Apartment Job,TV,KR,2026-08-10,2026-08-16,3,6,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,4572,8,3,2.0,0.2857142857142857,0.14285714285714285
+all,T105,Edge of Tomorrow,Films,KR,2026-08-10,2026-08-16,7,1,ko,엣지 오브 투모로우,Q1187607,netflix_id,ok,99,5,4,4.0,0.75,0.75
+excl_contested_kept,T105,Edge of Tomorrow,Films,KR,2026-08-10,2026-08-16,7,1,ko,엣지 오브 투모로우,Q1187607,netflix_id,ok,99,5,4,4.0,0.75,0.75
+excl_contested_kept,T054,Spooky in Love,TV,KR,2026-08-10,2026-08-16,6,5,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2234,8,4,3.0,0.42857142857142855,0.2857142857142857
+all,T054,Spooky in Love,TV,KR,2026-08-10,2026-08-16,6,5,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2234,8,4,3.0,0.42857142857142855,0.2857142857142857
+all,T127,Wild Sing,Films,KR,2026-08-10,2026-08-16,2,3,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,296,5,1,3.0,0.0,0.5
+excl_contested_kept,T127,Wild Sing,Films,KR,2026-08-10,2026-08-16,2,3,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,296,5,1,3.0,0.0,0.5
+excl_contested_kept,T014,Our Sticky Love,TV,KR,2026-08-10,2026-08-16,1,2,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,12276,8,1,1.0,0.0,0.0
+all,T014,Our Sticky Love,TV,KR,2026-08-10,2026-08-16,1,2,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,12276,8,1,1.0,0.0,0.0
+all,T309,Whenever Possible,TV,KR,2026-08-10,2026-08-16,7,1,ko,"틈만나면,",Q125524050,label_unique,ok,387,8,5,8.0,0.5714285714285714,1.0
+excl_contested_kept,T309,Whenever Possible,TV,KR,2026-08-10,2026-08-16,7,1,ko,"틈만나면,",Q125524050,label_unique,ok,387,8,5,8.0,0.5714285714285714,1.0
+excl_contested_kept,T010,72 HOURS,Films,IT,2026-08-17,2026-08-23,8,5,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,1473,4,3,4.0,0.6666666666666666,1.0
+all,T010,72 HOURS,Films,IT,2026-08-17,2026-08-23,8,5,it,72 Hours (film 2026),Q136339220,label_tiebreak,ok,1473,4,3,4.0,0.6666666666666666,1.0
+excl_contested_kept,T296,A Cinderella Story,Films,BR,2026-08-17,2026-08-23,7,1,pt,A Cinderella Story,Q276415,netflix_id,ok,441,3,2,3.0,0.5,1.0
+all,T296,A Cinderella Story,Films,BR,2026-08-17,2026-08-23,7,1,pt,A Cinderella Story,Q276415,netflix_id,ok,441,4,2,3.0,0.3333333333333333,0.6666666666666666
+excl_contested_kept,T002,The Last House,Films,BR,2026-08-17,2026-08-23,4,3,pt,A Última Casa (2026),Q129165193,netflix_id,ok,936,3,1,2.0,0.0,0.5
+all,T002,The Last House,Films,BR,2026-08-17,2026-08-23,4,3,pt,A Última Casa (2026),Q129165193,netflix_id,ok,936,4,1,2.0,0.0,0.3333333333333333
+all,T283,Love Hurts,Films,FR,2026-08-17,2026-08-23,6,1,fr,Back to Business,Q125265183,netflix_id,resolved_by_date,1099,5,4,4.0,0.75,0.75
+excl_contested_kept,T283,Love Hurts,Films,FR,2026-08-17,2026-08-23,6,1,fr,Back to Business,Q125265183,netflix_id,resolved_by_date,1099,4,4,4.0,1.0,1.0
+all,T185,Black Adam,Films,DE,2026-08-17,2026-08-23,6,2,de,Black Adam (Film),Q28657013,netflix_id,ok,6456,6,6,4.0,1.0,0.6
+excl_contested_kept,T185,Black Adam,Films,DE,2026-08-17,2026-08-23,6,2,de,Black Adam (Film),Q28657013,netflix_id,ok,6456,5,5,4.0,1.0,0.75
+all,T251,Blue Beetle,Films,FR,2026-08-17,2026-08-23,4,1,fr,Blue Beetle (film),Q107808351,label_unique,ok,9608,5,3,3.0,0.5,0.5
+excl_contested_kept,T251,Blue Beetle,Films,FR,2026-08-17,2026-08-23,4,1,fr,Blue Beetle (film),Q107808351,label_unique,ok,9608,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T179,Serial Driver,Films,FR,2026-08-17,2026-08-23,2,1,fr,Bonne Conduite,Q117382930,label_unique,ok,12505,4,2,1.0,0.3333333333333333,0.0
+all,T179,Serial Driver,Films,FR,2026-08-17,2026-08-23,2,1,fr,Bonne Conduite,Q117382930,label_unique,ok,12505,5,2,1.0,0.25,0.0
+excl_contested_kept,T128,Buen Camino,Films,IT,2026-08-17,2026-08-23,9,13,it,Buen camino,Q137211198,label_unique,ok,4691,4,4,3.0,1.0,0.6666666666666666
+all,T128,Buen Camino,Films,IT,2026-08-17,2026-08-23,9,13,it,Buen camino,Q137211198,label_unique,ok,4691,4,4,3.0,1.0,0.6666666666666666
+all,T337,Collateral Damage,Films,BR,2026-08-17,2026-08-23,9,1,pt,Collateral Damage,Q506605,netflix_id,contested_kept,183,4,4,4.0,1.0,1.0
+all,T006,Facing El Chapo,Films,DE,2026-08-17,2026-08-23,2,1,de,Die Festnahme (2026),Q141165617,netflix_id,ok,0,6,2,6.0,0.2,1.0
+excl_contested_kept,T006,Facing El Chapo,Films,DE,2026-08-17,2026-08-23,2,1,de,Die Festnahme (2026),Q141165617,netflix_id,ok,0,5,2,5.0,0.25,1.0
+all,T095,Breaking In,Films,DE,2026-08-17,2026-08-23,5,2,de,Die Traumtänzer,Q4287509,netflix_id,contested_kept,7,6,5,5.0,0.8,0.8
+all,T046,Don't Say Good Luck,Films,DE,2026-08-17,2026-08-23,4,2,de,Don’t Say Good Luck,Q135220006,netflix_id,ok,15223,6,4,2.0,0.6,0.2
+excl_contested_kept,T046,Don't Say Good Luck,Films,DE,2026-08-17,2026-08-23,4,2,de,Don’t Say Good Luck,Q135220006,netflix_id,ok,15223,5,4,2.0,0.75,0.25
+all,T012,Elite Force,TV,FR,2026-08-17,2026-08-23,5,5,fr,GIGN (mini-série),Q133868511,netflix_id,ok,14174,6,4,3.0,0.6,0.4
+excl_contested_kept,T012,Elite Force,TV,FR,2026-08-17,2026-08-23,5,5,fr,GIGN (mini-série),Q133868511,netflix_id,ok,14174,6,4,3.0,0.6,0.4
+all,T017,My Life With the Walter Boys,TV,DE,2026-08-17,2026-08-23,3,3,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,8655,6,2,4.0,0.2,0.6
+excl_contested_kept,T017,My Life With the Walter Boys,TV,DE,2026-08-17,2026-08-23,3,3,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,8655,6,2,4.0,0.2,0.6
+all,T126,Kaulitz & Kaulitz,TV,DE,2026-08-17,2026-08-23,7,5,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,1066,6,4,5.0,0.6,0.8
+excl_contested_kept,T126,Kaulitz & Kaulitz,TV,DE,2026-08-17,2026-08-23,7,5,de,Kaulitz & Kaulitz,Q127165247,netflix_id,ok,1066,6,4,5.0,0.6,0.8
+excl_contested_kept,T006,Facing El Chapo,Films,IT,2026-08-17,2026-08-23,2,1,it,La Captura,Q141165617,netflix_id,ok,7908,4,1,2.0,0.0,0.3333333333333333
+all,T006,Facing El Chapo,Films,IT,2026-08-17,2026-08-23,2,1,it,La Captura,Q141165617,netflix_id,ok,7908,4,1,2.0,0.0,0.3333333333333333
+all,T002,The Last House,Films,FR,2026-08-17,2026-08-23,1,3,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,10669,5,1,2.0,0.0,0.25
+excl_contested_kept,T002,The Last House,Films,FR,2026-08-17,2026-08-23,1,3,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,10669,4,1,2.0,0.0,0.3333333333333333
+all,T206,The Morning After,Films,FR,2026-08-17,2026-08-23,7,1,fr,Le Lendemain du crime,Q1195881,netflix_id,contested_kept,40,5,5,5.0,1.0,1.0
+excl_contested_kept,T033,My Brilliant Career,TV,FR,2026-08-17,2026-08-23,3,2,fr,Ma brillante carrière (série télévisée),Q135011543,netflix_id,ok,15668,6,2,1.0,0.2,0.0
+all,T033,My Brilliant Career,TV,FR,2026-08-17,2026-08-23,3,2,fr,Ma brillante carrière (série télévisée),Q135011543,netflix_id,ok,15668,6,2,1.0,0.2,0.0
+all,T017,My Life With the Walter Boys,TV,FR,2026-08-17,2026-08-23,4,3,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,8730,6,3,6.0,0.4,1.0
+excl_contested_kept,T017,My Life With the Walter Boys,TV,FR,2026-08-17,2026-08-23,4,3,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,8730,6,3,6.0,0.4,1.0
+excl_contested_kept,T083,"My Best Friend, His Girlfriend and Me",Films,DE,2026-08-17,2026-08-23,1,2,de,"Mein bester Freund, seine Freundin & ich",Q140467227,netflix_id,ok,10797,5,1,3.0,0.0,0.5
+all,T083,"My Best Friend, His Girlfriend and Me",Films,DE,2026-08-17,2026-08-23,1,2,de,"Mein bester Freund, seine Freundin & ich",Q140467227,netflix_id,ok,10797,6,1,3.0,0.0,0.4
+all,T162,Murder in a Small Town,TV,DE,2026-08-17,2026-08-23,10,3,de,Murder in a Small Town (Fernsehserie),Q127220558,label_tiebreak,ok,16420,6,6,2.0,1.0,0.2
+excl_contested_kept,T162,Murder in a Small Town,TV,DE,2026-08-17,2026-08-23,10,3,de,Murder in a Small Town (Fernsehserie),Q127220558,label_tiebreak,ok,16420,6,6,2.0,1.0,0.2
+excl_contested_kept,T017,My Life With the Walter Boys,TV,BR,2026-08-17,2026-08-23,8,3,pt,My Life with the Walter Boys,Q113570499,netflix_id,ok,479,3,2,3.0,0.5,1.0
+all,T017,My Life With the Walter Boys,TV,BR,2026-08-17,2026-08-23,8,3,pt,My Life with the Walter Boys,Q113570499,netflix_id,ok,479,4,3,4.0,0.6666666666666666,1.0
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-08-17,2026-08-23,6,10,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,6,3,6.0,0.4,1.0
+all,T009,I Will Find You,TV,DE,2026-08-17,2026-08-23,6,10,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,6,3,6.0,0.4,1.0
+all,T116,The Mentalist,TV,BR,2026-08-17,2026-08-23,6,8,pt,O Mentalista,Q204228,netflix_id,contested_kept,5817,4,2,1.0,0.3333333333333333,0.0
+excl_contested_kept,T020,Outer Banks,TV,DE,2026-08-17,2026-08-23,2,1,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,17333,6,1,1.0,0.0,0.0
+all,T020,Outer Banks,TV,DE,2026-08-17,2026-08-23,2,1,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,17333,6,1,1.0,0.0,0.0
+all,T020,Outer Banks,TV,IT,2026-08-17,2026-08-23,1,1,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,17389,3,1,1.0,0.0,0.0
+excl_contested_kept,T020,Outer Banks,TV,IT,2026-08-17,2026-08-23,1,1,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,17389,3,1,1.0,0.0,0.0
+all,T020,Outer Banks,TV,BR,2026-08-17,2026-08-23,1,1,pt,Outer Banks (série de televisão),Q89414035,netflix_id,ok,1701,4,1,2.0,0.0,0.3333333333333333
+excl_contested_kept,T020,Outer Banks,TV,BR,2026-08-17,2026-08-23,1,1,pt,Outer Banks (série de televisão),Q89414035,netflix_id,ok,1701,3,1,1.0,0.0,0.0
+all,T020,Outer Banks,TV,FR,2026-08-17,2026-08-23,1,1,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,15239,6,1,2.0,0.0,0.2
+excl_contested_kept,T020,Outer Banks,TV,FR,2026-08-17,2026-08-23,1,1,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,15239,6,1,2.0,0.0,0.2
+excl_contested_kept,T313,Here the Whole Time,Films,BR,2026-08-17,2026-08-23,8,1,pt,Quinze Dias,Q138861105,netflix_id,ok,4893,3,3,1.0,1.0,0.0
+all,T313,Here the Whole Time,Films,BR,2026-08-17,2026-08-23,8,1,pt,Quinze Dias,Q138861105,netflix_id,ok,4893,4,3,1.0,0.6666666666666666,0.0
+excl_contested_kept,T045,Seal Team,TV,BR,2026-08-17,2026-08-23,10,1,pt,SEAL Team,Q30087611,label_unique,ok,650,3,3,2.0,1.0,0.5
+excl_contested_kept,T045,Seal Team,TV,DE,2026-08-17,2026-08-23,8,1,de,SEAL Team,Q30087611,label_unique,ok,10192,6,5,3.0,0.8,0.4
+excl_contested_kept,T045,Seal Team,TV,FR,2026-08-17,2026-08-23,8,1,fr,SEAL Team,Q30087611,label_unique,ok,11144,6,6,5.0,1.0,0.8
+all,T045,Seal Team,TV,BR,2026-08-17,2026-08-23,10,1,pt,SEAL Team,Q30087611,label_unique,ok,650,4,4,3.0,1.0,0.6666666666666666
+all,T045,Seal Team,TV,DE,2026-08-17,2026-08-23,8,1,de,SEAL Team,Q30087611,label_unique,ok,10192,6,5,3.0,0.8,0.4
+all,T045,Seal Team,TV,FR,2026-08-17,2026-08-23,8,1,fr,SEAL Team,Q30087611,label_unique,ok,11144,6,6,5.0,1.0,0.8
+all,T045,Seal Team,TV,IT,2026-08-17,2026-08-23,8,1,it,SEAL Team (serie televisiva),Q30087611,label_unique,ok,6875,3,3,3.0,1.0,1.0
+excl_contested_kept,T045,Seal Team,TV,IT,2026-08-17,2026-08-23,8,1,it,SEAL Team (serie televisiva),Q30087611,label_unique,ok,6875,3,3,3.0,1.0,1.0
+excl_contested_kept,T009,I Will Find You,TV,FR,2026-08-17,2026-08-23,7,10,fr,Sur tes traces,Q134412018,netflix_id,ok,11963,6,5,4.0,0.8,0.6
+all,T009,I Will Find You,TV,FR,2026-08-17,2026-08-23,7,10,fr,Sur tes traces,Q134412018,netflix_id,ok,11963,6,5,4.0,0.8,0.6
+all,T002,The Last House,Films,DE,2026-08-17,2026-08-23,3,3,de,The Last House,Q129165193,netflix_id,ok,20423,6,3,1.0,0.4,0.0
+excl_contested_kept,T002,The Last House,Films,DE,2026-08-17,2026-08-23,3,3,de,The Last House,Q129165193,netflix_id,ok,20423,5,3,1.0,0.5,0.0
+excl_contested_kept,T002,The Last House,Films,IT,2026-08-17,2026-08-23,3,3,it,The Last House,Q129165193,netflix_id,ok,12794,4,2,1.0,0.3333333333333333,0.0
+all,T002,The Last House,Films,IT,2026-08-17,2026-08-23,3,3,it,The Last House,Q129165193,netflix_id,ok,12794,4,2,1.0,0.3333333333333333,0.0
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-08-17,2026-08-23,2,7,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,56275,5,2,2.0,0.25,0.25
+all,T114,Until the T-shirt Dries,TV,JP,2026-08-17,2026-08-23,2,7,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,56275,5,2,2.0,0.25,0.25
+all,T017,My Life With the Walter Boys,TV,IT,2026-08-17,2026-08-23,4,3,it,Uno splendido errore,Q113570499,netflix_id,ok,7983,3,2,2.0,0.5,0.5
+excl_contested_kept,T017,My Life With the Walter Boys,TV,IT,2026-08-17,2026-08-23,4,3,it,Uno splendido errore,Q113570499,netflix_id,ok,7983,3,2,2.0,0.5,0.5
+all,T115,Vivant,TV,JP,2026-08-17,2026-08-23,4,12,ja,VIVANT,Q116919744,netflix_id,ok,219065,5,3,1.0,0.5,0.0
+excl_contested_kept,T115,Vivant,TV,JP,2026-08-17,2026-08-23,4,12,ja,VIVANT,Q116919744,netflix_id,ok,219065,5,3,1.0,0.5,0.0
+all,T074,Badly in Love,TV,JP,2026-08-17,2026-08-23,1,3,ja,ラヴ上等,Q140219404,netflix_id,ok,49037,5,1,3.0,0.0,0.5
+excl_contested_kept,T074,Badly in Love,TV,JP,2026-08-17,2026-08-23,1,3,ja,ラヴ上等,Q140219404,netflix_id,ok,49037,5,1,3.0,0.0,0.5
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-08-17,2026-08-23,5,5,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,25204,5,4,4.0,0.75,0.75
+all,T118,GATE24:The Border,TV,JP,2026-08-17,2026-08-23,5,5,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,25204,5,4,4.0,0.75,0.75
+all,T079,Despicable Me 4,Films,JP,2026-08-17,2026-08-23,6,7,ja,怪盗グルーのミニオン超変身,Q113373276,netflix_id,ok,3148,2,2,2.0,1.0,1.0
+excl_contested_kept,T079,Despicable Me 4,Films,JP,2026-08-17,2026-08-23,6,7,ja,怪盗グルーのミニオン超変身,Q113373276,netflix_id,ok,3148,2,2,2.0,1.0,1.0
+excl_contested_kept,T054,Spooky in Love,TV,JP,2026-08-17,2026-08-23,9,3,ja,恋は命がけ,Q138266416,netflix_id,ok,3677,5,5,5.0,1.0,1.0
+all,T054,Spooky in Love,TV,JP,2026-08-17,2026-08-23,9,3,ja,恋は命がけ,Q138266416,netflix_id,ok,3677,5,5,5.0,1.0,1.0
+excl_contested_kept,T240,Petals and Memories,Films,JP,2026-08-17,2026-08-23,2,1,ja,花まんま,Q134720030,label_unique,ok,3243,2,1,1.0,0.0,0.0
+all,T240,Petals and Memories,Films,JP,2026-08-17,2026-08-23,2,1,ja,花まんま,Q134720030,label_unique,ok,3243,2,1,1.0,0.0,0.0
+all,T225,The Auditors,TV,KR,2026-08-17,2026-08-23,8,2,ko,감사합니다 (드라마),Q125968286,netflix_id,ok,943,5,5,4.0,1.0,0.75
+excl_contested_kept,T225,The Auditors,TV,KR,2026-08-17,2026-08-23,8,2,ko,감사합니다 (드라마),Q125968286,netflix_id,ok,943,5,5,4.0,1.0,0.75
+all,T121,I am Solo,TV,KR,2026-08-17,2026-08-23,1,3,ko,나는 SOLO,Q113548365,label_unique,ok,484,5,1,5.0,0.0,1.0
+excl_contested_kept,T121,I am Solo,TV,KR,2026-08-17,2026-08-23,1,3,ko,나는 SOLO,Q113548365,label_unique,ok,484,5,1,5.0,0.0,1.0
+all,T371,Suicide Squad,Films,KR,2026-08-17,2026-08-23,10,3,ko,수어사이드 스쿼드 (영화),Q18604504,netflix_id,ok,333,5,5,3.0,1.0,0.5
+excl_contested_kept,T371,Suicide Squad,Films,KR,2026-08-17,2026-08-23,10,3,ko,수어사이드 스쿼드 (영화),Q18604504,netflix_id,ok,333,5,5,3.0,1.0,0.5
+all,T036,Spider-Man: Far from Home,Films,KR,2026-08-17,2026-08-23,5,8,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1013,5,3,1.0,0.5,0.0
+excl_contested_kept,T036,Spider-Man: Far from Home,Films,KR,2026-08-17,2026-08-23,5,8,ko,스파이더맨: 파 프롬 홈,Q27985819,netflix_id,ok,1013,5,3,1.0,0.5,0.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,KR,2026-08-17,2026-08-23,4,7,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,770,5,2,2.0,0.25,0.25
+all,T056,Spider-Man: Homecoming,Films,KR,2026-08-17,2026-08-23,4,7,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,770,5,2,2.0,0.25,0.25
+excl_contested_kept,T123,The Apartment Job,TV,KR,2026-08-17,2026-08-23,3,7,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,2308,5,3,3.0,0.5,0.5
+all,T123,The Apartment Job,TV,KR,2026-08-17,2026-08-23,3,7,ko,아파트 (2026년 드라마),Q139455537,netflix_id,ok,2308,5,3,3.0,0.5,0.5
+excl_contested_kept,T054,Spooky in Love,TV,KR,2026-08-17,2026-08-23,4,6,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2715,5,4,2.0,0.75,0.25
+all,T054,Spooky in Love,TV,KR,2026-08-17,2026-08-23,4,6,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,2715,5,4,2.0,0.75,0.25
+all,T127,Wild Sing,Films,KR,2026-08-17,2026-08-23,2,4,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,182,5,1,4.0,0.0,0.75
+excl_contested_kept,T127,Wild Sing,Films,KR,2026-08-17,2026-08-23,2,4,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,182,5,1,4.0,0.0,0.75
+all,T014,Our Sticky Love,TV,KR,2026-08-17,2026-08-23,2,3,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,3842,5,2,1.0,0.25,0.0
+excl_contested_kept,T014,Our Sticky Love,TV,KR,2026-08-17,2026-08-23,2,3,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,3842,5,2,1.0,0.25,0.0
+excl_contested_kept,T338,Cradle 2 the Grave,Films,KR,2026-08-17,2026-08-23,9,1,ko,크레이들 투 그레이브,Q837536,netflix_id,ok,97,5,4,5.0,0.75,1.0
+all,T338,Cradle 2 the Grave,Films,KR,2026-08-17,2026-08-23,9,1,ko,크레이들 투 그레이브,Q837536,netflix_id,ok,97,5,4,5.0,0.75,1.0
+excl_contested_kept,T002,The Last House,Films,BR,2026-08-24,2026-08-30,10,4,pt,A Última Casa (2026),Q129165193,netflix_id,ok,910,4,4,2.0,1.0,0.3333333333333333
+all,T002,The Last House,Films,BR,2026-08-24,2026-08-30,10,4,pt,A Última Casa (2026),Q129165193,netflix_id,ok,910,5,5,2.0,1.0,0.25
+all,T135,Regretting You,Films,DE,2026-08-24,2026-08-30,3,1,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,31827,6,2,2.0,0.2,0.2
+excl_contested_kept,T135,Regretting You,Films,DE,2026-08-24,2026-08-30,3,1,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,31827,6,2,2.0,0.2,0.2
+excl_contested_kept,T286,My Summer in Provence,Films,FR,2026-08-24,2026-08-30,6,1,fr,Avis de mistral,Q16529759,netflix_id,ok,5118,6,3,4.0,0.4,0.6
+all,T286,My Summer in Provence,Films,FR,2026-08-24,2026-08-30,6,1,fr,Avis de mistral,Q16529759,netflix_id,ok,5118,7,4,4.0,0.5,0.5
+excl_contested_kept,T179,Serial Driver,Films,FR,2026-08-24,2026-08-30,10,2,fr,Bonne Conduite,Q117382930,label_unique,ok,6439,6,6,2.0,1.0,0.2
+all,T179,Serial Driver,Films,FR,2026-08-24,2026-08-30,10,2,fr,Bonne Conduite,Q117382930,label_unique,ok,6439,7,7,2.0,1.0,0.16666666666666666
+excl_contested_kept,T128,Buen Camino,Films,IT,2026-08-24,2026-08-30,10,14,it,Buen camino,Q137211198,label_unique,ok,3941,6,6,5.0,1.0,0.8
+all,T128,Buen Camino,Films,IT,2026-08-24,2026-08-30,10,14,it,Buen camino,Q137211198,label_unique,ok,3941,6,6,5.0,1.0,0.8
+excl_contested_kept,T298,Colombiana,Films,FR,2026-08-24,2026-08-30,7,3,fr,Colombiana,Q868329,netflix_id,ok,1511,6,4,5.0,0.6,0.8
+all,T298,Colombiana,Films,FR,2026-08-24,2026-08-30,7,3,fr,Colombiana,Q868329,netflix_id,ok,1511,7,5,5.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T100,Companion,Films,DE,2026-08-24,2026-08-30,6,1,de,Companion – Die perfekte Begleitung,Q125933907,netflix_id,ok,13140,6,4,3.0,0.6,0.4
+all,T100,Companion,Films,DE,2026-08-24,2026-08-30,6,1,de,Companion – Die perfekte Begleitung,Q125933907,netflix_id,ok,13140,6,4,3.0,0.6,0.4
+excl_contested_kept,T306,The Heat,Films,IT,2026-08-24,2026-08-30,7,1,it,Corpi da reato,Q135156,netflix_id,ok,1388,6,4,6.0,0.6,1.0
+all,T306,The Heat,Films,IT,2026-08-24,2026-08-30,7,1,it,Corpi da reato,Q135156,netflix_id,ok,1388,6,4,6.0,0.6,1.0
+excl_contested_kept,T003,The Whisper Man,Films,DE,2026-08-24,2026-08-30,2,1,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,55102,6,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,DE,2026-08-24,2026-08-30,2,1,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,55102,6,1,1.0,0.0,0.0
+all,T006,Facing El Chapo,Films,DE,2026-08-24,2026-08-30,4,2,de,Die Festnahme (2026),Q141165617,netflix_id,ok,5704,6,3,5.0,0.4,0.8
+excl_contested_kept,T006,Facing El Chapo,Films,DE,2026-08-24,2026-08-30,4,2,de,Die Festnahme (2026),Q141165617,netflix_id,ok,5704,6,3,5.0,0.4,0.8
+all,T153,13 Minutes,Films,BR,2026-08-24,2026-08-30,5,1,pt,Elser – Er hätte die Welt verändert,Q18977471,netflix_id,contested_kept,2,5,2,5.0,0.25,1.0
+all,T012,Elite Force,TV,FR,2026-08-24,2026-08-30,8,6,fr,GIGN (mini-série),Q133868511,netflix_id,ok,10413,6,4,3.0,0.6,0.4
+excl_contested_kept,T012,Elite Force,TV,FR,2026-08-24,2026-08-30,8,6,fr,GIGN (mini-série),Q133868511,netflix_id,ok,10413,6,4,3.0,0.6,0.4
+excl_contested_kept,T017,My Life With the Walter Boys,TV,DE,2026-08-24,2026-08-30,6,4,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,6641,4,2,3.0,0.3333333333333333,0.6666666666666666
+all,T017,My Life With the Walter Boys,TV,DE,2026-08-24,2026-08-30,6,4,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,6641,4,2,3.0,0.3333333333333333,0.6666666666666666
+all,T196,L'Amore sta bene su tutto,Films,IT,2026-08-24,2026-08-30,4,1,it,L'amore sta bene su tutto,Q139691514,label_unique,ok,15002,6,3,2.0,0.4,0.2
+excl_contested_kept,T196,L'Amore sta bene su tutto,Films,IT,2026-08-24,2026-08-30,4,1,it,L'amore sta bene su tutto,Q139691514,label_unique,ok,15002,6,3,2.0,0.4,0.2
+all,T003,The Whisper Man,Films,IT,2026-08-24,2026-08-30,2,1,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,49840,6,1,1.0,0.0,0.0
+excl_contested_kept,T003,The Whisper Man,Films,IT,2026-08-24,2026-08-30,2,1,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,49840,6,1,1.0,0.0,0.0
+excl_contested_kept,T006,Facing El Chapo,Films,IT,2026-08-24,2026-08-30,3,2,it,La Captura,Q141165617,netflix_id,ok,11534,6,2,4.0,0.2,0.6
+all,T006,Facing El Chapo,Films,IT,2026-08-24,2026-08-30,3,2,it,La Captura,Q141165617,netflix_id,ok,11534,6,2,4.0,0.2,0.6
+excl_contested_kept,T011,The Secret Woman,Films,FR,2026-08-24,2026-08-30,4,1,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,0,6,2,6.0,0.2,1.0
+all,T011,The Secret Woman,Films,FR,2026-08-24,2026-08-30,4,1,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,0,7,2,7.0,0.16666666666666666,1.0
+all,T002,The Last House,Films,FR,2026-08-24,2026-08-30,8,4,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,5427,7,6,3.0,0.8333333333333334,0.3333333333333333
+excl_contested_kept,T002,The Last House,Films,FR,2026-08-24,2026-08-30,8,4,fr,"Le Dernier Refuge (film, 2026)",Q129165193,netflix_id,ok,5427,6,5,3.0,0.8,0.4
+all,T206,The Morning After,Films,FR,2026-08-24,2026-08-30,5,2,fr,Le Lendemain du crime,Q1195881,netflix_id,contested_kept,38,7,3,6.0,0.3333333333333333,0.8333333333333334
+excl_contested_kept,T033,My Brilliant Career,TV,FR,2026-08-24,2026-08-30,9,3,fr,Ma brillante carrière (série télévisée),Q135011543,netflix_id,ok,8077,6,5,5.0,0.8,0.8
+all,T033,My Brilliant Career,TV,FR,2026-08-24,2026-08-30,9,3,fr,Ma brillante carrière (série télévisée),Q135011543,netflix_id,ok,8077,6,5,5.0,0.8,0.8
+excl_contested_kept,T017,My Life With the Walter Boys,TV,FR,2026-08-24,2026-08-30,7,4,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,5853,6,3,6.0,0.4,1.0
+all,T017,My Life With the Walter Boys,TV,FR,2026-08-24,2026-08-30,7,4,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,5853,6,3,6.0,0.4,1.0
+all,T083,"My Best Friend, His Girlfriend and Me",Films,DE,2026-08-24,2026-08-30,8,3,de,"Mein bester Freund, seine Freundin & ich",Q140467227,netflix_id,ok,4333,6,6,6.0,1.0,1.0
+excl_contested_kept,T083,"My Best Friend, His Girlfriend and Me",Films,DE,2026-08-24,2026-08-30,8,3,de,"Mein bester Freund, seine Freundin & ich",Q140467227,netflix_id,ok,4333,6,6,6.0,1.0,1.0
+excl_contested_kept,T284,Mickey 17,Films,BR,2026-08-24,2026-08-30,6,1,pt,Mickey 17,Q112977213,label_unique,ok,176,4,2,4.0,0.3333333333333333,1.0
+all,T284,Mickey 17,Films,BR,2026-08-24,2026-08-30,6,1,pt,Mickey 17,Q112977213,label_unique,ok,176,5,3,4.0,0.5,0.75
+excl_contested_kept,T145,Rhythm + Flow France,TV,FR,2026-08-24,2026-08-30,1,1,fr,Nouvelle École (émission de téléréalité),Q131700478,netflix_id,ok,8805,6,1,4.0,0.0,0.6
+all,T145,Rhythm + Flow France,TV,FR,2026-08-24,2026-08-30,1,1,fr,Nouvelle École (émission de téléréalité),Q131700478,netflix_id,ok,8805,6,1,4.0,0.0,0.6
+excl_contested_kept,T009,I Will Find You,TV,DE,2026-08-24,2026-08-30,8,11,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,4,4.0,1.0,1.0
+all,T009,I Will Find You,TV,DE,2026-08-24,2026-08-30,8,11,de,Nur für dein Leben,Q134412018,netflix_id,ok,0,4,4,4.0,1.0,1.0
+all,T116,The Mentalist,TV,BR,2026-08-24,2026-08-30,8,9,pt,O Mentalista,Q204228,netflix_id,contested_kept,6753,2,2,1.0,1.0,0.0
+all,T020,Outer Banks,TV,DE,2026-08-24,2026-08-30,3,10,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,18360,4,1,1.0,0.0,0.0
+excl_contested_kept,T020,Outer Banks,TV,DE,2026-08-24,2026-08-30,3,10,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,18360,4,1,1.0,0.0,0.0
+all,T020,Outer Banks,TV,IT,2026-08-24,2026-08-30,2,7,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,16620,3,1,1.0,0.0,0.0
+excl_contested_kept,T020,Outer Banks,TV,IT,2026-08-24,2026-08-30,2,7,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,16620,3,1,1.0,0.0,0.0
+all,T020,Outer Banks,TV,BR,2026-08-24,2026-08-30,3,2,pt,Outer Banks (série de televisão),Q89414035,netflix_id,ok,1657,2,1,2.0,0.0,1.0
+excl_contested_kept,T020,Outer Banks,TV,BR,2026-08-24,2026-08-30,3,2,pt,Outer Banks (série de televisão),Q89414035,netflix_id,ok,1657,1,1,1.0,,
+excl_contested_kept,T020,Outer Banks,TV,FR,2026-08-24,2026-08-30,3,2,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,14970,6,2,1.0,0.2,0.0
+all,T020,Outer Banks,TV,FR,2026-08-24,2026-08-30,3,2,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,14970,6,2,1.0,0.2,0.0
+excl_contested_kept,T045,Seal Team,TV,FR,2026-08-24,2026-08-30,10,2,fr,SEAL Team,Q30087611,label_unique,ok,11140,6,6,2.0,1.0,0.2
+all,T045,Seal Team,TV,FR,2026-08-24,2026-08-30,10,2,fr,SEAL Team,Q30087611,label_unique,ok,11140,6,6,2.0,1.0,0.2
+excl_contested_kept,T045,Seal Team,TV,DE,2026-08-24,2026-08-30,7,2,de,SEAL Team,Q30087611,label_unique,ok,10870,4,3,2.0,0.6666666666666666,0.3333333333333333
+all,T045,Seal Team,TV,DE,2026-08-24,2026-08-30,7,2,de,SEAL Team,Q30087611,label_unique,ok,10870,4,3,2.0,0.6666666666666666,0.3333333333333333
+all,T045,Seal Team,TV,IT,2026-08-24,2026-08-30,10,2,it,SEAL Team (serie televisiva),Q30087611,label_unique,ok,6830,3,3,2.0,1.0,0.5
+excl_contested_kept,T045,Seal Team,TV,IT,2026-08-24,2026-08-30,10,2,it,SEAL Team (serie televisiva),Q30087611,label_unique,ok,6830,3,3,2.0,1.0,0.5
+excl_contested_kept,T139,Shrek,Films,BR,2026-08-24,2026-08-30,7,5,pt,Shrek,Q483815,netflix_id,ok,840,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T139,Shrek,Films,BR,2026-08-24,2026-08-30,7,5,pt,Shrek,Q483815,netflix_id,ok,840,5,4,3.0,0.75,0.5
+all,T002,The Last House,Films,DE,2026-08-24,2026-08-30,7,4,de,The Last House,Q129165193,netflix_id,ok,10332,6,5,4.0,0.8,0.6
+all,T002,The Last House,Films,IT,2026-08-24,2026-08-30,8,4,it,The Last House,Q129165193,netflix_id,ok,13225,6,5,3.0,0.8,0.4
+excl_contested_kept,T002,The Last House,Films,IT,2026-08-24,2026-08-30,8,4,it,The Last House,Q129165193,netflix_id,ok,13225,6,5,3.0,0.8,0.4
+excl_contested_kept,T002,The Last House,Films,DE,2026-08-24,2026-08-30,7,4,de,The Last House,Q129165193,netflix_id,ok,10332,6,5,4.0,0.8,0.6
+excl_contested_kept,T003,The Whisper Man,Films,BR,2026-08-24,2026-08-30,2,1,pt,The Whisper Man,Q133852597,netflix_id,ok,1044,4,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,FR,2026-08-24,2026-08-30,2,1,fr,The Whisper Man,Q133852597,netflix_id,ok,26883,7,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,BR,2026-08-24,2026-08-30,2,1,pt,The Whisper Man,Q133852597,netflix_id,ok,1044,5,1,1.0,0.0,0.0
+excl_contested_kept,T003,The Whisper Man,Films,FR,2026-08-24,2026-08-30,2,1,fr,The Whisper Man,Q133852597,netflix_id,ok,26883,6,1,1.0,0.0,0.0
+all,T114,Until the T-shirt Dries,TV,JP,2026-08-24,2026-08-30,2,8,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,73810,5,2,2.0,0.25,0.25
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-08-24,2026-08-30,2,8,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,73810,5,2,2.0,0.25,0.25
+all,T017,My Life With the Walter Boys,TV,IT,2026-08-24,2026-08-30,4,4,it,Uno splendido errore,Q113570499,netflix_id,ok,6262,3,2,3.0,0.5,1.0
+excl_contested_kept,T017,My Life With the Walter Boys,TV,IT,2026-08-24,2026-08-30,4,4,it,Uno splendido errore,Q113570499,netflix_id,ok,6262,3,2,3.0,0.5,1.0
+excl_contested_kept,T115,Vivant,TV,JP,2026-08-24,2026-08-30,6,13,ja,VIVANT,Q116919744,netflix_id,ok,191726,5,4,1.0,0.75,0.0
+all,T115,Vivant,TV,JP,2026-08-24,2026-08-30,6,13,ja,VIVANT,Q116919744,netflix_id,ok,191726,5,4,1.0,0.75,0.0
+excl_contested_kept,T065,Sonic the Hedgehog 3,Films,JP,2026-08-24,2026-08-30,10,1,ja,ソニック×シャドウ TOKYO MISSION,Q115859490,label_unique,ok,1252,2,2,2.0,1.0,1.0
+all,T065,Sonic the Hedgehog 3,Films,JP,2026-08-24,2026-08-30,10,1,ja,ソニック×シャドウ TOKYO MISSION,Q115859490,label_unique,ok,1252,2,2,2.0,1.0,1.0
+all,T144,Last Mile,Films,JP,2026-08-24,2026-08-30,3,1,ja,ラストマイル,Q124482893,label_unique,ok,5833,2,1,1.0,0.0,0.0
+excl_contested_kept,T144,Last Mile,Films,JP,2026-08-24,2026-08-30,3,1,ja,ラストマイル,Q124482893,label_unique,ok,5833,2,1,1.0,0.0,0.0
+all,T074,Badly in Love,TV,JP,2026-08-24,2026-08-30,1,4,ja,ラヴ上等,Q140219404,netflix_id,ok,34739,5,1,3.0,0.0,0.5
+excl_contested_kept,T074,Badly in Love,TV,JP,2026-08-24,2026-08-30,1,4,ja,ラヴ上等,Q140219404,netflix_id,ok,34739,5,1,3.0,0.0,0.5
+all,T118,GATE24:The Border,TV,JP,2026-08-24,2026-08-30,5,6,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,24995,5,3,4.0,0.5,0.75
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-08-24,2026-08-30,5,6,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,24995,5,3,4.0,0.5,0.75
+all,T054,Spooky in Love,TV,JP,2026-08-24,2026-08-30,8,4,ja,恋は命がけ,Q138266416,netflix_id,ok,4375,5,5,5.0,1.0,1.0
+excl_contested_kept,T054,Spooky in Love,TV,JP,2026-08-24,2026-08-30,8,4,ja,恋は命がけ,Q138266416,netflix_id,ok,4375,5,5,5.0,1.0,1.0
+all,T121,I am Solo,TV,KR,2026-08-24,2026-08-30,3,4,ko,나는 SOLO,Q113548365,label_unique,ok,404,5,2,4.0,0.25,0.75
+excl_contested_kept,T121,I am Solo,TV,KR,2026-08-24,2026-08-30,3,4,ko,나는 SOLO,Q113548365,label_unique,ok,404,5,2,4.0,0.25,0.75
+excl_contested_kept,T080,Mousetrap,TV,KR,2026-08-24,2026-08-30,1,1,ko,들쥐 (드라마),Q140198906,netflix_id,ok,2377,5,1,1.0,0.0,0.0
+all,T080,Mousetrap,TV,KR,2026-08-24,2026-08-30,1,1,ko,들쥐 (드라마),Q140198906,netflix_id,ok,2377,5,1,1.0,0.0,0.0
+excl_contested_kept,T056,Spider-Man: Homecoming,Films,KR,2026-08-24,2026-08-30,10,8,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,297,3,3,2.0,1.0,0.5
+all,T056,Spider-Man: Homecoming,Films,KR,2026-08-24,2026-08-30,10,8,ko,스파이더맨: 홈커밍,Q23010088,netflix_id,ok,297,3,3,2.0,1.0,0.5
+all,T054,Spooky in Love,TV,KR,2026-08-24,2026-08-30,4,7,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,1223,5,3,3.0,0.5,0.5
+excl_contested_kept,T054,Spooky in Love,TV,KR,2026-08-24,2026-08-30,4,7,ko,오싹한 연애 (드라마),Q138266416,netflix_id,ok,1223,5,3,3.0,0.5,0.5
+all,T127,Wild Sing,Films,KR,2026-08-24,2026-08-30,6,5,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,109,3,2,3.0,0.5,1.0
+excl_contested_kept,T127,Wild Sing,Films,KR,2026-08-24,2026-08-30,6,5,ko,와일드 씽 (2026년 영화),Q139715512,netflix_id,ok,109,3,2,3.0,0.5,1.0
+all,T003,The Whisper Man,Films,KR,2026-08-24,2026-08-30,5,1,ko,위스퍼맨,Q133852597,netflix_id,ok,1330,3,1,1.0,0.0,0.0
+excl_contested_kept,T003,The Whisper Man,Films,KR,2026-08-24,2026-08-30,5,1,ko,위스퍼맨,Q133852597,netflix_id,ok,1330,3,1,1.0,0.0,0.0
+all,T014,Our Sticky Love,TV,KR,2026-08-24,2026-08-30,7,4,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,1923,5,4,2.0,0.75,0.25
+excl_contested_kept,T014,Our Sticky Love,TV,KR,2026-08-24,2026-08-30,7,4,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,1923,5,4,2.0,0.75,0.25
+all,T132,"Four Hands, Two Sonatas",TV,KR,2026-08-24,2026-08-30,10,1,ko,포핸즈,Q137271520,netflix_id,ok,0,5,5,5.0,1.0,1.0
+excl_contested_kept,T132,"Four Hands, Two Sonatas",TV,KR,2026-08-24,2026-08-30,10,1,ko,포핸즈,Q137271520,netflix_id,ok,0,5,5,5.0,1.0,1.0
+all,T360,2012,Films,JP,2026-08-31,2026-09-06,10,1,ja,2012 (映画),Q184605,netflix_id,ok,2195,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T360,2012,Films,JP,2026-08-31,2026-09-06,10,1,ja,2012 (映画),Q184605,netflix_id,ok,2195,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T135,Regretting You,Films,DE,2026-08-31,2026-09-06,3,2,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,13227,7,2,2.0,0.16666666666666666,0.16666666666666666
+all,T135,Regretting You,Films,DE,2026-08-31,2026-09-06,3,2,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,13227,7,2,2.0,0.16666666666666666,0.16666666666666666
+all,T008,Anacondas: Trail of Blood,Films,IT,2026-08-31,2026-09-06,7,1,it,Anaconda - Sentiero di sangue,Q716759,netflix_id,ok,1022,6,4,6.0,0.6,1.0
+excl_contested_kept,T008,Anacondas: Trail of Blood,Films,IT,2026-08-31,2026-09-06,7,1,it,Anaconda - Sentiero di sangue,Q716759,netflix_id,ok,1022,6,4,6.0,0.6,1.0
+all,T008,Anacondas: Trail of Blood,Films,FR,2026-08-31,2026-09-06,8,1,fr,Anacondas 4 : La Piste du sang,Q716759,netflix_id,ok,781,4,4,4.0,1.0,1.0
+excl_contested_kept,T008,Anacondas: Trail of Blood,Films,FR,2026-08-31,2026-09-06,8,1,fr,Anacondas 4 : La Piste du sang,Q716759,netflix_id,ok,781,4,4,4.0,1.0,1.0
+all,T008,Anacondas: Trail of Blood,Films,DE,2026-08-31,2026-09-06,9,1,de,Anacondas – Trail of Blood,Q716759,netflix_id,ok,1905,7,6,6.0,0.8333333333333334,0.8333333333333334
+excl_contested_kept,T008,Anacondas: Trail of Blood,Films,DE,2026-08-31,2026-09-06,9,1,de,Anacondas – Trail of Blood,Q716759,netflix_id,ok,1905,7,6,6.0,0.8333333333333334,0.8333333333333334
+excl_contested_kept,T008,Anacondas: Trail of Blood,Films,BR,2026-08-31,2026-09-06,7,1,pt,Anacondas: Trail of Blood,Q716759,netflix_id,ok,50,6,5,6.0,0.8,1.0
+all,T008,Anacondas: Trail of Blood,Films,BR,2026-08-31,2026-09-06,7,1,pt,Anacondas: Trail of Blood,Q716759,netflix_id,ok,50,7,6,6.0,0.8333333333333334,0.8333333333333334
+all,T100,Companion,Films,DE,2026-08-31,2026-09-06,10,2,de,Companion – Die perfekte Begleitung,Q125933907,netflix_id,ok,6922,7,7,5.0,1.0,0.6666666666666666
+excl_contested_kept,T100,Companion,Films,DE,2026-08-31,2026-09-06,10,2,de,Companion – Die perfekte Begleitung,Q125933907,netflix_id,ok,6922,7,7,5.0,1.0,0.6666666666666666
+excl_contested_kept,T003,The Whisper Man,Films,DE,2026-08-31,2026-09-06,1,2,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,65457,7,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,DE,2026-08-31,2026-09-06,1,2,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,65457,7,1,1.0,0.0,0.0
+all,T006,Facing El Chapo,Films,DE,2026-08-31,2026-09-06,7,3,de,Die Festnahme (2026),Q141165617,netflix_id,ok,9248,7,4,4.0,0.5,0.5
+excl_contested_kept,T006,Facing El Chapo,Films,DE,2026-08-31,2026-09-06,7,3,de,Die Festnahme (2026),Q141165617,netflix_id,ok,9248,7,4,4.0,0.5,0.5
+excl_contested_kept,T158,Dune: Part Two,Films,DE,2026-08-31,2026-09-06,4,1,de,Dune: Part Two,Q109228991,netflix_id,ok,11795,7,3,3.0,0.3333333333333333,0.3333333333333333
+all,T158,Dune: Part Two,Films,DE,2026-08-31,2026-09-06,4,1,de,Dune: Part Two,Q109228991,netflix_id,ok,11795,7,3,3.0,0.3333333333333333,0.3333333333333333
+all,T153,13 Minutes,Films,BR,2026-08-31,2026-09-06,3,2,pt,Elser – Er hätte die Welt verändert,Q18977471,netflix_id,contested_kept,4,7,2,7.0,0.16666666666666666,1.0
+all,T191,The Equalizer 3,Films,FR,2026-08-31,2026-09-06,3,1,fr,Equalizer 3,Q114818951,label_unique,ok,6161,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T191,The Equalizer 3,Films,FR,2026-08-31,2026-09-06,3,1,fr,Equalizer 3,Q114818951,label_unique,ok,6161,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T066,The Hard Corps,Films,DE,2026-08-31,2026-09-06,8,1,de,Hard Corps,Q1406330,netflix_id,ok,1445,7,5,7.0,0.6666666666666666,1.0
+all,T066,The Hard Corps,Films,DE,2026-08-31,2026-09-06,8,1,de,Hard Corps,Q1406330,netflix_id,ok,1445,7,5,7.0,0.6666666666666666,1.0
+all,T017,My Life With the Walter Boys,TV,DE,2026-08-31,2026-09-06,9,5,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,5104,4,3,4.0,0.6666666666666666,1.0
+excl_contested_kept,T017,My Life With the Walter Boys,TV,DE,2026-08-31,2026-09-06,9,5,de,Ich und die Walter Boys,Q113570499,netflix_id,ok,5104,4,3,4.0,0.6666666666666666,1.0
+all,T196,L'Amore sta bene su tutto,Films,IT,2026-08-31,2026-09-06,4,2,it,L'amore sta bene su tutto,Q139691514,label_unique,ok,6957,6,2,4.0,0.2,0.6
+excl_contested_kept,T196,L'Amore sta bene su tutto,Films,IT,2026-08-31,2026-09-06,4,2,it,L'amore sta bene su tutto,Q139691514,label_unique,ok,6957,6,2,4.0,0.2,0.6
+all,T003,The Whisper Man,Films,IT,2026-08-31,2026-09-06,1,2,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,60817,6,1,1.0,0.0,0.0
+excl_contested_kept,T003,The Whisper Man,Films,IT,2026-08-31,2026-09-06,1,2,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,60817,6,1,1.0,0.0,0.0
+all,T006,Facing El Chapo,Films,IT,2026-08-31,2026-09-06,5,3,it,La Captura,Q141165617,netflix_id,ok,3771,6,3,5.0,0.4,0.8
+excl_contested_kept,T006,Facing El Chapo,Films,IT,2026-08-31,2026-09-06,5,3,it,La Captura,Q141165617,netflix_id,ok,3771,6,3,5.0,0.4,0.8
+excl_contested_kept,T011,The Secret Woman,Films,FR,2026-08-31,2026-09-06,2,2,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,1708,4,2,3.0,0.3333333333333333,0.6666666666666666
+all,T011,The Secret Woman,Films,FR,2026-08-31,2026-09-06,2,2,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,1708,4,2,3.0,0.3333333333333333,0.6666666666666666
+excl_contested_kept,T017,My Life With the Walter Boys,TV,FR,2026-08-31,2026-09-06,10,5,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,3403,4,4,4.0,1.0,1.0
+all,T017,My Life With the Walter Boys,TV,FR,2026-08-31,2026-09-06,10,5,fr,Ma vie avec les Walter Boys,Q113570499,netflix_id,ok,3403,4,4,4.0,1.0,1.0
+all,T145,Rhythm + Flow France,TV,FR,2026-08-31,2026-09-06,1,2,fr,Nouvelle École (émission de téléréalité),Q131700478,netflix_id,ok,11673,4,1,2.0,0.0,0.3333333333333333
+excl_contested_kept,T145,Rhythm + Flow France,TV,FR,2026-08-31,2026-09-06,1,2,fr,Nouvelle École (émission de téléréalité),Q131700478,netflix_id,ok,11673,4,1,2.0,0.0,0.3333333333333333
+all,T116,The Mentalist,TV,BR,2026-08-31,2026-09-06,7,10,pt,O Mentalista,Q204228,netflix_id,contested_kept,6419,2,1,1.0,0.0,0.0
+excl_contested_kept,T020,Outer Banks,TV,DE,2026-08-31,2026-09-06,5,3,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,11695,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T020,Outer Banks,TV,DE,2026-08-31,2026-09-06,5,3,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,11695,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T020,Outer Banks,TV,IT,2026-08-31,2026-09-06,4,3,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,9182,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T020,Outer Banks,TV,IT,2026-08-31,2026-09-06,4,3,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,9182,4,2,2.0,0.3333333333333333,0.3333333333333333
+all,T020,Outer Banks,TV,BR,2026-08-31,2026-09-06,8,3,pt,Outer Banks (série de televisão),Q89414035,netflix_id,ok,1048,2,2,2.0,1.0,1.0
+excl_contested_kept,T020,Outer Banks,TV,BR,2026-08-31,2026-09-06,8,3,pt,Outer Banks (série de televisão),Q89414035,netflix_id,ok,1048,1,1,1.0,,
+excl_contested_kept,T020,Outer Banks,TV,FR,2026-08-31,2026-09-06,4,3,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,8184,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T020,Outer Banks,TV,FR,2026-08-31,2026-09-06,4,3,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,8184,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T369,Resident Alien,TV,DE,2026-08-31,2026-09-06,10,1,de,Resident Alien,Q104532538,netflix_id,ok,7224,4,4,3.0,1.0,0.6666666666666666
+all,T369,Resident Alien,TV,DE,2026-08-31,2026-09-06,10,1,de,Resident Alien,Q104532538,netflix_id,ok,7224,4,4,3.0,1.0,0.6666666666666666
+all,T139,Shrek,Films,BR,2026-08-31,2026-09-06,5,6,pt,Shrek,Q483815,netflix_id,ok,868,7,4,2.0,0.5,0.16666666666666666
+excl_contested_kept,T139,Shrek,Films,BR,2026-08-31,2026-09-06,5,6,pt,Shrek,Q483815,netflix_id,ok,868,6,3,2.0,0.4,0.2
+excl_contested_kept,T210,Shrek 2,Films,BR,2026-08-31,2026-09-06,6,3,pt,Shrek 2,Q485983,netflix_id,ok,309,6,4,3.0,0.6,0.4
+all,T210,Shrek 2,Films,BR,2026-08-31,2026-09-06,6,3,pt,Shrek 2,Q485983,netflix_id,ok,309,7,5,3.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T354,Shrek Forever After,Films,BR,2026-08-31,2026-09-06,9,3,pt,Shrek para Sempre,Q208131,netflix_id,ok,237,6,6,4.0,1.0,0.6
+all,T354,Shrek Forever After,Films,BR,2026-08-31,2026-09-06,9,3,pt,Shrek para Sempre,Q208131,netflix_id,ok,237,7,7,4.0,1.0,0.5
+excl_contested_kept,T211,The Cleaning Lady,TV,IT,2026-08-31,2026-09-06,7,1,it,The Cleaning Lady,Q106959460,netflix_id,ok,4215,4,3,4.0,0.6666666666666666,1.0
+all,T211,The Cleaning Lady,TV,IT,2026-08-31,2026-09-06,7,1,it,The Cleaning Lady,Q106959460,netflix_id,ok,4215,4,3,4.0,0.6666666666666666,1.0
+excl_contested_kept,T026,The Gentlemen,TV,DE,2026-08-31,2026-09-06,1,10,de,"The Gentlemen (Fernsehserie, 2024)",Q115860329,netflix_id,ok,35760,4,1,1.0,0.0,0.0
+all,T026,The Gentlemen,TV,DE,2026-08-31,2026-09-06,1,10,de,"The Gentlemen (Fernsehserie, 2024)",Q115860329,netflix_id,ok,35760,4,1,1.0,0.0,0.0
+all,T026,The Gentlemen,TV,IT,2026-08-31,2026-09-06,1,12,it,The Gentlemen (serie televisiva),Q115860329,netflix_id,ok,46436,4,1,1.0,0.0,0.0
+excl_contested_kept,T026,The Gentlemen,TV,IT,2026-08-31,2026-09-06,1,12,it,The Gentlemen (serie televisiva),Q115860329,netflix_id,ok,46436,4,1,1.0,0.0,0.0
+excl_contested_kept,T026,The Gentlemen,TV,FR,2026-08-31,2026-09-06,2,10,fr,The Gentlemen (série télévisée),Q115860329,netflix_id,ok,31946,4,2,1.0,0.3333333333333333,0.0
+all,T026,The Gentlemen,TV,FR,2026-08-31,2026-09-06,2,10,fr,The Gentlemen (série télévisée),Q115860329,netflix_id,ok,31946,4,2,1.0,0.3333333333333333,0.0
+all,T066,The Hard Corps,Films,BR,2026-08-31,2026-09-06,4,1,pt,The Hard Corps,Q1406330,netflix_id,ok,59,7,3,5.0,0.3333333333333333,0.6666666666666666
+excl_contested_kept,T066,The Hard Corps,Films,BR,2026-08-31,2026-09-06,4,1,pt,The Hard Corps,Q1406330,netflix_id,ok,59,6,2,5.0,0.2,0.8
+all,T002,The Last House,Films,IT,2026-08-31,2026-09-06,9,5,it,The Last House,Q129165193,netflix_id,ok,7624,6,6,3.0,1.0,0.4
+excl_contested_kept,T002,The Last House,Films,IT,2026-08-31,2026-09-06,9,5,it,The Last House,Q129165193,netflix_id,ok,7624,6,6,3.0,1.0,0.4
+all,T088,The Sixth Sense,Films,IT,2026-08-31,2026-09-06,8,1,it,The Sixth Sense - Il sesto senso,Q183063,netflix_id,ok,8369,6,5,2.0,0.8,0.2
+excl_contested_kept,T088,The Sixth Sense,Films,IT,2026-08-31,2026-09-06,8,1,it,The Sixth Sense - Il sesto senso,Q183063,netflix_id,ok,8369,6,5,2.0,0.8,0.2
+excl_contested_kept,T003,The Whisper Man,Films,FR,2026-08-31,2026-09-06,1,2,fr,The Whisper Man,Q133852597,netflix_id,ok,34154,4,1,1.0,0.0,0.0
+excl_contested_kept,T003,The Whisper Man,Films,BR,2026-08-31,2026-09-06,1,2,pt,The Whisper Man,Q133852597,netflix_id,ok,15828,6,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,BR,2026-08-31,2026-09-06,1,2,pt,The Whisper Man,Q133852597,netflix_id,ok,15828,7,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,FR,2026-08-31,2026-09-06,1,2,fr,The Whisper Man,Q133852597,netflix_id,ok,34154,4,1,1.0,0.0,0.0
+all,T114,Until the T-shirt Dries,TV,JP,2026-08-31,2026-09-06,2,9,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,83602,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-08-31,2026-09-06,2,9,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,83602,4,2,2.0,0.3333333333333333,0.3333333333333333
+excl_contested_kept,T017,My Life With the Walter Boys,TV,IT,2026-08-31,2026-09-06,9,5,it,Uno splendido errore,Q113570499,netflix_id,ok,4455,4,4,3.0,1.0,0.6666666666666666
+all,T017,My Life With the Walter Boys,TV,IT,2026-08-31,2026-09-06,9,5,it,Uno splendido errore,Q113570499,netflix_id,ok,4455,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T115,Vivant,TV,JP,2026-08-31,2026-09-06,5,14,ja,VIVANT,Q116919744,netflix_id,ok,180198,4,3,1.0,0.6666666666666666,0.0
+all,T115,Vivant,TV,JP,2026-08-31,2026-09-06,5,14,ja,VIVANT,Q116919744,netflix_id,ok,180198,4,3,1.0,0.6666666666666666,0.0
+all,T008,Anacondas: Trail of Blood,Films,JP,2026-08-31,2026-09-06,3,1,ja,アナコンダ4,Q716759,netflix_id,ok,1280,4,2,4.0,0.3333333333333333,1.0
+excl_contested_kept,T008,Anacondas: Trail of Blood,Films,JP,2026-08-31,2026-09-06,3,1,ja,アナコンダ4,Q716759,netflix_id,ok,1280,4,2,4.0,0.3333333333333333,1.0
+all,T088,The Sixth Sense,Films,JP,2026-08-31,2026-09-06,8,1,ja,シックス・センス,Q183063,netflix_id,ok,4645,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T088,The Sixth Sense,Films,JP,2026-08-31,2026-09-06,8,1,ja,シックス・センス,Q183063,netflix_id,ok,4645,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T144,Last Mile,Films,JP,2026-08-31,2026-09-06,1,2,ja,ラストマイル,Q124482893,label_unique,ok,8600,4,1,1.0,0.0,0.0
+all,T144,Last Mile,Films,JP,2026-08-31,2026-09-06,1,2,ja,ラストマイル,Q124482893,label_unique,ok,8600,4,1,1.0,0.0,0.0
+all,T074,Badly in Love,TV,JP,2026-08-31,2026-09-06,1,5,ja,ラヴ上等,Q140219404,netflix_id,ok,27661,4,1,3.0,0.0,0.6666666666666666
+excl_contested_kept,T074,Badly in Love,TV,JP,2026-08-31,2026-09-06,1,5,ja,ラヴ上等,Q140219404,netflix_id,ok,27661,4,1,3.0,0.0,0.6666666666666666
+all,T118,GATE24:The Border,TV,JP,2026-08-31,2026-09-06,7,7,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26618,4,4,4.0,1.0,1.0
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-08-31,2026-09-06,7,7,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26618,4,4,4.0,1.0,1.0
+excl_contested_kept,T121,I am Solo,TV,KR,2026-08-31,2026-09-06,3,5,ko,나는 SOLO,Q113548365,label_unique,ok,441,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T121,I am Solo,TV,KR,2026-08-31,2026-09-06,3,5,ko,나는 SOLO,Q113548365,label_unique,ok,441,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T080,Mousetrap,TV,KR,2026-08-31,2026-09-06,1,2,ko,들쥐 (드라마),Q140198906,netflix_id,ok,3275,4,1,1.0,0.0,0.0
+all,T080,Mousetrap,TV,KR,2026-08-31,2026-09-06,1,2,ko,들쥐 (드라마),Q140198906,netflix_id,ok,3275,4,1,1.0,0.0,0.0
+excl_contested_kept,T358,Wolf Man,Films,KR,2026-08-31,2026-09-06,9,1,ko,울프맨 (2025년 영화),Q111464581,netflix_id,resolved_by_date,79,3,3,3.0,1.0,1.0
+all,T358,Wolf Man,Films,KR,2026-08-31,2026-09-06,9,1,ko,울프맨 (2025년 영화),Q111464581,netflix_id,resolved_by_date,79,3,3,3.0,1.0,1.0
+excl_contested_kept,T003,The Whisper Man,Films,KR,2026-08-31,2026-09-06,2,2,ko,위스퍼맨,Q133852597,netflix_id,ok,2060,3,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,KR,2026-08-31,2026-09-06,2,2,ko,위스퍼맨,Q133852597,netflix_id,ok,2060,3,1,1.0,0.0,0.0
+excl_contested_kept,T014,Our Sticky Love,TV,KR,2026-08-31,2026-09-06,10,5,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,1196,4,4,2.0,1.0,0.3333333333333333
+all,T014,Our Sticky Love,TV,KR,2026-08-31,2026-09-06,10,5,ko,이런 엿 같은 사랑,Q137835829,netflix_id,ok,1196,4,4,2.0,1.0,0.3333333333333333
+excl_contested_kept,T132,"Four Hands, Two Sonatas",TV,KR,2026-08-31,2026-09-06,2,2,ko,포핸즈,Q137271520,netflix_id,ok,0,4,2,4.0,0.3333333333333333,1.0
+all,T132,"Four Hands, Two Sonatas",TV,KR,2026-08-31,2026-09-06,2,2,ko,포핸즈,Q137271520,netflix_id,ok,0,4,2,4.0,0.3333333333333333,1.0
+excl_contested_kept,T066,The Hard Corps,Films,KR,2026-08-31,2026-09-06,8,1,ko,하드코: 라스트 미션,Q1406330,netflix_id,ok,166,3,2,2.0,0.5,0.5
+all,T066,The Hard Corps,Films,KR,2026-08-31,2026-09-06,8,1,ko,하드코: 라스트 미션,Q1406330,netflix_id,ok,166,3,2,2.0,0.5,0.5
+all,T273,"One Second Ahead, One Second Behind",Films,JP,2026-09-07,2026-09-13,5,1,ja,1秒先の彼,Q123916130,netflix_id,ok,15,4,1,4.0,0.0,1.0
+excl_contested_kept,T273,"One Second Ahead, One Second Behind",Films,JP,2026-09-07,2026-09-13,5,1,ja,1秒先の彼,Q123916130,netflix_id,ok,15,4,1,4.0,0.0,1.0
+all,T135,Regretting You,Films,DE,2026-09-07,2026-09-13,7,3,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,7856,5,4,4.0,0.75,0.75
+excl_contested_kept,T135,Regretting You,Films,DE,2026-09-07,2026-09-13,7,3,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,7856,4,4,4.0,1.0,1.0
+excl_contested_kept,T197,Practical Magic,Films,IT,2026-09-07,2026-09-13,5,1,it,Amori & incantesimi,Q148429,netflix_id,ok,25006,6,4,2.0,0.6,0.2
+all,T197,Practical Magic,Films,IT,2026-09-07,2026-09-13,5,1,it,Amori & incantesimi,Q148429,netflix_id,ok,25006,6,4,2.0,0.6,0.2
+excl_contested_kept,T214,Bee Movie,Films,BR,2026-09-07,2026-09-13,10,3,pt,Bee Movie,Q275167,netflix_id,ok,178,4,4,3.0,1.0,0.6666666666666666
+all,T214,Bee Movie,Films,BR,2026-09-07,2026-09-13,10,3,pt,Bee Movie,Q275167,netflix_id,ok,178,5,5,3.0,1.0,0.5
+excl_contested_kept,T037,Crew Girl,TV,DE,2026-09-07,2026-09-13,2,1,de,Crew Girl,Q141155312,netflix_id,ok,4792,4,2,4.0,0.3333333333333333,1.0
+all,T037,Crew Girl,TV,DE,2026-09-07,2026-09-13,2,1,de,Crew Girl,Q141155312,netflix_id,ok,4792,4,2,4.0,0.3333333333333333,1.0
+excl_contested_kept,T037,Crew Girl,TV,IT,2026-09-07,2026-09-13,4,1,it,Crew Girl,Q141155312,netflix_id,ok,6260,6,3,3.0,0.4,0.4
+all,T037,Crew Girl,TV,IT,2026-09-07,2026-09-13,4,1,it,Crew Girl,Q141155312,netflix_id,ok,6260,6,3,3.0,0.4,0.4
+excl_contested_kept,T003,The Whisper Man,Films,DE,2026-09-07,2026-09-13,1,3,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,30310,4,1,1.0,0.0,0.0
+all,T003,The Whisper Man,Films,DE,2026-09-07,2026-09-13,1,3,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,30310,5,1,1.0,0.0,0.0
+all,T340,Dune,Films,DE,2026-09-07,2026-09-13,9,7,de,Der Wüstenplanet (Film),Q114819,netflix_id,contested_kept,2627,5,5,5.0,1.0,1.0
+excl_contested_kept,T166,Call My Agent! The Movie,Films,FR,2026-09-07,2026-09-13,1,1,fr,"Dix pour cent, le film",Q140079697,netflix_id,ok,54525,7,1,1.0,0.0,0.0
+all,T166,Call My Agent! The Movie,Films,FR,2026-09-07,2026-09-13,1,1,fr,"Dix pour cent, le film",Q140079697,netflix_id,ok,54525,7,1,1.0,0.0,0.0
+all,T188,How to Train Your Dragon,Films,FR,2026-09-07,2026-09-13,5,1,fr,"Dragons (film, 2025)",Q118904382,netflix_id,resolved_by_date,3082,7,5,5.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T188,How to Train Your Dragon,Films,FR,2026-09-07,2026-09-13,5,1,fr,"Dragons (film, 2025)",Q118904382,netflix_id,resolved_by_date,3082,7,5,5.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T158,Dune: Part Two,Films,DE,2026-09-07,2026-09-13,5,2,de,Dune: Part Two,Q109228991,netflix_id,ok,13469,4,3,2.0,0.6666666666666666,0.3333333333333333
+all,T158,Dune: Part Two,Films,DE,2026-09-07,2026-09-13,5,2,de,Dune: Part Two,Q109228991,netflix_id,ok,13469,5,3,2.0,0.5,0.25
+all,T153,13 Minutes,Films,BR,2026-09-07,2026-09-13,8,3,pt,Elser – Er hätte die Welt verändert,Q18977471,netflix_id,contested_kept,1,5,4,5.0,0.75,1.0
+excl_contested_kept,T191,The Equalizer 3,Films,FR,2026-09-07,2026-09-13,9,2,fr,Equalizer 3,Q114818951,label_unique,ok,2526,7,7,6.0,1.0,0.8333333333333334
+all,T191,The Equalizer 3,Films,FR,2026-09-07,2026-09-13,9,2,fr,Equalizer 3,Q114818951,label_unique,ok,2526,7,7,6.0,1.0,0.8333333333333334
+all,T063,Fauda,TV,FR,2026-09-07,2026-09-13,6,1,fr,Fauda,Q19319517,netflix_id,ok,20822,6,4,2.0,0.6,0.2
+all,T063,Fauda,TV,IT,2026-09-07,2026-09-13,8,1,it,Fauda,Q19319517,netflix_id,ok,11984,6,5,2.0,0.8,0.2
+excl_contested_kept,T063,Fauda,TV,FR,2026-09-07,2026-09-13,6,1,fr,Fauda,Q19319517,netflix_id,ok,20822,5,4,2.0,0.75,0.25
+excl_contested_kept,T063,Fauda,TV,IT,2026-09-07,2026-09-13,8,1,it,Fauda,Q19319517,netflix_id,ok,11984,6,5,2.0,0.8,0.2
+all,T063,Fauda,TV,DE,2026-09-07,2026-09-13,10,1,de,Fauda (Fernsehserie),Q19319517,netflix_id,ok,19084,4,4,2.0,1.0,0.3333333333333333
+excl_contested_kept,T063,Fauda,TV,DE,2026-09-07,2026-09-13,10,1,de,Fauda (Fernsehserie),Q19319517,netflix_id,ok,19084,4,4,2.0,1.0,0.3333333333333333
+all,T059,The Little Things,Films,IT,2026-09-07,2026-09-13,1,4,it,Fino all'ultimo indizio,Q70373108,netflix_id,ok,4710,6,1,4.0,0.0,0.6
+excl_contested_kept,T059,The Little Things,Films,IT,2026-09-07,2026-09-13,1,4,it,Fino all'ultimo indizio,Q70373108,netflix_id,ok,4710,6,1,4.0,0.0,0.6
+excl_contested_kept,T089,Kraven the Hunter,Films,IT,2026-09-07,2026-09-13,4,1,it,Kraven - Il cacciatore,Q107390449,label_unique,ok,4067,6,3,5.0,0.4,0.8
+all,T089,Kraven the Hunter,Films,IT,2026-09-07,2026-09-13,4,1,it,Kraven - Il cacciatore,Q107390449,label_unique,ok,4067,6,3,5.0,0.4,0.8
+excl_contested_kept,T003,The Whisper Man,Films,IT,2026-09-07,2026-09-13,2,3,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,25098,6,2,1.0,0.2,0.0
+all,T003,The Whisper Man,Films,IT,2026-09-07,2026-09-13,2,3,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,25098,6,2,1.0,0.2,0.0
+all,T011,The Secret Woman,Films,FR,2026-09-07,2026-09-13,4,3,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,5946,7,4,4.0,0.5,0.5
+excl_contested_kept,T011,The Secret Woman,Films,FR,2026-09-07,2026-09-13,4,3,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,5946,7,4,4.0,0.5,0.5
+all,T317,Lovesick,TV,FR,2026-09-07,2026-09-13,8,1,fr,Lovesick (série télévisée),Q18356285,netflix_id_tiebreak,contested_kept,348,6,5,6.0,0.8,1.0
+excl_contested_kept,T037,Crew Girl,TV,FR,2026-09-07,2026-09-13,3,1,fr,Mal barrée,Q141155312,netflix_id,ok,7646,5,3,4.0,0.5,0.75
+all,T037,Crew Girl,TV,FR,2026-09-07,2026-09-13,3,1,fr,Mal barrée,Q141155312,netflix_id,ok,7646,6,3,4.0,0.4,0.6
+all,T145,Rhythm + Flow France,TV,FR,2026-09-07,2026-09-13,2,3,fr,Nouvelle École (émission de téléréalité),Q131700478,netflix_id,ok,12192,6,2,3.0,0.2,0.4
+excl_contested_kept,T145,Rhythm + Flow France,TV,FR,2026-09-07,2026-09-13,2,3,fr,Nouvelle École (émission de téléréalité),Q131700478,netflix_id,ok,12192,5,2,3.0,0.25,0.5
+all,T116,The Mentalist,TV,BR,2026-09-07,2026-09-13,10,11,pt,O Mentalista,Q204228,netflix_id,contested_kept,7398,1,1,1.0,,
+excl_contested_kept,T020,Outer Banks,TV,DE,2026-09-07,2026-09-13,7,4,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,8172,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T020,Outer Banks,TV,DE,2026-09-07,2026-09-13,7,4,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,8172,4,3,3.0,0.6666666666666666,0.6666666666666666
+excl_contested_kept,T020,Outer Banks,TV,IT,2026-09-07,2026-09-13,9,4,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,5862,6,6,4.0,1.0,0.6
+all,T020,Outer Banks,TV,IT,2026-09-07,2026-09-13,9,4,it,Outer Banks (serie televisiva),Q89414035,netflix_id,ok,5862,6,6,4.0,1.0,0.6
+all,T020,Outer Banks,TV,FR,2026-09-07,2026-09-13,9,4,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,5461,6,6,5.0,1.0,0.8
+excl_contested_kept,T020,Outer Banks,TV,FR,2026-09-07,2026-09-13,9,4,fr,Outer Banks (série télévisée),Q89414035,netflix_id,ok,5461,5,5,5.0,1.0,1.0
+all,T084,Physical 100: Italy,TV,IT,2026-09-07,2026-09-13,2,1,it,Physical Italia: da 100 a 1,Q136842075,netflix_id,ok,4583,6,2,6.0,0.2,1.0
+excl_contested_kept,T084,Physical 100: Italy,TV,IT,2026-09-07,2026-09-13,2,1,it,Physical Italia: da 100 a 1,Q136842075,netflix_id,ok,4583,6,2,6.0,0.2,1.0
+all,T102,Monster-in-Law,Films,IT,2026-09-07,2026-09-13,10,1,it,Quel mostro di suocera,Q682904,netflix_id,ok,913,6,6,6.0,1.0,1.0
+excl_contested_kept,T102,Monster-in-Law,Films,IT,2026-09-07,2026-09-13,10,1,it,Quel mostro di suocera,Q682904,netflix_id,ok,913,6,6,6.0,1.0,1.0
+all,T177,Rheingold,Films,DE,2026-09-07,2026-09-13,2,1,de,Rheingold (2022),Q111396554,label_unique,ok,11331,5,2,3.0,0.25,0.5
+excl_contested_kept,T177,Rheingold,Films,DE,2026-09-07,2026-09-13,2,1,de,Rheingold (2022),Q111396554,label_unique,ok,11331,4,2,3.0,0.3333333333333333,0.6666666666666666
+all,T102,Monster-in-Law,Films,FR,2026-09-07,2026-09-13,7,1,fr,Sa mère ou moi !,Q682904,netflix_id,ok,1649,7,6,7.0,0.8333333333333334,1.0
+excl_contested_kept,T102,Monster-in-Law,Films,FR,2026-09-07,2026-09-13,7,1,fr,Sa mère ou moi !,Q682904,netflix_id,ok,1649,7,6,7.0,0.8333333333333334,1.0
+all,T139,Shrek,Films,BR,2026-09-07,2026-09-13,7,7,pt,Shrek,Q483815,netflix_id,ok,948,5,3,2.0,0.5,0.25
+excl_contested_kept,T139,Shrek,Films,BR,2026-09-07,2026-09-13,7,7,pt,Shrek,Q483815,netflix_id,ok,948,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T211,The Cleaning Lady,TV,IT,2026-09-07,2026-09-13,6,2,it,The Cleaning Lady,Q106959460,netflix_id,ok,5088,6,4,5.0,0.6,0.8
+all,T211,The Cleaning Lady,TV,IT,2026-09-07,2026-09-13,6,2,it,The Cleaning Lady,Q106959460,netflix_id,ok,5088,6,4,5.0,0.6,0.8
+excl_contested_kept,T026,The Gentlemen,TV,DE,2026-09-07,2026-09-13,1,11,de,"The Gentlemen (Fernsehserie, 2024)",Q115860329,netflix_id,ok,50892,4,1,1.0,0.0,0.0
+all,T026,The Gentlemen,TV,DE,2026-09-07,2026-09-13,1,11,de,"The Gentlemen (Fernsehserie, 2024)",Q115860329,netflix_id,ok,50892,4,1,1.0,0.0,0.0
+excl_contested_kept,T026,The Gentlemen,TV,IT,2026-09-07,2026-09-13,1,13,it,The Gentlemen (serie televisiva),Q115860329,netflix_id,ok,72593,6,1,1.0,0.0,0.0
+all,T026,The Gentlemen,TV,IT,2026-09-07,2026-09-13,1,13,it,The Gentlemen (serie televisiva),Q115860329,netflix_id,ok,72593,6,1,1.0,0.0,0.0
+all,T026,The Gentlemen,TV,FR,2026-09-07,2026-09-13,1,11,fr,The Gentlemen (série télévisée),Q115860329,netflix_id,ok,43970,6,1,1.0,0.0,0.0
+excl_contested_kept,T026,The Gentlemen,TV,FR,2026-09-07,2026-09-13,1,11,fr,The Gentlemen (série télévisée),Q115860329,netflix_id,ok,43970,5,1,1.0,0.0,0.0
+excl_contested_kept,T066,The Hard Corps,Films,BR,2026-09-07,2026-09-13,5,2,pt,The Hard Corps,Q1406330,netflix_id,ok,65,4,2,4.0,0.3333333333333333,1.0
+all,T066,The Hard Corps,Films,BR,2026-09-07,2026-09-13,5,2,pt,The Hard Corps,Q1406330,netflix_id,ok,65,5,2,4.0,0.25,0.75
+all,T088,The Sixth Sense,Films,IT,2026-09-07,2026-09-13,6,2,it,The Sixth Sense - Il sesto senso,Q183063,netflix_id,ok,15604,6,5,3.0,0.8,0.4
+excl_contested_kept,T088,The Sixth Sense,Films,IT,2026-09-07,2026-09-13,6,2,it,The Sixth Sense - Il sesto senso,Q183063,netflix_id,ok,15604,6,5,3.0,0.8,0.4
+excl_contested_kept,T003,The Whisper Man,Films,FR,2026-09-07,2026-09-13,3,3,fr,The Whisper Man,Q133852597,netflix_id,ok,14586,7,3,2.0,0.3333333333333333,0.16666666666666666
+all,T003,The Whisper Man,Films,FR,2026-09-07,2026-09-13,3,3,fr,The Whisper Man,Q133852597,netflix_id,ok,14586,7,3,2.0,0.3333333333333333,0.16666666666666666
+all,T003,The Whisper Man,Films,BR,2026-09-07,2026-09-13,2,3,pt,The Whisper Man,Q133852597,netflix_id,ok,18371,5,1,1.0,0.0,0.0
+excl_contested_kept,T003,The Whisper Man,Films,BR,2026-09-07,2026-09-13,2,3,pt,The Whisper Man,Q133852597,netflix_id,ok,18371,4,1,1.0,0.0,0.0
+all,T114,Until the T-shirt Dries,TV,JP,2026-09-07,2026-09-13,2,10,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,96577,5,2,2.0,0.25,0.25
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-09-07,2026-09-13,2,10,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,96577,5,2,2.0,0.25,0.25
+all,T059,The Little Things,Films,FR,2026-09-07,2026-09-13,2,4,fr,Une affaire de détails,Q70373108,netflix_id,ok,8507,7,2,3.0,0.16666666666666666,0.3333333333333333
+excl_contested_kept,T059,The Little Things,Films,FR,2026-09-07,2026-09-13,2,4,fr,Une affaire de détails,Q70373108,netflix_id,ok,8507,7,2,3.0,0.16666666666666666,0.3333333333333333
+all,T115,Vivant,TV,JP,2026-09-07,2026-09-13,3,15,ja,VIVANT,Q116919744,netflix_id,ok,177719,5,3,1.0,0.5,0.0
+excl_contested_kept,T115,Vivant,TV,JP,2026-09-07,2026-09-13,3,15,ja,VIVANT,Q116919744,netflix_id,ok,177719,5,3,1.0,0.5,0.0
+excl_contested_kept,T108,Anaconda 3: Offspring,Films,JP,2026-09-07,2026-09-13,8,1,ja,アナコンダ3,Q483572,netflix_id,ok,983,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T108,Anaconda 3: Offspring,Films,JP,2026-09-07,2026-09-13,8,1,ja,アナコンダ3,Q483572,netflix_id,ok,983,4,3,3.0,0.6666666666666666,0.6666666666666666
+all,T088,The Sixth Sense,Films,JP,2026-09-07,2026-09-13,6,2,ja,シックス・センス,Q183063,netflix_id,ok,5902,4,2,1.0,0.3333333333333333,0.0
+excl_contested_kept,T088,The Sixth Sense,Films,JP,2026-09-07,2026-09-13,6,2,ja,シックス・センス,Q183063,netflix_id,ok,5902,4,2,1.0,0.3333333333333333,0.0
+excl_contested_kept,T144,Last Mile,Films,JP,2026-09-07,2026-09-13,9,3,ja,ラストマイル,Q124482893,label_unique,ok,5069,4,4,2.0,1.0,0.3333333333333333
+all,T144,Last Mile,Films,JP,2026-09-07,2026-09-13,9,3,ja,ラストマイル,Q124482893,label_unique,ok,5069,4,4,2.0,1.0,0.3333333333333333
+all,T074,Badly in Love,TV,JP,2026-09-07,2026-09-13,1,7,ja,ラヴ上等,Q140219404,netflix_id,ok,30263,5,1,4.0,0.0,0.75
+excl_contested_kept,T074,Badly in Love,TV,JP,2026-09-07,2026-09-13,1,7,ja,ラヴ上等,Q140219404,netflix_id,ok,30263,5,1,4.0,0.0,0.75
+excl_contested_kept,T141,25 Years of You,TV,JP,2026-09-07,2026-09-13,7,3,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,30556,5,5,3.0,1.0,0.5
+all,T141,25 Years of You,TV,JP,2026-09-07,2026-09-13,7,3,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,30556,5,5,3.0,1.0,0.5
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-09-07,2026-09-13,6,8,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,21132,5,4,5.0,0.75,1.0
+all,T118,GATE24:The Border,TV,JP,2026-09-07,2026-09-13,6,8,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,21132,5,4,5.0,0.75,1.0
+excl_contested_kept,T121,I am Solo,TV,KR,2026-09-07,2026-09-13,3,6,ko,나는 SOLO,Q113548365,label_unique,ok,391,3,3,2.0,1.0,0.5
+all,T121,I am Solo,TV,KR,2026-09-07,2026-09-13,3,6,ko,나는 SOLO,Q113548365,label_unique,ok,391,3,3,2.0,1.0,0.5
+excl_contested_kept,T080,Mousetrap,TV,KR,2026-09-07,2026-09-13,1,3,ko,들쥐 (드라마),Q140198906,netflix_id,ok,2028,3,1,1.0,0.0,0.0
+all,T080,Mousetrap,TV,KR,2026-09-07,2026-09-13,1,3,ko,들쥐 (드라마),Q140198906,netflix_id,ok,2028,3,1,1.0,0.0,0.0
+all,T355,The Blind Side,Films,KR,2026-09-07,2026-09-13,9,1,ko,블라인드 사이드,Q206497,netflix_id,ok,384,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T355,The Blind Side,Films,KR,2026-09-07,2026-09-13,9,1,ko,블라인드 사이드,Q206497,netflix_id,ok,384,4,4,3.0,1.0,0.6666666666666666
+excl_contested_kept,T183,Vanishing Point,Films,KR,2026-09-07,2026-09-13,2,1,ko,소실점 (영화),Q139595861,netflix_id_tiebreak,ok,0,4,1,4.0,0.0,1.0
+all,T183,Vanishing Point,Films,KR,2026-09-07,2026-09-13,2,1,ko,소실점 (영화),Q139595861,netflix_id_tiebreak,ok,0,4,1,4.0,0.0,1.0
+all,T003,The Whisper Man,Films,KR,2026-09-07,2026-09-13,8,3,ko,위스퍼맨,Q133852597,netflix_id,ok,755,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T003,The Whisper Man,Films,KR,2026-09-07,2026-09-13,8,3,ko,위스퍼맨,Q133852597,netflix_id,ok,755,4,3,2.0,0.6666666666666666,0.3333333333333333
+excl_contested_kept,T192,Troy,Films,KR,2026-09-07,2026-09-13,3,1,ko,트로이 (영화),Q186587,netflix_id,ok,879,4,2,1.0,0.3333333333333333,0.0
+all,T192,Troy,Films,KR,2026-09-07,2026-09-13,3,1,ko,트로이 (영화),Q186587,netflix_id,ok,879,4,2,1.0,0.3333333333333333,0.0
+excl_contested_kept,T132,"Four Hands, Two Sonatas",TV,KR,2026-09-07,2026-09-13,2,3,ko,포핸즈,Q137271520,netflix_id,ok,0,3,2,3.0,0.5,1.0
+all,T132,"Four Hands, Two Sonatas",TV,KR,2026-09-07,2026-09-13,2,3,ko,포핸즈,Q137271520,netflix_id,ok,0,3,2,3.0,0.5,1.0
+all,T053,Gabby's Dollhouse,TV,BR,2026-09-14,2026-09-20,5,1,pt,A Casa Mágica da Gabby,Q104857863,netflix_id,ok,190,3,2,3.0,0.5,1.0
+excl_contested_kept,T053,Gabby's Dollhouse,TV,BR,2026-09-14,2026-09-20,5,1,pt,A Casa Mágica da Gabby,Q104857863,netflix_id,ok,190,2,2,2.0,1.0,1.0
+excl_contested_kept,T334,Aline,Films,FR,2026-09-14,2026-09-20,9,1,fr,"Aline (film, 2020)",Q100324181,label_unique,ok,7708,8,7,3.0,0.8571428571428571,0.2857142857142857
+all,T334,Aline,Films,FR,2026-09-14,2026-09-20,9,1,fr,"Aline (film, 2020)",Q100324181,label_unique,ok,7708,9,8,4.0,0.875,0.375
+excl_contested_kept,T135,Regretting You,Films,DE,2026-09-14,2026-09-20,9,4,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,5200,6,6,6.0,1.0,1.0
+all,T135,Regretting You,Films,DE,2026-09-14,2026-09-20,9,4,de,All das Ungesagte zwischen uns – Regretting You,Q132816896,label_unique,ok,5200,6,6,6.0,1.0,1.0
+excl_contested_kept,T197,Practical Magic,Films,IT,2026-09-14,2026-09-20,4,2,it,Amori & incantesimi,Q148429,netflix_id,ok,14892,6,4,2.0,0.6,0.2
+all,T197,Practical Magic,Films,IT,2026-09-14,2026-09-20,4,2,it,Amori & incantesimi,Q148429,netflix_id,ok,14892,6,4,2.0,0.6,0.2
+all,T091,Anora,Films,FR,2026-09-14,2026-09-20,4,1,fr,Anora (film),Q123185887,netflix_id,contested_kept,8637,9,4,3.0,0.375,0.25
+all,T362,Barbie in The Nutcracker,Films,BR,2026-09-14,2026-09-20,10,1,pt,Barbie and the Nutcracker,Q25733,netflix_id,ok,117,6,6,6.0,1.0,1.0
+excl_contested_kept,T362,Barbie in The Nutcracker,Films,BR,2026-09-14,2026-09-20,10,1,pt,Barbie and the Nutcracker,Q25733,netflix_id,ok,117,6,6,6.0,1.0,1.0
+excl_contested_kept,T214,Bee Movie,Films,BR,2026-09-14,2026-09-20,7,4,pt,Bee Movie,Q275167,netflix_id,ok,160,6,3,5.0,0.4,0.8
+all,T214,Bee Movie,Films,BR,2026-09-14,2026-09-20,7,4,pt,Bee Movie,Q275167,netflix_id,ok,160,6,3,5.0,0.4,0.8
+excl_contested_kept,T113,Best of the Best,Films,FR,2026-09-14,2026-09-20,10,1,fr,"Best of the Best (film, 2026)",Q141520590,netflix_id_tiebreak,ok,0,8,8,8.0,1.0,1.0
+all,T113,Best of the Best,Films,FR,2026-09-14,2026-09-20,10,1,fr,"Best of the Best (film, 2026)",Q141520590,netflix_id_tiebreak,ok,0,9,9,9.0,1.0,1.0
+all,T037,Crew Girl,TV,IT,2026-09-14,2026-09-20,2,2,it,Crew Girl,Q141155312,netflix_id,ok,8861,5,2,4.0,0.25,0.75
+all,T037,Crew Girl,TV,DE,2026-09-14,2026-09-20,1,2,de,Crew Girl,Q141155312,netflix_id,ok,25676,3,1,2.0,0.0,0.5
+excl_contested_kept,T037,Crew Girl,TV,DE,2026-09-14,2026-09-20,1,2,de,Crew Girl,Q141155312,netflix_id,ok,25676,3,1,2.0,0.0,0.5
+excl_contested_kept,T037,Crew Girl,TV,IT,2026-09-14,2026-09-20,2,2,it,Crew Girl,Q141155312,netflix_id,ok,8861,5,2,4.0,0.25,0.75
+all,T003,The Whisper Man,Films,DE,2026-09-14,2026-09-20,3,4,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,17289,6,3,2.0,0.4,0.2
+excl_contested_kept,T003,The Whisper Man,Films,DE,2026-09-14,2026-09-20,3,4,de,Der Kinderflüsterer,Q133852597,netflix_id,ok,17289,6,3,2.0,0.4,0.2
+excl_contested_kept,T166,Call My Agent! The Movie,Films,FR,2026-09-14,2026-09-20,1,2,fr,"Dix pour cent, le film",Q140079697,netflix_id,ok,22208,8,1,1.0,0.0,0.0
+all,T166,Call My Agent! The Movie,Films,FR,2026-09-14,2026-09-20,1,2,fr,"Dix pour cent, le film",Q140079697,netflix_id,ok,22208,9,1,1.0,0.0,0.0
+excl_contested_kept,T188,How to Train Your Dragon,Films,FR,2026-09-14,2026-09-20,3,2,fr,"Dragons (film, 2025)",Q118904382,netflix_id,resolved_by_date,3105,8,3,6.0,0.2857142857142857,0.7142857142857143
+all,T188,How to Train Your Dragon,Films,FR,2026-09-14,2026-09-20,3,2,fr,"Dragons (film, 2025)",Q118904382,netflix_id,resolved_by_date,3105,9,3,7.0,0.25,0.75
+excl_contested_kept,T158,Dune: Part Two,Films,DE,2026-09-14,2026-09-20,8,3,de,Dune: Part Two,Q109228991,netflix_id,ok,9143,6,5,5.0,0.8,0.8
+all,T158,Dune: Part Two,Films,DE,2026-09-14,2026-09-20,8,3,de,Dune: Part Two,Q109228991,netflix_id,ok,9143,6,5,5.0,0.8,0.8
+excl_contested_kept,T063,Fauda,TV,IT,2026-09-14,2026-09-20,10,2,it,Fauda,Q19319517,netflix_id,ok,10339,5,5,3.0,1.0,0.5
+all,T063,Fauda,TV,IT,2026-09-14,2026-09-20,10,2,it,Fauda,Q19319517,netflix_id,ok,10339,5,5,3.0,1.0,0.5
+all,T063,Fauda,TV,FR,2026-09-14,2026-09-20,9,2,fr,Fauda,Q19319517,netflix_id,ok,15764,5,5,4.0,1.0,0.75
+excl_contested_kept,T063,Fauda,TV,FR,2026-09-14,2026-09-20,9,2,fr,Fauda,Q19319517,netflix_id,ok,15764,5,5,4.0,1.0,0.75
+excl_contested_kept,T059,The Little Things,Films,IT,2026-09-14,2026-09-20,1,5,it,Fino all'ultimo indizio,Q70373108,netflix_id,ok,3901,6,1,4.0,0.0,0.6
+all,T059,The Little Things,Films,IT,2026-09-14,2026-09-20,1,5,it,Fino all'ultimo indizio,Q70373108,netflix_id,ok,3901,6,1,4.0,0.0,0.6
+all,T053,Gabby's Dollhouse,TV,FR,2026-09-14,2026-09-20,7,1,fr,Gabby et la Maison magique,Q104857863,netflix_id,ok,858,5,4,5.0,0.75,1.0
+excl_contested_kept,T053,Gabby's Dollhouse,TV,FR,2026-09-14,2026-09-20,7,1,fr,Gabby et la Maison magique,Q104857863,netflix_id,ok,858,5,4,5.0,0.75,1.0
+excl_contested_kept,T089,Kraven the Hunter,Films,IT,2026-09-14,2026-09-20,2,2,it,Kraven - Il cacciatore,Q107390449,label_unique,ok,4561,6,2,3.0,0.2,0.4
+all,T089,Kraven the Hunter,Films,IT,2026-09-14,2026-09-20,2,2,it,Kraven - Il cacciatore,Q107390449,label_unique,ok,4561,6,2,3.0,0.2,0.4
+excl_contested_kept,T003,The Whisper Man,Films,IT,2026-09-14,2026-09-20,3,4,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,16693,6,3,1.0,0.4,0.0
+all,T003,The Whisper Man,Films,IT,2026-09-14,2026-09-20,3,4,it,L'uomo dei sussurri,Q133852597,netflix_id,ok,16693,6,3,1.0,0.4,0.0
+all,T011,The Secret Woman,Films,FR,2026-09-14,2026-09-20,8,4,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,3647,9,7,6.0,0.75,0.625
+excl_contested_kept,T011,The Secret Woman,Films,FR,2026-09-14,2026-09-20,8,4,fr,"La Femme secrète (film, 2026)",Q140419850,label_tiebreak,ok,3647,8,6,5.0,0.7142857142857143,0.5714285714285714
+excl_contested_kept,T277,The Nun II,Films,FR,2026-09-14,2026-09-20,5,1,fr,La Nonne : La Malédiction de Sainte-Lucie,Q111784581,label_unique,ok,3013,8,4,7.0,0.42857142857142855,0.8571428571428571
+all,T277,The Nun II,Films,FR,2026-09-14,2026-09-20,5,1,fr,La Nonne : La Malédiction de Sainte-Lucie,Q111784581,label_unique,ok,3013,9,5,8.0,0.5,0.875
+all,T053,Gabby's Dollhouse,TV,IT,2026-09-14,2026-09-20,8,1,it,La casa delle bambole di Gabby,Q104857863,netflix_id,ok,671,5,4,5.0,0.75,1.0
+excl_contested_kept,T053,Gabby's Dollhouse,TV,IT,2026-09-14,2026-09-20,8,1,it,La casa delle bambole di Gabby,Q104857863,netflix_id,ok,671,5,4,5.0,0.75,1.0
+all,T037,Crew Girl,TV,FR,2026-09-14,2026-09-20,2,2,fr,Mal barrée,Q141155312,netflix_id,ok,16220,5,2,3.0,0.25,0.5
+excl_contested_kept,T037,Crew Girl,TV,FR,2026-09-14,2026-09-20,2,2,fr,Mal barrée,Q141155312,netflix_id,ok,16220,5,2,3.0,0.25,0.5
+excl_contested_kept,T050,Monster: The Lizzie Borden Story,TV,BR,2026-09-14,2026-09-20,2,1,pt,Monster: The Lizzie Borden Story,Q135745692,netflix_id,ok,7282,2,1,1.0,0.0,0.0
+all,T050,Monster: The Lizzie Borden Story,TV,BR,2026-09-14,2026-09-20,2,1,pt,Monster: The Lizzie Borden Story,Q135745692,netflix_id,ok,7282,3,1,1.0,0.0,0.0
+all,T050,Monster: The Lizzie Borden Story,TV,FR,2026-09-14,2026-09-20,1,1,fr,Monstre : L'Histoire de Lizzie Borden,Q135745692,netflix_id,ok,125528,5,1,1.0,0.0,0.0
+excl_contested_kept,T050,Monster: The Lizzie Borden Story,TV,FR,2026-09-14,2026-09-20,1,1,fr,Monstre : L'Histoire de Lizzie Borden,Q135745692,netflix_id,ok,125528,5,1,1.0,0.0,0.0
+all,T232,Nocturnal Animals,Films,DE,2026-09-14,2026-09-20,1,1,de,Nocturnal Animals,Q21527905,netflix_id,ok,61464,6,1,1.0,0.0,0.0
+excl_contested_kept,T232,Nocturnal Animals,Films,DE,2026-09-14,2026-09-20,1,1,de,Nocturnal Animals,Q21527905,netflix_id,ok,61464,6,1,1.0,0.0,0.0
+all,T116,The Mentalist,TV,BR,2026-09-14,2026-09-20,9,12,pt,O Mentalista,Q204228,netflix_id,contested_kept,5775,3,3,2.0,1.0,0.5
+all,T020,Outer Banks,TV,DE,2026-09-14,2026-09-20,10,5,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,6004,3,3,3.0,1.0,1.0
+excl_contested_kept,T020,Outer Banks,TV,DE,2026-09-14,2026-09-20,10,5,de,Outer Banks (Fernsehserie),Q89414035,netflix_id,ok,6004,3,3,3.0,1.0,1.0
+excl_contested_kept,T084,Physical 100: Italy,TV,IT,2026-09-14,2026-09-20,1,2,it,Physical Italia: da 100 a 1,Q136842075,netflix_id,ok,34101,5,1,2.0,0.0,0.25
+all,T084,Physical 100: Italy,TV,IT,2026-09-14,2026-09-20,1,2,it,Physical Italia: da 100 a 1,Q136842075,netflix_id,ok,34101,5,1,2.0,0.0,0.25
+excl_contested_kept,T102,Monster-in-Law,Films,IT,2026-09-14,2026-09-20,8,2,it,Quel mostro di suocera,Q682904,netflix_id,ok,856,6,6,6.0,1.0,1.0
+all,T102,Monster-in-Law,Films,IT,2026-09-14,2026-09-20,8,2,it,Quel mostro di suocera,Q682904,netflix_id,ok,856,6,6,6.0,1.0,1.0
+excl_contested_kept,T287,Race for Glory: Audi vs. Lancia,Films,IT,2026-09-14,2026-09-20,6,1,it,Race for Glory: Audi vs. Lancia,Q114240595,label_unique,ok,2860,6,5,5.0,0.8,0.8
+all,T287,Race for Glory: Audi vs. Lancia,Films,IT,2026-09-14,2026-09-20,6,1,it,Race for Glory: Audi vs. Lancia,Q114240595,label_unique,ok,2860,6,5,5.0,0.8,0.8
+all,T177,Rheingold,Films,DE,2026-09-14,2026-09-20,5,2,de,Rheingold (2022),Q111396554,label_unique,ok,9310,6,4,4.0,0.6,0.6
+excl_contested_kept,T177,Rheingold,Films,DE,2026-09-14,2026-09-20,5,2,de,Rheingold (2022),Q111396554,label_unique,ok,9310,6,4,4.0,0.6,0.6
+all,T139,Shrek,Films,BR,2026-09-14,2026-09-20,8,8,pt,Shrek,Q483815,netflix_id,ok,889,6,4,2.0,0.6,0.2
+excl_contested_kept,T139,Shrek,Films,BR,2026-09-14,2026-09-20,8,8,pt,Shrek,Q483815,netflix_id,ok,889,6,4,2.0,0.6,0.2
+excl_contested_kept,T210,Shrek 2,Films,BR,2026-09-14,2026-09-20,9,4,pt,Shrek 2,Q485983,netflix_id,ok,339,6,5,3.0,0.8,0.4
+all,T210,Shrek 2,Films,BR,2026-09-14,2026-09-20,9,4,pt,Shrek 2,Q485983,netflix_id,ok,339,6,5,3.0,0.8,0.4
+excl_contested_kept,T026,The Gentlemen,TV,DE,2026-09-14,2026-09-20,4,12,de,"The Gentlemen (Fernsehserie, 2024)",Q115860329,netflix_id,ok,33253,3,2,1.0,0.5,0.0
+all,T026,The Gentlemen,TV,DE,2026-09-14,2026-09-20,4,12,de,"The Gentlemen (Fernsehserie, 2024)",Q115860329,netflix_id,ok,33253,3,2,1.0,0.5,0.0
+all,T026,The Gentlemen,TV,IT,2026-09-14,2026-09-20,5,14,it,The Gentlemen (serie televisiva),Q115860329,netflix_id,ok,42785,5,3,1.0,0.5,0.0
+excl_contested_kept,T026,The Gentlemen,TV,IT,2026-09-14,2026-09-20,5,14,it,The Gentlemen (serie televisiva),Q115860329,netflix_id,ok,42785,5,3,1.0,0.5,0.0
+excl_contested_kept,T026,The Gentlemen,TV,FR,2026-09-14,2026-09-20,5,12,fr,The Gentlemen (série télévisée),Q115860329,netflix_id,ok,27127,5,3,2.0,0.5,0.25
+all,T026,The Gentlemen,TV,FR,2026-09-14,2026-09-20,5,12,fr,The Gentlemen (série télévisée),Q115860329,netflix_id,ok,27127,5,3,2.0,0.5,0.25
+all,T003,The Whisper Man,Films,BR,2026-09-14,2026-09-20,6,4,pt,The Whisper Man,Q133852597,netflix_id,ok,2545,6,2,1.0,0.2,0.0
+excl_contested_kept,T003,The Whisper Man,Films,BR,2026-09-14,2026-09-20,6,4,pt,The Whisper Man,Q133852597,netflix_id,ok,2545,6,2,1.0,0.2,0.0
+excl_contested_kept,T003,The Whisper Man,Films,FR,2026-09-14,2026-09-20,6,4,fr,The Whisper Man,Q133852597,netflix_id,ok,9087,8,5,2.0,0.5714285714285714,0.14285714285714285
+all,T003,The Whisper Man,Films,FR,2026-09-14,2026-09-20,6,4,fr,The Whisper Man,Q133852597,netflix_id,ok,9087,9,6,2.0,0.625,0.125
+excl_contested_kept,T114,Until the T-shirt Dries,TV,JP,2026-09-14,2026-09-20,2,11,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,46870,6,2,2.0,0.2,0.2
+all,T114,Until the T-shirt Dries,TV,JP,2026-09-14,2026-09-20,2,11,ja,Tシャツが乾くまで,Q139928769,netflix_id,ok,46870,6,2,2.0,0.2,0.2
+excl_contested_kept,T250,A Minecraft Movie,Films,BR,2026-09-14,2026-09-20,4,1,pt,Um Filme Minecraft,Q40083273,label_unique,ok,316,6,1,4.0,0.0,0.6
+all,T250,A Minecraft Movie,Films,BR,2026-09-14,2026-09-20,4,1,pt,Um Filme Minecraft,Q40083273,label_unique,ok,316,6,1,4.0,0.0,0.6
+excl_contested_kept,T059,The Little Things,Films,FR,2026-09-14,2026-09-20,2,5,fr,Une affaire de détails,Q70373108,netflix_id,ok,7519,8,2,4.0,0.14285714285714285,0.42857142857142855
+all,T059,The Little Things,Films,FR,2026-09-14,2026-09-20,2,5,fr,Une affaire de détails,Q70373108,netflix_id,ok,7519,9,2,5.0,0.125,0.5
+all,T115,Vivant,TV,JP,2026-09-14,2026-09-20,5,16,ja,VIVANT,Q116919744,netflix_id,ok,144113,6,4,1.0,0.6,0.0
+excl_contested_kept,T115,Vivant,TV,JP,2026-09-14,2026-09-20,5,16,ja,VIVANT,Q116919744,netflix_id,ok,144113,6,4,1.0,0.6,0.0
+all,T243,Wunderschöner,Films,DE,2026-09-14,2026-09-20,2,1,de,Wunderschöner,Q131764936,label_unique,ok,16412,6,2,3.0,0.2,0.4
+excl_contested_kept,T243,Wunderschöner,Films,DE,2026-09-14,2026-09-20,2,1,de,Wunderschöner,Q131764936,label_unique,ok,16412,6,2,3.0,0.2,0.4
+excl_contested_kept,T233,Plastic Beauty,TV,JP,2026-09-14,2026-09-20,1,1,ja,ダウンタイム,Q138007013,netflix_id,ok,420,6,1,6.0,0.0,1.0
+all,T233,Plastic Beauty,TV,JP,2026-09-14,2026-09-20,1,1,ja,ダウンタイム,Q138007013,netflix_id,ok,420,6,1,6.0,0.0,1.0
+all,T074,Badly in Love,TV,JP,2026-09-14,2026-09-20,4,7,ja,ラヴ上等,Q140219404,netflix_id,ok,15245,6,3,5.0,0.4,0.8
+excl_contested_kept,T074,Badly in Love,TV,JP,2026-09-14,2026-09-20,4,7,ja,ラヴ上等,Q140219404,netflix_id,ok,15245,6,3,5.0,0.4,0.8
+all,T141,25 Years of You,TV,JP,2026-09-14,2026-09-20,6,4,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,31936,6,5,3.0,0.8,0.4
+excl_contested_kept,T141,25 Years of You,TV,JP,2026-09-14,2026-09-20,6,4,ja,告白-25年目の秘密-,Q139890520,netflix_id,ok,31936,6,5,3.0,0.8,0.4
+all,T118,GATE24:The Border,TV,JP,2026-09-14,2026-09-20,8,9,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26667,6,6,4.0,1.0,0.6
+excl_contested_kept,T118,GATE24:The Border,TV,JP,2026-09-14,2026-09-20,8,9,ja,大空港〜GATE24〜,Q139913913,netflix_id,ok,26667,6,6,4.0,1.0,0.6
+all,T093,The Wild Robot,Films,JP,2026-09-14,2026-09-20,5,1,ja,野生の島のロズ,Q124378349,label_unique,ok,1622,1,1,1.0,,
+excl_contested_kept,T093,The Wild Robot,Films,JP,2026-09-14,2026-09-20,5,1,ja,野生の島のロズ,Q124378349,label_unique,ok,1622,1,1,1.0,,
+all,T321,One Way Trip,Films,KR,2026-09-14,2026-09-20,8,1,ko,글로리데이,Q22666603,label_unique,ok,54,5,5,4.0,1.0,0.75
+excl_contested_kept,T321,One Way Trip,Films,KR,2026-09-14,2026-09-20,8,1,ko,글로리데이,Q22666603,label_unique,ok,54,5,5,4.0,1.0,0.75
+all,T121,I am Solo,TV,KR,2026-09-14,2026-09-20,4,7,ko,나는 SOLO,Q113548365,label_unique,ok,402,5,4,3.0,0.75,0.5
+excl_contested_kept,T121,I am Solo,TV,KR,2026-09-14,2026-09-20,4,7,ko,나는 SOLO,Q113548365,label_unique,ok,402,5,4,3.0,0.75,0.5
+excl_contested_kept,T080,Mousetrap,TV,KR,2026-09-14,2026-09-20,3,4,ko,들쥐 (드라마),Q140198906,netflix_id,ok,1051,5,3,2.0,0.5,0.25
+all,T080,Mousetrap,TV,KR,2026-09-14,2026-09-20,3,4,ko,들쥐 (드라마),Q140198906,netflix_id,ok,1051,5,3,2.0,0.5,0.25
+all,T236,The Warriors,Films,KR,2026-09-14,2026-09-20,1,1,ko,무사 (2001년 대한민국 영화),Q488321,netflix_id,ok,173,5,1,2.0,0.0,0.25
+excl_contested_kept,T236,The Warriors,Films,KR,2026-09-14,2026-09-20,1,1,ko,무사 (2001년 대한민국 영화),Q488321,netflix_id,ok,173,5,1,2.0,0.0,0.25
+all,T237,Black Bag,Films,KR,2026-09-14,2026-09-20,2,1,ko,블랙 백,Q124373035,netflix_id,ok,50,5,2,5.0,0.25,1.0
+excl_contested_kept,T237,Black Bag,Films,KR,2026-09-14,2026-09-20,2,1,ko,블랙 백,Q124373035,netflix_id,ok,50,5,2,5.0,0.25,1.0
+excl_contested_kept,T183,Vanishing Point,Films,KR,2026-09-14,2026-09-20,4,2,ko,소실점 (영화),Q139595861,netflix_id_tiebreak,ok,91,5,4,3.0,0.75,0.5
+all,T183,Vanishing Point,Films,KR,2026-09-14,2026-09-20,4,2,ko,소실점 (영화),Q139595861,netflix_id_tiebreak,ok,91,5,4,3.0,0.75,0.5
+excl_contested_kept,T235,The Scandal,TV,KR,2026-09-14,2026-09-20,1,1,ko,스캔들 (2026년 드라마),Q137476131,netflix_id,ok,1446,5,1,1.0,0.0,0.0
+all,T235,The Scandal,TV,KR,2026-09-14,2026-09-20,1,1,ko,스캔들 (2026년 드라마),Q137476131,netflix_id,ok,1446,5,1,1.0,0.0,0.0
+excl_contested_kept,T025,Teach You a Lesson,TV,KR,2026-09-14,2026-09-20,9,10,ko,참교육,Q137844128,netflix_id,ok,278,5,5,4.0,1.0,0.75
+all,T025,Teach You a Lesson,TV,KR,2026-09-14,2026-09-20,9,10,ko,참교육,Q137844128,netflix_id,ok,278,5,5,4.0,1.0,0.75
+excl_contested_kept,T192,Troy,Films,KR,2026-09-14,2026-09-20,3,2,ko,트로이 (영화),Q186587,netflix_id,ok,629,5,3,1.0,0.5,0.0
+all,T192,Troy,Films,KR,2026-09-14,2026-09-20,3,2,ko,트로이 (영화),Q186587,netflix_id,ok,629,5,3,1.0,0.5,0.0
+excl_contested_kept,T132,"Four Hands, Two Sonatas",TV,KR,2026-09-14,2026-09-20,2,4,ko,포핸즈,Q137271520,netflix_id,ok,0,5,2,5.0,0.25,1.0
+all,T132,"Four Hands, Two Sonatas",TV,KR,2026-09-14,2026-09-20,2,4,ko,포핸즈,Q137271520,netflix_id,ok,0,5,2,5.0,0.25,1.0
