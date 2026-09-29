@@ -20,10 +20,14 @@ Finding candidates
 
 Rule A: Netflix ID (preferred)
   Candidates that carry a Netflix ID (property P1874) are Netflix titles by
-  Wikidata's own record, so they are accepted directly: no type check.
+  Wikidata's own record, so they are accepted directly, with one type
+  check: the item must be on the allowlist for the Netflix category (below).
+  This screens out single episodes, which also carry Netflix IDs, and films
+  that share a name with a charting series.
   Label and alias matches both count here, because the Netflix ID confirms
   identity. One such candidate is a match. Several are resolved with the
-  date tie-break below.
+  date tie-break below; for TV the 2-year guard is skipped, because new
+  seasons of older series chart all the time.
 
 Rule B: label, type, and date (only when no candidate has a Netflix ID)
   1. Keep candidates whose label (not alias) equals the title.
@@ -249,8 +253,12 @@ def resolve_contested(nid_qid: str, rivals: list[str], ents: dict, lang: str,
 # Matching rules
 # ---------------------------------------------------------------------------
 
-def tie_break(qids: list[str], ents: dict, window_end: date) -> tuple[str | None, str]:
-    """Pick among several candidates by date. Returns (qid or None, explanation)."""
+def tie_break(qids: list[str], ents: dict, window_end: date,
+              apply_guard: bool = True) -> tuple[str | None, str]:
+    """
+    Pick among several candidates by date. Returns (qid or None, explanation).
+    apply_guard=False skips the TIEBREAK_MAX_YEARS check (see match()).
+    """
     dist: dict[str, int | None] = {}
     for q in qids:
         ds = [date.fromisoformat(d) for d in ents[q]["dates"]]
@@ -262,7 +270,7 @@ def tie_break(qids: list[str], ents: dict, window_end: date) -> tuple[str | None
                       "could be the right one, tie not safely breakable")
     if len(dated) > 1 and dated[0][0] == dated[1][0]:
         return None, f"{len(qids)} candidates tied on date"
-    if dated[0][0] > TIEBREAK_MAX_YEARS * 365:
+    if apply_guard and dated[0][0] > TIEBREAK_MAX_YEARS * 365:
         return None, (f"{len(qids)} candidates; closest ({dated[0][1]}) is "
                       f"{dated[0][0] // 365} years from the window, likely an older namesake")
     return dated[0][1], f"date tie-break among {len(qids)} ({', '.join(qids)})"
@@ -274,12 +282,23 @@ def match(title: str, category: str, info: dict, window_end: date) -> tuple[str 
     if not cands:
         return None, "none", "no Wikidata item with this label or alias"
 
-    # Rule A: Netflix ID.
-    with_nid = [q for q in cands if ents[q]["netflix_ids"]]
+    # Rule A: Netflix ID. Wikidata also puts Netflix IDs on single episodes
+    # (for example a Star Trek episode titled "Oasis"), so a Netflix-ID item
+    # must still have a type on the allowlist for the Netflix category. A
+    # cross-category check let through a 2002 film for the TV title "Oasis"
+    # and a film for the TV title "Seal Team", so the check is per category.
+    allowed = set(TYPE_ROOTS[category])
+    with_nid = [q for q in cands
+                if ents[q]["netflix_ids"] and allowed & set(types.get(q, []))]
     if len(with_nid) == 1:
         return with_nid[0], "netflix_id", f"Netflix ID {ents[with_nid[0]]['netflix_ids'][0]}"
     if len(with_nid) > 1:
-        q, why = tie_break(with_nid, ents, window_end)
+        # All tied items are Netflix titles. For TV, the charting title is
+        # often a new season of a series that started years ago (for example
+        # a live-action remake from 2024 in its second season), so the
+        # "older namesake" guard would wrongly reject it. Skip the guard for
+        # TV; keep it for films.
+        q, why = tie_break(with_nid, ents, window_end, apply_guard=(category != "TV"))
         return q, "netflix_id_tiebreak" if q else "none", f"Netflix ID: {why}"
 
     # Rule B: exact label, type allowlist, then dates.

@@ -1,143 +1,143 @@
 {
  "items": [
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026060100",
    "access": "all-access",
    "agent": "user",
-   "views": 90
+   "views": 145
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026060200",
    "access": "all-access",
    "agent": "user",
-   "views": 95
+   "views": 147
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026060300",
    "access": "all-access",
    "agent": "user",
-   "views": 98
+   "views": 168
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026060400",
-   "access": "all-access",
-   "agent": "user",
-   "views": 113
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026060500",
-   "access": "all-access",
-   "agent": "user",
-   "views": 108
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026060600",
-   "access": "all-access",
-   "agent": "user",
-   "views": 108
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026060700",
    "access": "all-access",
    "agent": "user",
    "views": 103
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 113
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 149
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 159
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026060800",
    "access": "all-access",
    "agent": "user",
-   "views": 109
+   "views": 138
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026060900",
    "access": "all-access",
    "agent": "user",
-   "views": 86
+   "views": 144
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061000",
    "access": "all-access",
    "agent": "user",
-   "views": 86
+   "views": 107
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061100",
    "access": "all-access",
    "agent": "user",
-   "views": 89
+   "views": 101
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061200",
    "access": "all-access",
    "agent": "user",
-   "views": 78
+   "views": 105
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061300",
    "access": "all-access",
    "agent": "user",
-   "views": 109
+   "views": 113
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 131
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026061500",
    "access": "all-access",
    "agent": "user",
    "views": 104
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026061500",
-   "access": "all-access",
-   "agent": "user",
-   "views": 86
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061600",
    "access": "all-access",
@@ -145,224 +145,224 @@
    "views": 83
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061700",
    "access": "all-access",
    "agent": "user",
-   "views": 69
+   "views": 114
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061800",
    "access": "all-access",
    "agent": "user",
-   "views": 77
+   "views": 107
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026061900",
    "access": "all-access",
    "agent": "user",
-   "views": 61
+   "views": 109
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026062000",
    "access": "all-access",
    "agent": "user",
-   "views": 104
+   "views": 107
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026062100",
    "access": "all-access",
    "agent": "user",
-   "views": 65
+   "views": 123
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026062200",
-   "access": "all-access",
-   "agent": "user",
-   "views": 70
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026062300",
-   "access": "all-access",
-   "agent": "user",
-   "views": 61
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026062400",
-   "access": "all-access",
-   "agent": "user",
-   "views": 56
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026062500",
-   "access": "all-access",
-   "agent": "user",
-   "views": 84
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026062600",
-   "access": "all-access",
-   "agent": "user",
-   "views": 50
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026062700",
-   "access": "all-access",
-   "agent": "user",
-   "views": 91
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026062800",
    "access": "all-access",
    "agent": "user",
    "views": 88
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 105
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 82
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 41
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 66
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026062900",
    "access": "all-access",
    "agent": "user",
-   "views": 71
+   "views": 56
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026063000",
    "access": "all-access",
    "agent": "user",
-   "views": 49
+   "views": 43
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070100",
    "access": "all-access",
    "agent": "user",
-   "views": 83
+   "views": 38
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070200",
    "access": "all-access",
    "agent": "user",
-   "views": 84
+   "views": 42
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070300",
    "access": "all-access",
    "agent": "user",
-   "views": 83
+   "views": 50
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070400",
    "access": "all-access",
    "agent": "user",
-   "views": 110
+   "views": 57
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070500",
    "access": "all-access",
    "agent": "user",
-   "views": 101
+   "views": 42
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070600",
    "access": "all-access",
    "agent": "user",
-   "views": 103
+   "views": 41
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070700",
    "access": "all-access",
    "agent": "user",
-   "views": 52
+   "views": 46
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070800",
    "access": "all-access",
    "agent": "user",
-   "views": 104
+   "views": 44
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026070900",
    "access": "all-access",
    "agent": "user",
-   "views": 69
+   "views": 70
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026071000",
    "access": "all-access",
    "agent": "user",
-   "views": 62
+   "views": 57
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026071100",
    "access": "all-access",
@@ -370,643 +370,643 @@
    "views": 67
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 76
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 91
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 61
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 49
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 63
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026072000",
    "access": "all-access",
    "agent": "user",
    "views": 55
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026071300",
-   "access": "all-access",
-   "agent": "user",
-   "views": 76
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026071400",
-   "access": "all-access",
-   "agent": "user",
-   "views": 88
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026071500",
-   "access": "all-access",
-   "agent": "user",
-   "views": 86
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026071600",
-   "access": "all-access",
-   "agent": "user",
-   "views": 64
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026071700",
-   "access": "all-access",
-   "agent": "user",
-   "views": 66
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026071800",
-   "access": "all-access",
-   "agent": "user",
-   "views": 74
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026071900",
-   "access": "all-access",
-   "agent": "user",
-   "views": 75
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026072000",
-   "access": "all-access",
-   "agent": "user",
-   "views": 179
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072100",
    "access": "all-access",
    "agent": "user",
-   "views": 107
+   "views": 47
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072200",
    "access": "all-access",
    "agent": "user",
-   "views": 72
+   "views": 46
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072300",
    "access": "all-access",
    "agent": "user",
-   "views": 335
+   "views": 56
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072400",
    "access": "all-access",
    "agent": "user",
-   "views": 1121
+   "views": 51
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072500",
    "access": "all-access",
    "agent": "user",
-   "views": 629
+   "views": 42
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072600",
    "access": "all-access",
    "agent": "user",
-   "views": 468
+   "views": 71
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072700",
    "access": "all-access",
    "agent": "user",
-   "views": 205
+   "views": 57
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072800",
    "access": "all-access",
    "agent": "user",
-   "views": 119
+   "views": 70
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026072900",
    "access": "all-access",
    "agent": "user",
-   "views": 147
+   "views": 97
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026073000",
    "access": "all-access",
    "agent": "user",
-   "views": 109
+   "views": 140
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026073100",
-   "access": "all-access",
-   "agent": "user",
-   "views": 102
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026080100",
-   "access": "all-access",
-   "agent": "user",
-   "views": 101
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026080200",
-   "access": "all-access",
-   "agent": "user",
-   "views": 84
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026080300",
-   "access": "all-access",
-   "agent": "user",
-   "views": 107
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026080400",
-   "access": "all-access",
-   "agent": "user",
-   "views": 72
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026080500",
-   "access": "all-access",
-   "agent": "user",
-   "views": 76
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026080600",
-   "access": "all-access",
-   "agent": "user",
-   "views": 129
-  },
-  {
-   "project": "ja.wikipedia",
-   "article": "災",
-   "granularity": "daily",
-   "timestamp": "2026080700",
    "access": "all-access",
    "agent": "user",
    "views": 147
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 201
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 230
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 260
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 276
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 199
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 156
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 192
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026080800",
    "access": "all-access",
    "agent": "user",
-   "views": 176
+   "views": 226
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026080900",
    "access": "all-access",
    "agent": "user",
-   "views": 289
+   "views": 252
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081000",
    "access": "all-access",
    "agent": "user",
-   "views": 198
+   "views": 203
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081100",
    "access": "all-access",
    "agent": "user",
-   "views": 290
+   "views": 219
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081200",
    "access": "all-access",
    "agent": "user",
-   "views": 262
+   "views": 186
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081300",
    "access": "all-access",
    "agent": "user",
-   "views": 315
+   "views": 180
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081400",
    "access": "all-access",
    "agent": "user",
-   "views": 730
+   "views": 234
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081500",
    "access": "all-access",
    "agent": "user",
-   "views": 578
+   "views": 199
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081600",
    "access": "all-access",
    "agent": "user",
-   "views": 442
+   "views": 286
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081700",
    "access": "all-access",
    "agent": "user",
-   "views": 366
+   "views": 277
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081800",
    "access": "all-access",
    "agent": "user",
-   "views": 353
+   "views": 282
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026081900",
    "access": "all-access",
    "agent": "user",
-   "views": 909
+   "views": 250
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082000",
    "access": "all-access",
    "agent": "user",
-   "views": 8623
+   "views": 334
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082100",
    "access": "all-access",
    "agent": "user",
-   "views": 10751
+   "views": 565
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082200",
    "access": "all-access",
    "agent": "user",
-   "views": 15694
+   "views": 639
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082300",
    "access": "all-access",
    "agent": "user",
-   "views": 15587
+   "views": 549
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082400",
    "access": "all-access",
    "agent": "user",
-   "views": 11049
+   "views": 781
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082500",
    "access": "all-access",
    "agent": "user",
-   "views": 10672
+   "views": 853
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082600",
    "access": "all-access",
    "agent": "user",
-   "views": 10931
+   "views": 673
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082700",
    "access": "all-access",
    "agent": "user",
-   "views": 10048
+   "views": 631
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082800",
    "access": "all-access",
    "agent": "user",
-   "views": 8377
+   "views": 646
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026082900",
    "access": "all-access",
    "agent": "user",
-   "views": 10603
+   "views": 693
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026083000",
    "access": "all-access",
    "agent": "user",
-   "views": 8798
+   "views": 861
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026083100",
    "access": "all-access",
    "agent": "user",
-   "views": 5039
+   "views": 836
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090100",
    "access": "all-access",
    "agent": "user",
-   "views": 4435
+   "views": 843
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090200",
    "access": "all-access",
    "agent": "user",
-   "views": 4157
+   "views": 956
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090300",
    "access": "all-access",
    "agent": "user",
-   "views": 3749
+   "views": 5769
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090400",
    "access": "all-access",
    "agent": "user",
-   "views": 3618
+   "views": 6381
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090500",
    "access": "all-access",
    "agent": "user",
-   "views": 4109
+   "views": 7027
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090600",
    "access": "all-access",
    "agent": "user",
-   "views": 4506
+   "views": 10134
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090700",
    "access": "all-access",
    "agent": "user",
-   "views": 3020
+   "views": 8758
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090800",
    "access": "all-access",
    "agent": "user",
-   "views": 2433
+   "views": 7029
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026090900",
    "access": "all-access",
    "agent": "user",
-   "views": 2049
+   "views": 6164
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091000",
    "access": "all-access",
    "agent": "user",
-   "views": 1691
+   "views": 5748
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091100",
    "access": "all-access",
    "agent": "user",
-   "views": 1641
+   "views": 4960
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091200",
    "access": "all-access",
    "agent": "user",
-   "views": 2002
+   "views": 5092
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091300",
    "access": "all-access",
    "agent": "user",
-   "views": 2082
+   "views": 6219
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091400",
    "access": "all-access",
    "agent": "user",
-   "views": 1436
+   "views": 5161
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091500",
    "access": "all-access",
    "agent": "user",
-   "views": 1286
+   "views": 4386
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091600",
    "access": "all-access",
    "agent": "user",
-   "views": 1367
+   "views": 3840
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091700",
    "access": "all-access",
    "agent": "user",
-   "views": 1425
+   "views": 3550
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091800",
    "access": "all-access",
    "agent": "user",
-   "views": 1181
+   "views": 3115
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026091900",
    "access": "all-access",
    "agent": "user",
-   "views": 1396
+   "views": 3143
   },
   {
-   "project": "ja.wikipedia",
-   "article": "災",
+   "project": "fr.wikipedia",
+   "article": "The_Gentlemen_(série_télévisée)",
    "granularity": "daily",
    "timestamp": "2026092000",
    "access": "all-access",
    "agent": "user",
-   "views": 2132
+   "views": 3932
   }
  ],
  "_status": 200,
