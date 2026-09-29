@@ -1,0 +1,33 @@
+title_id,show_title,category,market,lang,qid,first_week,netflix_id_qid,newer_rivals,outcome,final_qid,note
+T015,The Debt Collector,Films,BR,pt,Q56365946,2026-07-26,Q56365946,Q140724430,contested_kept,Q56365946,no dated rival within 2 years before first chart week
+T015,The Debt Collector,Films,FR,fr,Q56365946,2026-07-26,Q56365946,Q140724430,contested_kept,Q56365946,no dated rival within 2 years before first chart week
+T015,The Debt Collector,Films,IT,it,Q56365946,2026-07-26,Q56365946,Q140724430,contested_kept,Q56365946,no dated rival within 2 years before first chart week
+T015,The Debt Collector,Films,JP,ja,Q56365946,2026-08-02,Q56365946,Q140724430,contested_kept,Q56365946,no dated rival within 2 years before first chart week
+T015,The Debt Collector,Films,KR,ko,Q56365946,2026-07-26,Q56365946,Q140724430,contested_kept,Q56365946,no dated rival within 2 years before first chart week
+T091,Anora,Films,FR,fr,Q123185887,2026-09-20,Q123185887,Q55604021,contested_kept,Q123185887,no dated rival within 2 years before first chart week
+T091,Anora,Films,IT,it,Q123185887,2026-07-12,Q123185887,Q55604021,contested_kept,Q123185887,no dated rival within 2 years before first chart week
+T095,Breaking In,Films,DE,de,Q4287509,2026-08-16,Q4287509,Q39075152,contested_kept,Q4287509,no dated rival within 2 years before first chart week
+T095,Breaking In,Films,JP,ja,Q4287509,2026-08-23,Q4287509,Q39075152,contested_kept,Q4287509,no dated rival within 2 years before first chart week
+T103,The Contractor,Films,FR,fr,Q2300207,2026-07-05,Q2300207,Q15129302 Q73549328,contested_kept,Q2300207,no dated rival within 2 years before first chart week
+T103,The Contractor,Films,IT,it,Q2300207,2026-07-05,Q2300207,Q15129302 Q73549328,contested_kept,Q2300207,no dated rival within 2 years before first chart week
+T104,Angel Eyes,Films,FR,fr,Q531675,2026-07-05,Q531675,Q79999129,contested_kept,Q531675,no dated rival within 2 years before first chart week
+T104,Angel Eyes,Films,IT,it,Q531675,2026-07-05,Q531675,Q79999129,contested_kept,Q531675,no dated rival within 2 years before first chart week
+T110,Into the Blue,Films,JP,ja,Q1130297,2026-07-05,Q1130297,Q111738314 Q19368817,contested_kept,Q1130297,no dated rival within 2 years before first chart week
+T110,Into the Blue,Films,KR,ko,Q1130297,2026-07-05,Q1130297,Q111738314 Q19368817,contested_kept,Q1130297,no dated rival within 2 years before first chart week
+T111,The Town,Films,FR,fr,Q725539,2026-07-19,Q725539,Q110748481 Q97168270,contested_kept,Q725539,no dated rival within 2 years before first chart week
+T111,The Town,Films,IT,it,Q725539,2026-07-19,Q725539,Q110748481 Q97168270,contested_kept,Q725539,no dated rival within 2 years before first chart week
+T116,The Mentalist,TV,BR,pt,Q204228,2026-07-19,Q204228,Q30474612,contested_kept,Q204228,no dated rival within 2 years before first chart week
+T153,13 Minutes,Films,BR,pt,Q18977471,2026-08-30,Q18977471,Q110585233,contested_kept,Q18977471,no dated rival within 2 years before first chart week
+T188,How to Train Your Dragon,Films,FR,fr,Q373096,2026-09-13,Q373096,Q118904382,resolved_by_date,Q118904382,rival Q118904382 dated 2025-09-05
+T206,The Morning After,Films,FR,fr,Q1195881,2026-08-23,Q1195881,Q108881445 Q132860832 Q98416496,contested_kept,Q1195881,no dated rival within 2 years before first chart week
+T215,Ghost Ship,Films,DE,de,Q1356265,2026-07-05,Q1356265,Q56692143 Q65598517 Q97212591,contested_kept,Q1356265,no dated rival within 2 years before first chart week
+T247,Turbulence,Films,FR,fr,Q727775,2026-08-09,Q727775,Q137384638 Q7854768 Q7854769 Q97104712,contested_kept,Q727775,no dated rival within 2 years before first chart week
+T270,Drop,Films,FR,fr,Q13562077,2026-08-02,Q13562077,Q125983478,resolved_by_date,Q125983478,rival Q125983478 dated 2025-04-17
+T274,Someone Like You,Films,IT,it,Q1346535,2026-08-02,Q1346535,Q109457856 Q125883233 Q20729515 Q3475092 Q57835558,contested_kept,Q1346535,no dated rival within 2 years before first chart week
+T283,Love Hurts,Films,FR,fr,Q2714762,2026-08-23,Q2714762,Q125265183,resolved_by_date,Q125265183,rival Q125265183 dated 2025-02-07
+T317,Lovesick,TV,FR,fr,Q134646503,2026-09-13,Q134646503,Q139603851,contested_kept,Q134646503,no dated rival within 2 years before first chart week
+T323,Siberia,Films,BR,pt,Q30689574,2026-07-05,Q30689574,Q48919934 Q83954889,contested_kept,Q30689574,no dated rival within 2 years before first chart week
+T324,Silent Night,Films,JP,ja,Q85801170,2026-08-09,Q85801170,Q112078051,contested_kept,Q85801170,no dated rival within 2 years before first chart week
+T337,Collateral Damage,Films,BR,pt,Q506605,2026-08-23,Q506605,Q66069483,contested_kept,Q506605,no dated rival within 2 years before first chart week
+T340,Dune,Films,DE,de,Q114819,2026-09-13,Q114819,Q20972530 Q60834962 Q65212698,contested_kept,Q114819,no dated rival within 2 years before first chart week
+T358,Wolf Man,Films,KR,ko,Q431873,2026-09-06,Q431873,Q111464581,resolved_by_date,Q111464581,rival Q111464581 dated 2025-01-24

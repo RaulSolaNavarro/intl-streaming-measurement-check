@@ -27,32 +27,57 @@ netflix_id: item has a Netflix ID (P1874). label_*: no Netflix ID, matched on ex
 | netflix_id_tiebreak |        7 |
 | label_tiebreak      |        3 |
 
-Contested Netflix-ID matches (a newer same-type namesake exists): 22 titles, 25 title-market pairs with an article.
+## Contested Netflix-ID matches
 
-| title_id   | show_title               | category   | qid        | newer_rivals                                       |
-|:-----------|:-------------------------|:-----------|:-----------|:---------------------------------------------------|
-| T015       | The Debt Collector       | Films      | Q56365946  | Q140724430                                         |
-| T091       | Anora                    | Films      | Q123185887 | Q55604021                                          |
-| T095       | Breaking In              | Films      | Q4287509   | Q39075152                                          |
-| T103       | The Contractor           | Films      | Q2300207   | Q15129302 Q73549328                                |
-| T104       | Angel Eyes               | Films      | Q531675    | Q79999129                                          |
-| T110       | Into the Blue            | Films      | Q1130297   | Q111738314 Q19368817                               |
-| T111       | The Town                 | Films      | Q725539    | Q110748481 Q97168270                               |
-| T116       | The Mentalist            | TV         | Q204228    | Q30474612                                          |
-| T153       | 13 Minutes               | Films      | Q18977471  | Q110585233                                         |
-| T188       | How to Train Your Dragon | Films      | Q373096    | Q118904382                                         |
-| T206       | The Morning After        | Films      | Q1195881   | Q108881445 Q132860832 Q98416496                    |
-| T215       | Ghost Ship               | Films      | Q1356265   | Q56692143 Q65598517 Q97212591                      |
-| T247       | Turbulence               | Films      | Q727775    | Q137384638 Q7854768 Q7854769 Q97104712             |
-| T270       | Drop                     | Films      | Q13562077  | Q125983478                                         |
-| T274       | Someone Like You         | Films      | Q1346535   | Q109457856 Q125883233 Q20729515 Q3475092 Q57835558 |
-| T283       | Love Hurts               | Films      | Q2714762   | Q125265183                                         |
-| T317       | Lovesick                 | TV         | Q134646503 | Q139603851                                         |
-| T323       | Siberia                  | Films      | Q30689574  | Q48919934 Q83954889                                |
-| T324       | Silent Night             | Films      | Q85801170  | Q112078051                                         |
-| T337       | Collateral Damage        | Films      | Q506605    | Q66069483                                          |
-| T340       | Dune                     | Films      | Q114819    | Q20972530 Q60834962 Q65212698                      |
-| T358       | Wolf Man                 | Films      | Q431873    | Q111464581                                         |
+A newer film or series with the same title exists. A rival overrides the Netflix-ID item only if it is dated within 2 years before the pair's first chart week and has an article in that market's language. Undated rivals never override.
+
+| outcome          |   pairs |   titles |
+|:-----------------|--------:|---------:|
+| contested_kept   |      28 |       18 |
+| resolved_by_date |       4 |        4 |
+
+| title_id   | show_title               | market   | first_week   | netflix_id_qid   | outcome          | final_qid   | note                                                  |
+|:-----------|:-------------------------|:---------|:-------------|:-----------------|:-----------------|:------------|:------------------------------------------------------|
+| T015       | The Debt Collector       | BR       | 2026-07-26   | Q56365946        | contested_kept   | Q56365946   | no dated rival within 2 years before first chart week |
+| T015       | The Debt Collector       | FR       | 2026-07-26   | Q56365946        | contested_kept   | Q56365946   | no dated rival within 2 years before first chart week |
+| T015       | The Debt Collector       | IT       | 2026-07-26   | Q56365946        | contested_kept   | Q56365946   | no dated rival within 2 years before first chart week |
+| T015       | The Debt Collector       | JP       | 2026-08-02   | Q56365946        | contested_kept   | Q56365946   | no dated rival within 2 years before first chart week |
+| T015       | The Debt Collector       | KR       | 2026-07-26   | Q56365946        | contested_kept   | Q56365946   | no dated rival within 2 years before first chart week |
+| T091       | Anora                    | FR       | 2026-09-20   | Q123185887       | contested_kept   | Q123185887  | no dated rival within 2 years before first chart week |
+| T091       | Anora                    | IT       | 2026-07-12   | Q123185887       | contested_kept   | Q123185887  | no dated rival within 2 years before first chart week |
+| T095       | Breaking In              | DE       | 2026-08-16   | Q4287509         | contested_kept   | Q4287509    | no dated rival within 2 years before first chart week |
+| T095       | Breaking In              | JP       | 2026-08-23   | Q4287509         | contested_kept   | Q4287509    | no dated rival within 2 years before first chart week |
+| T103       | The Contractor           | FR       | 2026-07-05   | Q2300207         | contested_kept   | Q2300207    | no dated rival within 2 years before first chart week |
+| T103       | The Contractor           | IT       | 2026-07-05   | Q2300207         | contested_kept   | Q2300207    | no dated rival within 2 years before first chart week |
+| T104       | Angel Eyes               | FR       | 2026-07-05   | Q531675          | contested_kept   | Q531675     | no dated rival within 2 years before first chart week |
+| T104       | Angel Eyes               | IT       | 2026-07-05   | Q531675          | contested_kept   | Q531675     | no dated rival within 2 years before first chart week |
+| T110       | Into the Blue            | JP       | 2026-07-05   | Q1130297         | contested_kept   | Q1130297    | no dated rival within 2 years before first chart week |
+| T110       | Into the Blue            | KR       | 2026-07-05   | Q1130297         | contested_kept   | Q1130297    | no dated rival within 2 years before first chart week |
+| T111       | The Town                 | FR       | 2026-07-19   | Q725539          | contested_kept   | Q725539     | no dated rival within 2 years before first chart week |
+| T111       | The Town                 | IT       | 2026-07-19   | Q725539          | contested_kept   | Q725539     | no dated rival within 2 years before first chart week |
+| T116       | The Mentalist            | BR       | 2026-07-19   | Q204228          | contested_kept   | Q204228     | no dated rival within 2 years before first chart week |
+| T153       | 13 Minutes               | BR       | 2026-08-30   | Q18977471        | contested_kept   | Q18977471   | no dated rival within 2 years before first chart week |
+| T188       | How to Train Your Dragon | FR       | 2026-09-13   | Q373096          | resolved_by_date | Q118904382  | rival Q118904382 dated 2025-09-05                     |
+| T206       | The Morning After        | FR       | 2026-08-23   | Q1195881         | contested_kept   | Q1195881    | no dated rival within 2 years before first chart week |
+| T215       | Ghost Ship               | DE       | 2026-07-05   | Q1356265         | contested_kept   | Q1356265    | no dated rival within 2 years before first chart week |
+| T247       | Turbulence               | FR       | 2026-08-09   | Q727775          | contested_kept   | Q727775     | no dated rival within 2 years before first chart week |
+| T270       | Drop                     | FR       | 2026-08-02   | Q13562077        | resolved_by_date | Q125983478  | rival Q125983478 dated 2025-04-17                     |
+| T274       | Someone Like You         | IT       | 2026-08-02   | Q1346535         | contested_kept   | Q1346535    | no dated rival within 2 years before first chart week |
+| T283       | Love Hurts               | FR       | 2026-08-23   | Q2714762         | resolved_by_date | Q125265183  | rival Q125265183 dated 2025-02-07                     |
+| T317       | Lovesick                 | FR       | 2026-09-13   | Q134646503       | contested_kept   | Q134646503  | no dated rival within 2 years before first chart week |
+| T323       | Siberia                  | BR       | 2026-07-05   | Q30689574        | contested_kept   | Q30689574   | no dated rival within 2 years before first chart week |
+| T324       | Silent Night             | JP       | 2026-08-09   | Q85801170        | contested_kept   | Q85801170   | no dated rival within 2 years before first chart week |
+| T337       | Collateral Damage        | BR       | 2026-08-23   | Q506605          | contested_kept   | Q506605     | no dated rival within 2 years before first chart week |
+| T340       | Dune                     | DE       | 2026-09-13   | Q114819          | contested_kept   | Q114819     | no dated rival within 2 years before first chart week |
+| T358       | Wolf Man                 | KR       | 2026-09-06   | Q431873          | resolved_by_date | Q111464581  | rival Q111464581 dated 2025-01-24                     |
+
+Kept pairs by match status:
+
+| match_status     |   pairs |
+|:-----------------|--------:|
+| ok               |     235 |
+| contested_kept   |      21 |
+| resolved_by_date |       4 |
 
 ## Mapping rate per market
 

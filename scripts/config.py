@@ -91,6 +91,7 @@ PAGEVIEWS_RAW_DIR = RAW / "pageviews"
 PAGEVIEWS_DAILY_CSV = PROCESSED / "pageviews_daily.csv"
 MATCH_LOG_CSV = LOGS / "wikidata_match_log.csv"
 DROPPED_PAIRS_CSV = LOGS / "dropped_pairs.csv"
+CONTESTED_PAIRS_CSV = LOGS / "contested_pairs.csv"
 PHASE1_SUMMARY_MD = LOGS / "phase1_summary.md"
 
 for _d in (RAW, PROCESSED, LOGS, PAGEVIEWS_RAW_DIR):

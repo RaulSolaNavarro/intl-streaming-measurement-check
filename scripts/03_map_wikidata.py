@@ -50,7 +50,9 @@ Contested flag
   a newer title with the same name charts (a remake, or a recent film with no
   Netflix ID on Wikidata yet), Rule A can pick the old one. Rule A matches
   are flagged `contested` when another candidate of an allowed type is newer
-  than the chosen item. The match is kept; later steps decide how to use it.
+  than the chosen item. Each contested title-market pair is then resolved by
+  resolve_contested() (see its docstring) and written to
+  data/logs/contested_pairs.csv for the limitations section.
 
 Usage: python scripts/03_map_wikidata.py [--refresh]
   --refresh  ignore the cache and query Wikidata again for every title
@@ -63,7 +65,7 @@ import json
 import re
 import time
 import unicodedata
-from datetime import date
+from datetime import date, timedelta
 
 import pandas as pd
 
@@ -81,6 +83,10 @@ SEARCH_MAX = 200   # stop paging after this many hits
 # In a tie-break, the winning candidate's nearest date must be within this
 # many years of the window end, or the tie counts as unresolved.
 TIEBREAK_MAX_YEARS = 2
+
+# A newer rival can override a contested Netflix-ID match only if it has a
+# date within this many days before the pair's first chart week.
+OVERRIDE_WINDOW_DAYS = 2 * 365
 
 LANG_WIKIS = [f"{lang}wiki" for lang in config.MARKETS.values()]
 
@@ -209,6 +215,36 @@ def contested_rivals(qid: str, category: str, info: dict) -> list[str]:
             and max(ents[q]["dates"], default="9999") > chosen_newest]
 
 
+def resolve_contested(nid_qid: str, rivals: list[str], ents: dict, lang: str,
+                      first_week: date) -> tuple[str | None, str, str]:
+    """
+    Decide one contested title-market pair. Returns (qid or None, outcome, note).
+
+    A rival "qualifies" if it has a date (P577 publication date, or P580
+    start time for series) in the two years up to and including the pair's
+    first chart week in that market. Undated rivals never qualify.
+
+      no rival qualifies                     -> keep the Netflix-ID item  (contested_kept)
+      exactly one qualifies, has an article  -> switch to the rival       (resolved_by_date)
+      one qualifies but has no article here,
+      or several qualify                     -> exclude the pair          (excluded_ambiguous)
+
+    The no-article case is excluded rather than kept: the newer title most
+    likely charted, so the old article would measure the wrong thing.
+    """
+    lo = first_week - timedelta(days=OVERRIDE_WINDOW_DAYS)
+    qualified = [q for q in rivals
+                 if any(lo <= date.fromisoformat(d) <= first_week for d in ents[q]["dates"])]
+    if not qualified:
+        return nid_qid, "contested_kept", "no dated rival within 2 years before first chart week"
+    if len(qualified) > 1:
+        return None, "excluded_ambiguous", f"several rivals qualify ({', '.join(qualified)})"
+    rival = qualified[0]
+    if f"{lang}wiki" not in ents[rival]["sitelinks"]:
+        return None, "excluded_ambiguous", f"rival {rival} qualifies but has no {lang}wiki article"
+    return rival, "resolved_by_date", f"rival {rival} dated {max(ents[rival]['dates'])}"
+
+
 # ---------------------------------------------------------------------------
 # Matching rules
 # ---------------------------------------------------------------------------
@@ -308,7 +344,8 @@ def main() -> None:
     log.to_csv(config.MATCH_LOG_CSV, index=False)
 
     # Resolve each charted title-market pair to an article, or log the drop.
-    map_rows, dropped_rows = [], []
+    # match_status on kept pairs: ok | contested_kept | resolved_by_date
+    map_rows, dropped_rows, contested_rows = [], [], []
     by_id = log.set_index("title_id")
     for p in pairs.itertuples(index=False):
         m = by_id.loc[p.title_id]
@@ -317,15 +354,33 @@ def main() -> None:
         if not m["qid"]:
             dropped_rows.append({**base, "reason": f"title unmatched: {m['result']}"})
             continue
-        article = cache[p.show_title]["entities"][m["qid"]]["sitelinks"].get(f"{p.lang}wiki")
+
+        qid, status = m["qid"], "ok"
+        ents = cache[p.show_title]["entities"]
+        if m["contested"]:
+            qid, status, note = resolve_contested(
+                m["qid"], m["newer_rivals"].split(), ents, p.lang,
+                date.fromisoformat(p.first_week))
+            contested_rows.append({**base, "first_week": p.first_week,
+                                   "netflix_id_qid": m["qid"], "newer_rivals": m["newer_rivals"],
+                                   "outcome": status, "final_qid": qid or "", "note": note})
+            if qid is None:
+                dropped_rows.append({**base, "reason": f"contested, ambiguous: {note}"})
+                continue
+
+        article = ents[qid]["sitelinks"].get(f"{p.lang}wiki")
         if article:
-            map_rows.append({**base, "match_method": m["match_method"],
-                             "contested": m["contested"], "article": article})
+            map_rows.append({**base, "qid": qid, "match_method": m["match_method"],
+                             "match_status": status, "article": article})
         else:
             dropped_rows.append({**base, "reason": f"no {p.lang}wiki sitelink"})
 
     pd.DataFrame(map_rows).to_csv(config.TITLE_ARTICLE_MAP_CSV, index=False)
     pd.DataFrame(dropped_rows).to_csv(config.DROPPED_PAIRS_CSV, index=False)
+    contested_df = pd.DataFrame(contested_rows)
+    contested_df.to_csv(config.CONTESTED_PAIRS_CSV, index=False)
+    print("Contested pairs by outcome:")
+    print(contested_df["outcome"].value_counts().to_string())
 
     print(f"\nMatched {(log['qid'] != '').sum()}/{len(log)} titles")
     print(log["match_method"].value_counts().to_string())

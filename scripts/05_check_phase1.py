@@ -68,7 +68,9 @@ def main() -> None:
     }).reindex(markets)
 
     # ---- Drop reasons per market -----------------------------------------
-    reason = dropped["reason"].where(dropped["reason"].str.startswith("no "), "title unmatched on Wikidata")
+    reason = dropped["reason"].where(dropped["reason"].str.startswith(("no ", "contested")),
+                                     "title unmatched on Wikidata")
+    reason = reason.where(~reason.str.startswith("contested"), "contested, ambiguous")
     reason = reason.str.replace(r"no \w+wiki sitelink", "matched, no article in that language", regex=True)
     drops = (dropped.assign(reason=reason).groupby(["market", "reason"]).size()
                     .unstack(fill_value=0).reindex(markets, fill_value=0))
@@ -110,10 +112,17 @@ def main() -> None:
               "netflix_id: item has a Netflix ID (P1874). label_*: no Netflix ID, matched on "
               "exact English label plus type. none: dropped.", "",
               method_counts.to_markdown(), ""]
-    contested = mlog[mlog["contested"].astype(str) == "True"]
-    lines += [f"Contested Netflix-ID matches (a newer same-type namesake exists): {len(contested)} titles, "
-              f"{int(amap['contested'].sum())} title-market pairs with an article.", "",
-              contested[["title_id", "show_title", "category", "qid", "newer_rivals"]].to_markdown(index=False), ""]
+    contested = pd.read_csv(config.CONTESTED_PAIRS_CSV, keep_default_na=False)
+    lines += ["## Contested Netflix-ID matches", "",
+              "A newer film or series with the same title exists. A rival overrides the Netflix-ID "
+              "item only if it is dated within 2 years before the pair's first chart week and has "
+              "an article in that market's language. Undated rivals never override.", "",
+              contested.groupby("outcome").agg(pairs=("title_id", "size"),
+                                               titles=("title_id", "nunique")).to_markdown(), "",
+              contested[["title_id", "show_title", "market", "first_week", "netflix_id_qid",
+                         "outcome", "final_qid", "note"]].to_markdown(index=False), ""]
+    lines += ["Kept pairs by match status:", "",
+              amap["match_status"].value_counts().rename("pairs").to_frame().to_markdown(), ""]
     lines += ["## Mapping rate per market", "",
               "Titles that charted in the market vs titles with an article in that market's "
               "language edition.", "", rate.to_markdown(), ""]
