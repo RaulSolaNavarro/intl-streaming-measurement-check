@@ -1,0 +1,45 @@
+{
+ "items": [
+  {
+   "project": "ko.wikipedia",
+   "article": "소실점_(영화)",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32
+  },
+  {
+   "project": "ko.wikipedia",
+   "article": "소실점_(영화)",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16
+  },
+  {
+   "project": "ko.wikipedia",
+   "article": "소실점_(영화)",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28
+  },
+  {
+   "project": "ko.wikipedia",
+   "article": "소실점_(영화)",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

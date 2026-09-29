@@ -25,7 +25,7 @@ if ($Refresh) { $refreshArg = @("--refresh") }
 $steps = @(
     @{ Script = "01_pull_netflix.py";   Args = $refreshArg },
     @{ Script = "02_select_titles.py";  Args = @() },
-    @{ Script = "03_map_wikidata.py";   Args = @() },
+    @{ Script = "03_map_wikidata.py";   Args = $refreshArg },
     @{ Script = "04_pull_pageviews.py"; Args = $refreshArg },
     @{ Script = "05_check_phase1.py";   Args = @() }
 )

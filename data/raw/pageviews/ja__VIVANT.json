@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2544
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2385
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4188
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2654
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3063
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4135
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5401
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4621
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4096
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3455
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3222
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3531
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4301
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6340
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7886
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10774
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8347
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8980
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9665
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17702
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16303
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11151
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9427
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8728
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8664
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9085
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15251
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15234
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10172
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9674
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12037
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11517
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11158
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20163
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 30267
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19039
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13855
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13029
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12316
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11169
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16894
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21783
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16095
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16694
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13110
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11408
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11556
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16081
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31965
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29980
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21043
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16080
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21924
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31129
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45024
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 170966
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 96778
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57113
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37177
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32332
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32339
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37046
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90387
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57311
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40299
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33496
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28822
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 27074
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29834
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 71955
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 52449
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 41499
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37863
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29540
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25360
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26344
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 60861
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 48935
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 30502
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26533
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22720
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20062
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22933
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47380
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35636
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26502
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21731
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19909
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19701
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20566
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47681
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32610
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21697
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21315
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19734
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17900
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19824
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47118
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 38166
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 24870
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18908
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16335
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16140
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17739
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45561
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34762
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21241
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20094
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15812
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14752
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16201
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "VIVANT",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21251
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

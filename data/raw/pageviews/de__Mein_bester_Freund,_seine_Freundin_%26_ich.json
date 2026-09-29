@@ -1,0 +1,423 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1855
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2284
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3084
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2088
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2006
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1536
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1300
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1519
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1121
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1227
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 691
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 523
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 470
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 460
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 660
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 670
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 859
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 502
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 467
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 324
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 339
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 401
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 436
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 401
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 246
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 205
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 218
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 181
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 211
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 261
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 337
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 185
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 135
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 190
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 175
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 227
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 249
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Mein_bester_Freund,_seine_Freundin_&_ich",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 220
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

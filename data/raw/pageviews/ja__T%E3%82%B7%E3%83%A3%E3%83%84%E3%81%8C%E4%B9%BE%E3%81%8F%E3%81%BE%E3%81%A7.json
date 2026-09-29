@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 247
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 253
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 213
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 343
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 822
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 542
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 501
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 354
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 345
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 304
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 582
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2156
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1196
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 622
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 468
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 476
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 539
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 462
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1154
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1781
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 673
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 589
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 556
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 586
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 786
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1200
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1029
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 908
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 869
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 714
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 894
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1427
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3045
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2951
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2729
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1780
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1482
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1741
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2960
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37229
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26092
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16433
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12935
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9639
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7376
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8589
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20421
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17271
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10842
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8256
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6131
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4334
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4402
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13848
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10786
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8200
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6514
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4978
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4520
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4693
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12072
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10553
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9930
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6217
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5785
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4472
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4730
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12891
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12048
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8278
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7070
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7858
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5669
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5645
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13650
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10798
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8631
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6505
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6100
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5936
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5649
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11932
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11975
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8178
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6935
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5890
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5923
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6585
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19349
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16547
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12581
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9028
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6680
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6467
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7113
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21470
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18950
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13894
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10245
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7842
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7196
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10510
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26919
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20367
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13498
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9588
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7913
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6593
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5707
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5664
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6351
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "Tシャツが乾くまで",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5054
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

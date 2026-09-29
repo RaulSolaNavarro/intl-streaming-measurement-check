@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 77
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 115
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 82
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 63
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 41
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 42
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 81
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 53
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 52
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 71
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 59
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 156
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 128
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 139
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 141
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 159
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 110
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 101
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 100
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 85
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 92
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 64
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 53
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 76
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 71
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 100
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 104
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 386
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 187
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 77
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 59
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 97
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 82
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 76
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 71
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 97
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 94
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 268
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 162
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 215
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 183
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 175
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 147
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 158
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 138
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 113
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 92
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 147
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 190
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 80
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 95
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 209
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 183
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 114
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 134
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 269
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 115
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 120
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 124
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 96
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 222
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 266
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6046
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8183
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9333
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7144
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9218
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11204
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Nocturnal_Animals",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10336
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

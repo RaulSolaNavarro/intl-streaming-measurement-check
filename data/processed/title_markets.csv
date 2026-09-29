@@ -1,0 +1,642 @@
+title_id,show_title,category,market,first_week,last_week,weeks_charted,best_rank,lang
+T001,Agent Kim Reactivated,TV,BR,2026-07-05,2026-07-26,4,3,pt
+T001,Agent Kim Reactivated,TV,DE,2026-07-05,2026-07-19,3,5,de
+T001,Agent Kim Reactivated,TV,FR,2026-07-05,2026-08-09,6,5,fr
+T001,Agent Kim Reactivated,TV,IT,2026-07-05,2026-07-26,4,5,it
+T001,Agent Kim Reactivated,TV,JP,2026-07-05,2026-08-02,5,2,ja
+T001,Agent Kim Reactivated,TV,KR,2026-07-05,2026-08-16,7,1,ko
+T002,The Last House,Films,BR,2026-08-09,2026-08-30,4,1,pt
+T002,The Last House,Films,DE,2026-08-09,2026-08-30,4,1,de
+T002,The Last House,Films,FR,2026-08-09,2026-08-30,4,1,fr
+T002,The Last House,Films,IT,2026-08-09,2026-09-06,5,1,it
+T002,The Last House,Films,JP,2026-08-09,2026-08-30,4,1,ja
+T002,The Last House,Films,KR,2026-08-09,2026-08-30,4,1,ko
+T003,The Whisper Man,Films,BR,2026-08-30,2026-09-20,4,1,pt
+T003,The Whisper Man,Films,DE,2026-08-30,2026-09-20,4,1,de
+T003,The Whisper Man,Films,FR,2026-08-30,2026-09-20,4,1,fr
+T003,The Whisper Man,Films,IT,2026-08-30,2026-09-20,4,1,it
+T003,The Whisper Man,Films,JP,2026-08-30,2026-09-13,3,2,ja
+T003,The Whisper Man,Films,KR,2026-08-30,2026-09-13,3,2,ko
+T004,Elize: Shadows of a Woman,Films,BR,2026-07-26,2026-08-16,4,1,pt
+T004,Elize: Shadows of a Woman,Films,DE,2026-07-26,2026-08-09,3,2,de
+T004,Elize: Shadows of a Woman,Films,FR,2026-07-26,2026-08-16,4,1,fr
+T004,Elize: Shadows of a Woman,Films,IT,2026-07-26,2026-08-16,4,2,it
+T004,Elize: Shadows of a Woman,Films,JP,2026-08-02,2026-08-02,1,3,ja
+T004,Elize: Shadows of a Woman,Films,KR,2026-07-26,2026-08-02,2,5,ko
+T005,Enola Holmes 3,Films,BR,2026-07-05,2026-07-12,2,1,pt
+T005,Enola Holmes 3,Films,DE,2026-07-05,2026-08-02,5,1,de
+T005,Enola Holmes 3,Films,FR,2026-07-05,2026-07-19,3,1,fr
+T005,Enola Holmes 3,Films,IT,2026-07-05,2026-07-19,3,1,it
+T005,Enola Holmes 3,Films,JP,2026-07-05,2026-07-12,2,2,ja
+T005,Enola Holmes 3,Films,KR,2026-07-05,2026-07-12,2,3,ko
+T006,Facing El Chapo,Films,BR,2026-08-23,2026-09-06,3,2,pt
+T006,Facing El Chapo,Films,DE,2026-08-23,2026-09-06,3,2,de
+T006,Facing El Chapo,Films,FR,2026-08-23,2026-09-06,3,3,fr
+T006,Facing El Chapo,Films,IT,2026-08-23,2026-09-06,3,2,it
+T006,Facing El Chapo,Films,JP,2026-08-23,2026-08-30,2,4,ja
+T006,Facing El Chapo,Films,KR,2026-08-23,2026-08-30,2,4,ko
+T007,Grand Theft Auto VI: An Extended Look,Films,BR,2026-08-30,2026-08-30,1,1,pt
+T007,Grand Theft Auto VI: An Extended Look,Films,DE,2026-08-30,2026-09-06,2,1,de
+T007,Grand Theft Auto VI: An Extended Look,Films,FR,2026-08-30,2026-09-06,2,1,fr
+T007,Grand Theft Auto VI: An Extended Look,Films,IT,2026-08-30,2026-09-06,2,1,it
+T007,Grand Theft Auto VI: An Extended Look,Films,JP,2026-08-30,2026-08-30,1,2,ja
+T007,Grand Theft Auto VI: An Extended Look,Films,KR,2026-08-30,2026-08-30,1,2,ko
+T008,Anacondas: Trail of Blood,Films,BR,2026-09-06,2026-09-06,1,7,pt
+T008,Anacondas: Trail of Blood,Films,DE,2026-09-06,2026-09-06,1,9,de
+T008,Anacondas: Trail of Blood,Films,FR,2026-09-06,2026-09-06,1,8,fr
+T008,Anacondas: Trail of Blood,Films,IT,2026-09-06,2026-09-06,1,7,it
+T008,Anacondas: Trail of Blood,Films,JP,2026-09-06,2026-09-06,1,3,ja
+T008,Anacondas: Trail of Blood,Films,KR,2026-09-06,2026-09-13,2,5,ko
+T009,I Will Find You,TV,BR,2026-07-05,2026-08-02,5,1,pt
+T009,I Will Find You,TV,DE,2026-07-05,2026-08-30,9,1,de
+T009,I Will Find You,TV,FR,2026-07-05,2026-08-23,8,1,fr
+T009,I Will Find You,TV,IT,2026-07-05,2026-08-30,9,1,it
+T009,I Will Find You,TV,KR,2026-07-05,2026-07-05,1,6,ko
+T010,72 HOURS,Films,BR,2026-07-26,2026-08-16,4,2,pt
+T010,72 HOURS,Films,DE,2026-07-26,2026-08-30,6,1,de
+T010,72 HOURS,Films,FR,2026-07-26,2026-08-16,4,2,fr
+T010,72 HOURS,Films,IT,2026-07-26,2026-08-23,5,1,it
+T010,72 HOURS,Films,JP,2026-08-02,2026-08-02,1,5,ja
+T011,The Secret Woman,Films,BR,2026-08-30,2026-09-20,4,2,pt
+T011,The Secret Woman,Films,DE,2026-08-30,2026-09-20,4,2,de
+T011,The Secret Woman,Films,FR,2026-08-30,2026-09-20,4,2,fr
+T011,The Secret Woman,Films,IT,2026-08-30,2026-09-20,4,2,it
+T011,The Secret Woman,Films,KR,2026-09-06,2026-09-06,1,4,ko
+T012,Elite Force,TV,BR,2026-07-26,2026-08-02,2,1,pt
+T012,Elite Force,TV,DE,2026-07-26,2026-08-09,3,2,de
+T012,Elite Force,TV,FR,2026-07-26,2026-08-30,6,1,fr
+T012,Elite Force,TV,IT,2026-07-26,2026-08-09,3,1,it
+T012,Elite Force,TV,KR,2026-07-26,2026-07-26,1,10,ko
+T013,Desire,Films,BR,2026-07-19,2026-08-02,3,1,pt
+T013,Desire,Films,DE,2026-07-19,2026-08-02,3,3,de
+T013,Desire,Films,FR,2026-07-19,2026-08-02,3,1,fr
+T013,Desire,Films,IT,2026-07-19,2026-08-02,3,1,it
+T013,Desire,Films,KR,2026-07-26,2026-07-26,1,6,ko
+T014,Our Sticky Love,TV,BR,2026-08-09,2026-08-30,4,1,pt
+T014,Our Sticky Love,TV,FR,2026-08-16,2026-08-16,1,7,fr
+T014,Our Sticky Love,TV,IT,2026-08-16,2026-08-16,1,6,it
+T014,Our Sticky Love,TV,JP,2026-08-16,2026-08-23,2,3,ja
+T014,Our Sticky Love,TV,KR,2026-08-09,2026-09-06,5,1,ko
+T015,The Debt Collector,Films,BR,2026-07-26,2026-08-09,3,4,pt
+T015,The Debt Collector,Films,FR,2026-07-26,2026-08-02,2,6,fr
+T015,The Debt Collector,Films,IT,2026-07-26,2026-08-02,2,4,it
+T015,The Debt Collector,Films,JP,2026-08-02,2026-08-02,1,4,ja
+T015,The Debt Collector,Films,KR,2026-07-26,2026-08-02,2,2,ko
+T016,Death on the Nile,Films,DE,2026-07-19,2026-07-19,1,7,de
+T016,Death on the Nile,Films,FR,2026-07-19,2026-07-19,1,10,fr
+T016,Death on the Nile,Films,IT,2026-07-19,2026-07-19,1,9,it
+T016,Death on the Nile,Films,JP,2026-07-19,2026-07-19,1,8,ja
+T016,Death on the Nile,Films,KR,2026-07-19,2026-07-19,1,10,ko
+T017,My Life With the Walter Boys,TV,BR,2026-08-09,2026-08-23,3,2,pt
+T017,My Life With the Walter Boys,TV,DE,2026-08-09,2026-09-06,5,1,de
+T017,My Life With the Walter Boys,TV,FR,2026-08-09,2026-09-06,5,1,fr
+T017,My Life With the Walter Boys,TV,IT,2026-08-09,2026-09-06,5,1,it
+T018,Salish & Jordan Matter,TV,BR,2026-07-05,2026-08-30,2,7,pt
+T018,Salish & Jordan Matter,TV,DE,2026-07-05,2026-09-13,6,4,de
+T018,Salish & Jordan Matter,TV,FR,2026-07-05,2026-09-06,6,4,fr
+T018,Salish & Jordan Matter,TV,IT,2026-07-05,2026-09-06,4,5,it
+T019,Blood Sacrifice,TV,BR,2026-08-23,2026-09-06,3,1,pt
+T019,Blood Sacrifice,TV,DE,2026-08-23,2026-09-20,5,1,de
+T019,Blood Sacrifice,TV,FR,2026-08-23,2026-09-13,4,2,fr
+T019,Blood Sacrifice,TV,IT,2026-08-23,2026-09-13,4,1,it
+T020,Outer Banks,TV,BR,2026-08-23,2026-09-06,3,1,pt
+T020,Outer Banks,TV,DE,2026-08-23,2026-09-20,5,2,de
+T020,Outer Banks,TV,FR,2026-08-23,2026-09-13,4,1,fr
+T020,Outer Banks,TV,IT,2026-08-23,2026-09-13,4,1,it
+T021,Voicemails for Isabelle,Films,BR,2026-07-05,2026-07-19,3,3,pt
+T021,Voicemails for Isabelle,Films,DE,2026-07-05,2026-08-02,5,2,de
+T021,Voicemails for Isabelle,Films,FR,2026-07-05,2026-08-02,5,3,fr
+T021,Voicemails for Isabelle,Films,IT,2026-07-05,2026-08-02,3,2,it
+T022,Oasis,TV,BR,2026-07-05,2026-07-05,1,6,pt
+T022,Oasis,TV,DE,2026-07-05,2026-07-05,1,6,de
+T022,Oasis,TV,FR,2026-07-05,2026-08-09,6,3,fr
+T022,Oasis,TV,IT,2026-07-05,2026-08-23,8,3,it
+T023,Little House on the Prairie,TV,BR,2026-07-12,2026-07-26,3,1,pt
+T023,Little House on the Prairie,TV,DE,2026-07-12,2026-08-02,4,1,de
+T023,Little House on the Prairie,TV,FR,2026-07-12,2026-07-26,3,1,fr
+T023,Little House on the Prairie,TV,IT,2026-07-12,2026-07-26,3,2,it
+T024,Avatar: The Last Airbender,TV,BR,2026-07-05,2026-07-19,3,2,pt
+T024,Avatar: The Last Airbender,TV,DE,2026-07-05,2026-07-26,4,2,de
+T024,Avatar: The Last Airbender,TV,FR,2026-07-05,2026-07-19,3,2,fr
+T024,Avatar: The Last Airbender,TV,IT,2026-07-05,2026-07-19,3,4,it
+T025,Teach You a Lesson,TV,BR,2026-07-05,2026-07-05,1,9,pt
+T025,Teach You a Lesson,TV,FR,2026-07-05,2026-07-19,3,8,fr
+T025,Teach You a Lesson,TV,JP,2026-07-05,2026-07-12,2,3,ja
+T025,Teach You a Lesson,TV,KR,2026-07-05,2026-09-20,6,3,ko
+T026,The Gentlemen,TV,BR,2026-09-13,2026-09-20,2,6,pt
+T026,The Gentlemen,TV,DE,2026-09-06,2026-09-20,3,1,de
+T026,The Gentlemen,TV,FR,2026-09-06,2026-09-20,3,1,fr
+T026,The Gentlemen,TV,IT,2026-09-06,2026-09-20,3,1,it
+T027,My Daughter's Father,TV,BR,2026-07-26,2026-08-09,3,4,pt
+T027,My Daughter's Father,TV,DE,2026-07-26,2026-08-02,2,7,de
+T027,My Daughter's Father,TV,FR,2026-07-26,2026-08-09,3,3,fr
+T027,My Daughter's Father,TV,IT,2026-07-26,2026-08-09,3,2,it
+T028,The Bombing of Pan Am 103,TV,BR,2026-08-09,2026-08-09,1,5,pt
+T028,The Bombing of Pan Am 103,TV,DE,2026-08-02,2026-08-16,3,4,de
+T028,The Bombing of Pan Am 103,TV,FR,2026-08-02,2026-08-16,3,3,fr
+T028,The Bombing of Pan Am 103,TV,IT,2026-08-02,2026-08-23,4,2,it
+T029,The Idaho Murders: College Nightmare,TV,BR,2026-08-02,2026-08-09,2,5,pt
+T029,The Idaho Murders: College Nightmare,TV,DE,2026-08-02,2026-08-23,4,2,de
+T029,The Idaho Murders: College Nightmare,TV,FR,2026-08-02,2026-08-16,3,2,fr
+T029,The Idaho Murders: College Nightmare,TV,IT,2026-08-02,2026-08-09,2,4,it
+T030,Ransom Canyon,TV,BR,2026-07-26,2026-08-02,2,7,pt
+T030,Ransom Canyon,TV,DE,2026-07-26,2026-08-09,3,4,de
+T030,Ransom Canyon,TV,FR,2026-07-26,2026-08-09,3,5,fr
+T030,Ransom Canyon,TV,IT,2026-07-26,2026-08-09,3,6,it
+T031,Beauty in Black,TV,BR,2026-08-30,2026-09-06,2,2,pt
+T031,Beauty in Black,TV,DE,2026-08-30,2026-09-06,2,4,de
+T031,Beauty in Black,TV,FR,2026-08-30,2026-09-13,3,3,fr
+T031,Beauty in Black,TV,IT,2026-08-30,2026-09-13,3,2,it
+T032,Death of the Pastor's Wife,TV,BR,2026-08-30,2026-09-13,3,3,pt
+T032,Death of the Pastor's Wife,TV,DE,2026-08-30,2026-09-13,3,2,de
+T032,Death of the Pastor's Wife,TV,FR,2026-08-30,2026-09-06,2,5,fr
+T032,Death of the Pastor's Wife,TV,IT,2026-08-30,2026-09-06,2,7,it
+T033,My Brilliant Career,TV,BR,2026-08-16,2026-08-23,2,7,pt
+T033,My Brilliant Career,TV,DE,2026-08-16,2026-08-23,2,4,de
+T033,My Brilliant Career,TV,FR,2026-08-16,2026-08-30,3,3,fr
+T033,My Brilliant Career,TV,IT,2026-08-16,2026-08-30,3,2,it
+T034,The Truthers,Films,BR,2026-07-26,2026-08-02,2,6,pt
+T034,The Truthers,Films,DE,2026-07-26,2026-08-09,3,3,de
+T034,The Truthers,Films,FR,2026-07-26,2026-08-02,2,4,fr
+T034,The Truthers,Films,IT,2026-07-26,2026-08-09,3,3,it
+T035,Wrath,TV,BR,2026-08-02,2026-08-16,3,1,pt
+T035,Wrath,TV,DE,2026-08-09,2026-08-09,1,10,de
+T035,Wrath,TV,FR,2026-08-02,2026-08-09,2,5,fr
+T035,Wrath,TV,IT,2026-08-02,2026-08-16,3,3,it
+T036,Spider-Man: Far from Home,Films,BR,2026-08-09,2026-08-16,2,5,pt
+T036,Spider-Man: Far from Home,Films,FR,2026-08-09,2026-08-09,1,10,fr
+T036,Spider-Man: Far from Home,Films,IT,2026-08-02,2026-08-09,2,5,it
+T036,Spider-Man: Far from Home,Films,KR,2026-08-02,2026-08-23,4,5,ko
+T037,Crew Girl,TV,BR,2026-09-13,2026-09-20,2,1,pt
+T037,Crew Girl,TV,DE,2026-09-13,2026-09-20,2,1,de
+T037,Crew Girl,TV,FR,2026-09-13,2026-09-20,2,2,fr
+T037,Crew Girl,TV,IT,2026-09-13,2026-09-20,2,2,it
+T038,Nothing to Lose,Films,BR,2026-07-12,2026-07-19,2,3,pt
+T038,Nothing to Lose,Films,DE,2026-07-12,2026-07-19,2,10,de
+T038,Nothing to Lose,Films,FR,2026-07-12,2026-07-19,2,1,fr
+T038,Nothing to Lose,Films,IT,2026-07-12,2026-07-19,2,3,it
+T039,The East Palace,TV,BR,2026-07-26,2026-07-26,1,9,pt
+T039,The East Palace,TV,FR,2026-07-26,2026-07-26,1,9,fr
+T039,The East Palace,TV,IT,2026-07-26,2026-07-26,1,10,it
+T039,The East Palace,TV,KR,2026-07-19,2026-08-16,5,1,ko
+T040,Worst Neighbor Ever,TV,BR,2026-07-05,2026-07-12,2,8,pt
+T040,Worst Neighbor Ever,TV,DE,2026-07-05,2026-07-19,3,3,de
+T040,Worst Neighbor Ever,TV,FR,2026-07-05,2026-07-12,2,4,fr
+T040,Worst Neighbor Ever,TV,IT,2026-07-05,2026-07-05,1,10,it
+T041,Nando Between Two Worlds - A Sintonia Film,Films,BR,2026-08-16,2026-08-30,3,1,pt
+T041,Nando Between Two Worlds - A Sintonia Film,Films,DE,2026-08-16,2026-08-16,1,5,de
+T041,Nando Between Two Worlds - A Sintonia Film,Films,FR,2026-08-16,2026-08-16,1,3,fr
+T041,Nando Between Two Worlds - A Sintonia Film,Films,IT,2026-08-16,2026-08-23,2,4,it
+T042,The Map of Longing,TV,BR,2026-07-26,2026-07-26,1,8,pt
+T042,The Map of Longing,TV,DE,2026-07-26,2026-07-26,1,4,de
+T042,The Map of Longing,TV,FR,2026-07-26,2026-08-02,2,3,fr
+T042,The Map of Longing,TV,IT,2026-07-19,2026-08-02,3,3,it
+T043,The Perfect Lie,TV,BR,2026-09-20,2026-09-20,1,7,pt
+T043,The Perfect Lie,TV,DE,2026-09-13,2026-09-20,2,3,de
+T043,The Perfect Lie,TV,FR,2026-09-13,2026-09-20,2,3,fr
+T043,The Perfect Lie,TV,IT,2026-09-13,2026-09-20,2,4,it
+T044,Why Did I Get Married Again?,Films,BR,2026-09-13,2026-09-20,2,3,pt
+T044,Why Did I Get Married Again?,Films,DE,2026-09-13,2026-09-13,1,10,de
+T044,Why Did I Get Married Again?,Films,FR,2026-09-13,2026-09-20,2,7,fr
+T044,Why Did I Get Married Again?,Films,IT,2026-09-13,2026-09-20,2,7,it
+T045,Seal Team,TV,BR,2026-08-23,2026-08-23,1,10,pt
+T045,Seal Team,TV,DE,2026-08-23,2026-08-30,2,7,de
+T045,Seal Team,TV,FR,2026-08-23,2026-08-30,2,8,fr
+T045,Seal Team,TV,IT,2026-08-23,2026-08-30,2,8,it
+T046,Don't Say Good Luck,Films,BR,2026-08-16,2026-08-23,2,5,pt
+T046,Don't Say Good Luck,Films,DE,2026-08-16,2026-08-23,2,4,de
+T046,Don't Say Good Luck,Films,FR,2026-08-23,2026-08-23,1,8,fr
+T046,Don't Say Good Luck,Films,IT,2026-08-23,2026-08-23,1,4,it
+T047,Extinction,Films,BR,2026-08-16,2026-08-16,1,4,pt
+T047,Extinction,Films,IT,2026-08-16,2026-08-16,1,3,it
+T047,Extinction,Films,JP,2026-08-16,2026-08-16,1,3,ja
+T047,Extinction,Films,KR,2026-08-16,2026-08-23,2,3,ko
+T048,José Totoy 3,TV,BR,2026-07-12,2026-07-19,2,4,pt
+T048,José Totoy 3,TV,DE,2026-07-19,2026-07-19,1,8,de
+T048,José Totoy 3,TV,FR,2026-07-19,2026-07-19,1,4,fr
+T048,José Totoy 3,TV,IT,2026-07-19,2026-07-19,1,10,it
+T049,The Creator,Films,DE,2026-07-19,2026-07-26,2,6,de
+T049,The Creator,Films,IT,2026-07-26,2026-07-26,1,6,it
+T049,The Creator,Films,JP,2026-07-12,2026-07-12,1,10,ja
+T049,The Creator,Films,KR,2026-07-05,2026-07-05,1,4,ko
+T050,Monster: The Lizzie Borden Story,TV,BR,2026-09-20,2026-09-20,1,2,pt
+T050,Monster: The Lizzie Borden Story,TV,DE,2026-09-20,2026-09-20,1,2,de
+T050,Monster: The Lizzie Borden Story,TV,FR,2026-09-20,2026-09-20,1,1,fr
+T050,Monster: The Lizzie Borden Story,TV,IT,2026-09-20,2026-09-20,1,3,it
+T051,Little Brother,Films,BR,2026-07-05,2026-07-05,1,5,pt
+T051,Little Brother,Films,DE,2026-07-05,2026-07-05,1,4,de
+T051,Little Brother,Films,FR,2026-07-05,2026-07-05,1,6,fr
+T051,Little Brother,Films,IT,2026-07-05,2026-07-05,1,5,it
+T052,Not a Stranger,TV,BR,2026-09-20,2026-09-20,1,4,pt
+T052,Not a Stranger,TV,DE,2026-09-20,2026-09-20,1,5,de
+T052,Not a Stranger,TV,FR,2026-09-20,2026-09-20,1,6,fr
+T052,Not a Stranger,TV,IT,2026-09-20,2026-09-20,1,6,it
+T053,Gabby's Dollhouse,TV,BR,2026-09-20,2026-09-20,1,5,pt
+T053,Gabby's Dollhouse,TV,DE,2026-09-20,2026-09-20,1,7,de
+T053,Gabby's Dollhouse,TV,FR,2026-09-20,2026-09-20,1,7,fr
+T053,Gabby's Dollhouse,TV,IT,2026-09-20,2026-09-20,1,8,it
+T054,Spooky in Love,TV,BR,2026-07-19,2026-08-23,6,3,pt
+T054,Spooky in Love,TV,JP,2026-08-02,2026-08-30,4,8,ja
+T054,Spooky in Love,TV,KR,2026-07-19,2026-08-30,7,3,ko
+T055,The Beekeeper,Films,IT,2026-08-16,2026-09-06,4,1,it
+T055,The Beekeeper,Films,JP,2026-07-05,2026-07-05,1,6,ja
+T055,The Beekeeper,Films,KR,2026-07-12,2026-08-23,7,1,ko
+T056,Spider-Man: Homecoming,Films,FR,2026-08-09,2026-08-16,2,9,fr
+T056,Spider-Man: Homecoming,Films,JP,2026-08-02,2026-08-16,3,6,ja
+T056,Spider-Man: Homecoming,Films,KR,2026-08-02,2026-08-30,5,3,ko
+T057,Losing Judgment,TV,BR,2026-07-12,2026-07-19,2,8,pt
+T057,Losing Judgment,TV,FR,2026-07-12,2026-07-19,2,7,fr
+T057,Losing Judgment,TV,IT,2026-07-05,2026-07-26,4,4,it
+T058,Shipwrecked: Nightmare at Sea,Films,DE,2026-07-12,2026-07-19,2,3,de
+T058,Shipwrecked: Nightmare at Sea,Films,FR,2026-07-12,2026-07-19,2,5,fr
+T058,Shipwrecked: Nightmare at Sea,Films,IT,2026-07-12,2026-07-26,3,1,it
+T059,The Little Things,Films,FR,2026-09-13,2026-09-20,2,2,fr
+T059,The Little Things,Films,IT,2026-09-13,2026-09-20,2,1,it
+T059,The Little Things,Films,JP,2026-07-19,2026-07-26,2,5,ja
+T060,Conversations with a Killer: The Charles Manson Tapes,TV,DE,2026-08-16,2026-08-23,2,2,de
+T060,Conversations with a Killer: The Charles Manson Tapes,TV,FR,2026-08-16,2026-08-23,2,3,fr
+T060,Conversations with a Killer: The Charles Manson Tapes,TV,IT,2026-08-16,2026-08-23,2,7,it
+T061,A Toxic Love Story,Films,DE,2026-07-26,2026-08-02,2,4,de
+T061,A Toxic Love Story,Films,FR,2026-07-26,2026-08-02,2,7,fr
+T061,A Toxic Love Story,Films,IT,2026-07-26,2026-08-02,2,9,it
+T062,MOURINHO,TV,DE,2026-08-16,2026-08-16,1,9,de
+T062,MOURINHO,TV,FR,2026-08-16,2026-08-23,2,8,fr
+T062,MOURINHO,TV,IT,2026-08-16,2026-08-23,2,3,it
+T063,Fauda,TV,DE,2026-09-13,2026-09-13,1,10,de
+T063,Fauda,TV,FR,2026-09-13,2026-09-20,2,6,fr
+T063,Fauda,TV,IT,2026-09-13,2026-09-20,2,8,it
+T064,Turning Point: Generation 9/11,Films,DE,2026-09-06,2026-09-20,3,6,de
+T064,Turning Point: Generation 9/11,Films,FR,2026-09-06,2026-09-06,1,10,fr
+T064,Turning Point: Generation 9/11,Films,IT,2026-09-13,2026-09-13,1,9,it
+T065,Sonic the Hedgehog 3,Films,DE,2026-07-05,2026-07-05,1,8,de
+T065,Sonic the Hedgehog 3,Films,IT,2026-07-05,2026-07-12,2,4,it
+T065,Sonic the Hedgehog 3,Films,JP,2026-08-30,2026-08-30,1,10,ja
+T066,The Hard Corps,Films,BR,2026-09-06,2026-09-13,2,4,pt
+T066,The Hard Corps,Films,DE,2026-09-06,2026-09-06,1,8,de
+T066,The Hard Corps,Films,KR,2026-09-06,2026-09-06,1,8,ko
+T067,Gandhari,Films,BR,2026-09-13,2026-09-13,1,1,pt
+T067,Gandhari,Films,FR,2026-09-13,2026-09-13,1,10,fr
+T067,Gandhari,Films,KR,2026-09-13,2026-09-13,1,5,ko
+T068,All the Truth in My Lies,TV,DE,2026-09-06,2026-09-06,1,8,de
+T068,All the Truth in My Lies,TV,FR,2026-09-06,2026-09-06,1,7,fr
+T068,All the Truth in My Lies,TV,IT,2026-09-06,2026-09-06,1,3,it
+T069,To the Max,Films,DE,2026-08-23,2026-08-23,1,7,de
+T069,To the Max,Films,FR,2026-08-23,2026-08-23,1,5,fr
+T069,To the Max,Films,IT,2026-08-23,2026-08-23,1,5,it
+T070,I'm Not Afraid,TV,BR,2026-07-19,2026-07-19,1,6,pt
+T070,I'm Not Afraid,TV,FR,2026-07-19,2026-07-19,1,8,fr
+T070,I'm Not Afraid,TV,IT,2026-07-19,2026-07-19,1,8,it
+T071,What a Girl Wants,Films,BR,2026-08-16,2026-08-16,1,6,pt
+T071,What a Girl Wants,Films,FR,2026-08-16,2026-08-16,1,6,fr
+T071,What a Girl Wants,Films,IT,2026-08-16,2026-08-16,1,6,it
+T072,Robin Hood,Films,BR,2026-08-16,2026-08-16,1,9,pt
+T072,Robin Hood,Films,DE,2026-08-16,2026-08-16,1,7,de
+T072,Robin Hood,Films,IT,2026-08-16,2026-08-16,1,10,it
+T073,The Doll,TV,DE,2026-09-20,2026-09-20,1,8,de
+T073,The Doll,TV,FR,2026-09-20,2026-09-20,1,10,fr
+T073,The Doll,TV,IT,2026-09-20,2026-09-20,1,9,it
+T074,Badly in Love,TV,JP,2026-08-09,2026-09-20,7,1,ja
+T074,Badly in Love,TV,KR,2026-08-09,2026-09-13,6,4,ko
+T075,Smoking Behind the Supermarket With You,TV,JP,2026-07-19,2026-09-20,10,4,ja
+T075,Smoking Behind the Supermarket With You,TV,KR,2026-07-26,2026-08-02,2,8,ko
+T076,Human Vapor,TV,JP,2026-07-05,2026-08-16,7,1,ja
+T076,Human Vapor,TV,KR,2026-07-05,2026-07-19,3,5,ko
+T077,Husbands in Action,Films,JP,2026-07-05,2026-07-05,1,9,ja
+T077,Husbands in Action,Films,KR,2026-07-05,2026-08-16,7,1,ko
+T078,The Early Spring,TV,BR,2026-08-30,2026-09-20,4,1,pt
+T078,The Early Spring,TV,KR,2026-09-06,2026-09-20,3,7,ko
+T079,Despicable Me 4,Films,BR,2026-07-19,2026-08-09,4,8,pt
+T079,Despicable Me 4,Films,JP,2026-08-02,2026-08-23,3,5,ja
+T080,Mousetrap,TV,JP,2026-09-06,2026-09-06,1,3,ja
+T080,Mousetrap,TV,KR,2026-08-30,2026-09-20,4,1,ko
+T081,Sniper: No Nation,Films,DE,2026-07-19,2026-08-02,3,2,de
+T081,Sniper: No Nation,Films,KR,2026-07-19,2026-07-26,2,3,ko
+T082,Sullivan's Crossing,TV,DE,2026-07-05,2026-07-19,3,5,de
+T082,Sullivan's Crossing,TV,IT,2026-07-05,2026-07-12,2,5,it
+T083,"My Best Friend, His Girlfriend and Me",Films,DE,2026-08-16,2026-08-30,3,1,de
+T083,"My Best Friend, His Girlfriend and Me",Films,IT,2026-08-23,2026-08-23,1,7,it
+T084,Physical 100: Italy,TV,IT,2026-09-13,2026-09-20,2,1,it
+T084,Physical 100: Italy,TV,KR,2026-09-13,2026-09-20,2,9,ko
+T085,Notes from the Last Row,TV,JP,2026-07-05,2026-07-05,1,6,ja
+T085,Notes from the Last Row,TV,KR,2026-07-05,2026-07-19,3,2,ko
+T086,Hercules,Films,JP,2026-09-13,2026-09-20,2,3,ja
+T086,Hercules,Films,KR,2026-09-13,2026-09-20,2,4,ko
+T087,The Polygamist,TV,BR,2026-07-05,2026-07-19,3,5,pt
+T087,The Polygamist,TV,FR,2026-07-05,2026-07-05,1,10,fr
+T088,The Sixth Sense,Films,IT,2026-09-06,2026-09-13,2,6,it
+T088,The Sixth Sense,Films,JP,2026-09-06,2026-09-13,2,6,ja
+T089,Kraven the Hunter,Films,IT,2026-09-13,2026-09-20,2,2,it
+T089,Kraven the Hunter,Films,JP,2026-07-26,2026-07-26,1,3,ja
+T090,Meg 2: The Trench,Films,BR,2026-07-12,2026-07-19,2,2,pt
+T090,Meg 2: The Trench,Films,FR,2026-08-09,2026-08-09,1,4,fr
+T091,Anora,Films,FR,2026-09-20,2026-09-20,1,4,fr
+T091,Anora,Films,IT,2026-07-12,2026-07-19,2,3,it
+T092,Chainsmoker Cat,TV,JP,2026-07-12,2026-07-19,2,3,ja
+T092,Chainsmoker Cat,TV,KR,2026-07-12,2026-07-12,1,10,ko
+T093,The Wild Robot,Films,BR,2026-07-12,2026-07-19,2,3,pt
+T093,The Wild Robot,Films,JP,2026-09-20,2026-09-20,1,5,ja
+T094,Umthetho,TV,BR,2026-08-16,2026-08-23,2,3,pt
+T094,Umthetho,TV,FR,2026-08-23,2026-08-23,1,6,fr
+T095,Breaking In,Films,DE,2026-08-16,2026-08-23,2,5,de
+T095,Breaking In,Films,JP,2026-08-23,2026-08-23,1,9,ja
+T096,Dragon Wars,Films,DE,2026-08-09,2026-08-16,2,5,de
+T096,Dragon Wars,Films,IT,2026-08-09,2026-08-09,1,8,it
+T097,Margaux,Films,DE,2026-09-13,2026-09-20,2,6,de
+T097,Margaux,Films,KR,2026-09-20,2026-09-20,1,5,ko
+T098,Max,Films,JP,2026-08-02,2026-08-09,2,5,ja
+T098,Max,Films,KR,2026-08-09,2026-08-09,1,6,ko
+T099,War Machine,Films,DE,2026-08-02,2026-08-09,2,5,de
+T099,War Machine,Films,FR,2026-08-02,2026-08-02,1,10,fr
+T100,Companion,Films,BR,2026-07-26,2026-07-26,1,6,pt
+T100,Companion,Films,DE,2026-08-30,2026-09-06,2,6,de
+T101,Another Self,TV,BR,2026-07-05,2026-07-05,1,10,pt
+T101,Another Self,TV,FR,2026-07-05,2026-07-12,2,7,fr
+T102,Monster-in-Law,Films,FR,2026-09-13,2026-09-13,1,7,fr
+T102,Monster-in-Law,Films,IT,2026-09-13,2026-09-20,2,8,it
+T103,The Contractor,Films,FR,2026-07-05,2026-07-05,1,4,fr
+T103,The Contractor,Films,IT,2026-07-05,2026-07-05,1,6,it
+T104,Angel Eyes,Films,FR,2026-07-05,2026-07-05,1,5,fr
+T104,Angel Eyes,Films,IT,2026-07-05,2026-07-05,1,7,it
+T105,Edge of Tomorrow,Films,IT,2026-08-16,2026-08-16,1,5,it
+T105,Edge of Tomorrow,Films,KR,2026-08-16,2026-08-16,1,7,ko
+T106,Daddy’s in Trouble,Films,FR,2026-08-23,2026-08-23,1,9,fr
+T106,Daddy’s in Trouble,Films,IT,2026-08-23,2026-08-23,1,6,it
+T107,Wifelike,Films,DE,2026-08-30,2026-08-30,1,10,de
+T107,Wifelike,Films,FR,2026-09-06,2026-09-06,1,6,fr
+T108,Anaconda 3: Offspring,Films,JP,2026-09-13,2026-09-13,1,8,ja
+T108,Anaconda 3: Offspring,Films,KR,2026-09-13,2026-09-13,1,7,ko
+T109,Night at the Museum,Films,FR,2026-07-05,2026-07-05,1,7,fr
+T109,Night at the Museum,Films,IT,2026-07-05,2026-07-05,1,10,it
+T110,Into the Blue,Films,JP,2026-07-05,2026-07-05,1,8,ja
+T110,Into the Blue,Films,KR,2026-07-05,2026-07-05,1,10,ko
+T111,The Town,Films,FR,2026-07-19,2026-07-19,1,8,fr
+T111,The Town,Films,IT,2026-07-19,2026-07-19,1,10,it
+T112,Operation Safed Sagar: The Highest Air Force Mission,TV,BR,2026-08-16,2026-08-16,1,9,pt
+T112,Operation Safed Sagar: The Highest Air Force Mission,TV,FR,2026-08-16,2026-08-16,1,9,fr
+T113,Best of the Best,Films,FR,2026-09-20,2026-09-20,1,10,fr
+T113,Best of the Best,Films,IT,2026-09-20,2026-09-20,1,10,it
+T114,Until the T-shirt Dries,TV,JP,2026-07-12,2026-09-20,11,1,ja
+T115,Vivant,TV,JP,2026-07-05,2026-09-20,11,2,ja
+T116,The Mentalist,TV,BR,2026-07-19,2026-09-20,10,5,pt
+T117,Mushoku Tensei: Jobless Reincarnation,TV,JP,2026-07-12,2026-09-13,9,2,ja
+T118,GATE24:The Border,TV,JP,2026-07-26,2026-09-20,9,3,ja
+T119,My Name Is Farah,TV,BR,2026-08-02,2026-09-20,8,1,pt
+T120,Demon Slayer: Kimetsu no Yaiba Infinity Castle I,Films,KR,2026-08-02,2026-09-20,7,1,ko
+T121,I am Solo,TV,KR,2026-08-09,2026-09-20,7,1,ko
+T122,SUZUKI=BAKUDAN,Films,JP,2026-07-05,2026-08-23,7,2,ja
+T123,The Apartment Job,TV,KR,2026-07-12,2026-08-23,7,3,ko
+T124,"I'm SOLO, Love goes on",TV,KR,2026-08-16,2026-09-20,6,5,ko
+T125,Crayon Shinchan the Movie: Super Hot! The Spicy Kasukabe Dancers,Films,JP,2026-08-02,2026-08-30,5,1,ja
+T126,Kaulitz & Kaulitz,TV,DE,2026-07-26,2026-08-23,5,1,de
+T127,Wild Sing,Films,KR,2026-08-02,2026-08-30,5,1,ko
+T128,Buen Camino,Films,IT,2026-08-02,2026-08-30,5,7,it
+T129,Swapped,Films,BR,2026-07-05,2026-08-09,5,8,pt
+T130,Shelter,Films,KR,2026-08-30,2026-09-20,4,1,ko
+T131,Better Late Than Single,TV,KR,2026-07-12,2026-08-02,4,2,ko
+T132,"Four Hands, Two Sonatas",TV,KR,2026-08-30,2026-09-20,4,2,ko
+T133,Your Honor,TV,KR,2026-08-23,2026-09-13,4,2,ko
+T134,Choir of God: Anthem,Films,KR,2026-08-30,2026-09-20,4,3,ko
+T135,Regretting You,Films,DE,2026-08-30,2026-09-20,4,3,de
+T136,The Rookie,TV,DE,2026-07-12,2026-08-02,4,3,de
+T137,Match to Marry: With Parents,TV,KR,2026-07-05,2026-07-26,4,4,ko
+T138,My Secretary,TV,KR,2026-08-30,2026-09-20,4,4,ko
+T139,Shrek,Films,BR,2026-08-30,2026-09-20,4,5,pt
+T140,Take a Hike!,TV,KR,2026-08-23,2026-09-13,4,5,ko
+T141,25 Years of You,TV,JP,2026-07-19,2026-09-20,4,6,ja
+T142,Dangerous Animals,Films,DE,2026-07-12,2026-07-26,3,1,de
+T143,Kingdom: Return of The Great General,Films,JP,2026-07-19,2026-08-02,3,1,ja
+T144,Last Mile,Films,JP,2026-08-30,2026-09-13,3,1,ja
+T145,Rhythm + Flow France,TV,FR,2026-08-30,2026-09-13,3,1,fr
+T146,Sai: Disaster,Films,JP,2026-08-23,2026-09-06,3,1,ja
+T147,Strawberry Moon,Films,JP,2026-09-06,2026-09-20,3,1,ja
+T148,The Convenience Store,Films,JP,2026-07-26,2026-08-09,3,1,ja
+T149,GTO (2026),TV,JP,2026-07-26,2026-08-09,3,2,ja
+T150,Hallan,Films,KR,2026-07-05,2026-07-19,3,2,ko
+T151,Les Condés,Films,FR,2026-07-05,2026-07-19,3,2,fr
+T152,Lobby,Films,KR,2026-07-12,2026-07-26,3,2,ko
+T153,13 Minutes,Films,BR,2026-08-30,2026-09-13,3,3,pt
+T154,Charlie and the Chocolate Factory,Films,BR,2026-08-09,2026-08-23,3,3,pt
+T155,S&X,TV,JP,2026-08-23,2026-09-06,3,3,ja
+T156,Sai,TV,JP,2026-08-23,2026-09-06,3,3,ja
+T157,Stella gemella,Films,IT,2026-08-30,2026-09-13,3,3,it
+T158,Dune: Part Two,Films,DE,2026-09-06,2026-09-20,3,4,de
+T159,Kingdom2: Far and Away,Films,JP,2026-07-12,2026-07-26,3,4,ja
+T160,Mom Knows Best?,TV,BR,2026-08-30,2026-09-13,3,4,pt
+T161,People and Meat,Films,KR,2026-07-12,2026-07-26,3,4,ko
+T162,Murder in a Small Town,TV,DE,2026-08-09,2026-08-23,3,5,de
+T163,The Psychopath I Met,TV,KR,2026-07-19,2026-08-02,3,5,ko
+T164,Bobo Dormouse,TV,DE,2026-07-05,2026-07-19,3,7,de
+T165,Though I Am an Inept Villainess,TV,JP,2026-08-30,2026-09-20,3,9,ja
+T166,Call My Agent! The Movie,Films,FR,2026-09-13,2026-09-20,2,1,fr
+T167,Golden Kamuy -The Abashiri Prison Raid-,Films,JP,2026-09-13,2026-09-20,2,1,ja
+T168,The Doorman,Films,BR,2026-07-05,2026-07-12,2,1,pt
+T169,The Unrighteous,Films,KR,2026-07-12,2026-07-19,2,1,ko
+T170,The Wave,Films,BR,2026-08-23,2026-08-30,2,1,pt
+T171,True Beauty: The Movie Part 1,Films,JP,2026-07-12,2026-07-19,2,1,ja
+T172,Infinite,Films,DE,2026-07-05,2026-07-12,2,2,de
+T173,Killing for the Prosecution,Films,JP,2026-09-13,2026-09-20,2,2,ja
+T174,Kissing Is the Easy Part,Films,BR,2026-09-13,2026-09-20,2,2,pt
+T175,Paradise City,Films,BR,2026-07-05,2026-07-12,2,2,pt
+T176,Paulette,Films,FR,2026-08-02,2026-08-09,2,2,fr
+T177,Rheingold,Films,DE,2026-09-13,2026-09-20,2,2,de
+T178,Rhythm + Flow Italy,TV,IT,2026-07-05,2026-07-12,2,2,it
+T179,Serial Driver,Films,FR,2026-08-23,2026-08-30,2,2,fr
+T180,Summer ’36,TV,IT,2026-07-12,2026-07-19,2,2,it
+T181,The Retirement Plan,Films,FR,2026-07-19,2026-07-26,2,2,fr
+T182,True Beauty: The Movie Part 2,Films,JP,2026-07-12,2026-07-19,2,2,ja
+T183,Vanishing Point,Films,KR,2026-09-13,2026-09-20,2,2,ko
+T184,Admiral Yamamoto,Films,JP,2026-07-05,2026-07-12,2,3,ja
+T185,Black Adam,Films,DE,2026-08-16,2026-08-23,2,3,de
+T186,Doctor-X the Movie,Films,JP,2026-08-09,2026-08-16,2,3,ja
+T187,Fujiko,Films,JP,2026-09-13,2026-09-20,2,3,ja
+T188,How to Train Your Dragon,Films,FR,2026-09-13,2026-09-20,2,3,fr
+T189,Succede Anche Nelle Migliori Famiglie,Films,IT,2026-07-05,2026-07-12,2,3,it
+T190,Take Shelter,Films,BR,2026-08-02,2026-08-09,2,3,pt
+T191,The Equalizer 3,Films,FR,2026-09-06,2026-09-13,2,3,fr
+T192,Troy,Films,KR,2026-09-13,2026-09-20,2,3,ko
+T193,Anpanman: Chapon's Hero!,Films,JP,2026-08-23,2026-08-30,2,4,ja
+T194,Fast Charlie,Films,BR,2026-08-02,2026-08-09,2,4,pt
+T195,Il Bene Comune,Films,IT,2026-07-12,2026-07-19,2,4,it
+T196,L'Amore sta bene su tutto,Films,IT,2026-08-30,2026-09-06,2,4,it
+T197,Practical Magic,Films,IT,2026-09-13,2026-09-20,2,4,it
+T198,23 000 Lives,Films,BR,2026-07-19,2026-07-26,2,5,pt
+T199,Better Late Than Single: After Service,TV,KR,2026-08-02,2026-08-09,2,5,ko
+T200,Hindsight,Films,KR,2026-08-02,2026-08-09,2,5,ko
+T201,It Comes,Films,JP,2026-08-30,2026-09-06,2,5,ja
+T202,Kingdom 3: The Flame of Destiny,Films,JP,2026-07-19,2026-07-26,2,5,ja
+T203,Natacha (presque) hôtesse de l’air,Films,FR,2026-07-05,2026-07-12,2,5,fr
+T204,Say Cheese,Films,FR,2026-08-09,2026-08-16,2,5,fr
+T205,The Favor,Films,KR,2026-07-05,2026-07-12,2,5,ko
+T206,The Morning After,Films,FR,2026-08-23,2026-08-30,2,5,fr
+T207,Elize Matsunaga: Once Upon a Crime,TV,BR,2026-08-02,2026-08-09,2,6,pt
+T208,Manitou's Canoe,Films,DE,2026-07-05,2026-07-12,2,6,de
+T209,Run Rabbit Run,Films,BR,2026-09-06,2026-09-13,2,6,pt
+T210,Shrek 2,Films,BR,2026-09-06,2026-09-20,2,6,pt
+T211,The Cleaning Lady,TV,IT,2026-09-06,2026-09-13,2,6,it
+T212,The Uninvited,Films,DE,2026-08-02,2026-08-09,2,6,de
+T213,Agent Kim Reactivated – the Universe,TV,KR,2026-08-02,2026-08-09,2,7,ko
+T214,Bee Movie,Films,BR,2026-09-13,2026-09-20,2,7,pt
+T215,Ghost Ship,Films,DE,2026-07-05,2026-07-12,2,7,de
+T216,Killer Elite,Films,BR,2026-07-12,2026-07-19,2,7,pt
+T217,Mercy For None,TV,KR,2026-07-05,2026-07-12,2,7,ko
+T218,TESTO,TV,DE,2026-07-05,2026-07-12,2,7,de
+T219,Take Cover,Films,BR,2026-07-05,2026-07-12,2,7,pt
+T220,That Time I Got Reincarnated as a Slime,TV,JP,2026-07-05,2026-07-12,2,7,ja
+T221,The Noisy Mansion,Films,KR,2026-07-12,2026-07-19,2,7,ko
+T222,Till We Meet Again on the Lily Hill,Films,JP,2026-08-16,2026-08-23,2,7,ja
+T223,Venom: The Last Dance,Films,IT,2026-07-19,2026-07-26,2,7,it
+T224,"High Valley, Top Hero",TV,KR,2026-07-05,2026-07-12,2,8,ko
+T225,The Auditors,TV,KR,2026-08-16,2026-08-23,2,8,ko
+T226,Oh My Goodness!,Films,FR,2026-08-23,2026-08-30,2,9,fr
+T227,Roofman,Films,KR,2026-08-02,2026-08-09,2,9,ko
+T228,Seven,Films,FR,2026-07-05,2026-07-12,2,9,fr
+T229,The Net,Films,IT,2026-07-05,2026-07-12,2,9,it
+T230,Lottie Dottie Chicken,TV,BR,2026-08-16,2026-09-06,2,10,pt
+T231,Kaede: Our Echoing Stars,Films,JP,2026-07-05,2026-07-05,1,1,ja
+T232,Nocturnal Animals,Films,DE,2026-09-20,2026-09-20,1,1,de
+T233,Plastic Beauty,TV,JP,2026-09-20,2026-09-20,1,1,ja
+T234,Riot,Films,BR,2026-09-20,2026-09-20,1,1,pt
+T235,The Scandal,TV,KR,2026-09-20,2026-09-20,1,1,ko
+T236,The Warriors,Films,KR,2026-09-20,2026-09-20,1,1,ko
+T237,Black Bag,Films,KR,2026-09-20,2026-09-20,1,2,ko
+T238,Ichi the Killer 4K,Films,JP,2026-09-20,2026-09-20,1,2,ja
+T239,Peleliu: Guernica of Paradise,Films,JP,2026-07-26,2026-07-26,1,2,ja
+T240,Petals and Memories,Films,JP,2026-08-23,2026-08-23,1,2,ja
+T241,Rust Creek,Films,BR,2026-07-12,2026-07-12,1,2,pt
+T242,The Snow Must Go On,Films,FR,2026-08-16,2026-08-16,1,2,fr
+T243,Wunderschöner,Films,DE,2026-09-20,2026-09-20,1,2,de
+T244,A Case,TV,JP,2026-09-20,2026-09-20,1,3,ja
+T245,Momo,Films,DE,2026-08-09,2026-08-09,1,3,de
+T246,The Hustle,Films,JP,2026-07-12,2026-07-12,1,3,ja
+T247,Turbulence,Films,FR,2026-08-09,2026-08-09,1,3,fr
+T248,22 Bahnen,Films,DE,2026-07-12,2026-07-12,1,4,de
+T249,A Lot Like Paris,Films,IT,2026-07-26,2026-07-26,1,4,it
+T250,A Minecraft Movie,Films,BR,2026-09-20,2026-09-20,1,4,pt
+T251,Blue Beetle,Films,FR,2026-08-23,2026-08-23,1,4,fr
+T252,"Eat, Sleep, then Wait for Happiness",TV,JP,2026-09-06,2026-09-06,1,4,ja
+T253,Einfach Mal Was Schönes,Films,DE,2026-09-20,2026-09-20,1,4,de
+T254,Gran Turismo: Based on a True Story,Films,FR,2026-08-16,2026-08-16,1,4,fr
+T255,Journey 2: The Mysterious Island,Films,IT,2026-07-19,2026-07-19,1,4,it
+T256,Joy Ride,Films,BR,2026-07-19,2026-07-19,1,4,pt
+T257,Juror #2,Films,DE,2026-08-09,2026-08-09,1,4,de
+T258,Mukoubuchi RAW: The Legend of High-Stakes Underground Mahjong Vol.1 – The Graduation,Films,JP,2026-09-06,2026-09-06,1,4,ja
+T259,On Summer Sand,Films,JP,2026-08-09,2026-08-09,1,4,ja
+T260,Quarantine 2: Terminal,Films,KR,2026-07-26,2026-07-26,1,4,ko
+T261,Rapide,Films,FR,2026-07-26,2026-07-26,1,4,fr
+T262,Rescapé : La série,TV,FR,2026-09-20,2026-09-20,1,4,fr
+T263,Retribution,Films,BR,2026-07-05,2026-07-05,1,4,pt
+T264,Ricomincio da TAAAC,Films,IT,2026-08-09,2026-08-09,1,4,it
+T265,The Breadwinner,Films,DE,2026-09-13,2026-09-13,1,4,de
+T266,Audrey,Films,KR,2026-07-05,2026-07-05,1,5,ko
+T267,Barbie,Films,FR,2026-07-26,2026-07-26,1,5,fr
+T268,Blood and Bone,Films,IT,2026-07-12,2026-07-12,1,5,it
+T269,Bride Hard,Films,DE,2026-07-05,2026-07-05,1,5,de
+T270,Drop,Films,FR,2026-08-02,2026-08-02,1,5,fr
+T271,Hero Without a Class: Who Even Needs Skills?!,TV,JP,2026-08-02,2026-08-02,1,5,ja
+T272,K-Shaman: True Horror Stories,TV,KR,2026-09-20,2026-09-20,1,5,ko
+T273,"One Second Ahead, One Second Behind",Films,JP,2026-09-13,2026-09-13,1,5,ja
+T274,Someone Like You,Films,IT,2026-08-02,2026-08-02,1,5,it
+T275,Teasing Master Takagi-san Movie,Films,JP,2026-07-05,2026-07-05,1,5,ja
+T276,The Boy Who Cried Wolf,Films,FR,2026-09-06,2026-09-06,1,5,fr
+T277,The Nun II,Films,FR,2026-09-20,2026-09-20,1,5,fr
+T278,The Queen's Classroom,TV,JP,2026-07-05,2026-07-05,1,5,ja
+T279,You Can't Expense This!,TV,JP,2026-07-26,2026-07-26,1,5,ja
+T280,Ballerina,Films,BR,2026-07-05,2026-07-05,1,6,pt
+T281,F9: The Fast Saga,Films,DE,2026-07-12,2026-07-12,1,6,de
+T282,Kim Ji-Young: Born 1982,Films,JP,2026-08-16,2026-08-16,1,6,ja
+T283,Love Hurts,Films,FR,2026-08-23,2026-08-23,1,6,fr
+T284,Mickey 17,Films,BR,2026-08-30,2026-08-30,1,6,pt
+T285,Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe,Films,KR,2026-09-06,2026-09-06,1,6,ko
+T286,My Summer in Provence,Films,FR,2026-08-30,2026-08-30,1,6,fr
+T287,Race for Glory: Audi vs. Lancia,Films,IT,2026-09-20,2026-09-20,1,6,it
+T288,Speak No Evil,Films,JP,2026-07-26,2026-07-26,1,6,ja
+T289,The 35-Year Promise,Films,JP,2026-07-12,2026-07-12,1,6,ja
+T290,The Accountant,Films,KR,2026-07-19,2026-07-19,1,6,ko
+T291,The Faithful,TV,BR,2026-07-12,2026-07-12,1,6,pt
+T292,"The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",TV,JP,2026-08-16,2026-08-16,1,6,ja
+T293,The Woman in the Yard,Films,FR,2026-07-12,2026-07-12,1,6,fr
+T294,Toni,Films,FR,2026-09-13,2026-09-13,1,6,fr
+T295,What’s With This Granny!?,Films,FR,2026-07-19,2026-07-19,1,6,fr
+T296,A Cinderella Story,Films,BR,2026-08-23,2026-08-23,1,7,pt
+T297,Blank Canvas: My So-Called Artist's Journey,Films,JP,2026-07-05,2026-07-05,1,7,ja
+T298,Colombiana,Films,FR,2026-08-30,2026-08-30,1,7,fr
+T299,Fear,Films,BR,2026-08-02,2026-08-02,1,7,pt
+T300,Homecam,Films,KR,2026-07-05,2026-07-05,1,7,ko
+T301,Journey to the Center of the Earth,Films,FR,2026-07-12,2026-07-12,1,7,fr
+T302,Monsters vs. Aliens,Films,BR,2026-07-26,2026-07-26,1,7,pt
+T303,My Royal Nemesis,TV,KR,2026-07-05,2026-07-05,1,7,ko
+T304,No Other Choice Extended Edition,Films,KR,2026-08-30,2026-08-30,1,7,ko
+T305,Purehearted,Films,JP,2026-08-09,2026-08-09,1,7,ja
+T306,The Heat,Films,IT,2026-08-30,2026-08-30,1,7,it
+T307,The Magnificent Seven,Films,KR,2026-09-06,2026-09-06,1,7,ko
+T308,The Wolf and the Lion,Films,FR,2026-08-16,2026-08-16,1,7,fr
+T309,Whenever Possible,TV,KR,2026-08-16,2026-08-16,1,7,ko
+T310,Christmas Carol,Films,KR,2026-08-16,2026-08-16,1,8,ko
+T311,Dancing On,Films,FR,2026-08-09,2026-08-09,1,8,fr
+T312,Evil Dead Rise,Films,DE,2026-08-09,2026-08-09,1,8,de
+T313,Here the Whole Time,Films,BR,2026-08-23,2026-08-23,1,8,pt
+T314,Horror Express,Films,KR,2026-07-05,2026-07-05,1,8,ko
+T315,Instadocs: The Decoy Plane,TV,DE,2026-09-13,2026-09-13,1,8,de
+T316,Lavoreremo da Grandi,Films,IT,2026-07-05,2026-07-05,1,8,it
+T317,Lovesick,TV,FR,2026-09-13,2026-09-13,1,8,fr
+T318,Milky☆Subway: The Galactic Limited Express – the Movie,Films,JP,2026-09-20,2026-09-20,1,8,ja
+T319,Missing Child Videotape,Films,JP,2026-07-12,2026-07-12,1,8,ja
+T320,Nozaki Shuhei Auditor of Bank,TV,JP,2026-09-13,2026-09-13,1,8,ja
+T321,One Way Trip,Films,KR,2026-09-20,2026-09-20,1,8,ko
+T322,Rookie Kim’s Stock Market Mission,TV,KR,2026-08-09,2026-08-09,1,8,ko
+T323,Siberia,Films,BR,2026-07-05,2026-07-05,1,8,pt
+T324,Silent Night,Films,JP,2026-08-09,2026-08-09,1,8,ja
+T325,Sparks of Tomorrow,TV,JP,2026-07-12,2026-07-12,1,8,ja
+T326,THE RIBBON HERO,Films,JP,2026-08-16,2026-08-16,1,8,ja
+T327,The Hawk,TV,DE,2026-07-26,2026-07-26,1,8,de
+T328,Undertone,Films,DE,2026-07-19,2026-07-19,1,8,de
+T329,Viral Hit,TV,JP,2026-07-05,2026-07-05,1,8,ja
+T330,You and I Are Polar Opposites,TV,JP,2026-07-19,2026-07-19,1,8,ja
+T331,A Child of My Own,Films,DE,2026-08-16,2026-08-16,1,9,de
+T332,A Fading Summer,TV,JP,2026-08-16,2026-08-16,1,9,ja
+T333,Adriano the Emperor,TV,BR,2026-09-13,2026-09-13,1,9,pt
+T334,Aline,Films,FR,2026-09-20,2026-09-20,1,9,fr
+T335,Black Trick: The Lawyer Who Controls Justice,TV,JP,2026-07-26,2026-07-26,1,9,ja
+T336,Blade of the Immortal,Films,JP,2026-08-09,2026-08-09,1,9,ja
+T337,Collateral Damage,Films,BR,2026-08-23,2026-08-23,1,9,pt
+T338,Cradle 2 the Grave,Films,KR,2026-08-23,2026-08-23,1,9,ko
+T339,Dog 51,Films,DE,2026-07-05,2026-07-05,1,9,de
+T340,Dune,Films,DE,2026-09-13,2026-09-13,1,9,de
+T341,Franco Battiato: The Long Journey,Films,IT,2026-09-20,2026-09-20,1,9,it
+T342,Freefall: A Reckoning for Boeing,Films,DE,2026-08-23,2026-08-23,1,9,de
+T343,I Became a Legend After My 10 Year-Long Last Stand,TV,JP,2026-07-19,2026-07-19,1,9,ja
+T344,Jin-Roh: The Wolf Brigade,Films,JP,2026-09-20,2026-09-20,1,9,ja
+T345,Labor Day,Films,FR,2026-09-06,2026-09-06,1,9,fr
+T346,Love Is Blind: UK,TV,DE,2026-08-30,2026-08-30,1,9,de
+T347,Mukoubuchi RAW: The Legend of High-Stakes Underground Mahjong Vol.3 - Narikin,Films,JP,2026-09-06,2026-09-06,1,9,ja
+T348,My Family,TV,IT,2026-07-05,2026-07-05,1,9,it
+T349,My Love Story with Yamada-kun at Lv999,Films,JP,2026-07-19,2026-07-19,1,9,ja
+T350,Nozaki Shuhei President of Bank,TV,JP,2026-09-20,2026-09-20,1,9,ja
+T351,Presidents,Films,FR,2026-07-12,2026-07-12,1,9,fr
+T352,Run to the West,Films,KR,2026-07-05,2026-07-05,1,9,ko
+T353,She's Out of My League,Films,IT,2026-08-09,2026-08-09,1,9,it
+T354,Shrek Forever After,Films,BR,2026-09-06,2026-09-06,1,9,pt
+T355,The Blind Side,Films,KR,2026-09-13,2026-09-13,1,9,ko
+T356,The Haunted Palace,TV,JP,2026-07-05,2026-07-05,1,9,ja
+T357,What’s So Great About Being 90 Years Old?,Films,JP,2026-07-26,2026-07-26,1,9,ja
+T358,Wolf Man,Films,KR,2026-09-06,2026-09-06,1,9,ko
+T359,Zaininnouso (TBD),TV,JP,2026-07-12,2026-07-12,1,9,ja
+T360,2012,Films,JP,2026-09-06,2026-09-06,1,10,ja
+T361,A Company Man,Films,KR,2026-07-12,2026-07-12,1,10,ko
+T362,Barbie in The Nutcracker,Films,BR,2026-09-20,2026-09-20,1,10,pt
+T363,Bastarden,Films,DE,2026-08-23,2026-08-23,1,10,de
+T364,Bayside Shakedown 4: The Final,Films,JP,2026-09-20,2026-09-20,1,10,ja
+T365,KPop Demon Hunters,Films,FR,2026-07-05,2026-07-05,1,10,fr
+T366,Kingdom,Films,JP,2026-07-19,2026-07-19,1,10,ja
+T367,My AI Partner - Strange Love,TV,KR,2026-08-23,2026-08-23,1,10,ko
+T368,Mystic River,Films,KR,2026-07-26,2026-07-26,1,10,ko
+T369,Resident Alien,TV,DE,2026-09-06,2026-09-06,1,10,de
+T370,Something's Gotta Give,Films,IT,2026-08-09,2026-08-09,1,10,it
+T371,Suicide Squad,Films,KR,2026-08-23,2026-08-23,1,10,ko
+T372,The Exiled Heavy Knight Knows How To Game the System,TV,JP,2026-07-19,2026-07-19,1,10,ja
+T373,The Invasion,Films,DE,2026-07-05,2026-07-05,1,10,de
+T374,The Ramparts of Ice,TV,JP,2026-07-05,2026-07-05,1,10,ja
+T375,The Wicker Man,Films,JP,2026-07-05,2026-07-05,1,10,ja
+T376,WWE SummerSlam,TV,IT,2026-08-09,2026-08-09,1,10,it
+T377,Wicked,Films,BR,2026-08-23,2026-08-23,1,10,pt
+T378,Zanmang Loopy’s Mukbang,TV,KR,2026-07-05,2026-07-05,1,10,ko

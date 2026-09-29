@@ -39,11 +39,14 @@ MARKETS: dict[str, str] = {
 # Number of most recent complete Netflix weeks to analyse.
 WINDOW_WEEKS = 12
 
-# A title must chart in at least this many of the six markets to be eligible.
-MIN_MARKETS = 3
+# Title universe: every title that appears in a market's Top 10 during the
+# window is analysed for that market. There is no title cap and no minimum
+# number of markets. A title-market pair exists only where the title charted.
 
-# Hard cap on the number of titles carried through the pipeline.
-MAX_TITLES = 20
+# Market-weeks with fewer mapped titles than this are too small for a
+# per-week Spearman correlation; Phase 3 falls back to pooled within-market
+# agreement for them.
+MIN_N_PER_WEEK = 4
 
 # Days of pageviews to pull before the first Netflix week in the window.
 # The timing metric needs this lead-in because attention can peak before
@@ -80,7 +83,9 @@ LOGS = ROOT / "data" / "logs"
 
 NETFLIX_RAW_TSV = RAW / "netflix_all_weeks_countries.tsv"
 NETFLIX_6MKTS_CSV = PROCESSED / "netflix_top10_6mkts.csv"
-SELECTED_TITLES_CSV = PROCESSED / "selected_titles.csv"
+TITLES_CSV = PROCESSED / "titles.csv"                  # one row per title
+TITLE_MARKETS_CSV = PROCESSED / "title_markets.csv"    # one row per title-market pair that charted
+WIKIDATA_CACHE_JSON = RAW / "wikidata_candidates.json" # compact Wikidata answers, per title
 TITLE_ARTICLE_MAP_CSV = PROCESSED / "title_article_map.csv"
 PAGEVIEWS_RAW_DIR = RAW / "pageviews"
 PAGEVIEWS_DAILY_CSV = PROCESSED / "pageviews_daily.csv"

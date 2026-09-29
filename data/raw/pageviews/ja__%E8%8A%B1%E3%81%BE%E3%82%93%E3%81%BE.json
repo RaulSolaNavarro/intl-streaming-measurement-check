@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 80
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 123
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 80
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 76
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 94
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 73
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 80
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 56
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 96
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 326
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 328
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 316
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 135
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 101
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 82
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 123
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 99
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 41
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 91
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 91
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 59
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 63
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 74
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 95
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 46
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 63
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 64
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 71
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 100
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 99
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 56
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 131
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 175
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 623
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 807
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 579
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 448
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 505
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 423
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 428
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 495
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 365
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 234
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 187
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 234
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 193
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 172
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 224
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 174
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 133
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 149
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 126
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 135
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 154
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 117
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 116
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 138
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 108
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "花まんま",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 123
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

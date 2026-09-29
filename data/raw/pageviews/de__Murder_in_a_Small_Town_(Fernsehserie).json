@@ -1,0 +1,666 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 61
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 59
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 92
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 41
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 61
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 248
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 230
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 189
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 180
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 159
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 113
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 152
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 186
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 135
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 143
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 110
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 253
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 216
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7011
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7769
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4850
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4946
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4664
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4290
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3918
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4068
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5034
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3608
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3103
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2427
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2482
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2403
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2988
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3640
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3092
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2757
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2458
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2046
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2004
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1788
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2275
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1522
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1441
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1160
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1066
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1000
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1079
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1457
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1194
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1075
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1047
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 828
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 859
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 939
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 981
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 727
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 732
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 745
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 651
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 750
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 842
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1298
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 843
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 832
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 802
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 743
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 692
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 928
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Murder_in_a_Small_Town_(Fernsehserie)",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1101
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

@@ -15,16 +15,18 @@ This project supports my application for an Analytics Manager role in internatio
 ## Scope (hard limits)
 
 - **Markets and language editions:** Germany (de), France (fr), Japan (ja), Brazil (pt), Italy (it), South Korea (ko).
-- **Titles:** At most 20, chosen from titles that charted in at least 3 of the 6 markets.
+- **Titles:** For each market, every title in that market's Top 10 (Films and TV) across the window. No title cap and no minimum number of markets. A title-market pair exists only where the title charted in that market. TV seasons roll up to the show.
 - **Window:** The most recent 12 complete Netflix weeks.
+- **Title mapping order:** If a Wikidata item has a Netflix ID (P1874) and its label or alias matches the Netflix title, accept it directly. Only when no candidate has a Netflix ID, fall back to exact English label plus a type allowlist, with dates used only to break ties.
 - If a title does not map cleanly to a language edition, drop that title-market pair and log it. Do not spend time forcing matches.
+- **Reporting:** Report the mapping rate per market (titles charted vs. titles with an article in that language) and n per market-week, split by Films and TV.
 
 ## Default metric definitions
 
 Propose changes in plan mode if these don't hold up against the real data.
 
 - Aggregate daily pageviews to Netflix's weekly periods.
-- **Agreement:** Spearman rank correlation per market-week, comparing Netflix rank against pageview rank among the titles charting that week.
+- **Agreement:** Spearman rank correlation per market-week, comparing Netflix rank against pageview rank among the titles charting that week. For any market-week with n under 4 mapped titles, fall back to pooled within-market agreement (ranks computed within each week, pooled across weeks) and report n.
 - **Discrepancy flag:** a title-market-week where the two ranks differ by 5 or more positions.
 - **Timing:** days between a title's pageview peak and its first Netflix chart week, by market.
 

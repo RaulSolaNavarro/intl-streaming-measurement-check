@@ -4,8 +4,10 @@ Step 04: pull daily Wikipedia pageviews for every mapped title-market pair.
 Input:  data/processed/title_article_map.csv
         data/processed/netflix_top10_6mkts.csv (to find the date range)
 Output: data/raw/pageviews/<lang>__<article>.json  (raw API responses, cached)
-        data/processed/pageviews_daily.csv         (title_id, show_title, qid, market,
-                                                     lang, article, date, views)
+        data/processed/pageviews_daily.csv         (title_id, show_title, category, qid,
+                                                     market, lang, article, date, views)
+
+Only charted title-market pairs with an article are pulled (see step 03).
 
 API: Wikimedia REST pageviews, per-article, agent type `user` (humans, not
 bots or crawlers), access `all-access` (desktop plus mobile web plus app).
@@ -87,6 +89,15 @@ def main() -> None:
     print(f"Pulling {len(pairs)} title-market pairs, {start:%Y-%m-%d} to {end:%Y-%m-%d} "
           f"({len(all_days)} days)")
 
+    # Remove cached responses for articles no longer in the pair list, so the
+    # committed raw folder matches exactly what the processed table uses.
+    wanted = {cache_path(p.lang, p.article) for p in pairs.itertuples(index=False)}
+    stale = [f for f in config.PAGEVIEWS_RAW_DIR.glob("*.json") if f not in wanted]
+    for f in stale:
+        f.unlink()
+    if stale:
+        print(f"Removed {len(stale)} stale cache files")
+
     frames = []
     for p in pairs.itertuples(index=False):
         data = fetch(p.lang, p.article, start, end, args.refresh)
@@ -94,12 +105,13 @@ def main() -> None:
         # Reindex onto the full calendar so missing days become explicit zeros.
         s = pd.Series(views, dtype="int64").reindex(all_days, fill_value=0)
         frames.append(pd.DataFrame({
-            "title_id": p.title_id, "show_title": p.show_title, "qid": p.qid,
+            "title_id": p.title_id, "show_title": p.show_title, "category": p.category,
+            "qid": p.qid,
             "market": p.market, "lang": p.lang, "article": p.article,
             "date": all_days.date, "views": s.values,
         }))
-        status = "no data (404)" if data["_status"] == 404 else f"{int(s.sum()):,} views"
-        print(f"  {p.title_id} {p.market} {p.lang}:{p.article}: {status}")
+        if data["_status"] == 404:
+            print(f"  {p.title_id} {p.market} {p.lang}:{p.article}: no data (404)")
 
     out = pd.concat(frames, ignore_index=True)
     out.to_csv(config.PAGEVIEWS_DAILY_CSV, index=False)

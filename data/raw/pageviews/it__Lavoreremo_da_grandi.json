@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 180
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 243
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 143
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 150
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 136
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 130
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 161
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 112
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 115
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 141
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 125
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 139
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 157
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 97
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 126
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 106
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 130
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 135
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 157
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 179
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3028
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2853
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2307
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3345
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3271
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2144
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1725
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1217
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 897
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 832
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 875
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 788
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 517
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 630
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 666
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 435
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 414
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 718
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 865
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 575
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 382
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 333
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 459
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 615
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 715
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 513
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 455
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 571
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 435
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 465
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 392
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 633
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 680
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 446
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 384
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 380
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 371
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 369
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 453
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 571
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 392
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 345
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 275
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 291
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 314
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 392
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 552
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 313
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 270
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 269
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 273
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 247
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 296
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 508
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 381
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 379
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 323
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 457
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 438
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 372
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 402
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 298
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 337
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 275
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 317
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 309
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 276
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 321
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 225
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 168
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 145
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 178
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 188
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 222
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 238
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 141
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 164
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 191
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 141
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 144
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 161
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 164
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 128
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 120
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 114
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 145
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 211
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Lavoreremo_da_grandi",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 192
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

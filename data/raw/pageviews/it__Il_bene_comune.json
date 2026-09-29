@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 73
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 106
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 108
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 91
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 127
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 150
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 328
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 271
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 227
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 140
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 154
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 216
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 155
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 192
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 246
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 207
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 154
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 161
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 175
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 162
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 240
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 224
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 219
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 186
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1636
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2419
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2452
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2826
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3448
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2593
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1446
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1161
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1503
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1421
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1347
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1027
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1045
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 977
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 820
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 846
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 714
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 935
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1217
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 804
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 727
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 596
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 614
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 517
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 694
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 982
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 636
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 608
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 644
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 640
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 490
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 735
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 744
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 570
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 608
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 451
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 472
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 524
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 732
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 701
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 644
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 674
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 550
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 491
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 551
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 646
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 540
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 398
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 447
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 495
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 449
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 376
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 448
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 493
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 329
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 259
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 244
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 304
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 257
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 374
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 318
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 244
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 190
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 239
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 284
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 188
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 254
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 280
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 264
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 215
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 184
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 145
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 186
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 259
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Il_bene_comune",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 221
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

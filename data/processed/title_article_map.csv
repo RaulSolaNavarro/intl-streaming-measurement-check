@@ -1,46 +1,261 @@
-title_id,show_title,category,qid,market,lang,article
-T01,Agent Kim Reactivated,TV,Q139553270,DE,de,Agent Kim Reactivated
-T01,Agent Kim Reactivated,TV,Q139553270,FR,fr,Agent Kim Reactivated
-T01,Agent Kim Reactivated,TV,Q139553270,IT,it,Agent Kim Reactivated
-T01,Agent Kim Reactivated,TV,Q139553270,KR,ko,김부장
-T02,The Last House,Films,Q129165193,DE,de,The Last House
-T02,The Last House,Films,Q129165193,FR,fr,"Le Dernier Refuge (film, 2026)"
-T02,The Last House,Films,Q129165193,BR,pt,A Última Casa (2026)
-T02,The Last House,Films,Q129165193,IT,it,The Last House
-T03,The Whisper Man,Films,Q133852597,DE,de,Der Kinderflüsterer
-T03,The Whisper Man,Films,Q133852597,FR,fr,The Whisper Man
-T03,The Whisper Man,Films,Q133852597,BR,pt,The Whisper Man
-T03,The Whisper Man,Films,Q133852597,IT,it,L'uomo dei sussurri
-T03,The Whisper Man,Films,Q133852597,KR,ko,위스퍼맨
-T04,Elize: Shadows of a Woman,Films,Q140524489,FR,fr,Elize : Surgie de l'ombre
-T04,Elize: Shadows of a Woman,Films,Q140524489,BR,pt,Elize: Sombras de uma Mulher
-T05,Enola Holmes 3,Films,Q133876041,FR,fr,Enola Holmes 3
-T05,Enola Holmes 3,Films,Q133876041,JP,ja,エノーラ・ホームズの事件簿3
-T05,Enola Holmes 3,Films,Q133876041,IT,it,Enola Holmes 3
-T05,Enola Holmes 3,Films,Q133876041,KR,ko,에놀라 홈즈 3
-T08,Anacondas: Trail of Blood,Films,Q716759,DE,de,Anacondas – Trail of Blood
-T08,Anacondas: Trail of Blood,Films,Q716759,FR,fr,Anacondas 4 : La Piste du sang
-T08,Anacondas: Trail of Blood,Films,Q716759,JP,ja,アナコンダ4
-T08,Anacondas: Trail of Blood,Films,Q716759,BR,pt,Anacondas: Trail of Blood
-T08,Anacondas: Trail of Blood,Films,Q716759,IT,it,Anaconda - Sentiero di sangue
-T09,I Will Find You,TV,Q134412018,DE,de,Nur für dein Leben
-T09,I Will Find You,TV,Q134412018,FR,fr,Sur tes traces
-T10,72 HOURS,Films,Q136339220,FR,fr,72 Heures (film)
-T10,72 HOURS,Films,Q136339220,IT,it,72 Hours (film 2026)
-T10,72 HOURS,Films,Q136339220,KR,ko,72시간
-T11,The Secret Woman,Films,Q140419850,FR,fr,"La Femme secrète (film, 2026)"
-T12,Elite Force,TV,Q133868511,FR,fr,GIGN (mini-série)
-T14,Our Sticky Love,TV,Q137835829,DE,de,Our Sticky Love
-T14,Our Sticky Love,TV,Q137835829,FR,fr,Our Sticky Love
-T14,Our Sticky Love,TV,Q137835829,IT,it,Our Sticky Love
-T14,Our Sticky Love,TV,Q137835829,KR,ko,이런 엿 같은 사랑
-T17,My Life With the Walter Boys,TV,Q113570499,DE,de,Ich und die Walter Boys
-T17,My Life With the Walter Boys,TV,Q113570499,FR,fr,Ma vie avec les Walter Boys
-T17,My Life With the Walter Boys,TV,Q113570499,BR,pt,My Life with the Walter Boys
-T17,My Life With the Walter Boys,TV,Q113570499,IT,it,Uno splendido errore
-T20,Outer Banks,TV,Q89414035,DE,de,Outer Banks (Fernsehserie)
-T20,Outer Banks,TV,Q89414035,FR,fr,Outer Banks (série télévisée)
-T20,Outer Banks,TV,Q89414035,JP,ja,アウターバンクス (テレビドラマ)
-T20,Outer Banks,TV,Q89414035,BR,pt,Outer Banks (série de televisão)
-T20,Outer Banks,TV,Q89414035,IT,it,Outer Banks (serie televisiva)
-T20,Outer Banks,TV,Q89414035,KR,ko,아우터뱅크스 (드라마)
+title_id,show_title,category,market,lang,qid,match_method,contested,article
+T001,Agent Kim Reactivated,TV,DE,de,Q139553270,netflix_id,False,Agent Kim Reactivated
+T001,Agent Kim Reactivated,TV,FR,fr,Q139553270,netflix_id,False,Agent Kim Reactivated
+T001,Agent Kim Reactivated,TV,IT,it,Q139553270,netflix_id,False,Agent Kim Reactivated
+T001,Agent Kim Reactivated,TV,KR,ko,Q139553270,netflix_id,False,김부장
+T002,The Last House,Films,BR,pt,Q129165193,netflix_id,False,A Última Casa (2026)
+T002,The Last House,Films,DE,de,Q129165193,netflix_id,False,The Last House
+T002,The Last House,Films,FR,fr,Q129165193,netflix_id,False,"Le Dernier Refuge (film, 2026)"
+T002,The Last House,Films,IT,it,Q129165193,netflix_id,False,The Last House
+T003,The Whisper Man,Films,BR,pt,Q133852597,netflix_id,False,The Whisper Man
+T003,The Whisper Man,Films,DE,de,Q133852597,netflix_id,False,Der Kinderflüsterer
+T003,The Whisper Man,Films,FR,fr,Q133852597,netflix_id,False,The Whisper Man
+T003,The Whisper Man,Films,IT,it,Q133852597,netflix_id,False,L'uomo dei sussurri
+T003,The Whisper Man,Films,KR,ko,Q133852597,netflix_id,False,위스퍼맨
+T004,Elize: Shadows of a Woman,Films,BR,pt,Q140524489,netflix_id,False,Elize: Sombras de uma Mulher
+T004,Elize: Shadows of a Woman,Films,FR,fr,Q140524489,netflix_id,False,Elize : Surgie de l'ombre
+T005,Enola Holmes 3,Films,FR,fr,Q133876041,label_unique,False,Enola Holmes 3
+T005,Enola Holmes 3,Films,IT,it,Q133876041,label_unique,False,Enola Holmes 3
+T005,Enola Holmes 3,Films,JP,ja,Q133876041,label_unique,False,エノーラ・ホームズの事件簿3
+T005,Enola Holmes 3,Films,KR,ko,Q133876041,label_unique,False,에놀라 홈즈 3
+T006,Facing El Chapo,Films,DE,de,Q141165617,netflix_id,False,Die Festnahme (2026)
+T006,Facing El Chapo,Films,IT,it,Q141165617,netflix_id,False,La Captura
+T008,Anacondas: Trail of Blood,Films,BR,pt,Q716759,netflix_id,False,Anacondas: Trail of Blood
+T008,Anacondas: Trail of Blood,Films,DE,de,Q716759,netflix_id,False,Anacondas – Trail of Blood
+T008,Anacondas: Trail of Blood,Films,FR,fr,Q716759,netflix_id,False,Anacondas 4 : La Piste du sang
+T008,Anacondas: Trail of Blood,Films,IT,it,Q716759,netflix_id,False,Anaconda - Sentiero di sangue
+T008,Anacondas: Trail of Blood,Films,JP,ja,Q716759,netflix_id,False,アナコンダ4
+T009,I Will Find You,TV,DE,de,Q134412018,netflix_id,False,Nur für dein Leben
+T009,I Will Find You,TV,FR,fr,Q134412018,netflix_id,False,Sur tes traces
+T010,72 HOURS,Films,FR,fr,Q136339220,label_tiebreak,False,72 Heures (film)
+T010,72 HOURS,Films,IT,it,Q136339220,label_tiebreak,False,72 Hours (film 2026)
+T011,The Secret Woman,Films,FR,fr,Q140419850,label_tiebreak,False,"La Femme secrète (film, 2026)"
+T012,Elite Force,TV,FR,fr,Q133868511,netflix_id,False,GIGN (mini-série)
+T014,Our Sticky Love,TV,FR,fr,Q137835829,netflix_id,False,Our Sticky Love
+T014,Our Sticky Love,TV,IT,it,Q137835829,netflix_id,False,Our Sticky Love
+T014,Our Sticky Love,TV,KR,ko,Q137835829,netflix_id,False,이런 엿 같은 사랑
+T015,The Debt Collector,Films,IT,it,Q56365946,netflix_id,True,The Debt Collector (film 2018)
+T017,My Life With the Walter Boys,TV,BR,pt,Q113570499,netflix_id,False,My Life with the Walter Boys
+T017,My Life With the Walter Boys,TV,DE,de,Q113570499,netflix_id,False,Ich und die Walter Boys
+T017,My Life With the Walter Boys,TV,FR,fr,Q113570499,netflix_id,False,Ma vie avec les Walter Boys
+T017,My Life With the Walter Boys,TV,IT,it,Q113570499,netflix_id,False,Uno splendido errore
+T020,Outer Banks,TV,BR,pt,Q89414035,netflix_id,False,Outer Banks (série de televisão)
+T020,Outer Banks,TV,DE,de,Q89414035,netflix_id,False,Outer Banks (Fernsehserie)
+T020,Outer Banks,TV,FR,fr,Q89414035,netflix_id,False,Outer Banks (série télévisée)
+T020,Outer Banks,TV,IT,it,Q89414035,netflix_id,False,Outer Banks (serie televisiva)
+T021,Voicemails for Isabelle,Films,DE,de,Q139665886,netflix_id,False,Voicemails for Isabelle
+T021,Voicemails for Isabelle,Films,FR,fr,Q139665886,netflix_id,False,Si tu m'écoutes
+T021,Voicemails for Isabelle,Films,IT,it,Q139665886,netflix_id,False,Messaggi per Isabelle
+T023,Little House on the Prairie,TV,FR,fr,Q132521516,netflix_id,False,"La Petite Maison dans la prairie (série télévisée, 2026)"
+T023,Little House on the Prairie,TV,IT,it,Q132521516,netflix_id,False,La casa nella prateria (serie televisiva 2026)
+T025,Teach You a Lesson,TV,FR,fr,Q137844128,netflix_id,False,Que ça vous serve de leçon !
+T025,Teach You a Lesson,TV,JP,ja,Q137844128,netflix_id,False,鉄槌教師
+T025,Teach You a Lesson,TV,KR,ko,Q137844128,netflix_id,False,참교육
+T028,The Bombing of Pan Am 103,TV,FR,fr,Q124799074,netflix_id,False,L'Attentat du vol Pan Am 103
+T030,Ransom Canyon,TV,FR,fr,Q132296748,netflix_id,False,Nouvelle vie à Ransom Canyon
+T030,Ransom Canyon,TV,IT,it,Q132296748,netflix_id,False,Ransom Canyon (serie televisiva)
+T033,My Brilliant Career,TV,FR,fr,Q135011543,netflix_id_tiebreak,False,Ma brillante carrière (série télévisée)
+T034,The Truthers,Films,DE,de,Q140248600,label_unique,False,Eine verworrene Wahrheit
+T034,The Truthers,Films,FR,fr,Q140248600,label_unique,False,Leur vérité
+T034,The Truthers,Films,IT,it,Q140248600,label_unique,False,Los Creyentes - Oltre la verità
+T036,Spider-Man: Far from Home,Films,BR,pt,Q27985819,netflix_id,False,Homem-Aranha: Longe de Casa
+T036,Spider-Man: Far from Home,Films,FR,fr,Q27985819,netflix_id,False,Spider-Man: Far From Home
+T036,Spider-Man: Far from Home,Films,IT,it,Q27985819,netflix_id,False,Spider-Man: Far from Home
+T036,Spider-Man: Far from Home,Films,KR,ko,Q27985819,netflix_id,False,스파이더맨: 파 프롬 홈
+T037,Crew Girl,TV,DE,de,Q141155312,netflix_id,False,Crew Girl
+T037,Crew Girl,TV,FR,fr,Q141155312,netflix_id,False,Mal barrée
+T037,Crew Girl,TV,IT,it,Q141155312,netflix_id,False,Crew Girl
+T039,The East Palace,TV,FR,fr,Q137723110,netflix_id,False,Le Palais de l'Est
+T039,The East Palace,TV,IT,it,Q137723110,netflix_id,False,The East Palace
+T039,The East Palace,TV,KR,ko,Q137723110,netflix_id,False,동궁 (드라마)
+T046,Don't Say Good Luck,Films,DE,de,Q135220006,netflix_id,False,Don’t Say Good Luck
+T050,Monster: The Lizzie Borden Story,TV,BR,pt,Q135745692,netflix_id,False,Monster: The Lizzie Borden Story
+T050,Monster: The Lizzie Borden Story,TV,FR,fr,Q135745692,netflix_id,False,Monstre : L'Histoire de Lizzie Borden
+T053,Gabby's Dollhouse,TV,BR,pt,Q104857863,netflix_id,False,A Casa Mágica da Gabby
+T053,Gabby's Dollhouse,TV,FR,fr,Q104857863,netflix_id,False,Gabby et la Maison magique
+T053,Gabby's Dollhouse,TV,IT,it,Q104857863,netflix_id,False,La casa delle bambole di Gabby
+T054,Spooky in Love,TV,JP,ja,Q138266416,netflix_id,False,恋は命がけ
+T054,Spooky in Love,TV,KR,ko,Q138266416,netflix_id,False,오싹한 연애 (드라마)
+T056,Spider-Man: Homecoming,Films,FR,fr,Q23010088,netflix_id,False,Spider-Man: Homecoming
+T056,Spider-Man: Homecoming,Films,JP,ja,Q23010088,netflix_id,False,スパイダーマン:ホームカミング
+T056,Spider-Man: Homecoming,Films,KR,ko,Q23010088,netflix_id,False,스파이더맨: 홈커밍
+T059,The Little Things,Films,FR,fr,Q70373108,netflix_id,False,Une affaire de détails
+T059,The Little Things,Films,IT,it,Q70373108,netflix_id,False,Fino all'ultimo indizio
+T059,The Little Things,Films,JP,ja,Q70373108,netflix_id,False,リトル・シングス
+T063,Fauda,TV,DE,de,Q19319517,netflix_id,False,Fauda (Fernsehserie)
+T063,Fauda,TV,FR,fr,Q19319517,netflix_id,False,Fauda
+T063,Fauda,TV,IT,it,Q19319517,netflix_id,False,Fauda
+T065,Sonic the Hedgehog 3,Films,DE,de,Q115859490,label_unique,False,Sonic the Hedgehog 3 (Film)
+T065,Sonic the Hedgehog 3,Films,IT,it,Q115859490,label_unique,False,Sonic 3 - Il film
+T065,Sonic the Hedgehog 3,Films,JP,ja,Q115859490,label_unique,False,ソニック×シャドウ TOKYO MISSION
+T066,The Hard Corps,Films,BR,pt,Q1406330,netflix_id,False,The Hard Corps
+T066,The Hard Corps,Films,DE,de,Q1406330,netflix_id,False,Hard Corps
+T066,The Hard Corps,Films,KR,ko,Q1406330,netflix_id,False,하드코: 라스트 미션
+T071,What a Girl Wants,Films,BR,pt,Q1123621,netflix_id,False,What a Girl Wants (filme)
+T071,What a Girl Wants,Films,FR,fr,Q1123621,netflix_id,False,Ce dont rêvent les filles
+T071,What a Girl Wants,Films,IT,it,Q1123621,netflix_id,False,Una ragazza e il suo sogno
+T074,Badly in Love,TV,JP,ja,Q140219404,netflix_id,False,ラヴ上等
+T076,Human Vapor,TV,JP,ja,Q136735821,netflix_id,False,ガス人間
+T076,Human Vapor,TV,KR,ko,Q136735821,netflix_id,False,가스인간
+T077,Husbands in Action,Films,KR,ko,Q137843012,netflix_id,False,남편들 (2026년 영화)
+T079,Despicable Me 4,Films,BR,pt,Q113373276,netflix_id,False,Despicable Me 4
+T079,Despicable Me 4,Films,JP,ja,Q113373276,netflix_id,False,怪盗グルーのミニオン超変身
+T080,Mousetrap,TV,KR,ko,Q140198906,netflix_id,False,들쥐 (드라마)
+T081,Sniper: No Nation,Films,DE,de,Q139250667,label_unique,False,Sniper: No Nation
+T082,Sullivan's Crossing,TV,IT,it,Q117471709,netflix_id,False,Sullivan's Crossing
+T083,"My Best Friend, His Girlfriend and Me",Films,DE,de,Q140467227,netflix_id,False,"Mein bester Freund, seine Freundin & ich"
+T084,Physical 100: Italy,TV,IT,it,Q136842075,netflix_id,False,Physical Italia: da 100 a 1
+T085,Notes from the Last Row,TV,KR,ko,Q137836165,netflix_id,False,맨 끝줄 소년 (드라마)
+T087,The Polygamist,TV,FR,fr,Q139817566,netflix_id,False,The Polygamist
+T088,The Sixth Sense,Films,IT,it,Q183063,netflix_id,False,The Sixth Sense - Il sesto senso
+T088,The Sixth Sense,Films,JP,ja,Q183063,netflix_id,False,シックス・センス
+T089,Kraven the Hunter,Films,IT,it,Q107390449,label_unique,False,Kraven - Il cacciatore
+T089,Kraven the Hunter,Films,JP,ja,Q107390449,label_unique,False,クレイヴン・ザ・ハンター (映画)
+T090,Meg 2: The Trench,Films,BR,pt,Q110842446,label_unique,False,Meg 2: The Trench
+T090,Meg 2: The Trench,Films,FR,fr,Q110842446,label_unique,False,En eaux très troubles
+T091,Anora,Films,FR,fr,Q123185887,netflix_id,True,Anora (film)
+T091,Anora,Films,IT,it,Q123185887,netflix_id,True,Anora
+T093,The Wild Robot,Films,BR,pt,Q124378349,label_unique,False,The Wild Robot
+T093,The Wild Robot,Films,JP,ja,Q124378349,label_unique,False,野生の島のロズ
+T095,Breaking In,Films,DE,de,Q4287509,netflix_id,True,Die Traumtänzer
+T099,War Machine,Films,DE,de,Q130375767,netflix_id_tiebreak,False,War Machine (2026)
+T099,War Machine,Films,FR,fr,Q130375767,netflix_id_tiebreak,False,"War Machine (film, 2026)"
+T100,Companion,Films,BR,pt,Q125933907,netflix_id,False,Companion
+T100,Companion,Films,DE,de,Q125933907,netflix_id,False,Companion – Die perfekte Begleitung
+T102,Monster-in-Law,Films,FR,fr,Q682904,netflix_id,False,Sa mère ou moi !
+T102,Monster-in-Law,Films,IT,it,Q682904,netflix_id,False,Quel mostro di suocera
+T103,The Contractor,Films,FR,fr,Q2300207,netflix_id,True,The Contractor
+T103,The Contractor,Films,IT,it,Q2300207,netflix_id,True,The Contractor - Rischio supremo
+T104,Angel Eyes,Films,FR,fr,Q531675,netflix_id,True,"Angel Eyes (film, 2001)"
+T104,Angel Eyes,Films,IT,it,Q531675,netflix_id,True,Angel Eyes - Occhi d'angelo
+T105,Edge of Tomorrow,Films,IT,it,Q1187607,netflix_id,False,Edge of Tomorrow - Senza domani
+T105,Edge of Tomorrow,Films,KR,ko,Q1187607,netflix_id,False,엣지 오브 투모로우
+T108,Anaconda 3: Offspring,Films,JP,ja,Q483572,netflix_id,False,アナコンダ3
+T109,Night at the Museum,Films,FR,fr,Q387601,netflix_id,False,La Nuit au musée
+T109,Night at the Museum,Films,IT,it,Q387601,netflix_id,False,Una notte al museo
+T110,Into the Blue,Films,JP,ja,Q1130297,netflix_id,True,イントゥ・ザ・ブルー
+T110,Into the Blue,Films,KR,ko,Q1130297,netflix_id,True,블루 스톰
+T111,The Town,Films,FR,fr,Q725539,netflix_id,True,The Town
+T111,The Town,Films,IT,it,Q725539,netflix_id,True,The Town (film 2010)
+T113,Best of the Best,Films,FR,fr,Q141520590,netflix_id_tiebreak,False,"Best of the Best (film, 2026)"
+T114,Until the T-shirt Dries,TV,JP,ja,Q139928769,netflix_id,False,Tシャツが乾くまで
+T115,Vivant,TV,JP,ja,Q116919744,netflix_id,False,VIVANT
+T116,The Mentalist,TV,BR,pt,Q204228,netflix_id,True,O Mentalista
+T118,GATE24:The Border,TV,JP,ja,Q139913913,netflix_id,False,大空港〜GATE24〜
+T121,I am Solo,TV,KR,ko,Q113548365,label_unique,False,나는 SOLO
+T123,The Apartment Job,TV,KR,ko,Q139455537,netflix_id,False,아파트 (2026년 드라마)
+T126,Kaulitz & Kaulitz,TV,DE,de,Q127165247,netflix_id,False,Kaulitz & Kaulitz
+T127,Wild Sing,Films,KR,ko,Q139715512,netflix_id,False,와일드 씽 (2026년 영화)
+T128,Buen Camino,Films,IT,it,Q137211198,label_unique,False,Buen camino
+T129,Swapped,Films,BR,pt,Q126709560,netflix_id,False,Swapped
+T132,"Four Hands, Two Sonatas",TV,KR,ko,Q137271520,netflix_id,False,포핸즈
+T135,Regretting You,Films,DE,de,Q132816896,label_unique,False,All das Ungesagte zwischen uns – Regretting You
+T139,Shrek,Films,BR,pt,Q483815,netflix_id,False,Shrek
+T141,25 Years of You,TV,JP,ja,Q139890520,netflix_id,False,告白-25年目の秘密-
+T144,Last Mile,Films,JP,ja,Q124482893,label_unique,False,ラストマイル
+T145,Rhythm + Flow France,TV,FR,fr,Q131700478,netflix_id,False,Nouvelle École (émission de téléréalité)
+T146,Sai: Disaster,Films,JP,ja,Q136401592,netflix_id,False,災
+T152,Lobby,Films,KR,ko,Q133819698,label_unique,False,로비 (영화)
+T153,13 Minutes,Films,BR,pt,Q18977471,netflix_id,True,Elser – Er hätte die Welt verändert
+T158,Dune: Part Two,Films,DE,de,Q109228991,netflix_id,False,Dune: Part Two
+T161,People and Meat,Films,KR,ko,Q136325017,label_unique,False,사람과 고기
+T162,Murder in a Small Town,TV,DE,de,Q127220558,label_tiebreak,False,Murder in a Small Town (Fernsehserie)
+T166,Call My Agent! The Movie,Films,FR,fr,Q140079697,netflix_id,False,"Dix pour cent, le film"
+T172,Infinite,Films,DE,de,Q64067920,netflix_id,False,Infinite – Lebe unendlich
+T176,Paulette,Films,FR,fr,Q3372619,label_unique,False,Paulette (film)
+T177,Rheingold,Films,DE,de,Q111396554,label_unique,False,Rheingold (2022)
+T179,Serial Driver,Films,FR,fr,Q117382930,label_unique,False,Bonne Conduite
+T181,The Retirement Plan,Films,FR,fr,Q117842570,label_unique,False,Une retraite d'enfer
+T183,Vanishing Point,Films,KR,ko,Q139595861,netflix_id_tiebreak,False,소실점 (영화)
+T185,Black Adam,Films,DE,de,Q28657013,netflix_id,False,Black Adam (Film)
+T188,How to Train Your Dragon,Films,FR,fr,Q373096,netflix_id,True,"Dragons (film, 2010)"
+T190,Take Shelter,Films,BR,pt,Q762877,label_unique,False,Take Shelter
+T191,The Equalizer 3,Films,FR,fr,Q114818951,label_unique,False,Equalizer 3
+T192,Troy,Films,KR,ko,Q186587,netflix_id,False,트로이 (영화)
+T195,Il Bene Comune,Films,IT,it,Q138659874,label_unique,False,Il bene comune
+T196,L'Amore sta bene su tutto,Films,IT,it,Q139691514,label_unique,False,L'amore sta bene su tutto
+T197,Practical Magic,Films,IT,it,Q148429,netflix_id,False,Amori & incantesimi
+T202,Kingdom 3: The Flame of Destiny,Films,JP,ja,Q120333108,label_unique,False,キングダム 運命の炎
+T204,Say Cheese,Films,FR,fr,Q111796247,label_unique,False,On sourit pour la photo
+T206,The Morning After,Films,FR,fr,Q1195881,netflix_id,True,Le Lendemain du crime
+T207,Elize Matsunaga: Once Upon a Crime,TV,BR,pt,Q107378706,netflix_id,False,Elize Matsunaga: Era Uma Vez um Crime
+T208,Manitou's Canoe,Films,DE,de,Q128708059,label_unique,False,Das Kanu des Manitu
+T210,Shrek 2,Films,BR,pt,Q485983,netflix_id,False,Shrek 2
+T211,The Cleaning Lady,TV,IT,it,Q106959460,netflix_id,False,The Cleaning Lady
+T214,Bee Movie,Films,BR,pt,Q275167,netflix_id,False,Bee Movie
+T215,Ghost Ship,Films,DE,de,Q1356265,netflix_id,True,Ghost Ship
+T216,Killer Elite,Films,BR,pt,Q1320416,netflix_id,False,Killer Elite
+T217,Mercy For None,TV,KR,ko,Q123305848,netflix_id,False,광장 (2025년 드라마)
+T218,TESTO,TV,DE,de,Q124426018,label_unique,False,Testo (Fernsehserie)
+T220,That Time I Got Reincarnated as a Slime,TV,JP,ja,Q61779950,netflix_id,False,転生したらスライムだった件 (アニメ)
+T221,The Noisy Mansion,Films,KR,ko,Q132153221,label_unique,False,백수아파트
+T223,Venom: The Last Dance,Films,IT,it,Q113371337,label_unique,False,Venom: The Last Dance
+T225,The Auditors,TV,KR,ko,Q125968286,netflix_id,False,감사합니다 (드라마)
+T227,Roofman,Films,KR,ko,Q130742503,netflix_id,False,루프맨
+T228,Seven,Films,FR,fr,Q190908,netflix_id,False,Seven (film)
+T232,Nocturnal Animals,Films,DE,de,Q21527905,netflix_id,False,Nocturnal Animals
+T233,Plastic Beauty,TV,JP,ja,Q138007013,netflix_id,False,ダウンタイム
+T235,The Scandal,TV,KR,ko,Q137476131,netflix_id,False,스캔들 (2026년 드라마)
+T236,The Warriors,Films,KR,ko,Q488321,netflix_id,False,무사 (2001년 대한민국 영화)
+T237,Black Bag,Films,KR,ko,Q124373035,netflix_id,False,블랙 백
+T240,Petals and Memories,Films,JP,ja,Q134720030,label_unique,False,花まんま
+T241,Rust Creek,Films,BR,pt,Q59351164,netflix_id,False,Rust Creek
+T243,Wunderschöner,Films,DE,de,Q131764936,label_unique,False,Wunderschöner
+T245,Momo,Films,DE,de,Q570967,label_unique,False,Momo (1986)
+T247,Turbulence,Films,FR,fr,Q727775,netflix_id,True,Turbulences à 30 000 pieds
+T248,22 Bahnen,Films,DE,de,Q134695973,label_unique,False,22 Bahnen
+T250,A Minecraft Movie,Films,BR,pt,Q40083273,label_unique,False,Um Filme Minecraft
+T251,Blue Beetle,Films,FR,fr,Q107808351,label_unique,False,Blue Beetle (film)
+T254,Gran Turismo: Based on a True Story,Films,FR,fr,Q112909147,netflix_id,False,Gran Turismo (film)
+T255,Journey 2: The Mysterious Island,Films,IT,it,Q211545,netflix_id,False,Viaggio nell'isola misteriosa
+T257,Juror #2,Films,DE,de,Q119549900,label_unique,False,Juror No. 2
+T260,Quarantine 2: Terminal,Films,KR,ko,Q1189180,netflix_id,False,쿼런틴 2: 터미널
+T264,Ricomincio da TAAAC,Films,IT,it,Q130371344,label_unique,False,Ricomincio da taaac
+T267,Barbie,Films,FR,fr,Q55436290,netflix_id,False,Barbie (film)
+T268,Blood and Bone,Films,IT,it,Q885161,netflix_id,False,Blood and Bone
+T269,Bride Hard,Films,DE,de,Q124289803,label_unique,False,Bride Hard
+T270,Drop,Films,FR,fr,Q13562077,netflix_id,True,Quand vient la nuit (film)
+T273,"One Second Ahead, One Second Behind",Films,JP,ja,Q123916130,netflix_id,False,1秒先の彼
+T274,Someone Like You,Films,IT,it,Q1346535,netflix_id,True,Qualcuno come te
+T277,The Nun II,Films,FR,fr,Q111784581,label_unique,False,La Nonne : La Malédiction de Sainte-Lucie
+T281,F9: The Fast Saga,Films,DE,de,Q29466808,netflix_id,False,Fast & Furious 9
+T283,Love Hurts,Films,FR,fr,Q2714762,netflix_id,True,"Love Hurts (film, 2009)"
+T284,Mickey 17,Films,BR,pt,Q112977213,label_unique,False,Mickey 17
+T286,My Summer in Provence,Films,FR,fr,Q16529759,netflix_id,False,Avis de mistral
+T287,Race for Glory: Audi vs. Lancia,Films,IT,it,Q114240595,label_unique,False,Race for Glory: Audi vs. Lancia
+T290,The Accountant,Films,KR,ko,Q18883455,netflix_id,False,어카운턴트
+T293,The Woman in the Yard,Films,FR,fr,Q125678238,label_unique,False,The Woman in the Yard
+T295,What’s With This Granny!?,Films,FR,fr,Q64769240,label_unique,False,C'est quoi cette mamie ?!
+T296,A Cinderella Story,Films,BR,pt,Q276415,netflix_id,False,A Cinderella Story
+T298,Colombiana,Films,FR,fr,Q868329,netflix_id,False,Colombiana
+T302,Monsters vs. Aliens,Films,BR,pt,Q681918,netflix_id,False,Monsters vs. Aliens
+T303,My Royal Nemesis,TV,KR,ko,Q136763742,netflix_id,False,멋진 신세계 (드라마)
+T306,The Heat,Films,IT,it,Q135156,netflix_id,False,Corpi da reato
+T308,The Wolf and the Lion,Films,FR,fr,Q108701958,label_unique,False,Le Loup et le Lion (film)
+T309,Whenever Possible,TV,KR,ko,Q125524050,label_unique,False,"틈만나면,"
+T312,Evil Dead Rise,Films,DE,de,Q107203508,label_unique,False,Evil Dead Rise
+T313,Here the Whole Time,Films,BR,pt,Q138861105,netflix_id,False,Quinze Dias
+T316,Lavoreremo da Grandi,Films,IT,it,Q138012622,label_unique,False,Lavoreremo da grandi
+T321,One Way Trip,Films,KR,ko,Q22666603,label_unique,False,글로리데이
+T324,Silent Night,Films,JP,ja,Q85801170,netflix_id,True,サイレント・ナイト (2021年の映画)
+T327,The Hawk,TV,DE,de,Q125965346,netflix_id,False,The Hawk (Fernsehserie)
+T334,Aline,Films,FR,fr,Q100324181,label_unique,False,"Aline (film, 2020)"
+T337,Collateral Damage,Films,BR,pt,Q506605,netflix_id,True,Collateral Damage
+T338,Cradle 2 the Grave,Films,KR,ko,Q837536,netflix_id,False,크레이들 투 그레이브
+T339,Dog 51,Films,DE,de,Q127602909,label_unique,False,Zone 3
+T340,Dune,Films,DE,de,Q114819,netflix_id,True,Der Wüstenplanet (Film)
+T348,My Family,TV,IT,it,Q132157115,netflix_id_tiebreak,False,Storia della mia famiglia
+T351,Presidents,Films,FR,fr,Q102178337,label_unique,False,Présidents
+T353,She's Out of My League,Films,IT,it,Q140009,netflix_id,False,Lei è troppo per me
+T354,Shrek Forever After,Films,BR,pt,Q208131,netflix_id,False,Shrek para Sempre
+T355,The Blind Side,Films,KR,ko,Q206497,netflix_id,False,블라인드 사이드
+T356,The Haunted Palace,TV,JP,ja,Q126679425,netflix_id,False,鬼宮
+T358,Wolf Man,Films,KR,ko,Q431873,netflix_id,True,울프맨 (1941년 영화)
+T360,2012,Films,JP,ja,Q184605,netflix_id,False,2012 (映画)
+T361,A Company Man,Films,KR,ko,Q4656045,netflix_id,False,회사원 (영화)
+T362,Barbie in The Nutcracker,Films,BR,pt,Q25733,netflix_id,False,Barbie and the Nutcracker
+T365,KPop Demon Hunters,Films,FR,fr,Q130268157,netflix_id,False,KPop Demon Hunters
+T368,Mystic River,Films,KR,ko,Q221586,netflix_id,False,미스틱 리버
+T369,Resident Alien,TV,DE,de,Q104532538,netflix_id,False,Resident Alien
+T370,Something's Gotta Give,Films,IT,it,Q584766,netflix_id,False,Tutto può succedere - Something's Gotta Give
+T371,Suicide Squad,Films,KR,ko,Q18604504,netflix_id,False,수어사이드 스쿼드 (영화)

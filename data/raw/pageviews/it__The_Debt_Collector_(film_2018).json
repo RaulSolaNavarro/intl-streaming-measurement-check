@@ -1,0 +1,234 @@
+{
+ "items": [
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "The_Debt_Collector_(film_2018)",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

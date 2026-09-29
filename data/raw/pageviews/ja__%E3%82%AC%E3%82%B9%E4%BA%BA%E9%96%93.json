@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 53
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 39
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 27
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 44
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 117
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 498
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 600
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 913
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1503
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1048
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 793
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 890
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 827
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 862
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1124
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 928
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 835
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 557
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 503
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 383
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 330
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 342
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 315
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 337
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 243
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 243
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 208
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 182
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 211
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 217
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 148
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 120
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 128
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 126
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 145
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 137
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 117
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 108
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 114
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 129
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 110
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 106
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 136
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 119
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 125
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 119
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 87
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 769
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1273
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2608
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3913
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3307
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3591
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2358
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2470
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2507
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2380
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3276
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4168
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2933
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2807
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3073
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3285
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3251
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4101
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3918
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2983
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2713
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2848
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2576
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6270
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4050
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3906
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2806
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2813
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2743
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2378
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2326
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2726
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ガス人間",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3478
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

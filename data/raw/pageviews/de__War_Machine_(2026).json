@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 398
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 536
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 680
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 628
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 535
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 730
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1186
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1022
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1108
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 838
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 638
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 704
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 714
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 551
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 348
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 402
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 443
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 336
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 425
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 385
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 538
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 334
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 419
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 371
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 301
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 523
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 670
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 797
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 529
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 332
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 286
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 283
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 370
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 430
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 451
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 402
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 378
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 431
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 318
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 305
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 393
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 621
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 493
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 417
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 404
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 515
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 632
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 637
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 903
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 793
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 676
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 667
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 650
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 711
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 829
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1102
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 961
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 814
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 781
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 750
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 774
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 789
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 813
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 593
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 582
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 590
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 616
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 562
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 536
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 683
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 535
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 682
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 529
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 550
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 604
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 730
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 770
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 625
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 499
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 585
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 512
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 550
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 604
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 592
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 480
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 548
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1001
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1032
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 845
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 729
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 858
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 587
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 555
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 496
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 468
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 754
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 792
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 712
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 602
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 487
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 512
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 525
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 575
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 624
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 844
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 564
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 456
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 635
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 624
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 733
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 764
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "War_Machine_(2026)",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 713
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

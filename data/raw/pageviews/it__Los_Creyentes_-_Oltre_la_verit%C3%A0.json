@@ -1,0 +1,540 @@
+{
+ "items": [
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 258
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1169
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1471
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 814
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 631
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 695
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 706
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 624
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 678
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 634
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 421
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 316
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 331
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 273
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 227
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 274
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 286
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 234
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 163
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 105
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 91
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 105
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 125
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 124
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 107
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 107
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 94
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 85
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 101
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 85
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 74
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 52
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 49
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 38
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 48
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 41
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 49
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 24
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 38
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 63
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Los_Creyentes_-_Oltre_la_verità",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

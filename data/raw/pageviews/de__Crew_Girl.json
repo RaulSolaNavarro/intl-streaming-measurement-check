@@ -1,0 +1,90 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 575
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4217
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3365
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3104
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3403
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3555
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5411
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3269
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Crew_Girl",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3569
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

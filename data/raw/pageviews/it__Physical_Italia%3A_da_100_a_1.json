@@ -1,0 +1,90 @@
+{
+ "items": [
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 42
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4541
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5582
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4775
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4326
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3853
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5185
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5405
+  },
+  {
+   "project": "it.wikipedia",
+   "article": "Physical_Italia:_da_100_a_1",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4975
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

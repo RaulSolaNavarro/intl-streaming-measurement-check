@@ -1,17 +1,18 @@
 """
-Step 02: choose the titles to analyse.
+Step 02: build the title universe.
 
 Input:  data/processed/netflix_top10_6mkts.csv
-Output: data/processed/selected_titles.csv
+Output: data/processed/titles.csv         one row per title
+        data/processed/title_markets.csv  one row per title-market pair that charted
 
 Rules
 - A title is identified by (show_title, category). TV seasons roll up to the
   show, because Wikipedia has one article per show, not per season.
-- Eligible titles charted in at least MIN_MARKETS of the six markets during
-  the window.
-- Eligible titles are ordered by: number of markets charted (more first),
-  then total market-weeks on the chart (more first), then best rank reached
-  (lower first), then title (for a stable order). The first MAX_TITLES are kept.
+- Every title that appears in a market's Top 10 during the window is kept for
+  that market. No title cap, no minimum number of markets.
+- title_id values are assigned in a stable order (most markets first, then
+  most market-weeks, then best rank, then title), so they don't shuffle
+  between runs unless the data changes.
 """
 
 from __future__ import annotations
@@ -30,33 +31,32 @@ def main() -> None:
     tmw = (df.groupby(["show_title", "category", "country_iso2", "week"], as_index=False)
              ["weekly_rank"].min())
 
-    per_title = (tmw.groupby(["show_title", "category"])
-                    .agg(n_markets=("country_iso2", "nunique"),
-                         market_weeks=("week", "size"),
-                         best_rank=("weekly_rank", "min"),
-                         markets=("country_iso2", lambda s: ",".join(sorted(s.unique()))))
-                    .reset_index())
+    # ---- One row per title -------------------------------------------------
+    titles = (tmw.groupby(["show_title", "category"])
+                 .agg(n_markets=("country_iso2", "nunique"),
+                      market_weeks=("week", "size"),
+                      best_rank=("weekly_rank", "min"),
+                      markets=("country_iso2", lambda s: ",".join(sorted(s.unique()))))
+                 .reset_index()
+                 .sort_values(["n_markets", "market_weeks", "best_rank", "show_title"],
+                              ascending=[False, False, True, True])
+                 .reset_index(drop=True))
+    titles.insert(0, "title_id", [f"T{i + 1:03d}" for i in range(len(titles))])
 
-    eligible = per_title[per_title["n_markets"] >= config.MIN_MARKETS]
-    selected = (eligible.sort_values(["n_markets", "market_weeks", "best_rank", "show_title"],
-                                     ascending=[False, False, True, True])
-                        .head(config.MAX_TITLES)
-                        .reset_index(drop=True))
+    # ---- One row per title-market pair ------------------------------------
+    pairs = (tmw.groupby(["show_title", "category", "country_iso2"])
+                .agg(first_week=("week", "min"), last_week=("week", "max"),
+                     weeks_charted=("week", "size"), best_rank=("weekly_rank", "min"))
+                .reset_index()
+                .rename(columns={"country_iso2": "market"}))
+    pairs = titles[["title_id", "show_title", "category"]].merge(pairs, on=["show_title", "category"])
+    pairs["lang"] = pairs["market"].map(config.MARKETS)
 
-    # First chart week in each market (used later by the timing metric and
-    # handy for eyeballing the list now).
-    first_week = (tmw.groupby(["show_title", "category", "country_iso2"])["week"].min()
-                     .unstack("country_iso2")
-                     .add_prefix("first_week_")
-                     .reset_index())
-    selected = selected.merge(first_week, on=["show_title", "category"], how="left")
-    selected.insert(0, "title_id", [f"T{i + 1:02d}" for i in range(len(selected))])
+    titles.to_csv(config.TITLES_CSV, index=False)
+    pairs.sort_values(["title_id", "market"]).to_csv(config.TITLE_MARKETS_CSV, index=False)
 
-    selected.to_csv(config.SELECTED_TITLES_CSV, index=False)
-    print(f"{len(eligible)} titles charted in >= {config.MIN_MARKETS} markets; "
-          f"kept {len(selected)}")
-    print(selected[["title_id", "show_title", "category", "n_markets",
-                    "market_weeks", "best_rank"]].to_string(index=False))
+    print(f"{len(titles)} titles, {len(pairs)} title-market pairs")
+    print(pairs.groupby(["market", "category"]).size().unstack().to_string())
 
 
 if __name__ == "__main__":

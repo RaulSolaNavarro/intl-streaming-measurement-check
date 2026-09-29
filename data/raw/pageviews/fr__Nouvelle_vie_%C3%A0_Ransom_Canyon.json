@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 30
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 42
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 42
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 41
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 30
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 39
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 24
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 39
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 39
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 30
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 80
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 92
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 81
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 46
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 56
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 106
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 136
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 108
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 131
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 150
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 192
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 176
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 163
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 202
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1813
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2071
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2222
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2935
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2385
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2130
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1960
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1766
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1504
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1494
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1620
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1387
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1068
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 984
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 823
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 688
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 716
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 865
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 622
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 569
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 515
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 524
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 533
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 517
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 613
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 412
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 386
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 420
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 390
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 365
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 298
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 391
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 334
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 312
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 326
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 286
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 264
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 299
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 345
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 266
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 262
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 236
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 260
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 190
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 254
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 273
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 230
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 197
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 148
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 178
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 221
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 213
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 217
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 144
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 147
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 120
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 77
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 126
+  },
+  {
+   "project": "fr.wikipedia",
+   "article": "Nouvelle_vie_à_Ransom_Canyon",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 178
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

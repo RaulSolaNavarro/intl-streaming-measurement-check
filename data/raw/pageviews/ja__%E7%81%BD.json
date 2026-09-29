@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 90
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 95
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 113
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 108
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 108
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 104
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 77
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 61
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 104
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 61
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 56
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 91
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 71
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 49
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 110
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 101
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 103
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 52
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 104
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 55
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 76
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 64
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 66
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 74
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 75
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 179
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 107
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 335
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1121
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 629
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 468
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 205
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 119
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 147
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 109
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 101
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 107
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 72
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 76
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 129
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 147
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 176
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 289
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 198
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 290
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 262
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 315
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 730
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 578
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 442
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 366
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 353
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 909
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8623
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10751
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15694
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15587
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11049
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10672
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10931
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10048
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8377
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10603
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8798
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5039
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4435
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4157
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3749
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3618
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4109
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4506
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3020
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2433
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2049
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1691
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1641
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2002
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2082
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1436
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1286
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1367
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1425
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1181
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1396
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "災",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2132
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

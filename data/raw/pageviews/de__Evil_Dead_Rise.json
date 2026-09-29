@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 111
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 89
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 128
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 123
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 96
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 94
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 88
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 74
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 77
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 96
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 95
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 100
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 151
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 148
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 118
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 164
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 162
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 116
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 112
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 132
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 141
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 166
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 168
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 226
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 229
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 280
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 328
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 422
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 468
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 616
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 735
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 706
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 835
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 956
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1188
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1405
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1394
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1147
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 833
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 977
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 912
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 936
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 858
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 785
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 575
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 578
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 632
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 621
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 651
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 649
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 736
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 523
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 534
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 344
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 343
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 430
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 448
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 427
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 319
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 451
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 475
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1489
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1450
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1367
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1560
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 979
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 827
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 711
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 700
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 565
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 551
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 650
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 443
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 357
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 283
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 333
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 393
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 477
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 426
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 564
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 624
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 527
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 449
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 580
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 656
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 661
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 401
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 365
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 309
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 337
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 329
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 415
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 424
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 304
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 206
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 259
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 219
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 241
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 326
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 363
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 235
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 214
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 350
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 251
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 250
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 283
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Evil_Dead_Rise",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 346
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

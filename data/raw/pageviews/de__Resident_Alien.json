@@ -1,0 +1,1017 @@
+{
+ "items": [
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 128
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 169
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 145
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 200
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 190
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 194
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 260
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 181
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 224
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 249
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 202
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 209
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 209
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 237
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 237
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 225
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 191
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 192
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 187
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 207
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 279
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 195
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 199
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 251
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 177
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 208
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 259
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 290
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 274
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 297
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 949
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1051
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1005
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1076
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1577
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1160
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1020
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1068
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1030
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 852
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 916
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1079
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 866
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 746
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 703
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 608
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 667
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 645
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 721
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 636
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 648
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 569
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 538
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 502
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 475
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 638
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 573
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 553
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 413
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 446
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 359
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 431
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 594
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 480
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 415
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 378
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 421
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 444
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 461
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 531
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 425
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 391
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 306
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 288
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 348
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 371
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 460
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 456
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 208
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 364
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 410
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 417
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 379
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 481
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 324
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 405
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 378
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 296
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 326
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 328
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 692
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 525
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1153
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1088
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 984
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1058
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1090
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1326
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1118
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1062
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 907
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 893
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 775
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 787
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1099
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 778
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 746
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 703
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 642
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 653
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 689
+  },
+  {
+   "project": "de.wikipedia",
+   "article": "Resident_Alien",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 806
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}

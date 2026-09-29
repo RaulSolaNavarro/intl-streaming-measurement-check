@@ -1,0 +1,379 @@
+title_id,show_title,category,n_markets,market_weeks,best_rank,markets
+T001,Agent Kim Reactivated,TV,6,29,1,"BR,DE,FR,IT,JP,KR"
+T002,The Last House,Films,6,25,1,"BR,DE,FR,IT,JP,KR"
+T003,The Whisper Man,Films,6,22,1,"BR,DE,FR,IT,JP,KR"
+T004,Elize: Shadows of a Woman,Films,6,18,1,"BR,DE,FR,IT,JP,KR"
+T005,Enola Holmes 3,Films,6,17,1,"BR,DE,FR,IT,JP,KR"
+T006,Facing El Chapo,Films,6,16,2,"BR,DE,FR,IT,JP,KR"
+T007,Grand Theft Auto VI: An Extended Look,Films,6,9,1,"BR,DE,FR,IT,JP,KR"
+T008,Anacondas: Trail of Blood,Films,6,7,3,"BR,DE,FR,IT,JP,KR"
+T009,I Will Find You,TV,5,32,1,"BR,DE,FR,IT,KR"
+T010,72 HOURS,Films,5,20,1,"BR,DE,FR,IT,JP"
+T011,The Secret Woman,Films,5,17,2,"BR,DE,FR,IT,KR"
+T012,Elite Force,TV,5,15,1,"BR,DE,FR,IT,KR"
+T013,Desire,Films,5,13,1,"BR,DE,FR,IT,KR"
+T014,Our Sticky Love,TV,5,13,1,"BR,FR,IT,JP,KR"
+T015,The Debt Collector,Films,5,10,2,"BR,FR,IT,JP,KR"
+T016,Death on the Nile,Films,5,5,7,"DE,FR,IT,JP,KR"
+T017,My Life With the Walter Boys,TV,4,18,1,"BR,DE,FR,IT"
+T018,Salish & Jordan Matter,TV,4,18,4,"BR,DE,FR,IT"
+T019,Blood Sacrifice,TV,4,16,1,"BR,DE,FR,IT"
+T020,Outer Banks,TV,4,16,1,"BR,DE,FR,IT"
+T021,Voicemails for Isabelle,Films,4,16,2,"BR,DE,FR,IT"
+T022,Oasis,TV,4,16,3,"BR,DE,FR,IT"
+T023,Little House on the Prairie,TV,4,13,1,"BR,DE,FR,IT"
+T024,Avatar: The Last Airbender,TV,4,13,2,"BR,DE,FR,IT"
+T025,Teach You a Lesson,TV,4,12,3,"BR,FR,JP,KR"
+T026,The Gentlemen,TV,4,11,1,"BR,DE,FR,IT"
+T027,My Daughter's Father,TV,4,11,2,"BR,DE,FR,IT"
+T028,The Bombing of Pan Am 103,TV,4,11,2,"BR,DE,FR,IT"
+T029,The Idaho Murders: College Nightmare,TV,4,11,2,"BR,DE,FR,IT"
+T030,Ransom Canyon,TV,4,11,4,"BR,DE,FR,IT"
+T031,Beauty in Black,TV,4,10,2,"BR,DE,FR,IT"
+T032,Death of the Pastor's Wife,TV,4,10,2,"BR,DE,FR,IT"
+T033,My Brilliant Career,TV,4,10,2,"BR,DE,FR,IT"
+T034,The Truthers,Films,4,10,3,"BR,DE,FR,IT"
+T035,Wrath,TV,4,9,1,"BR,DE,FR,IT"
+T036,Spider-Man: Far from Home,Films,4,9,5,"BR,FR,IT,KR"
+T037,Crew Girl,TV,4,8,1,"BR,DE,FR,IT"
+T038,Nothing to Lose,Films,4,8,1,"BR,DE,FR,IT"
+T039,The East Palace,TV,4,8,1,"BR,FR,IT,KR"
+T040,Worst Neighbor Ever,TV,4,8,3,"BR,DE,FR,IT"
+T041,Nando Between Two Worlds - A Sintonia Film,Films,4,7,1,"BR,DE,FR,IT"
+T042,The Map of Longing,TV,4,7,3,"BR,DE,FR,IT"
+T043,The Perfect Lie,TV,4,7,3,"BR,DE,FR,IT"
+T044,Why Did I Get Married Again?,Films,4,7,3,"BR,DE,FR,IT"
+T045,Seal Team,TV,4,7,7,"BR,DE,FR,IT"
+T046,Don't Say Good Luck,Films,4,6,4,"BR,DE,FR,IT"
+T047,Extinction,Films,4,5,3,"BR,IT,JP,KR"
+T048,José Totoy 3,TV,4,5,4,"BR,DE,FR,IT"
+T049,The Creator,Films,4,5,4,"DE,IT,JP,KR"
+T050,Monster: The Lizzie Borden Story,TV,4,4,1,"BR,DE,FR,IT"
+T051,Little Brother,Films,4,4,4,"BR,DE,FR,IT"
+T052,Not a Stranger,TV,4,4,4,"BR,DE,FR,IT"
+T053,Gabby's Dollhouse,TV,4,4,5,"BR,DE,FR,IT"
+T054,Spooky in Love,TV,3,17,3,"BR,JP,KR"
+T055,The Beekeeper,Films,3,12,1,"IT,JP,KR"
+T056,Spider-Man: Homecoming,Films,3,10,3,"FR,JP,KR"
+T057,Losing Judgment,TV,3,8,4,"BR,FR,IT"
+T058,Shipwrecked: Nightmare at Sea,Films,3,7,1,"DE,FR,IT"
+T059,The Little Things,Films,3,6,1,"FR,IT,JP"
+T060,Conversations with a Killer: The Charles Manson Tapes,TV,3,6,2,"DE,FR,IT"
+T061,A Toxic Love Story,Films,3,6,4,"DE,FR,IT"
+T062,MOURINHO,TV,3,5,3,"DE,FR,IT"
+T063,Fauda,TV,3,5,6,"DE,FR,IT"
+T064,Turning Point: Generation 9/11,Films,3,5,6,"DE,FR,IT"
+T065,Sonic the Hedgehog 3,Films,3,4,4,"DE,IT,JP"
+T066,The Hard Corps,Films,3,4,4,"BR,DE,KR"
+T067,Gandhari,Films,3,3,1,"BR,FR,KR"
+T068,All the Truth in My Lies,TV,3,3,3,"DE,FR,IT"
+T069,To the Max,Films,3,3,5,"DE,FR,IT"
+T070,I'm Not Afraid,TV,3,3,6,"BR,FR,IT"
+T071,What a Girl Wants,Films,3,3,6,"BR,FR,IT"
+T072,Robin Hood,Films,3,3,7,"BR,DE,IT"
+T073,The Doll,TV,3,3,8,"DE,FR,IT"
+T074,Badly in Love,TV,2,13,1,"JP,KR"
+T075,Smoking Behind the Supermarket With You,TV,2,12,4,"JP,KR"
+T076,Human Vapor,TV,2,10,1,"JP,KR"
+T077,Husbands in Action,Films,2,8,1,"JP,KR"
+T078,The Early Spring,TV,2,7,1,"BR,KR"
+T079,Despicable Me 4,Films,2,7,5,"BR,JP"
+T080,Mousetrap,TV,2,5,1,"JP,KR"
+T081,Sniper: No Nation,Films,2,5,2,"DE,KR"
+T082,Sullivan's Crossing,TV,2,5,5,"DE,IT"
+T083,"My Best Friend, His Girlfriend and Me",Films,2,4,1,"DE,IT"
+T084,Physical 100: Italy,TV,2,4,1,"IT,KR"
+T085,Notes from the Last Row,TV,2,4,2,"JP,KR"
+T086,Hercules,Films,2,4,3,"JP,KR"
+T087,The Polygamist,TV,2,4,5,"BR,FR"
+T088,The Sixth Sense,Films,2,4,6,"IT,JP"
+T089,Kraven the Hunter,Films,2,3,2,"IT,JP"
+T090,Meg 2: The Trench,Films,2,3,2,"BR,FR"
+T091,Anora,Films,2,3,3,"FR,IT"
+T092,Chainsmoker Cat,TV,2,3,3,"JP,KR"
+T093,The Wild Robot,Films,2,3,3,"BR,JP"
+T094,Umthetho,TV,2,3,3,"BR,FR"
+T095,Breaking In,Films,2,3,5,"DE,JP"
+T096,Dragon Wars,Films,2,3,5,"DE,IT"
+T097,Margaux,Films,2,3,5,"DE,KR"
+T098,Max,Films,2,3,5,"JP,KR"
+T099,War Machine,Films,2,3,5,"DE,FR"
+T100,Companion,Films,2,3,6,"BR,DE"
+T101,Another Self,TV,2,3,7,"BR,FR"
+T102,Monster-in-Law,Films,2,3,7,"FR,IT"
+T103,The Contractor,Films,2,2,4,"FR,IT"
+T104,Angel Eyes,Films,2,2,5,"FR,IT"
+T105,Edge of Tomorrow,Films,2,2,5,"IT,KR"
+T106,Daddy’s in Trouble,Films,2,2,6,"FR,IT"
+T107,Wifelike,Films,2,2,6,"DE,FR"
+T108,Anaconda 3: Offspring,Films,2,2,7,"JP,KR"
+T109,Night at the Museum,Films,2,2,7,"FR,IT"
+T110,Into the Blue,Films,2,2,8,"JP,KR"
+T111,The Town,Films,2,2,8,"FR,IT"
+T112,Operation Safed Sagar: The Highest Air Force Mission,TV,2,2,9,"BR,FR"
+T113,Best of the Best,Films,2,2,10,"FR,IT"
+T114,Until the T-shirt Dries,TV,1,11,1,JP
+T115,Vivant,TV,1,11,2,JP
+T116,The Mentalist,TV,1,10,5,BR
+T117,Mushoku Tensei: Jobless Reincarnation,TV,1,9,2,JP
+T118,GATE24:The Border,TV,1,9,3,JP
+T119,My Name Is Farah,TV,1,8,1,BR
+T120,Demon Slayer: Kimetsu no Yaiba Infinity Castle I,Films,1,7,1,KR
+T121,I am Solo,TV,1,7,1,KR
+T122,SUZUKI=BAKUDAN,Films,1,7,2,JP
+T123,The Apartment Job,TV,1,7,3,KR
+T124,"I'm SOLO, Love goes on",TV,1,6,5,KR
+T125,Crayon Shinchan the Movie: Super Hot! The Spicy Kasukabe Dancers,Films,1,5,1,JP
+T126,Kaulitz & Kaulitz,TV,1,5,1,DE
+T127,Wild Sing,Films,1,5,1,KR
+T128,Buen Camino,Films,1,5,7,IT
+T129,Swapped,Films,1,5,8,BR
+T130,Shelter,Films,1,4,1,KR
+T131,Better Late Than Single,TV,1,4,2,KR
+T132,"Four Hands, Two Sonatas",TV,1,4,2,KR
+T133,Your Honor,TV,1,4,2,KR
+T134,Choir of God: Anthem,Films,1,4,3,KR
+T135,Regretting You,Films,1,4,3,DE
+T136,The Rookie,TV,1,4,3,DE
+T137,Match to Marry: With Parents,TV,1,4,4,KR
+T138,My Secretary,TV,1,4,4,KR
+T139,Shrek,Films,1,4,5,BR
+T140,Take a Hike!,TV,1,4,5,KR
+T141,25 Years of You,TV,1,4,6,JP
+T142,Dangerous Animals,Films,1,3,1,DE
+T143,Kingdom: Return of The Great General,Films,1,3,1,JP
+T144,Last Mile,Films,1,3,1,JP
+T145,Rhythm + Flow France,TV,1,3,1,FR
+T146,Sai: Disaster,Films,1,3,1,JP
+T147,Strawberry Moon,Films,1,3,1,JP
+T148,The Convenience Store,Films,1,3,1,JP
+T149,GTO (2026),TV,1,3,2,JP
+T150,Hallan,Films,1,3,2,KR
+T151,Les Condés,Films,1,3,2,FR
+T152,Lobby,Films,1,3,2,KR
+T153,13 Minutes,Films,1,3,3,BR
+T154,Charlie and the Chocolate Factory,Films,1,3,3,BR
+T155,S&X,TV,1,3,3,JP
+T156,Sai,TV,1,3,3,JP
+T157,Stella gemella,Films,1,3,3,IT
+T158,Dune: Part Two,Films,1,3,4,DE
+T159,Kingdom2: Far and Away,Films,1,3,4,JP
+T160,Mom Knows Best?,TV,1,3,4,BR
+T161,People and Meat,Films,1,3,4,KR
+T162,Murder in a Small Town,TV,1,3,5,DE
+T163,The Psychopath I Met,TV,1,3,5,KR
+T164,Bobo Dormouse,TV,1,3,7,DE
+T165,Though I Am an Inept Villainess,TV,1,3,9,JP
+T166,Call My Agent! The Movie,Films,1,2,1,FR
+T167,Golden Kamuy -The Abashiri Prison Raid-,Films,1,2,1,JP
+T168,The Doorman,Films,1,2,1,BR
+T169,The Unrighteous,Films,1,2,1,KR
+T170,The Wave,Films,1,2,1,BR
+T171,True Beauty: The Movie Part 1,Films,1,2,1,JP
+T172,Infinite,Films,1,2,2,DE
+T173,Killing for the Prosecution,Films,1,2,2,JP
+T174,Kissing Is the Easy Part,Films,1,2,2,BR
+T175,Paradise City,Films,1,2,2,BR
+T176,Paulette,Films,1,2,2,FR
+T177,Rheingold,Films,1,2,2,DE
+T178,Rhythm + Flow Italy,TV,1,2,2,IT
+T179,Serial Driver,Films,1,2,2,FR
+T180,Summer ’36,TV,1,2,2,IT
+T181,The Retirement Plan,Films,1,2,2,FR
+T182,True Beauty: The Movie Part 2,Films,1,2,2,JP
+T183,Vanishing Point,Films,1,2,2,KR
+T184,Admiral Yamamoto,Films,1,2,3,JP
+T185,Black Adam,Films,1,2,3,DE
+T186,Doctor-X the Movie,Films,1,2,3,JP
+T187,Fujiko,Films,1,2,3,JP
+T188,How to Train Your Dragon,Films,1,2,3,FR
+T189,Succede Anche Nelle Migliori Famiglie,Films,1,2,3,IT
+T190,Take Shelter,Films,1,2,3,BR
+T191,The Equalizer 3,Films,1,2,3,FR
+T192,Troy,Films,1,2,3,KR
+T193,Anpanman: Chapon's Hero!,Films,1,2,4,JP
+T194,Fast Charlie,Films,1,2,4,BR
+T195,Il Bene Comune,Films,1,2,4,IT
+T196,L'Amore sta bene su tutto,Films,1,2,4,IT
+T197,Practical Magic,Films,1,2,4,IT
+T198,23 000 Lives,Films,1,2,5,BR
+T199,Better Late Than Single: After Service,TV,1,2,5,KR
+T200,Hindsight,Films,1,2,5,KR
+T201,It Comes,Films,1,2,5,JP
+T202,Kingdom 3: The Flame of Destiny,Films,1,2,5,JP
+T203,Natacha (presque) hôtesse de l’air,Films,1,2,5,FR
+T204,Say Cheese,Films,1,2,5,FR
+T205,The Favor,Films,1,2,5,KR
+T206,The Morning After,Films,1,2,5,FR
+T207,Elize Matsunaga: Once Upon a Crime,TV,1,2,6,BR
+T208,Manitou's Canoe,Films,1,2,6,DE
+T209,Run Rabbit Run,Films,1,2,6,BR
+T210,Shrek 2,Films,1,2,6,BR
+T211,The Cleaning Lady,TV,1,2,6,IT
+T212,The Uninvited,Films,1,2,6,DE
+T213,Agent Kim Reactivated – the Universe,TV,1,2,7,KR
+T214,Bee Movie,Films,1,2,7,BR
+T215,Ghost Ship,Films,1,2,7,DE
+T216,Killer Elite,Films,1,2,7,BR
+T217,Mercy For None,TV,1,2,7,KR
+T218,TESTO,TV,1,2,7,DE
+T219,Take Cover,Films,1,2,7,BR
+T220,That Time I Got Reincarnated as a Slime,TV,1,2,7,JP
+T221,The Noisy Mansion,Films,1,2,7,KR
+T222,Till We Meet Again on the Lily Hill,Films,1,2,7,JP
+T223,Venom: The Last Dance,Films,1,2,7,IT
+T224,"High Valley, Top Hero",TV,1,2,8,KR
+T225,The Auditors,TV,1,2,8,KR
+T226,Oh My Goodness!,Films,1,2,9,FR
+T227,Roofman,Films,1,2,9,KR
+T228,Seven,Films,1,2,9,FR
+T229,The Net,Films,1,2,9,IT
+T230,Lottie Dottie Chicken,TV,1,2,10,BR
+T231,Kaede: Our Echoing Stars,Films,1,1,1,JP
+T232,Nocturnal Animals,Films,1,1,1,DE
+T233,Plastic Beauty,TV,1,1,1,JP
+T234,Riot,Films,1,1,1,BR
+T235,The Scandal,TV,1,1,1,KR
+T236,The Warriors,Films,1,1,1,KR
+T237,Black Bag,Films,1,1,2,KR
+T238,Ichi the Killer 4K,Films,1,1,2,JP
+T239,Peleliu: Guernica of Paradise,Films,1,1,2,JP
+T240,Petals and Memories,Films,1,1,2,JP
+T241,Rust Creek,Films,1,1,2,BR
+T242,The Snow Must Go On,Films,1,1,2,FR
+T243,Wunderschöner,Films,1,1,2,DE
+T244,A Case,TV,1,1,3,JP
+T245,Momo,Films,1,1,3,DE
+T246,The Hustle,Films,1,1,3,JP
+T247,Turbulence,Films,1,1,3,FR
+T248,22 Bahnen,Films,1,1,4,DE
+T249,A Lot Like Paris,Films,1,1,4,IT
+T250,A Minecraft Movie,Films,1,1,4,BR
+T251,Blue Beetle,Films,1,1,4,FR
+T252,"Eat, Sleep, then Wait for Happiness",TV,1,1,4,JP
+T253,Einfach Mal Was Schönes,Films,1,1,4,DE
+T254,Gran Turismo: Based on a True Story,Films,1,1,4,FR
+T255,Journey 2: The Mysterious Island,Films,1,1,4,IT
+T256,Joy Ride,Films,1,1,4,BR
+T257,Juror #2,Films,1,1,4,DE
+T258,Mukoubuchi RAW: The Legend of High-Stakes Underground Mahjong Vol.1 – The Graduation,Films,1,1,4,JP
+T259,On Summer Sand,Films,1,1,4,JP
+T260,Quarantine 2: Terminal,Films,1,1,4,KR
+T261,Rapide,Films,1,1,4,FR
+T262,Rescapé : La série,TV,1,1,4,FR
+T263,Retribution,Films,1,1,4,BR
+T264,Ricomincio da TAAAC,Films,1,1,4,IT
+T265,The Breadwinner,Films,1,1,4,DE
+T266,Audrey,Films,1,1,5,KR
+T267,Barbie,Films,1,1,5,FR
+T268,Blood and Bone,Films,1,1,5,IT
+T269,Bride Hard,Films,1,1,5,DE
+T270,Drop,Films,1,1,5,FR
+T271,Hero Without a Class: Who Even Needs Skills?!,TV,1,1,5,JP
+T272,K-Shaman: True Horror Stories,TV,1,1,5,KR
+T273,"One Second Ahead, One Second Behind",Films,1,1,5,JP
+T274,Someone Like You,Films,1,1,5,IT
+T275,Teasing Master Takagi-san Movie,Films,1,1,5,JP
+T276,The Boy Who Cried Wolf,Films,1,1,5,FR
+T277,The Nun II,Films,1,1,5,FR
+T278,The Queen's Classroom,TV,1,1,5,JP
+T279,You Can't Expense This!,TV,1,1,5,JP
+T280,Ballerina,Films,1,1,6,BR
+T281,F9: The Fast Saga,Films,1,1,6,DE
+T282,Kim Ji-Young: Born 1982,Films,1,1,6,JP
+T283,Love Hurts,Films,1,1,6,FR
+T284,Mickey 17,Films,1,1,6,BR
+T285,Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe,Films,1,1,6,KR
+T286,My Summer in Provence,Films,1,1,6,FR
+T287,Race for Glory: Audi vs. Lancia,Films,1,1,6,IT
+T288,Speak No Evil,Films,1,1,6,JP
+T289,The 35-Year Promise,Films,1,1,6,JP
+T290,The Accountant,Films,1,1,6,KR
+T291,The Faithful,TV,1,1,6,BR
+T292,"The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",TV,1,1,6,JP
+T293,The Woman in the Yard,Films,1,1,6,FR
+T294,Toni,Films,1,1,6,FR
+T295,What’s With This Granny!?,Films,1,1,6,FR
+T296,A Cinderella Story,Films,1,1,7,BR
+T297,Blank Canvas: My So-Called Artist's Journey,Films,1,1,7,JP
+T298,Colombiana,Films,1,1,7,FR
+T299,Fear,Films,1,1,7,BR
+T300,Homecam,Films,1,1,7,KR
+T301,Journey to the Center of the Earth,Films,1,1,7,FR
+T302,Monsters vs. Aliens,Films,1,1,7,BR
+T303,My Royal Nemesis,TV,1,1,7,KR
+T304,No Other Choice Extended Edition,Films,1,1,7,KR
+T305,Purehearted,Films,1,1,7,JP
+T306,The Heat,Films,1,1,7,IT
+T307,The Magnificent Seven,Films,1,1,7,KR
+T308,The Wolf and the Lion,Films,1,1,7,FR
+T309,Whenever Possible,TV,1,1,7,KR
+T310,Christmas Carol,Films,1,1,8,KR
+T311,Dancing On,Films,1,1,8,FR
+T312,Evil Dead Rise,Films,1,1,8,DE
+T313,Here the Whole Time,Films,1,1,8,BR
+T314,Horror Express,Films,1,1,8,KR
+T315,Instadocs: The Decoy Plane,TV,1,1,8,DE
+T316,Lavoreremo da Grandi,Films,1,1,8,IT
+T317,Lovesick,TV,1,1,8,FR
+T318,Milky☆Subway: The Galactic Limited Express – the Movie,Films,1,1,8,JP
+T319,Missing Child Videotape,Films,1,1,8,JP
+T320,Nozaki Shuhei Auditor of Bank,TV,1,1,8,JP
+T321,One Way Trip,Films,1,1,8,KR
+T322,Rookie Kim’s Stock Market Mission,TV,1,1,8,KR
+T323,Siberia,Films,1,1,8,BR
+T324,Silent Night,Films,1,1,8,JP
+T325,Sparks of Tomorrow,TV,1,1,8,JP
+T326,THE RIBBON HERO,Films,1,1,8,JP
+T327,The Hawk,TV,1,1,8,DE
+T328,Undertone,Films,1,1,8,DE
+T329,Viral Hit,TV,1,1,8,JP
+T330,You and I Are Polar Opposites,TV,1,1,8,JP
+T331,A Child of My Own,Films,1,1,9,DE
+T332,A Fading Summer,TV,1,1,9,JP
+T333,Adriano the Emperor,TV,1,1,9,BR
+T334,Aline,Films,1,1,9,FR
+T335,Black Trick: The Lawyer Who Controls Justice,TV,1,1,9,JP
+T336,Blade of the Immortal,Films,1,1,9,JP
+T337,Collateral Damage,Films,1,1,9,BR
+T338,Cradle 2 the Grave,Films,1,1,9,KR
+T339,Dog 51,Films,1,1,9,DE
+T340,Dune,Films,1,1,9,DE
+T341,Franco Battiato: The Long Journey,Films,1,1,9,IT
+T342,Freefall: A Reckoning for Boeing,Films,1,1,9,DE
+T343,I Became a Legend After My 10 Year-Long Last Stand,TV,1,1,9,JP
+T344,Jin-Roh: The Wolf Brigade,Films,1,1,9,JP
+T345,Labor Day,Films,1,1,9,FR
+T346,Love Is Blind: UK,TV,1,1,9,DE
+T347,Mukoubuchi RAW: The Legend of High-Stakes Underground Mahjong Vol.3 - Narikin,Films,1,1,9,JP
+T348,My Family,TV,1,1,9,IT
+T349,My Love Story with Yamada-kun at Lv999,Films,1,1,9,JP
+T350,Nozaki Shuhei President of Bank,TV,1,1,9,JP
+T351,Presidents,Films,1,1,9,FR
+T352,Run to the West,Films,1,1,9,KR
+T353,She's Out of My League,Films,1,1,9,IT
+T354,Shrek Forever After,Films,1,1,9,BR
+T355,The Blind Side,Films,1,1,9,KR
+T356,The Haunted Palace,TV,1,1,9,JP
+T357,What’s So Great About Being 90 Years Old?,Films,1,1,9,JP
+T358,Wolf Man,Films,1,1,9,KR
+T359,Zaininnouso (TBD),TV,1,1,9,JP
+T360,2012,Films,1,1,10,JP
+T361,A Company Man,Films,1,1,10,KR
+T362,Barbie in The Nutcracker,Films,1,1,10,BR
+T363,Bastarden,Films,1,1,10,DE
+T364,Bayside Shakedown 4: The Final,Films,1,1,10,JP
+T365,KPop Demon Hunters,Films,1,1,10,FR
+T366,Kingdom,Films,1,1,10,JP
+T367,My AI Partner - Strange Love,TV,1,1,10,KR
+T368,Mystic River,Films,1,1,10,KR
+T369,Resident Alien,TV,1,1,10,DE
+T370,Something's Gotta Give,Films,1,1,10,IT
+T371,Suicide Squad,Films,1,1,10,KR
+T372,The Exiled Heavy Knight Knows How To Game the System,TV,1,1,10,JP
+T373,The Invasion,Films,1,1,10,DE
+T374,The Ramparts of Ice,TV,1,1,10,JP
+T375,The Wicker Man,Films,1,1,10,JP
+T376,WWE SummerSlam,TV,1,1,10,IT
+T377,Wicked,Films,1,1,10,BR
+T378,Zanmang Loopy’s Mukbang,TV,1,1,10,KR

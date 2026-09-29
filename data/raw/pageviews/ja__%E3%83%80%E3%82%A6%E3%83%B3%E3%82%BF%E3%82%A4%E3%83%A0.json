@@ -1,0 +1,819 @@
+{
+ "items": [
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 48
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 105
+  },
+  {
+   "project": "ja.wikipedia",
+   "article": "ダウンタイム",
+   "granularity": "daily",
+   "timestamp": "2026092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 144
+  }
+ ],
+ "_status": 200,
+ "_range": [
+  "20260601",
+  "20260920"
+ ]
+}
