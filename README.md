@@ -19,7 +19,7 @@ Run the four phases in order from the repo root. The first script creates `.venv
 ```powershell
 .\scripts\run_phase1.ps1   # Netflix pull, title universe, Wikidata mapping, pageviews, checks
 .\scripts\run_phase2.ps1   # BigQuery load, SQL metrics, export, independent checks
-.\scripts\run_phase3.ps1   # bootstrap intervals, discrepancies, timing, coverage
+.\scripts\run_phase3.ps1   # bootstrap intervals, discrepancies, timing, coverage, dashboard CSVs
 .\scripts\run_phase4.ps1   # render the Quarto report into docs/
 ```
 
@@ -33,12 +33,14 @@ scripts/            Pipeline scripts, numbered in run order
   01-05               Phase 1: Netflix pull, titles, Wikidata mapping, pageviews, checks
   06-08               Phase 2: BigQuery load, run /sql, independent checks
   09_analysis.py      Phase 3: bootstrap CIs, discrepancies, timing, coverage
+  10_export_tableau.py  Phase 3: dashboard-ready CSVs (full market names, shared columns)
   run_phase1-4.ps1    One runner per phase
 sql/                BigQuery SQL, one CREATE OR REPLACE TABLE per step (01-10)
 data/raw/           Source downloads and API caches (full Netflix file is gitignored)
 data/processed/     Cleaned tables loaded to BigQuery
   bq/                 Local copies of every BigQuery result table
   analysis/           Phase 3 output tables
+  tableau/            agreement, coverage, and discrepancies CSVs for dashboards
 data/logs/          Match log, dropped and contested pairs, phase summaries
 report/             Quarto source (index.qmd) and chart code (charts.py)
 docs/               Rendered site, published by GitHub Pages
