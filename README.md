@@ -2,7 +2,7 @@
 
 I compared Netflix's weekly Top 10 in six markets (Germany, France, Japan, Brazil, Italy, South Korea) with Wikipedia pageviews for the same titles in each market's language, to test whether a platform's own chart and an independent attention signal tell the same story. Agreement depends on the market: French TV, German films and Korean TV line up clearly, while German TV, Japanese TV and Brazilian films show no reliable agreement. The biggest limit is coverage, since only 43% of charted title-market pairs have a local-language article, and attention peaks in the same week a title charts, not before.
 
-**Report:** [SITE LINK PLACEHOLDER](https://raulsolanavarro.github.io/intl-streaming-measurement-check/)
+**Report:** [https://raulsolanavarro.github.io/intl-streaming-measurement-check/](https://raulsolanavarro.github.io/intl-streaming-measurement-check/)
 
 ## How to run it
 
