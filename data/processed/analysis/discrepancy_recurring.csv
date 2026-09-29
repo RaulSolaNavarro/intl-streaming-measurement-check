@@ -1,0 +1,19 @@
+market,category,title_id,show_title,direction,weeks_flagged
+JP,TV,T115,Vivant,attention_ahead,8
+JP,TV,T074,Badly in Love,netflix_ahead,6
+KR,TV,T121,I am Solo,netflix_ahead,4
+KR,Films,T036,Spider-Man: Far from Home,attention_ahead,4
+KR,Films,T127,Wild Sing,netflix_ahead,4
+FR,TV,T017,My Life With the Walter Boys,netflix_ahead,3
+JP,TV,T076,Human Vapor,netflix_ahead,3
+BR,Films,T002,The Last House,netflix_ahead,2
+BR,Films,T153,13 Minutes,netflix_ahead,2
+DE,Films,T215,Ghost Ship,attention_ahead,2
+IT,TV,T063,Fauda,attention_ahead,2
+IT,Films,T128,Buen Camino,attention_ahead,2
+IT,Films,T059,The Little Things,netflix_ahead,2
+IT,Films,T002,The Last House,attention_ahead,2
+FR,Films,T228,Seven,attention_ahead,2
+FR,Films,T056,Spider-Man: Homecoming,attention_ahead,2
+KR,Films,T161,People and Meat,netflix_ahead,2
+KR,TV,T039,The East Palace,netflix_ahead,2
