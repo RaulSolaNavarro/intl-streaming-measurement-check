@@ -4,6 +4,8 @@ I compared Netflix's weekly Top 10 in six markets (Germany, France, Japan, Brazi
 
 **Report:** [https://raulsolanavarro.github.io/intl-streaming-measurement-check/](https://raulsolanavarro.github.io/intl-streaming-measurement-check/)
 
+I built this with AI assistance (Claude and Claude Code); the report's [How I built this](https://raulsolanavarro.github.io/intl-streaming-measurement-check/#how-i-built-this) section explains how.
+
 ## How to run it
 
 I built this on Windows 11 with PowerShell. You need:

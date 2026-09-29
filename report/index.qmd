@@ -236,6 +236,10 @@ if notes:
 
 I expected local audiences to look up their own country's titles less than foreign ones, since they may already know them. I tested this in all six markets, using Wikidata's country of origin. Pooled across markets, the gap between Netflix rank and pageview rank for domestic titles is near zero: `{python} f"{o.loc[('ALL','domestic'),'mean_signed_gap']:+.2f}"`. Germany and Italy point in opposite directions, on small samples. In Germany, domestic titles are looked up less than their Netflix rank suggests (`{python} gap("DE")`). In Italy they are looked up more (`{python} gap("IT")`). I would not draw a conclusion from this without more weeks.
 
+## How I built this
+
+I used AI tools in two ways. I planned the project and reviewed each phase with Claude (Anthropic) in a chat workspace, and I used Claude Code to write and run the pipeline, the SQL, and this report. I set the question and the scope, reviewed each phase's output before the next one started, and decided the methodology questions the work raised, including widening the title universe, the rule for contested matches, treating weeks before an article existed as missing, and making pooled agreement with bootstrap intervals the headline. Every number here is computed from the committed data, and a separate script checks the BigQuery results against an independent recompute.
+
 ## Methodology
 
 **Sources.** Netflix's weekly Top 10 by country (Films and TV, ranks 1 to 10, downloaded from Tudum). Daily Wikipedia pageviews from the Wikimedia REST API, human users only, all platforms. Wikidata for mapping titles to articles.
@@ -298,3 +302,28 @@ Netflix publishes the Top 10 on Tuesdays. A scheduled job on Wednesday morning (
 - **Human review.** New titles that fail to match or get flagged as contested are written to a review list each week (for example, as a GitHub issue). Matching errors are the main risk to the numbers, and a person clears them in a few minutes.
 - **Alerts.** The job also alerts when a market's mapping rate or title-week count drops sharply from the previous week. That usually means a source changed its format, not that audiences changed.
 - **Cost.** This data scans a few megabytes per run in BigQuery, which is within the free tier.
+
+## References
+
+All sources and tools accessed 28 September 2026.
+
+**Data sources**
+
+- Netflix Top 10, Tudum: <https://www.netflix.com/tudum/top10>
+- Netflix Top 10 weekly country file (TSV): <https://www.netflix.com/tudum/top10/data/all-weeks-countries.tsv>
+- Wikimedia Pageviews REST API, per-article endpoint: <https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/>
+- Wikidata API: <https://www.wikidata.org/w/api.php>
+- Wikidata Query Service (SPARQL), used for the type checks in title matching: <https://query.wikidata.org/>
+- Wikidata property P1874, Netflix ID: <https://www.wikidata.org/wiki/Property:P1874>
+
+**Tools**
+
+- Google BigQuery: <https://cloud.google.com/bigquery>
+- Python 3.13: <https://www.python.org/>
+- pandas: <https://pandas.pydata.org/>
+- requests: <https://requests.readthedocs.io/>
+- Plotly for Python: <https://plotly.com/python/>
+- truststore: <https://github.com/sethmlarson/truststore>
+- Quarto: <https://quarto.org/>
+
+Package versions are pinned in `requirements.txt` in the [project repository](https://github.com/RaulSolaNavarro/intl-streaming-measurement-check).
