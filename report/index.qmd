@@ -109,6 +109,8 @@ Three findings:
 
 I also built an [interactive dashboard on Tableau Public](https://public.tableau.com/views/Netflixvs_WikipediaInternationalMeasurementCheck/Dashboard) with the agreement, coverage, and discrepancy results.
 
+The [Recommendations](#recommendations) section turns these findings into six practical steps for a measurement team.
+
 ## Agreement by market
 
 For each market and category, I ranked the charting titles twice every week: once by Netflix's rank and once by pageviews. I then measured how well the two orders line up, pooled across all weeks (Spearman's ρ: 1 means the same order, 0 means no relationship). The bars show 95% bootstrap intervals. Hollow markers are low confidence (fewer than 30 title-weeks).
@@ -237,6 +239,17 @@ if notes:
 ## Domestic titles
 
 I expected local audiences to look up their own country's titles less than foreign ones, since they may already know them. I tested this in all six markets, using Wikidata's country of origin. Pooled across markets, the gap between Netflix rank and pageview rank for domestic titles is near zero: `{python} f"{o.loc[('ALL','domestic'),'mean_signed_gap']:+.2f}"`. Germany and Italy point in opposite directions, on small samples. In Germany, domestic titles are looked up less than their Netflix rank suggests (`{python} gap("DE")`). In Italy they are looked up more (`{python} gap("IT")`). I would not draw a conclusion from this without more weeks.
+
+## Recommendations
+
+These are written for a measurement team deciding how far to trust a third-party signal in each market. The same questions apply whether the signal is Wikipedia pageviews or a panel vendor.
+
+1. Score each market separately before relying on a third-party source. Agreement ranged from clear (French TV, German films, Korean TV) to unreliable (Brazilian films, Japanese TV and German TV, where the interval includes zero). A single global number would have hidden that. I would publish a per-market agreement score with its interval, and use the source as a cross-check only where the interval sits clearly above zero.
+2. Measure coverage before trusting agreement. In Japan, only 26% of charted titles had a local-language article, and in Brazilian TV only 17%. Any validation there rests on a small slice of the catalog, likely skewed toward international releases. In those markets I would report coverage next to every agreement figure and look for a second, local signal before drawing conclusions.
+3. Reconcile after the week closes, on the same weekly calendar. Attention peaked in the release week, most often on its closing Sunday. The signal confirms how a title performed; it doesn't predict it. I would run the comparison once each week's data is complete, and never compare partial weeks.
+4. Treat every discrepancy as a possible data problem first. The flag on 13 Minutes in Brazil most likely points to a title-matching error, not a real gap in audience behavior. I would keep a weekly review list: check the mapping and the data first, then investigate the pairs that stay flagged week after week, such as The Last House in Brazil (flagged in 3 of 4 weeks).
+5. Own the title crosswalk. Title matching failed in two ways. Wrong matches came from stale identifiers, remakes and same-name titles: every contested match traced back to a newer title with the same name. Missed matches mostly came from titles with no Wikidata entry at all (73 of 138). A maintained mapping table with explicit rules, a review step for same-name titles, and a running list of unmapped titles protects every number built on top of it.
+6. Hold off on the domestic-title pattern. Germany and Italy pointed in opposite directions, on fewer than ten titles each. That needs more weeks of data before it informs any decision.
 
 ## How I built this
 
