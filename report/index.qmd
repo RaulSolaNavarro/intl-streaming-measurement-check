@@ -107,6 +107,8 @@ Three findings:
 2. **Coverage limits this method more than disagreement does.** Only `{python} share_mapped` of charted title-market pairs have an article in the local language. Japan sits at `{python} jp_all_rate` and Brazilian TV at `{python} br_tv_rate`. The comparison only works for titles Wikipedia covers.
 3. **Attention peaks in the release week, not before it.** `{python} share_first_week` of pageview peaks land in the title's first chart week, most often on its closing Sunday. Films are the partial exception: `{python} share_films_before` of them peak before they chart. Pageviews work as a same-week check, not an early warning.
 
+I also built an [interactive dashboard on Tableau Public](https://public.tableau.com/views/Netflixvs_WikipediaInternationalMeasurementCheck/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) with the agreement, coverage, and discrepancy results.
+
 ## Agreement by market
 
 For each market and category, I ranked the charting titles twice every week: once by Netflix's rank and once by pageviews. I then measured how well the two orders line up, pooled across all weeks (Spearman's ρ: 1 means the same order, 0 means no relationship). The bars show 95% bootstrap intervals. Hollow markers are low confidence (fewer than 30 title-weeks).
