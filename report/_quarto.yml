@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "Netflix Top 10 vs Wikipedia attention"
+  site-url: "https://raulsolanavarro.github.io/intl-streaming-measurement-check/"
+  repo-url: "https://github.com/RaulSolaNavarro/intl-streaming-measurement-check"
+  repo-actions: [source]
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    number-sections: true
+    fontsize: 1rem
+    mainfont: 'system-ui, -apple-system, "Segoe UI", sans-serif'
+    backgroundcolor: "#fcfcfb"
+    fontcolor: "#0b0b0b"
+    page-layout: article
+
+execute:
+  echo: false
+  warning: false
+  message: false
