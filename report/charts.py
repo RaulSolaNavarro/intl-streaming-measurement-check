@@ -217,28 +217,41 @@ def forest_table(d: dict) -> pd.DataFrame:
     })
 
 
-def top_discrepancies(d: dict, k: int = 10) -> pd.DataFrame:
+DISC_MIN_WEEKS = 3  # a pair needs this many evaluated weeks to be listed
+DISC_TOP_K = 10
+
+
+def top_discrepancies(d: dict) -> tuple[pd.DataFrame, int]:
     """
-    Title-market pairs with the largest mean normalized rank gap, over the
-    market-weeks where the pair was evaluated (n >= 4 titles). Ties are
-    broken by weeks flagged, then weeks evaluated, then title.
-    Direction follows the sign of the mean rank gap.
+    The most persistent disagreements. Returns (table, number of pairs that
+    qualified).
+
+    A title-market pair qualifies if it was evaluated (market-week with
+    n >= 4 titles) in at least DISC_MIN_WEEKS weeks, so one unusual week
+    can't put a title at the top. Pairs are ranked by the share of their
+    evaluated weeks that were flagged, then by mean normalized gap, then
+    title. Up to DISC_TOP_K are shown. Direction follows the sign of the
+    mean rank gap.
     """
     x = d["disc"][d["disc"]["variant"] == "all"]
     g = (x.groupby(["market", "category", "title_id", "show_title"])
           .agg(mean_gap=("norm_gap", "mean"), weeks=("norm_gap", "size"),
                flagged=("is_discrepancy", "sum"), signed=("rank_gap", "mean"))
-          .reset_index()
-          .sort_values(["mean_gap", "flagged", "weeks", "show_title"],
-                       ascending=[False, False, False, True])
-          .head(k))
-    return pd.DataFrame({
+          .reset_index())
+    g = g[g["weeks"] >= DISC_MIN_WEEKS].copy()
+    n_qualified = len(g)
+    g["share"] = g["flagged"] / g["weeks"]
+    g = (g.sort_values(["share", "mean_gap", "show_title"], ascending=[False, False, True])
+          .head(DISC_TOP_K))
+    table = pd.DataFrame({
         "Title": g["show_title"], "Market": g["market"].map(MARKET_NAME),
         "Category": g["category"],
         "Direction": np.where(g["signed"] > 0, "Attention ahead", "Netflix ahead"),
+        "Weeks flagged": [f"{int(f)} of {int(w)}" for f, w in zip(g["flagged"], g["weeks"])],
+        "Share flagged": [f"{s:.0%}" for s in g["share"]],
         "Mean normalized gap": [fmt2(v) for v in g["mean_gap"]],
-        "Weeks evaluated": g["weeks"], "Weeks flagged": g["flagged"].astype(int),
     })
+    return table, n_qualified
 
 
 def _grouped_bars(t: pd.DataFrame, value: str, label, title: str, height=360) -> go.Figure:

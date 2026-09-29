@@ -11,7 +11,7 @@ jupyter: python3
 ```{python}
 #| label: setup
 import pandas as pd
-from IPython.display import Markdown
+from IPython.display import Markdown, display
 import charts as c
 
 c.plotly_library()  # plotly.js, inline, once per page
@@ -73,6 +73,14 @@ big_parts = [(f"{SENS_LABEL[m]} {cat}", signed(r["all"]), signed(r["excl_contest
 # "Brazil TV moves from -0.19 to 0.17, and German TV from 0.04 to -0.16"
 big_text = ", and ".join(f"{lab} {'moves from' if i == 0 else 'from'} {a_} to {b_}"
                          for i, (lab, a_, b_) in enumerate(big_parts))
+# Largest discrepancies: persistent pairs only (see charts.top_discrepancies).
+disc_table, n_disc = c.top_discrepancies(d)
+if n_disc < c.DISC_TOP_K:
+    disc_count_text = (f"Only {n_disc} pairs qualify, so the table shows all of them."
+                       if n_disc else "No pairs qualify.")
+else:
+    disc_count_text = f"{n_disc} pairs qualify. The table shows the top {len(disc_table)}."
+
 lag = c.article_lag(d)
 n_late = int(lag["appeared_after_chart"].sum())
 
@@ -184,20 +192,45 @@ Markdown(c.timing_table(d).to_markdown(index=False, disable_numparse=True))
 
 ## Largest discrepancies
 
-A discrepancy is a week in which Netflix and pageviews place a title at least half the list apart. I only evaluate market-weeks with at least four titles, because in smaller sets a half-list gap is one or two positions. The table ranks title-market pairs by their mean normalized gap across the weeks where they were evaluated (0 means the same position, 1 means opposite ends). Several pairs tie at 0.75; ties are broken by weeks flagged, then weeks evaluated, then title.
+A discrepancy is a week in which Netflix and pageviews place a title at least half the list apart. I only evaluate market-weeks with at least four titles, because in smaller sets a half-list gap is one or two positions.
 
-Most of the top pairs were evaluated in only one or two weeks, so read them as examples, not patterns. The Last House in Brazil is the one sustained case in the table.
+To list persistent disagreements rather than one-off weeks, a title-market pair needs at least `{python} c.DISC_MIN_WEEKS` evaluated weeks. Pairs are ranked by the share of those weeks that were flagged, then by mean normalized gap (0 means the same position, 1 means opposite ends). `{python} disc_count_text`
 
 ```{python}
-Markdown(c.top_discrepancies(d).to_markdown(index=False, disable_numparse=True))
+Markdown(disc_table.to_markdown(index=False, disable_numparse=True))
 ```
 
-Possible explanations for four of them. **All four are unverified.**
-
-- **The Contractor (France), Netflix ahead.** This is one of the contested matches in the limitations section. The pageviews may belong to the 2007 film while the title charting in 2026 is a newer one with the same name, which would make the gap a matching error rather than a real disagreement.
-- **Spider-Man: Homecoming and Spider-Man: Far from Home (France), attention ahead.** Franchise articles draw steady traffic from news about the wider series and new releases, whether or not people are watching these films on Netflix that week.
-- **Mystic River (South Korea), attention ahead.** An older, well-known film likely has a steady baseline of reference reading that has nothing to do with its Netflix run.
-- **Journey 2: The Mysterious Island (Italy), Netflix ahead.** A family film can be watched widely by households with children without prompting many adults to look it up.
+```{python}
+# Explanation notes, keyed by (title, market). Only notes for titles in the
+# table are shown, so a data refresh can't leave a note for a title that
+# dropped out.
+DISC_NOTES = {
+    ("13 Minutes", "Brazil"): (
+        "**13 Minutes (Brazil), Netflix ahead.** The flag likely surfaced a matching error, not "
+        "a real disagreement. This pair is on the contested list: its Netflix ID points at the "
+        "2015 German film, while the title charting in 2026 may be the 2021 film of the same "
+        "name. This is the intended use of the list: disagreements get checked for data "
+        "problems before they're read as audience behavior."),
+    ("Spider-Man: Far from Home", "South Korea"): (
+        "**Spider-Man: Far from Home (South Korea), attention ahead.** Franchise articles draw "
+        "steady traffic from news about the wider series and new releases, whether or not "
+        "people are watching the film on Netflix that week."),
+    ("Vivant", "Japan"): (
+        "**Vivant (Japan), attention ahead.** A domestic drama that aired on Japanese broadcast "
+        "TV before streaming. Its article likely draws readers who watched it there, so "
+        "attention runs ahead of its Netflix rank."),
+    ("The Last House", "Brazil"): (
+        "**The Last House (Brazil and Italy), opposite directions.** The same film is Netflix "
+        "ahead in Brazil and attention ahead in Italy. That points to differences between the "
+        "two articles, such as how new or well linked each one is, more than to differences "
+        "between audiences."),
+}
+shown = set(zip(disc_table["Title"], disc_table["Market"]))
+notes = [text for key, text in DISC_NOTES.items() if key in shown]
+if notes:
+    header = f"Possible explanations for {NUMBER_WORD[len(notes)]} of them. **All are unverified.**"
+    display(Markdown(header + "\n\n" + "\n".join(f"- {t}" for t in notes)))
+```
 
 ## Domestic titles
 
