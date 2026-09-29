@@ -39,7 +39,7 @@ LANG_NAME = {"DE": "German", "FR": "French", "JP": "Japanese", "BR": "Portuguese
 
 # Palette (light mode).
 COLOR = {"Films": "#2a78d6", "TV": "#eb6834"}
-SURFACE = "#fcfcfb"
+SURFACE = "#ffffff"  # matches the page background
 INK = "#0b0b0b"
 INK_2 = "#52514e"
 MUTED = "#898781"
@@ -48,6 +48,16 @@ AXIS = "#c3c2b7"
 FONT = 'system-ui, -apple-system, "Segoe UI", sans-serif'
 
 STATIC = {"staticPlot": True, "responsive": True, "displayModeBar": False}
+
+# Forest plot: value labels closer than this to 0 are shifted sideways.
+ZERO_LABEL_GAP = 0.12
+# Weekly-rho median is shown only when at least this many weeks qualify (n >= 4).
+MIN_WEEKS_FOR_MEDIAN = 3
+
+
+def fmt2(x) -> str:
+    """Two decimals, or n/a for a missing value."""
+    return "n/a" if pd.isna(x) else f"{x:.2f}"
 
 
 def plotly_library() -> None:
@@ -103,6 +113,7 @@ def load() -> dict:
     """Every table the report needs, plus a few headline numbers."""
     d = {
         "agree": pd.read_csv(ANALYSIS / "agreement_ci.csv"),
+        "disc": pd.read_csv(BQ / "discrepancies.csv"),
         "origin": pd.read_csv(ANALYSIS / "gap_by_origin.csv"),
         "timing": pd.read_csv(BQ / "timing.csv"),
         "coverage_pairs": pd.read_csv(BQ / "article_coverage.csv"),
@@ -167,7 +178,10 @@ def forest_plot(d: dict) -> go.Figure:
             fig.add_trace(go.Scatter(
                 x=part["pooled_rho"], y=part["label"],
                 mode="markers+text", text=[f"{v:.2f}" for v in part["pooled_rho"]],
-                textposition="top center", textfont=dict(size=11, color=INK_2),
+                # A centered label near 0 sits on the zero line; push it to the side.
+                textposition=[("top right" if v >= 0 else "top left") if abs(v) < ZERO_LABEL_GAP
+                              else "top center" for v in part["pooled_rho"]],
+                textfont=dict(size=11, color=INK_2),
                 error_x=dict(type="data", symmetric=False,
                              array=part["ci_high"] - part["pooled_rho"],
                              arrayminus=part["pooled_rho"] - part["ci_low"],
@@ -182,7 +196,8 @@ def forest_plot(d: dict) -> go.Figure:
     fig.update_xaxes(title_text="Pooled Spearman ρ (bars: 95% CI)", row=2, col=1)
     fig.update_annotations(selector=dict(text="Films"), font=dict(color=COLOR["Films"], size=14), x=0, xanchor="left")
     fig.update_annotations(selector=dict(text="TV"), font=dict(color=COLOR["TV"], size=14), x=0, xanchor="left")
-    _base_layout(fig, height=600, margin=dict(l=10, r=20, t=40, b=60))
+    # Extra top margin keeps the first row's value label clear of the edge.
+    _base_layout(fig, height=620, margin=dict(l=10, r=20, t=70, b=60))
     return fig
 
 
@@ -190,13 +205,39 @@ def forest_table(d: dict) -> pd.DataFrame:
     a = agreement_all(d)
     a["_m"] = a["market"].map({m: i for i, m in enumerate(MARKETS)})
     a = a.sort_values(["category", "_m"])
+    enough = a["weeks_with_rho"] >= MIN_WEEKS_FOR_MEDIAN
     return pd.DataFrame({
         "Market": a["market_name"], "Category": a["category"],
-        "Pooled ρ": a["pooled_rho"].round(2),
-        "95% CI": [f"{l:.2f} to {h:.2f}" for l, h in zip(a["ci_low"], a["ci_high"])],
+        "Pooled ρ": [fmt2(v) for v in a["pooled_rho"]],
+        "95% CI": [f"{fmt2(l)} to {fmt2(h)}" for l, h in zip(a["ci_low"], a["ci_high"])],
         "Title-weeks": a["n_title_weeks"], "Weeks": a["n_weeks"],
-        "Weekly ρ median (weeks n≥4)": a["weekly_rho_median"].round(2),
+        "Weeks in weekly median": a["weeks_with_rho"].astype(int),
+        "Weekly ρ median": [fmt2(v) if ok else "n/a" for v, ok in zip(a["weekly_rho_median"], enough)],
         "Low confidence": np.where(a["low_confidence"], "yes", ""),
+    })
+
+
+def top_discrepancies(d: dict, k: int = 10) -> pd.DataFrame:
+    """
+    Title-market pairs with the largest mean normalized rank gap, over the
+    market-weeks where the pair was evaluated (n >= 4 titles). Ties are
+    broken by weeks flagged, then weeks evaluated, then title.
+    Direction follows the sign of the mean rank gap.
+    """
+    x = d["disc"][d["disc"]["variant"] == "all"]
+    g = (x.groupby(["market", "category", "title_id", "show_title"])
+          .agg(mean_gap=("norm_gap", "mean"), weeks=("norm_gap", "size"),
+               flagged=("is_discrepancy", "sum"), signed=("rank_gap", "mean"))
+          .reset_index()
+          .sort_values(["mean_gap", "flagged", "weeks", "show_title"],
+                       ascending=[False, False, False, True])
+          .head(k))
+    return pd.DataFrame({
+        "Title": g["show_title"], "Market": g["market"].map(MARKET_NAME),
+        "Category": g["category"],
+        "Direction": np.where(g["signed"] > 0, "Attention ahead", "Netflix ahead"),
+        "Mean normalized gap": [fmt2(v) for v in g["mean_gap"]],
+        "Weeks evaluated": g["weeks"], "Weeks flagged": g["flagged"].astype(int),
     })
 
 
@@ -270,7 +311,7 @@ def timing_table(d: dict) -> pd.DataFrame:
     for (m, cat), s in u.groupby(["market", "category"]):
         s = s["days_peak_vs_chart"]
         rows.append({"Market": MARKET_NAME[m], "Category": cat, "Pairs": len(s),
-                     "Median days": s.median(),
+                     "Median days": f"{s.median():g}",
                      "Peak before charting": f"{(s < 0).mean():.0%}",
                      "Peak in first chart week": f"{s.between(0, 6).mean():.0%}",
                      "Peak later": f"{(s > 6).mean():.0%}", "_m": MARKETS.index(m)})

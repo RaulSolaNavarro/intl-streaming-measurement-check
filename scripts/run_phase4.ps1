@@ -11,6 +11,12 @@ $root = Split-Path -Parent $PSScriptRoot
 $python = Join-Path $root ".venv\Scripts\python.exe"
 if (-not (Test-Path $python)) { throw "No .venv found. Run .\scripts\run_phase1.ps1 first." }
 
+# docs/ is fully generated. Quarto doesn't clean an output folder that sits
+# outside the project, so old files (such as stylesheets with an outdated
+# content hash) would pile up. Start from an empty folder every time.
+$docs = Join-Path $root "docs"
+if (Test-Path $docs) { Remove-Item $docs -Recurse -Force }
+
 $env:QUARTO_PYTHON = $python
 # Quarto writes progress messages to stderr. Windows PowerShell 5.1 turns
 # stderr from a native command into an error record, which "Stop" would treat

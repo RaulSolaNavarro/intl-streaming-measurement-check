@@ -1,7 +1,9 @@
 ---
 title: "Do Netflix's rankings and Wikipedia attention agree?"
 subtitle: "Reconciling a first-party chart with a third-party signal across six markets"
-author: "Raul J Sola Navarro"
+author:
+  - name: "Raul J Sola Navarro"
+    url: "https://www.linkedin.com/in/raul-sola-navarro/"
 date: last-modified
 jupyter: python3
 ---
@@ -29,6 +31,8 @@ n_mapped = len(d["amap"])
 share_mapped = f"{n_mapped / n_pairs:.0%}"
 mr = c.mapping_rates(d).set_index(["market", "category"])
 films_better = [m for m in c.MARKETS if mr.loc[(m, "Films"), "rate"] > mr.loc[(m, "TV"), "rate"] + 0.05]
+NUMBER_WORD = {0: "none", 1: "one", 2: "two", 3: "three", 4: "four", 5: "five", 6: "all"}
+films_better_word = NUMBER_WORD[len(films_better)]
 jp_all = mr.xs("JP", level="market")
 jp_all_rate = f"{jp_all['with_article'].sum() / jp_all['charted'].sum():.0%}"
 br_tv_rate = f"{mr.loc[('BR', 'TV'), 'rate']:.0%}"
@@ -50,14 +54,25 @@ n_timing = len(u)
 peak_wd = pd.to_datetime(u["peak_date"]).dt.day_name()
 share_sunday = f"{(peak_wd == 'Sunday').mean():.0%}"
 share_day6 = f"{(u['days_peak_vs_chart'] == 6).mean():.0%}"
+# Films whose peak came 29 or more days before the first chart Monday.
+share_films_early = f"{(films <= -29).mean():.0%}"
+n_films_early, n_films = int((films <= -29).sum()), len(films)
 
 # Sensitivity of pooled rho to dropping contested_kept pairs.
 sens = d["agree"].pivot_table(index=["market", "category"], columns="variant",
                               values="pooled_rho")
 sens["diff"] = (sens["excl_contested_kept"] - sens["all"]).abs()
-big = sens[sens["diff"] > 0.05]
-big_text = " and ".join(f"{c.MARKET_NAME[m]} {cat} ({r['all']:.2f} to {r['excl_contested_kept']:.2f})"
-                        for (m, cat), r in big.iterrows())
+big = sens[sens["diff"] > 0.05].sort_values("diff", ascending=False)
+signed = lambda v: f"{v:.2f}".replace("-", "−")  # typographic minus sign
+# Labels for this sentence, in the wording chosen for the report.
+SENS_LABEL = {"DE": "German", "FR": "French", "JP": "Japanese", "BR": "Brazil",
+              "IT": "Italian", "KR": "Korean"}
+big_parts = [(f"{SENS_LABEL[m]} {cat}", signed(r["all"]), signed(r["excl_contested_kept"]))
+             for (m, cat), r in big.iterrows()]
+# First cell gets the verb, later cells don't:
+# "Brazil TV moves from -0.19 to 0.17, and German TV from 0.04 to -0.16"
+big_text = ", and ".join(f"{lab} {'moves from' if i == 0 else 'from'} {a_} to {b_}"
+                         for i, (lab, a_, b_) in enumerate(big_parts))
 lag = c.article_lag(d)
 n_late = int(lag["appeared_after_chart"].sum())
 
@@ -102,7 +117,7 @@ Week-to-week values swing far more than the pooled figure, because a single week
 ## Table view
 
 ```{python}
-Markdown(c.forest_table(d).to_markdown(index=False))
+Markdown(c.forest_table(d).to_markdown(index=False, disable_numparse=True))
 ```
 :::
 
@@ -116,7 +131,7 @@ The comparison only exists where a title has a Wikipedia article in the market's
 c.show(c.mapping_rate_chart(d))
 ```
 
-Films are covered better than TV in `{python} len(films_better)` of the six markets. Japan and South Korea are roughly even. Brazil's Portuguese edition covers few of the TV shows that chart there, and the Japanese edition covers few titles of either kind.
+Films are covered better than TV in `{python} films_better_word` of the six markets. Japan and South Korea are roughly even. Brazil's Portuguese edition covers few of the TV shows that chart there, and the Japanese edition covers few titles of either kind.
 
 Articles also lag. `{python} n_late` of the `{python} n_mapped` articles got their first recorded view only after the title was already charting. For those weeks, a zero in the pageview data means "no article yet", not "no interest", so I treat them as missing.
 
@@ -138,8 +153,8 @@ Markdown(pd.DataFrame({
     "Charted": t["charted"], "With article": t["with_article"],
     "Mapping rate": [f"{x:.0%}" for x in t["rate"]],
     "Article first read after charting": t["appeared_after_chart"],
-    "Median days late (when late)": t["median_lag_days_when_late"],
-}).to_markdown(index=False))
+    "Median days late (when late)": ["n/a" if pd.isna(v) else f"{v:g}" for v in t["median_lag_days_when_late"]],
+}).to_markdown(index=False, disable_numparse=True))
 ```
 :::
 
@@ -157,13 +172,32 @@ Sunday is the dominant peak day. `{python} share_sunday` of all peaks fall on a 
 
 A second, smaller cluster sits on the Sunday just before the first chart week. Those are mostly films, and would fit titles that had a cinema run or a trailer campaign before reaching Netflix. I did not test that explanation.
 
+Films also have a long early tail. `{python} share_films_early` of films (`{python} n_films_early` of `{python} n_films`) peaked 29 or more days before they first charted, grouped at the left edge of the chart. This may reflect a theatrical release weeks or months before the streaming debut, when interest in the article was highest. That explanation is untested.
+
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## Table view
 
 ```{python}
-Markdown(c.timing_table(d).to_markdown(index=False))
+Markdown(c.timing_table(d).to_markdown(index=False, disable_numparse=True))
 ```
 :::
+
+## Largest discrepancies
+
+A discrepancy is a week in which Netflix and pageviews place a title at least half the list apart. I only evaluate market-weeks with at least four titles, because in smaller sets a half-list gap is one or two positions. The table ranks title-market pairs by their mean normalized gap across the weeks where they were evaluated (0 means the same position, 1 means opposite ends). Several pairs tie at 0.75; ties are broken by weeks flagged, then weeks evaluated, then title.
+
+Most of the top pairs were evaluated in only one or two weeks, so read them as examples, not patterns. The Last House in Brazil is the one sustained case in the table.
+
+```{python}
+Markdown(c.top_discrepancies(d).to_markdown(index=False, disable_numparse=True))
+```
+
+Possible explanations for four of them. **All four are unverified.**
+
+- **The Contractor (France), Netflix ahead.** This is one of the contested matches in the limitations section. The pageviews may belong to the 2007 film while the title charting in 2026 is a newer one with the same name, which would make the gap a matching error rather than a real disagreement.
+- **Spider-Man: Homecoming and Spider-Man: Far from Home (France), attention ahead.** Franchise articles draw steady traffic from news about the wider series and new releases, whether or not people are watching these films on Netflix that week.
+- **Mystic River (South Korea), attention ahead.** An older, well-known film likely has a steady baseline of reference reading that has nothing to do with its Netflix run.
+- **Journey 2: The Mysterious Island (Italy), Netflix ahead.** A family film can be watched widely by households with children without prompting many adults to look it up.
 
 ## Domestic titles
 
@@ -197,7 +231,7 @@ I expected local audiences to look up their own country's titles less than forei
 
 **Coverage is biased toward titles with articles.** The comparison can only see titles that some editor chose to write about. That favors big international releases and franchises, and leaves out many local reality shows, documentaries and smaller series. Agreement measured on covered titles may not hold for the rest.
 
-**Some matches may still be wrong.** `{python} len(kept_c)` title-market pairs were matched through a Netflix ID while a newer same-name item exists that didn't meet the override rule. Excluding them moves each pooled ρ by 0.05 or less, except `{python} big_text`. Both of those intervals include zero with or without the contested pairs, so no conclusion depends on them.
+**Some matches may still be wrong.** `{python} len(kept_c)` title-market pairs were matched through a Netflix ID while a newer same-name item exists that didn't meet the override rule. Excluding them moves each pooled ρ by 0.05 or less, with two exceptions. `{python} big_text`. Both of those intervals include zero with or without the contested pairs, so no conclusion depends on them.
 
 ::: {.callout-note collapse="true" appearance="minimal"}
 ## Contested matches kept on the Netflix ID item
@@ -207,7 +241,7 @@ k = (kept_c.groupby(["show_title", "netflix_id_qid", "newer_rivals"])["market"]
            .apply(lambda s: ", ".join(sorted(s))).reset_index())
 Markdown(k.rename(columns={"show_title": "Title", "netflix_id_qid": "Matched item",
                            "newer_rivals": "Newer same-name items", "market": "Markets"})
-          .to_markdown(index=False))
+          .to_markdown(index=False, disable_numparse=True))
 ```
 :::
 
@@ -223,7 +257,7 @@ With real viewing data on both sides, the useful outputs are the same as here. F
 
 ## Automated weekly refresh
 
-Netflix publishes the Top 10 on Tuesdays. A scheduled job on Wednesday morning (UTC) would run the whole pipeline: pull and map, load BigQuery and run the SQL, analyze, and render this site. The scripts already run end to end without manual steps, and each phase has a runner (`scripts/run_phase1.ps1` to `run_phase3.ps1`).
+Netflix publishes the Top 10 on Tuesdays. A scheduled job on Wednesday morning (UTC) would run the whole pipeline: pull and map, load BigQuery and run the SQL, analyze, and render this site. The scripts already run end to end without manual steps, and each phase has a runner (`scripts/run_phase1.ps1` to `run_phase4.ps1`).
 
 - **Where it runs.** A GitHub Actions workflow on a weekly cron schedule, authenticating to Google Cloud through Workload Identity Federation. That avoids stored service account keys. It commits the refreshed `docs/` folder, and GitHub Pages republishes.
 - **Incremental work.** The 12-week window moves forward one week at a time. Wikidata answers are cached per title, so only new titles hit the API. At a larger scale, I would store pageviews in a date-partitioned BigQuery table and append only the new days, instead of reloading the full range.

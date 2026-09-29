@@ -17,9 +17,10 @@ format:
     number-sections: true
     fontsize: 1rem
     mainfont: 'system-ui, -apple-system, "Segoe UI", sans-serif'
-    backgroundcolor: "#fcfcfb"
+    backgroundcolor: "#ffffff"
     fontcolor: "#0b0b0b"
     page-layout: article
+    include-after-body: author-link.html
 
 execute:
   echo: false
