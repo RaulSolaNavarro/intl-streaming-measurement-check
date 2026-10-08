@@ -14,6 +14,7 @@ I built this on Windows 11 with PowerShell. You need:
 
 - Python 3.13
 - Quarto 1.8 or later
+- Google Chrome (or Chromium), installed locally. The report's charts are rendered to static SVG by kaleido, which drives a local Chrome. If kaleido can't find one, `.\.venv\Scripts\python.exe -c "import kaleido; kaleido.get_chrome_sync()"` downloads a copy for it.
 - Google Cloud SDK, logged in with Application Default Credentials (`gcloud auth application-default login`), and access to a BigQuery project. The project ID is set in `scripts/config.py`.
 
 Run the four phases in order from the repo root. The first script creates `.venv` and installs `requirements.txt` if needed.
@@ -22,7 +23,7 @@ Run the four phases in order from the repo root. The first script creates `.venv
 .\scripts\run_phase1.ps1   # Netflix pull, title universe, Wikidata mapping, pageviews, checks
 .\scripts\run_phase2.ps1   # BigQuery load, SQL metrics, export, independent checks
 .\scripts\run_phase3.ps1   # bootstrap intervals, discrepancies, timing, coverage, dashboard CSVs
-.\scripts\run_phase4.ps1   # render the Quarto report into docs/
+.\scripts\run_phase4.ps1   # render the Quarto report into docs/ (charts via kaleido and Chrome)
 ```
 
 Phases 1 and 3 cache their API answers, so a second run is quick. Add `-Refresh` to `run_phase1.ps1` to download everything again. Each phase writes a readable summary to `data/logs/`, and the check scripts stop the run if any check fails.

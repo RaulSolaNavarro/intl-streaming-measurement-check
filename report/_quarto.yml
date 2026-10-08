@@ -20,6 +20,7 @@ format:
     backgroundcolor: "#ffffff"
     fontcolor: "#0b0b0b"
     page-layout: article
+    css: styles.css
     include-after-body: author-link.html
 
 execute:

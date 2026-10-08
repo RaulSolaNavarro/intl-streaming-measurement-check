@@ -1,0 +1,81 @@
+/*
+  Report styles. Loaded after the Quarto theme (see _quarto.yml).
+
+  Charts are inline SVG with a viewBox (see report/charts.py), so they scale
+  to the width of whatever contains them, on screen and on paper.
+*/
+
+figure.chart {
+  margin: 1.5rem 0 0.5rem;
+}
+
+figure.chart svg.chart-svg {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+figure.chart .figure-caption {
+  margin-top: 0.25rem;
+}
+
+/* Wide tables scroll sideways on narrow screens instead of overflowing. */
+.cell-output-display table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+@media print {
+  /* Keep each chart (with its caption), table, and callout on one page. */
+  figure.chart,
+  .cell-output-display,
+  table,
+  tr,
+  .callout {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Scale charts, images, and tables to the printed page width. */
+  figure.chart svg.chart-svg,
+  img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .cell-output-display table,
+  table {
+    display: table;
+    width: 100% !important;
+    max-width: 100% !important;
+    overflow: visible;
+    font-size: 0.85em;
+  }
+
+  /* The contents sidebar is navigation, not content: hide it on paper and
+     give the text column the full page width. */
+  #quarto-sidebar,
+  #quarto-margin-sidebar,
+  nav#TOC {
+    display: none !important;
+  }
+
+  #quarto-content,
+  main.content,
+  #quarto-document-content {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Keep a heading with the content that follows it. */
+  h2, h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+}

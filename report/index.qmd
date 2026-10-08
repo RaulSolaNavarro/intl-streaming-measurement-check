@@ -16,7 +16,6 @@ import pandas as pd
 from IPython.display import Markdown, display
 import charts as c
 
-c.plotly_library()  # plotly.js, inline, once per page
 d = c.load()
 K = c.pipeline_constants()   # thresholds, read from the pipeline scripts
 W = c.NUMBER_WORD
@@ -363,6 +362,7 @@ I used AI tools in two ways. I planned the project and reviewed each phase with 
 Netflix publishes the Top 10 on Tuesdays. A scheduled job on Wednesday morning (UTC) would run the whole pipeline: pull and map, load BigQuery and run the SQL, analyze, and render this site. The scripts already run end to end without manual steps, and each phase has a runner (`scripts/run_phase1.ps1` to `run_phase4.ps1`).
 
 - **Where it runs.** A GitHub Actions workflow on a weekly cron schedule, authenticating to Google Cloud through Workload Identity Federation. That avoids stored service account keys. It commits the refreshed `docs/` folder, and GitHub Pages republishes.
+- **Chart rendering.** The charts are rendered to static SVG by kaleido, which drives a headless Chrome. The job's runner needs Chrome installed (GitHub's hosted Ubuntu runners include it), or kaleido can download its own copy as a setup step. Quarto must be installed on the runner too.
 - **Incremental work.** The `{python} K["window_weeks"]`-week window moves forward one week at a time. Wikidata answers are cached per title, so only new titles hit the API. At a larger scale, I would store pageviews in a date-partitioned BigQuery table and append only the new days, instead of reloading the full range.
 - **Quality gates.** The Phase 1 and Phase 2 check scripts exit with an error when a check fails: a wrong number of weeks, row counts that don't reconcile, or a correlation that doesn't match its independent recompute. A failed check stops the run before publishing, so the site keeps the last good version.
 - **Human review.** New titles that fail to match or get flagged as contested are written to a review list each week (for example, as a GitHub issue). Matching errors are the main risk to the numbers, and a person clears them in a few minutes.
@@ -371,7 +371,7 @@ Netflix publishes the Top 10 on Tuesdays. A scheduled job on Wednesday morning (
 
 ### G. References {#references .unnumbered}
 
-All sources and tools accessed 28 September 2026.
+Data sources accessed 28 September 2026. Tool list current as of 8 October 2026.
 
 **Data sources**
 
@@ -388,7 +388,8 @@ All sources and tools accessed 28 September 2026.
 - Python 3.13: <https://www.python.org/>
 - pandas: <https://pandas.pydata.org/>
 - requests: <https://requests.readthedocs.io/>
-- Plotly for Python: <https://plotly.com/python/>
+- Plotly for Python, used to build the charts: <https://plotly.com/python/>
+- Kaleido, which renders the Plotly charts to static SVG through a headless Google Chrome: <https://github.com/plotly/Kaleido>
 - truststore: <https://github.com/sethmlarson/truststore>
 - Quarto: <https://quarto.org/>
 

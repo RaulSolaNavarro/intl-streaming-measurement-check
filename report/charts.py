@@ -4,9 +4,12 @@ Data loading and chart builders for the Quarto report (report/index.qmd).
 Everything here reads the committed CSVs in data/, never BigQuery, so the
 report renders the same way after the BigQuery tables are gone.
 
-Charts are Plotly figures shown with staticPlot=True: no hover, zoom, or
-toolbar, matching the project rule that report charts are static. Each chart
-in the report is paired with a table view of the same numbers.
+Charts are built with Plotly and rendered once, at render time, to static
+SVG with kaleido (which drives the local Chrome). The SVG carries a viewBox,
+so it scales to whatever width the page or a printed PDF gives it, and the
+page needs no JavaScript to draw a chart. This matches the project rule that
+report charts are static. Each chart is paired with a table view of the same
+numbers.
 
 Every chart carries a title that states its finding. Titles and captions are
 built from the data by the *_title() and *_caption() functions, so a data
@@ -20,7 +23,9 @@ and surface colors come from the same palette.
 
 from __future__ import annotations
 
+import html
 import importlib.util
+import re
 import sys
 from pathlib import Path
 
@@ -28,7 +33,6 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 from IPython.display import HTML, display
-from plotly.offline import get_plotlyjs
 from plotly.subplots import make_subplots
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -96,7 +100,16 @@ def pipeline_constants() -> dict:
         "low_conf_n": analysis.LOW_CONFIDENCE_N,
     }
 
-STATIC = {"staticPlot": True, "responsive": True, "displayModeBar": False}
+# Charts are drawn at this width (px) and then scale with the page. It is
+# close to the text column width, so on screen they appear at about 1:1.
+DESIGN_WIDTH = 760
+
+# Title block geometry, used to size each chart's top margin from the number
+# of title lines so no line is ever clipped.
+TITLE_LINE_PX = 20    # 15 px bold title line
+NOTE_LINE_PX = 17     # 12 px note line under the title
+TITLE_GAP_PX = 10     # space between the title block and what sits under it
+TITLE_TOP_PX = 8      # space above the first title line
 
 # Forest plot: value labels closer than this to 0 are shifted sideways.
 ZERO_LABEL_GAP = 0.12
@@ -109,44 +122,75 @@ def fmt2(x) -> str:
     return "n/a" if pd.isna(x) else f"{x:.2f}"
 
 
-def plotly_library() -> None:
+def to_svg(fig: go.Figure) -> str:
     """
-    Emit the plotly.js library inline, once, from the report's setup cell.
+    Render a figure to an SVG string that scales with its container.
 
-    Keeping the library in the page means the report needs no CDN, so it
-    renders the same offline and on GitHub Pages. It is emitted on its own,
-    not with the first chart, because Quarto relocates the output that
-    carries this large script, and a chart attached to it would move too.
-
-    Quarto also adds require.js to Jupyter-rendered pages. With it present,
-    plotly.js registers as an AMD module instead of setting window.Plotly,
-    and the charts never draw, so `define` is hidden while the library loads
-    and restored afterwards.
+    kaleido writes fixed width/height attributes. Those are replaced with a
+    viewBox plus width 100%, so the browser (or the print engine) scales the
+    whole drawing, text included, instead of clipping it.
     """
-    display(HTML("<script>window.__define = window.define; window.define = undefined;</script>"
-                 f"<script>{get_plotlyjs()}</script>"
-                 "<script>window.define = window.__define;</script>"))
+    height = int(fig.layout.height)
+    svg = fig.to_image(format="svg", width=DESIGN_WIDTH, height=height).decode("utf-8")
+    head_end = svg.index(">")
+    head = svg[:head_end]
+    head = re.sub(r'\swidth="[^"]*"', "", head, count=1)
+    head = re.sub(r'\sheight="[^"]*"', "", head, count=1)
+    # kaleido already sets class="main-svg"; add ours to it (a second class
+    # attribute would be dropped by the HTML parser).
+    if 'class="' in head:
+        head = head.replace('class="', 'class="chart-svg ', 1)
+    else:
+        head += ' class="chart-svg"'
+    head += (f' viewBox="0 0 {DESIGN_WIDTH} {height}" width="100%" preserveAspectRatio="xMinYMin meet"'
+             ' role="img"')
+    return head + svg[head_end:]
 
 
 def show(fig: go.Figure, caption: str | None = None) -> None:
     """
-    Emit a figure as plain HTML (the library comes from plotly_library()),
-    followed by its caption. The caption is written here rather than with
-    Quarto's fig-cap option because fig-cap can't hold values computed in
-    Python, and captions quote numbers from the data.
+    Emit a figure as an inline, scalable SVG inside a <figure>, followed by
+    its caption. The caption is written here rather than with Quarto's
+    fig-cap option because fig-cap can't hold values computed in Python, and
+    captions quote numbers from the data.
     """
-    display(HTML(fig.to_html(full_html=False, include_plotlyjs=False, config=STATIC)))
-    if caption:
-        display(HTML(f'<p class="figure-caption" style="margin-top:0.25rem">{caption}</p>'))
+    # Text alternative: the chart title states the finding, so screen readers
+    # get it twice over, as aria-label on the <svg> and as its first <title>
+    # child (the SVG-native way, which some readers prefer).
+    title = re.sub(r"\s+", " ", (fig.layout.meta or {}).get("title", "")).strip()
+    safe = html.escape(title, quote=True)
+    svg = to_svg(fig).replace('role="img"', f'role="img" aria-label="{safe}"', 1)
+    head_end = svg.index(">") + 1
+    svg = svg[:head_end] + f"<title>{safe}</title>" + svg[head_end:]
+    cap = f'<figcaption class="figure-caption">{caption}</figcaption>' if caption else ""
+    display(HTML(f'<figure class="chart">{svg}{cap}</figure>'))
 
 
-def _title(fig: go.Figure, text: str, note: str | None = None) -> None:
-    """Chart title stating the finding, top left, with an optional smaller note line."""
+def _title(fig: go.Figure, text: str, note: str | None = None, extra_top: int = 0) -> None:
+    """
+    Chart title stating the finding, top left, with an optional smaller note
+    line, and a top margin sized to fit it.
+
+    The title is drawn as an annotation, not with Plotly's layout.title:
+    Plotly anchors a multi-line title by its first line, so later lines
+    spill down into the plot. An annotation is anchored by its whole text
+    box, so with yanchor="bottom" at the top of the plot area the block
+    grows upward into the margin. The top margin is computed from the number
+    of title lines (plus extra_top for anything between the title and the
+    plot, such as subplot labels), so no line is clipped at the top either.
+    The title aligns with the left edge of the plot area.
+    """
     full = f"<b>{text}</b>"
+    title_lines = text.count("<br>") + 1
+    block = title_lines * TITLE_LINE_PX
     if note:
         full += f"<br><span style='font-size:12px;color:{INK_2}'>{note}</span>"
-    fig.update_layout(title=dict(text=full, x=0, xanchor="left", y=0.98, yanchor="top",
-                                 font=dict(size=15, color=INK)))
+        block += NOTE_LINE_PX
+    fig.add_annotation(text=full, xref="paper", yref="paper", x=0, y=1,
+                       xanchor="left", yanchor="bottom", yshift=TITLE_GAP_PX + extra_top,
+                       align="left", showarrow=False, font=dict(size=15, color=INK))
+    fig.update_layout(margin=dict(t=TITLE_TOP_PX + block + TITLE_GAP_PX + extra_top),
+                      meta=dict(title=re.sub(r"<[^>]+>", " ", text)))  # plain text, for aria-label
 
 
 def _base_layout(fig: go.Figure, height: int, **kw) -> go.Figure:
@@ -284,9 +328,10 @@ def forest_plot(d: dict) -> go.Figure:
     fig.update_xaxes(title_text="Pooled Spearman ρ (bars: 95% CI)", row=2, col=1)
     fig.update_annotations(selector=dict(text="Films"), font=dict(color=COLOR["Films"], size=14), x=0, xanchor="left")
     fig.update_annotations(selector=dict(text="TV"), font=dict(color=COLOR["TV"], size=14), x=0, xanchor="left")
-    _title(fig, agreement_title(d), "Gray: interval includes zero. Hollow: low confidence.")
-    # Top margin holds the title, note, and the first row's value label.
-    _base_layout(fig, height=680, margin=dict(l=10, r=20, t=125, b=60))
+    _base_layout(fig, height=680, margin=dict(l=10, r=20, b=60))
+    # extra_top leaves room for the "Films" panel label and the first row's value label.
+    _title(fig, agreement_title(d), "Gray: interval includes zero. Hollow: low confidence.",
+           extra_top=34)
     return fig
 
 
@@ -356,10 +401,13 @@ def _grouped_bars(t: pd.DataFrame, value: str, label, axis_title: str, height=40
             x=[MARKET_NAME[m] for m in s["market"]], y=s[value], name=cat,
             marker=dict(color=COLOR[cat], cornerradius=4, line=dict(color=SURFACE, width=2)),
             text=[label(r) for r in s.itertuples()],
-            textposition="outside", textfont=dict(color=INK_2, size=12), cliponaxis=False))
-    fig.update_layout(barmode="group", bargap=0.35, bargroupgap=0.08)
+            textposition="outside", textfont=dict(color=INK_2, size=12), cliponaxis=False,
+            # Keep every bar label at the same size: by default Plotly shrinks
+            # text that is wider than its bar (it shrank "2nd lowest").
+            constraintext="none"))
+    fig.update_layout(barmode="group", bargap=0.25, bargroupgap=0.08)
     fig.update_yaxes(tickformat=".0%", rangemode="tozero", title_text=axis_title)
-    _base_layout(fig, height=height, margin=dict(l=10, r=10, t=95, b=40))
+    _base_layout(fig, height=height, margin=dict(l=10, r=10, b=40))
     return fig
 
 
@@ -389,8 +437,10 @@ def mapping_rate_chart(d: dict) -> go.Figure:
     # The two lowest bars get a word under their value, so they stand out
     # without a second color.
     ranked = t.sort_values("rate").reset_index(drop=True)
+    # "2nd lowest" is stacked on two lines so it fits the bar width; both
+    # callouts use the same font size as every other bar label.
     tag = {(ranked.loc[0, "market"], ranked.loc[0, "category"]): "lowest",
-           (ranked.loc[1, "market"], ranked.loc[1, "category"]): "2nd lowest"}
+           (ranked.loc[1, "market"], ranked.loc[1, "category"]): "2nd<br>lowest"}
 
     def label(r):
         word = tag.get((r.market, r.category))
@@ -404,8 +454,8 @@ def mapping_rate_chart(d: dict) -> go.Figure:
                        text=f"All pairs<br><b>{overall:.0%}</b>", align="left",
                        font=dict(size=12, color=INK_2))
     fig.update_yaxes(range=[0, 0.8])
+    fig.update_layout(margin=dict(r=70))   # room for the reference-line label
     _title(fig, coverage_title(d), LEGEND)
-    fig.update_layout(margin=dict(r=70))
     return fig
 
 
@@ -495,9 +545,11 @@ def timing_chart(d: dict) -> go.Figure:
                      title_text="Days from the Monday of the first chart week to the pageview peak")
     fig.update_annotations(selector=dict(text="Films"), font=dict(color=COLOR["Films"], size=14), x=0, xanchor="left")
     fig.update_annotations(selector=dict(text="TV"), font=dict(color=COLOR["TV"], size=14), x=0, xanchor="left")
+    _base_layout(fig, height=560, bargap=0.05, margin=dict(l=10, r=10, b=50))
+    # extra_top leaves room for the "Films" panel label.
     _title(fig, timing_title(d),
-           f"Colored bars are Sundays. Sundays hold {sunday_share(d):.0%} of all peaks.")
-    _base_layout(fig, height=560, bargap=0.05, margin=dict(l=10, r=10, t=110, b=50))
+           f"Colored bars are Sundays. Sundays hold {sunday_share(d):.0%} of all peaks.",
+           extra_top=24)
     return fig
 
 
