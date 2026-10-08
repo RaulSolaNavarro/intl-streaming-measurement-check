@@ -229,3 +229,6 @@ data/raw/netflix_all_weeks_countries*.tsv
 
 # Social media exports (images and the script that builds them), kept local.
 social/
+
+# Local Claude Code settings (for example the preview-server config).
+.claude/
