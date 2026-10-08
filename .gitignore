@@ -226,3 +226,6 @@ application_default_credentials.json
 # Full Netflix Top 10 download and its dated copies (32 MB, all countries).
 # Only the filtered six-market CSV in data/processed is committed.
 data/raw/netflix_all_weeks_countries*.tsv
+
+# Social media exports (images and the script that builds them), kept local.
+social/
